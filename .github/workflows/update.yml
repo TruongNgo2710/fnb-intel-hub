@@ -1,0 +1,22 @@
+name: Update FnB News
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-fnb-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser
+      - run: cd fnb-intel-hub && python fetch_news.py
+      - run: |
+          git config user.name "FnB Bot"
+          git config user.email "actions@github.com"
+          git add fnb-intel-hub/news.json
+          git diff --staged --quiet || (git commit -m "Update news" && git push)
