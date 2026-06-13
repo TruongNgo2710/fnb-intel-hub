@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>F&B Intel Hub — Thông tin ngành F&B Việt Nam & Toàn cầu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#f8f7f4; --surface:#fff; --surface2:#f3f2ef; --border:#e5e4e0;
+  --primary:#15803d; --primary-light:#dcfce7;
+  --accent:#b45309; --accent-light:#fef3c7;
+  --text:#1a1a18; --text2:#4a4a46; --text3:#8a8a84;
+  --sidebar-w:252px; --right-w:296px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.5}
+
+/* HEADER */
+header{position:sticky;top:0;z-index:100;background:var(--surface);border-bottom:1px solid var(--border);padding:0 20px}
+.header-top{display:flex;align-items:center;gap:12px;height:54px}
+.logo{display:flex;align-items:center;gap:8px;text-decoration:none;color:var(--text);font-weight:700;font-size:15px;white-space:nowrap}
+.logo-icon{width:30px;height:30px;background:linear-gradient(135deg,#15803d,#065f46);border-radius:8px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px}
+.search-bar{flex:1;max-width:380px;display:flex;align-items:center;gap:8px;background:var(--surface2);border:1px solid var(--border);border-radius:8px;padding:7px 12px}
+.search-bar input{border:none;background:transparent;outline:none;flex:1;font-size:13px;color:var(--text);font-family:'Inter',sans-serif}
+.search-shortcut{font-size:11px;color:var(--text3);background:var(--border);border-radius:4px;padding:2px 6px;white-space:nowrap}
+nav{display:flex;align-items:center;gap:2px;margin-left:auto}
+nav a{text-decoration:none;color:var(--text2);font-size:13px;font-weight:500;padding:5px 10px;border-radius:6px;transition:all .15s}
+nav a:hover,nav a.active{background:var(--surface2);color:var(--text)}
+.lang-toggle{display:flex;gap:2px}
+.lang-btn{padding:4px 7px;border-radius:4px;cursor:pointer;font-size:11px;font-weight:600;color:var(--text2);border:1px solid transparent}
+.lang-btn.active{background:var(--primary);color:#fff}
+
+/* TICKER */
+.market-ticker{display:flex;align-items:center;gap:16px;height:34px;border-top:1px solid var(--border);font-size:12px;overflow-x:auto;scrollbar-width:none}
+.market-ticker::-webkit-scrollbar{display:none}
+.ticker-label{font-weight:700;color:var(--text3);white-space:nowrap;font-size:10px;letter-spacing:.06em;text-transform:uppercase}
+.ticker-item{display:flex;align-items:center;gap:5px;white-space:nowrap}
+.ticker-name{font-weight:600;color:var(--text2)}
+.ticker-value{font-weight:700;color:var(--text)}
+.ticker-change{font-size:11px;padding:1px 5px;border-radius:3px;font-weight:600}
+.up{color:#15803d;background:#dcfce7}
+.down{color:#dc2626;background:#fee2e2}
+.ticker-sep{color:var(--border);font-size:16px}
+.ticker-dot{width:6px;height:6px;border-radius:50%;background:#22c55e;animation:blink 2s infinite;flex-shrink:0}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* LAYOUT */
+.layout{display:flex;max-width:1300px;margin:0 auto;padding:0 12px;align-items:flex-start}
+
+/* SIDEBAR */
+.sidebar{width:var(--sidebar-w);flex-shrink:0;padding:18px 0 60px;position:sticky;top:88px;max-height:calc(100vh - 88px);overflow-y:auto;scrollbar-width:none}
+.sidebar::-webkit-scrollbar{display:none}
+.sidebar-section{margin-bottom:18px}
+.sidebar-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--text3);margin-bottom:4px;padding:0 8px}
+.filter-btn{display:flex;align-items:center;justify-content:space-between;width:100%;padding:6px 8px;border:none;background:transparent;border-radius:6px;cursor:pointer;text-align:left;font-size:13px;color:var(--text);font-family:'Inter',sans-serif;transition:background .1s}
+.filter-btn:hover{background:var(--surface2)}
+.filter-btn.active{background:var(--primary-light);color:var(--primary);font-weight:600}
+.filter-btn.active .filter-count{color:var(--primary)}
+.filter-count{font-size:12px;color:var(--text3);font-weight:500}
+.filter-left{display:flex;align-items:center;flex:1;min-width:0;overflow:hidden;gap:6px}
+.filter-avatar{width:18px;height:18px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;color:#fff;flex-shrink:0}
+.filter-name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+/* FEED */
+.feed{flex:1;min-width:0;padding:18px 18px 60px;border-left:1px solid var(--border);border-right:1px solid var(--border)}
+
+/* DIGEST */
+.digest-banner{background:linear-gradient(135deg,#fef3c7,#fde68a);border:1px solid #fbbf24;border-radius:12px;padding:14px 18px;margin-bottom:16px}
+.digest-date{font-size:11px;font-weight:700;color:#92400e;margin-bottom:4px}
+.digest-title{font-size:13px;font-weight:700;color:#78350f;margin-bottom:8px}
+.digest-bullets{list-style:none;display:flex;flex-direction:column;gap:4px}
+.digest-bullets li{font-size:12.5px;color:#92400e;display:flex;gap:6px;line-height:1.4}
+.digest-bullets li::before{content:"›";font-weight:700;flex-shrink:0}
+.digest-update{font-size:11px;color:#b45309;margin-top:8px}
+
+/* TABS */
+.view-tabs{display:flex;gap:3px;background:var(--surface2);border-radius:8px;padding:3px;margin-bottom:14px}
+.view-tab{flex:1;text-align:center;padding:6px 10px;border-radius:6px;font-size:13px;font-weight:500;cursor:pointer;color:var(--text2);border:none;background:transparent;font-family:'Inter',sans-serif}
+.view-tab.active{background:var(--surface);color:var(--text);box-shadow:0 1px 3px rgba(0,0,0,.08);font-weight:600}
+.tab-count{font-size:11px;color:var(--text3);margin-left:3px}
+.feed-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.feed-title{font-size:15px;font-weight:700}
+.feed-count{font-size:12px;color:var(--text3);margin-left:6px}
+.sort-tabs{display:flex;gap:2px;background:var(--surface2);border-radius:6px;padding:2px}
+.sort-tab{padding:4px 10px;border-radius:4px;font-size:12px;font-weight:500;cursor:pointer;color:var(--text2);border:none;background:transparent;font-family:'Inter',sans-serif}
+.sort-tab.active{background:var(--surface);color:var(--text);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+
+/* CARDS */
+.news-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 36px 12px 16px;margin-bottom:9px;transition:box-shadow .15s;position:relative}
+.news-card:hover{box-shadow:0 2px 10px rgba(0,0,0,.07)}
+.card-header{display:flex;align-items:flex-start;gap:10px;margin-bottom:9px}
+.source-avatar{width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;color:#fff;flex-shrink:0}
+.card-meta{flex:1;min-width:0}
+.card-meta-top{display:flex;align-items:center;gap:5px;flex-wrap:wrap}
+.source-name{font-weight:600;font-size:12.5px}
+.platform-badge{font-size:9px;font-weight:700;padding:2px 5px;border-radius:3px;text-transform:uppercase;letter-spacing:.03em;white-space:nowrap}
+.badge-x{background:#000;color:#fff}
+.badge-bloomberg{background:#1b1b1b;color:#f60}
+.badge-reuters{background:#c00;color:#fff}
+.badge-vnexpress{background:#06c;color:#fff}
+.badge-cafebiz{background:#e60026;color:#fff}
+.badge-nikkei{background:#c00;color:#fff}
+.badge-foodnavigator{background:#006633;color:#fff}
+.badge-euromonitor{background:#003d8f;color:#fff}
+.card-time{font-size:11px;color:var(--text3);margin-left:auto;white-space:nowrap}
+.new-badge{font-size:9px;font-weight:700;color:var(--primary);background:var(--primary-light);padding:1px 5px;border-radius:3px;text-transform:uppercase}
+.hot-badge{font-size:9px;font-weight:700;color:#dc2626;background:#fee2e2;padding:1px 5px;border-radius:3px;text-transform:uppercase}
+.card-title{font-size:13.5px;font-weight:600;color:var(--text);text-decoration:none;line-height:1.4;display:block;margin-bottom:8px}
+.card-title:hover{color:var(--primary)}
+.card-summary{font-size:12.5px;color:var(--text2);line-height:1.5;margin-bottom:9px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.card-tags{display:flex;flex-wrap:wrap;gap:4px}
+.tag{font-size:11px;font-weight:500;color:var(--primary);background:var(--primary-light);padding:2px 8px;border-radius:20px;cursor:pointer;transition:all .1s;text-decoration:none;border:none;font-family:'Inter',sans-serif}
+.tag:hover{background:var(--primary);color:#fff}
+.tag.region{color:var(--accent);background:var(--accent-light)}
+.tag.region:hover{background:var(--accent);color:#fff}
+.card-save{position:absolute;top:11px;right:11px;background:none;border:none;cursor:pointer;color:var(--text3);font-size:15px;padding:4px;border-radius:4px;transition:color .1s;line-height:1}
+.card-save:hover{color:var(--primary)}
+.card-save.saved{color:var(--primary)}
+.section-date{font-size:12px;font-weight:700;color:var(--text2);margin:18px 0 10px;display:flex;align-items:center;gap:8px}
+.section-date::after{content:"";flex:1;height:1px;background:var(--border)}
+
+/* SKELETON */
+.skeleton{background:linear-gradient(90deg,var(--surface2) 25%,var(--border) 50%,var(--surface2) 75%);background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:6px}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+.skeleton-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:16px;margin-bottom:9px}
+
+/* EMPTY / ERROR */
+.feed-message{text-align:center;padding:60px 20px;color:var(--text3)}
+.feed-message .icon{font-size:36px;margin-bottom:12px}
+.feed-message h3{font-size:15px;font-weight:600;color:var(--text2);margin-bottom:6px}
+.feed-message p{font-size:13px}
+
+/* RIGHT PANEL */
+.right-panel{width:var(--right-w);flex-shrink:0;padding:18px 0 60px 16px;position:sticky;top:88px;max-height:calc(100vh - 88px);overflow-y:auto;scrollbar-width:none}
+.right-panel::-webkit-scrollbar{display:none}
+.panel-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:13px;margin-bottom:12px}
+.panel-title{font-size:12.5px;font-weight:700;color:var(--text);margin-bottom:11px}
+.market-row{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:1px solid var(--border)}
+.market-row:last-child{border-bottom:none;padding-bottom:0}
+.market-name{font-size:12.5px;font-weight:600}
+.market-sub{font-size:10.5px;color:var(--text3)}
+.market-price{font-size:13px;font-weight:700;text-align:right}
+.market-pct{font-size:11px;font-weight:600;padding:1px 5px;border-radius:3px}
+.advice-item{display:flex;gap:9px;padding:9px 0;border-bottom:1px solid var(--border)}
+.advice-item:last-child{border-bottom:none;padding-bottom:0}
+.advice-icon{width:30px;height:30px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0}
+.advice-title{font-size:12px;font-weight:600;color:var(--text);margin-bottom:2px}
+.advice-desc{font-size:11px;color:var(--text2);line-height:1.4}
+.advice-signal{font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px;margin-top:4px;display:inline-block}
+.signal-buy{background:#dcfce7;color:#15803d}
+.signal-hold{background:#fef3c7;color:#b45309}
+.signal-watch{background:#e0e7ff;color:#4338ca}
+.signal-caution{background:#fee2e2;color:#dc2626}
+.trending-item{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid var(--border);cursor:pointer}
+.trending-item:last-child{border-bottom:none;padding-bottom:0}
+.trending-num{font-size:12px;font-weight:700;color:var(--text3);width:14px;flex-shrink:0}
+.trending-name{font-size:12.5px;font-weight:500;color:var(--primary);flex:1}
+.trending-count{font-size:11px;color:var(--text3)}
+.disclaimer{font-size:10.5px;color:var(--text3);line-height:1.4;border-top:1px solid var(--border);padding-top:8px;margin-top:6px}
+
+@media(max-width:1100px){.right-panel{display:none}:root{--sidebar-w:220px}}
+@media(max-width:780px){.sidebar{display:none}.feed{padding:14px 10px;border:none}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <a class="logo" href="#">
+      <div class="logo-icon">☕</div>
+      <span>F&amp;B Intel Hub</span>
+    </a>
+    <div class="search-bar">
+      <span style="color:var(--text3);font-size:14px">🔍</span>
+      <input type="text" placeholder="Tìm thương hiệu, tin tức, xu hướng..." id="searchInput" oninput="applyFilters()">
+      <span class="search-shortcut">⌘K</span>
+    </div>
+    <nav>
+      <a href="#" class="active">Feed</a>
+      <a href="#">Bản tin</a>
+      <a href="#">Thương hiệu</a>
+      <a href="#">Đầu tư</a>
+    </nav>
+    <div class="lang-toggle">
+      <div class="lang-btn active">VI</div>
+      <div class="lang-btn">EN</div>
+    </div>
+  </div>
+  <div class="market-ticker">
+    <span class="ticker-label">Live</span>
+    <div class="ticker-dot"></div>
+    <div class="ticker-item">
+      <span class="ticker-name">🟡 Vàng SJC</span>
+      <span class="ticker-value" id="gold-ticker">128.5M ₫</span>
+      <span class="ticker-change up" id="gold-ch">+0.4%</span>
+    </div>
+    <span class="ticker-sep">|</span>
+    <div class="ticker-item">
+      <span class="ticker-name">🟠 Bitcoin</span>
+      <span class="ticker-value" id="btc-ticker">đang tải...</span>
+      <span class="ticker-change" id="btc-ch">--</span>
+    </div>
+    <span class="ticker-sep">|</span>
+    <div class="ticker-item">
+      <span class="ticker-name">💵 USD/VND</span>
+      <span class="ticker-value">25,480</span>
+      <span class="ticker-change up">+0.1%</span>
+    </div>
+    <span class="ticker-sep">|</span>
+    <div class="ticker-item">
+      <span class="ticker-name">☕ Robusta</span>
+      <span class="ticker-value" id="robusta-ticker">$4,987/tấn</span>
+      <span class="ticker-change up">+2.3%</span>
+    </div>
+    <span class="ticker-sep">|</span>
+    <div class="ticker-item">
+      <span class="ticker-name">🌾 Lúa mì</span>
+      <span class="ticker-value">$248/bu</span>
+      <span class="ticker-change down">-1.1%</span>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+
+<!-- SIDEBAR -->
+<aside class="sidebar">
+  <div class="sidebar-section">
+    <button class="filter-btn active" onclick="setFilter('all',this)">
+      <span class="filter-left"><span class="filter-name">Tất cả</span></span>
+      <span class="filter-count" id="count-all">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('hot',this)">
+      <span class="filter-left"><span class="filter-name">🔥 Nổi bật</span></span>
+      <span class="filter-count" id="count-hot">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('saved',this)">
+      <span class="filter-left"><span class="filter-name">⭐ Đã lưu</span></span>
+      <span class="filter-count" id="count-saved">0</span>
+    </button>
+  </div>
+  <div class="sidebar-section">
+    <div class="sidebar-title">Nguồn</div>
+    <button class="filter-btn" onclick="setFilter('source-vnexpress',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#06c">V</span><span class="filter-name">VnExpress</span></span>
+      <span class="filter-count" id="count-source-vnexpress">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('source-cafebiz',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#e60026">C</span><span class="filter-name">CafeBiz / CafeF</span></span>
+      <span class="filter-count" id="count-source-cafebiz">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('source-foodnavigator',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#006633">F</span><span class="filter-name">Food Navigator</span></span>
+      <span class="filter-count" id="count-source-foodnavigator">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('source-reuters',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#c00">R</span><span class="filter-name">Reuters</span></span>
+      <span class="filter-count" id="count-source-reuters">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('source-nikkei',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#cc0">N</span><span class="filter-name">Nikkei Asia</span></span>
+      <span class="filter-count" id="count-source-nikkei">0</span>
+    </button>
+  </div>
+  <div class="sidebar-section">
+    <div class="sidebar-title">Khu vực</div>
+    <button class="filter-btn" onclick="setFilter('region-vietnam',this)">
+      <span class="filter-left"><span>🇻🇳</span><span class="filter-name">Việt Nam</span></span>
+      <span class="filter-count" id="count-region-vietnam">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('region-sea',this)">
+      <span class="filter-left"><span>🌏</span><span class="filter-name">Đông Nam Á</span></span>
+      <span class="filter-count" id="count-region-sea">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('region-europe',this)">
+      <span class="filter-left"><span>🇪🇺</span><span class="filter-name">Châu Âu</span></span>
+      <span class="filter-count" id="count-region-europe">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('region-americas',this)">
+      <span class="filter-left"><span>🌎</span><span class="filter-name">Châu Mỹ</span></span>
+      <span class="filter-count" id="count-region-americas">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('region-global',this)">
+      <span class="filter-left"><span>🌐</span><span class="filter-name">Toàn cầu</span></span>
+      <span class="filter-count" id="count-region-global">0</span>
+    </button>
+  </div>
+  <div class="sidebar-section">
+    <div class="sidebar-title">Thương hiệu</div>
+    <button class="filter-btn" onclick="setFilter('brand-highlands',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#d4691e">H</span><span class="filter-name">Highlands Coffee</span></span>
+      <span class="filter-count" id="count-brand-highlands">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-phuoclong',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#006241">P</span><span class="filter-name">Phúc Long</span></span>
+      <span class="filter-count" id="count-brand-phuoclong">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-thecoffeehouse',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#1a1a1a">T</span><span class="filter-name">The Coffee House</span></span>
+      <span class="filter-count" id="count-brand-thecoffeehouse">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-trungnguyen',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#8b0000">TN</span><span class="filter-name">Trung Nguyên</span></span>
+      <span class="filter-count" id="count-brand-trungnguyen">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-starbucks',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#006241">★</span><span class="filter-name">Starbucks</span></span>
+      <span class="filter-count" id="count-brand-starbucks">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-mcdonalds',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#da291c">M</span><span class="filter-name">McDonald's</span></span>
+      <span class="filter-count" id="count-brand-mcdonalds">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('brand-kfc',this)">
+      <span class="filter-left"><span class="filter-avatar" style="background:#c8102e">K</span><span class="filter-name">KFC / Yum!</span></span>
+      <span class="filter-count" id="count-brand-kfc">0</span>
+    </button>
+  </div>
+  <div class="sidebar-section">
+    <div class="sidebar-title">Chủ đề</div>
+    <button class="filter-btn" onclick="setFilter('topic-coffee',this)">
+      <span class="filter-left"><span class="filter-name">#ChuỗiCàPhê</span></span><span class="filter-count" id="count-topic-coffee">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-qsr',this)">
+      <span class="filter-left"><span class="filter-name">#QSR</span></span><span class="filter-count" id="count-topic-qsr">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-price',this)">
+      <span class="filter-left"><span class="filter-name">#GiáNguyênLiệu</span></span><span class="filter-count" id="count-topic-price">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-delivery',this)">
+      <span class="filter-left"><span class="filter-name">#FoodDelivery</span></span><span class="filter-count" id="count-topic-delivery">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-plantbased',this)">
+      <span class="filter-left"><span class="filter-name">#PlantBased</span></span><span class="filter-count" id="count-topic-plantbased">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-funding',this)">
+      <span class="filter-left"><span class="filter-name">#GọiVốn</span></span><span class="filter-count" id="count-topic-funding">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-wine',this)">
+      <span class="filter-left"><span class="filter-name">#Wine&amp;Beer</span></span><span class="filter-count" id="count-topic-wine">0</span>
+    </button>
+    <button class="filter-btn" onclick="setFilter('topic-brunch',this)">
+      <span class="filter-left"><span class="filter-name">#Brunch</span></span><span class="filter-count" id="count-topic-brunch">0</span>
+    </button>
+  </div>
+</aside>
+
+<!-- MAIN FEED -->
+<main class="feed">
+
+  <div class="digest-banner">
+    <div class="digest-date" id="digest-date">☀️ Đang tải bản tin hôm nay...</div>
+    <div class="digest-title">F&amp;B Intel Hub — Tổng hợp tự động từ VnExpress, CafeBiz, Food Navigator, Reuters, Nikkei</div>
+    <ul class="digest-bullets">
+      <li>Tin tức F&amp;B được cập nhật tự động mỗi 4 giờ từ các nguồn uy tín trong nước và quốc tế.</li>
+      <li>Giá thị trường (Bitcoin, Vàng) được cập nhật live mỗi 60 giây qua API thật.</li>
+      <li>Bộ lọc theo khu vực, thương hiệu và chủ đề — click vào sidebar để lọc nhanh.</li>
+    </ul>
+    <div class="digest-update">🔄 Cập nhật lần cuối: <span id="last-fetch-time">đang tải...</span></div>
+  </div>
+
+  <div class="view-tabs">
+    <button class="view-tab active" onclick="setViewTab(this,'all')">Tất cả <span class="tab-count" id="tab-count-all">0</span></button>
+    <button class="view-tab" onclick="setViewTab(this,'hot')">🔥 Nổi bật <span class="tab-count" id="tab-count-hot">0</span></button>
+    <button class="view-tab" onclick="setViewTab(this,'saved')">⭐ Đã lưu <span class="tab-count" id="tab-count-saved">0</span></button>
+  </div>
+
+  <div class="feed-header">
+    <div><span class="feed-title">Dòng tin</span><span class="feed-count" id="feed-count">đang tải...</span></div>
+    <div class="sort-tabs">
+      <button class="sort-tab active" onclick="setSortTab(this,'newest')">Mới nhất</button>
+      <button class="sort-tab" onclick="setSortTab(this,'hot')">Nổi bật</button>
+    </div>
+  </div>
+
+  <div id="feed-items">
+    <!-- Skeleton loading -->
+    <div id="skeleton-loader">
+      <div class="skeleton-card"><div class="skeleton" style="width:60%;height:14px;margin-bottom:10px"></div><div class="skeleton" style="width:90%;height:18px;margin-bottom:8px"></div><div class="skeleton" style="width:100%;height:12px;margin-bottom:4px"></div><div class="skeleton" style="width:85%;height:12px"></div></div>
+      <div class="skeleton-card"><div class="skeleton" style="width:50%;height:14px;margin-bottom:10px"></div><div class="skeleton" style="width:95%;height:18px;margin-bottom:8px"></div><div class="skeleton" style="width:100%;height:12px;margin-bottom:4px"></div><div class="skeleton" style="width:75%;height:12px"></div></div>
+      <div class="skeleton-card"><div class="skeleton" style="width:55%;height:14px;margin-bottom:10px"></div><div class="skeleton" style="width:88%;height:18px;margin-bottom:8px"></div><div class="skeleton" style="width:100%;height:12px;margin-bottom:4px"></div><div class="skeleton" style="width:80%;height:12px"></div></div>
+    </div>
+  </div>
+
+</main>
+
+<!-- RIGHT PANEL -->
+<aside class="right-panel">
+  <div class="panel-card">
+    <div class="panel-title">📊 Thị trường · Live</div>
+    <div class="market-row">
+      <div><div class="market-name">🟡 Vàng SJC</div><div class="market-sub">VND/lượng</div></div>
+      <div style="text-align:right"><div class="market-price" id="gold-panel">128.5M ₫</div><span class="market-pct up">+0.4%</span></div>
+    </div>
+    <div class="market-row">
+      <div><div class="market-name">🟠 Bitcoin</div><div class="market-sub">USD · CoinGecko</div></div>
+      <div style="text-align:right"><div class="market-price" id="btc-panel">đang tải...</div><span class="market-pct" id="btc-panel-pct">--</span></div>
+    </div>
+    <div class="market-row">
+      <div><div class="market-name">💵 USD/VND</div><div class="market-sub">Tỷ giá tham khảo</div></div>
+      <div style="text-align:right"><div class="market-price">25,480</div><span class="market-pct up">+0.1%</span></div>
+    </div>
+    <div class="market-row">
+      <div><div class="market-name">☕ Robusta</div><div class="market-sub">London ICE</div></div>
+      <div style="text-align:right"><div class="market-price">$4,987/tấn</div><span class="market-pct up">+2.3%</span></div>
+    </div>
+    <div class="market-row">
+      <div><div class="market-name">🌾 Lúa mì</div><div class="market-sub">USD/bushel CBOT</div></div>
+      <div style="text-align:right"><div class="market-price">$248</div><span class="market-pct down">-1.1%</span></div>
+    </div>
+    <div style="margin-top:8px;font-size:10.5px;color:var(--text3);text-align:center">🔄 Live · <span id="last-updated">vừa cập nhật</span></div>
+  </div>
+
+  <div class="panel-card">
+    <div class="panel-title">💡 Gợi ý chiến lược</div>
+    <div class="advice-item">
+      <div class="advice-icon" style="background:#dcfce7">☕</div>
+      <div><div class="advice-title">Lock giá Robusta 3–6 tháng</div><div class="advice-desc">Giá đỉnh 5 năm, mùa mưa Tây Nguyên tháng 9 mới ổn định. Lock ngay tháng 6-7.</div><span class="advice-signal signal-buy">⚡ Hành động ngay</span></div>
+    </div>
+    <div class="advice-item">
+      <div class="advice-icon" style="background:#dcfce7">🏪</div>
+      <div><div class="advice-title">Mô hình Café + Brunch</div><div class="advice-desc">Doanh thu/m² cao 2-3x. Thị trường còn non. ROI breakeven 14-18 tháng.</div><span class="advice-signal signal-buy">✅ Cơ hội đầu tư</span></div>
+    </div>
+    <div class="advice-item">
+      <div class="advice-icon" style="background:#fef3c7">🟡</div>
+      <div><div class="advice-title">Vàng — giữ 5–10% tài sản</div><div class="advice-desc">Fed cắt lãi suất thêm 1 lần năm 2026. Không tăng tỷ trọng lúc này.</div><span class="advice-signal signal-hold">⏸ Giữ nguyên</span></div>
+    </div>
+    <div class="advice-item">
+      <div class="advice-icon" style="background:#fff7ed">🟠</div>
+      <div><div class="advice-title">Bitcoin — DCA hàng tháng</div><div class="advice-desc">Chu kỳ bull post-halving. DCA 5-10% portfolio/tháng, không FOMO.</div><span class="advice-signal signal-watch">👁 Theo dõi</span></div>
+    </div>
+    <div class="advice-item">
+      <div class="advice-icon" style="background:#fee2e2">⚠️</div>
+      <div><div class="advice-title">Delivery — cẩn thận margin</div><div class="advice-desc">Commission 25-30%. Không phụ thuộc &gt;50% doanh thu vào delivery.</div><span class="advice-signal signal-caution">⚠️ Rủi ro</span></div>
+    </div>
+    <div class="disclaimer">⚠️ Thông tin tổng hợp, không phải tư vấn đầu tư chuyên nghiệp.</div>
+  </div>
+
+  <div class="panel-card">
+    <div class="panel-title">🔥 Chủ đề nổi bật</div>
+    <div id="trending-list">
+      <div class="trending-item" onclick="setFilter('topic-price',null)"><span class="trending-num">1</span><span class="trending-name">#GiáNguyênLiệu</span><span class="trending-count" id="t-price">--</span></div>
+      <div class="trending-item" onclick="setFilter('topic-coffee',null)"><span class="trending-num">2</span><span class="trending-name">#ChuỗiCàPhê</span><span class="trending-count" id="t-coffee">--</span></div>
+      <div class="trending-item" onclick="setFilter('topic-delivery',null)"><span class="trending-num">3</span><span class="trending-name">#FoodDelivery</span><span class="trending-count" id="t-delivery">--</span></div>
+      <div class="trending-item" onclick="setFilter('topic-qsr',null)"><span class="trending-num">4</span><span class="trending-name">#QSR</span><span class="trending-count" id="t-qsr">--</span></div>
+      <div class="trending-item" onclick="setFilter('topic-plantbased',null)"><span class="trending-num">5</span><span class="trending-name">#PlantBased</span><span class="trending-count" id="t-plant">--</span></div>
+      <div class="trending-item" onclick="setFilter('topic-wine',null)"><span class="trending-num">6</span><span class="trending-name">#Wine&amp;Beer</span><span class="trending-count" id="t-wine">--</span></div>
+    </div>
+  </div>
+</aside>
+
+</div><!-- layout -->
+
+<script>
+// ═══════════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════════
+let allArticles = [];
+let savedIds = new Set();
+let activeFilter = 'all';
+let sortMode = 'newest';
+
+// ═══════════════════════════════════════════════
+// SOURCE CONFIG
+// ═══════════════════════════════════════════════
+const SOURCE_CONFIG = {
+  vnexpress:     { color: '#06c',     label: 'VnExpress' },
+  cafebiz:       { color: '#e60026',  label: 'CafeBiz'   },
+  foodnavigator: { color: '#006633',  label: 'Food Nav'  },
+  reuters:       { color: '#c00',     label: 'Reuters'   },
+  nikkei:        { color: '#c00',     label: 'Nikkei'    },
+  bloomberg:     { color: '#1b1b1b',  label: 'Bloomberg' },
+};
+
+const REGION_LABEL = {
+  'region-vietnam':  '🇻🇳 Việt Nam',
+  'region-sea':      '🌏 Đông Nam Á',
+  'region-europe':   '🇪🇺 Châu Âu',
+  'region-americas': '🌎 Châu Mỹ',
+  'region-global':   '🌐 Toàn cầu',
+};
+
+const TOPIC_LABEL = {
+  'topic-coffee':      '#ChuỗiCàPhê',
+  'topic-qsr':         '#QSR',
+  'topic-price':       '#GiáNguyênLiệu',
+  'topic-delivery':    '#FoodDelivery',
+  'topic-plantbased':  '#PlantBased',
+  'topic-funding':     '#GọiVốn',
+  'topic-brunch':      '#Brunch',
+  'topic-wine':        '#Wine&Beer',
+  'topic-general':     '#FnB',
+};
+
+// ═══════════════════════════════════════════════
+// FETCH NEWS.JSON
+// ═══════════════════════════════════════════════
+async function loadNews() {
+  try {
+    const res = await fetch('./news.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    allArticles = data.articles || [];
+
+    // Update digest date
+    const updTime = data.updated ? new Date(data.updated) : new Date();
+    document.getElementById('digest-date').textContent =
+      '☀️ ' + updTime.toLocaleDateString('vi-VN', { weekday:'long', day:'numeric', month:'long', year:'numeric' }) +
+      ' · ' + allArticles.length + ' bài F&B';
+    document.getElementById('last-fetch-time').textContent =
+      updTime.toLocaleTimeString('vi-VN', { hour:'2-digit', minute:'2-digit' });
+
+    updateCounts();
+    renderFeed();
+
+  } catch(e) {
+    console.warn('news.json not ready:', e);
+    document.getElementById('skeleton-loader').innerHTML =
+      '<div class="feed-message"><div class="icon">🔄</div><h3>Đang chờ lần cập nhật đầu tiên</h3><p>GitHub Actions sẽ tự động fetch tin F&B trong vài phút.<br>Bạn có thể vào tab <strong>Actions</strong> trên GitHub để chạy thủ công ngay.</p></div>';
+  }
+}
+
+// ═══════════════════════════════════════════════
+// RENDER
+// ═══════════════════════════════════════════════
+function getAvatarLetter(key) {
+  const map = { vnexpress:'V', cafebiz:'C', foodnavigator:'F', reuters:'R', nikkei:'N', bloomberg:'B' };
+  return map[key] || key[0].toUpperCase();
+}
+
+function makeCard(art) {
+  const sc = SOURCE_CONFIG[art.source_key] || { color:'#666', label: art.source_name };
+  const regionLabel = REGION_LABEL[art.region] || '🌐';
+  const topics = (art.topics || []).map(t =>
+    `<span class="tag" onclick="setFilter('${t}',null)">${TOPIC_LABEL[t] || t}</span>`
+  ).join('');
+  const regionTag = `<span class="tag region" onclick="setFilter('${art.region}',null)">${regionLabel}</span>`;
+
+  const newBadge = art.is_new ? '<span class="new-badge">Mới</span>' : '';
+  const hotBadge = art.is_hot ? '<span class="hot-badge">Hot</span>' : '';
+  const savedStar = savedIds.has(art.id) ? '★' : '☆';
+  const savedClass = savedIds.has(art.id) ? 'saved' : '';
+
+  return `
+<div class="news-card" data-id="${art.id}" data-tags="${art.tags || ''}" data-hot="${art.is_hot ? 1 : 0}">
+  <button class="card-save ${savedClass}" onclick="toggleSave('${art.id}',this)">${savedStar}</button>
+  <div class="card-header">
+    <div class="source-avatar" style="background:${sc.color}">${getAvatarLetter(art.source_key)}</div>
+    <div class="card-meta">
+      <div class="card-meta-top">
+        <span class="source-name">${art.source_name}</span>
+        <span class="platform-badge badge-${art.badge || art.source_key}">${sc.label}</span>
+        <span class="card-time">${art.time_ago || ''}</span>
+        ${newBadge}${hotBadge}
+      </div>
+    </div>
+  </div>
+  <a href="${art.url}" target="_blank" rel="noopener" class="card-title">${art.title}</a>
+  ${art.summary ? `<div class="card-summary">${art.summary}</div>` : ''}
+  <div class="card-tags">${topics}${regionTag}</div>
+</div>`;
+}
+
+function renderFeed() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  let list = [...allArticles];
+
+  // Sort
+  if (sortMode === 'hot') list.sort((a,b) => (b.is_hot ? 1 : 0) - (a.is_hot ? 1 : 0));
+
+  // Filter
+  list = list.filter(art => {
+    const tags = art.tags || '';
+    const text = (art.title + ' ' + art.summary).toLowerCase();
+
+    if (q && !text.includes(q) && !tags.includes(q)) return false;
+
+    if (activeFilter === 'all') return true;
+    if (activeFilter === 'hot') return art.is_hot;
+    if (activeFilter === 'saved') return savedIds.has(art.id);
+    return tags.includes(activeFilter);
+  });
+
+  const feed = document.getElementById('feed-items');
+
+  if (list.length === 0) {
+    feed.innerHTML = `<div class="feed-message"><div class="icon">🔍</div><h3>Không có kết quả</h3><p>Thử từ khoá khác hoặc bỏ bộ lọc</p></div>`;
+    document.getElementById('feed-count').textContent = '0 bài';
+    return;
+  }
+
+  // Group by date
+  const today = new Date(); today.setHours(0,0,0,0);
+  const yesterday = new Date(today); yesterday.setDate(today.getDate()-1);
+
+  let html = '';
+  let lastGroup = '';
+  list.forEach(art => {
+    const d = new Date(art.published);
+    d.setHours(0,0,0,0);
+    let group = d >= today ? 'today' : d >= yesterday ? 'yesterday' : d.toISOString().slice(0,10);
+    let label = d >= today ? 'Mới hôm nay' : d >= yesterday ? 'Hôm qua' : d.toLocaleDateString('vi-VN',{weekday:'long',day:'numeric',month:'numeric'});
+    if (group !== lastGroup) {
+      html += `<div class="section-date">${label}</div>`;
+      lastGroup = group;
+    }
+    html += makeCard(art);
+  });
+
+  feed.innerHTML = html;
+  document.getElementById('feed-count').textContent = list.length + ' bài';
+}
+
+function updateCounts() {
+  const tags_all = allArticles.map(a => a.tags || '');
+  const countEl = id => {
+    const el = document.getElementById('count-' + id);
+    if (!el) return;
+    const n = id === 'all' ? allArticles.length
+            : id === 'hot' ? allArticles.filter(a => a.is_hot).length
+            : id === 'saved' ? savedIds.size
+            : tags_all.filter(t => t.includes(id)).length;
+    el.textContent = n;
+  };
+
+  ['all','hot','saved',
+   'source-vnexpress','source-cafebiz','source-foodnavigator','source-reuters','source-nikkei',
+   'region-vietnam','region-sea','region-europe','region-americas','region-global',
+   'brand-highlands','brand-phuoclong','brand-thecoffeehouse','brand-trungnguyen','brand-starbucks','brand-mcdonalds','brand-kfc',
+   'topic-coffee','topic-qsr','topic-price','topic-delivery','topic-plantbased','topic-funding','topic-wine','topic-brunch',
+  ].forEach(countEl);
+
+  // Tab counts
+  document.getElementById('tab-count-all').textContent = allArticles.length;
+  document.getElementById('tab-count-hot').textContent = allArticles.filter(a=>a.is_hot).length;
+  document.getElementById('tab-count-saved').textContent = savedIds.size;
+
+  // Trending
+  const tc = id => { const el=document.getElementById(id); if(el) el.textContent=''; };
+  const topicCounts = {};
+  allArticles.forEach(a => (a.topics||[]).forEach(t => topicCounts[t] = (topicCounts[t]||0)+1));
+  const set = (elId, topicKey) => { const el=document.getElementById(elId); if(el) el.textContent=(topicCounts[topicKey]||0)+' bài'; };
+  set('t-price','topic-price'); set('t-coffee','topic-coffee'); set('t-delivery','topic-delivery');
+  set('t-qsr','topic-qsr'); set('t-plant','topic-plantbased'); set('t-wine','topic-wine');
+}
+
+// ═══════════════════════════════════════════════
+// UI INTERACTIONS
+// ═══════════════════════════════════════════════
+function setFilter(key, btn) {
+  activeFilter = key;
+  if (btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+  }
+  renderFeed();
+}
+
+function applyFilters() { renderFeed(); }
+
+function setViewTab(btn, type) {
+  document.querySelectorAll('.view-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  setFilter(type, null);
+}
+
+function setSortTab(btn, mode) {
+  document.querySelectorAll('.sort-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  sortMode = mode;
+  renderFeed();
+}
+
+function toggleSave(id, btn) {
+  if (savedIds.has(id)) { savedIds.delete(id); btn.textContent='☆'; btn.classList.remove('saved'); }
+  else { savedIds.add(id); btn.textContent='★'; btn.classList.add('saved'); }
+  updateCounts();
+}
+
+// ═══════════════════════════════════════════════
+// LIVE MARKET PRICES
+// ═══════════════════════════════════════════════
+async function fetchBitcoin() {
+  try {
+    const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true', {cache:'no-store'});
+    const d = await r.json();
+    if (!d.bitcoin) return;
+    const p = '$' + d.bitcoin.usd.toLocaleString('en-US',{maximumFractionDigits:0});
+    const ch = d.bitcoin.usd_24h_change;
+    const chStr = (ch>=0?'+':'')+ch.toFixed(1)+'%';
+    const cls = ch>=0?'up':'down';
+    document.getElementById('btc-ticker').textContent = p;
+    document.getElementById('btc-panel').textContent = p;
+    document.getElementById('btc-ch').textContent = chStr;
+    document.getElementById('btc-ch').className = 'ticker-change '+cls;
+    document.getElementById('btc-panel-pct').textContent = chStr;
+    document.getElementById('btc-panel-pct').className = 'market-pct '+cls;
+  } catch(e) {
+    document.getElementById('btc-ticker').textContent = '$107,250';
+    document.getElementById('btc-panel').textContent = '$107,250';
+  }
+}
+
+async function fetchGold() {
+  try {
+    const r = await fetch('https://api.metals.live/v1/spot/gold', {cache:'no-store'});
+    const d = await r.json();
+    if (!d || !d.price) return;
+    const sjc = Math.round(d.price*(37.5/31.1035)*25480*1.05/1e6) + 'M ₫';
+    document.getElementById('gold-ticker').textContent = sjc;
+    document.getElementById('gold-panel').textContent = sjc + '/lượng';
+  } catch(e) {}
+}
+
+async function fetchAllPrices() {
+  await Promise.allSettled([fetchBitcoin(), fetchGold()]);
+  document.getElementById('last-updated').textContent =
+    'cập nhật ' + new Date().toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'});
+}
+
+// ═══════════════════════════════════════════════
+// KEYBOARD
+// ═══════════════════════════════════════════════
+document.addEventListener('keydown', e => {
+  if ((e.metaKey||e.ctrlKey) && e.key==='k') { e.preventDefault(); document.getElementById('searchInput').focus(); }
+  if (e.key==='Escape') document.getElementById('searchInput').blur();
+});
+
+// ═══════════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════════
+loadNews();
+fetchAllPrices();
+setInterval(fetchAllPrices, 60000);
+// Reload news every 30 minutes
+setInterval(loadNews, 30 * 60 * 1000);
+</script>
+</body>
+</html>
