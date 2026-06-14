@@ -22,15 +22,18 @@ SOURCES = [
     {"url":"https://vnexpress.net/rss/thi-truong.rss","name":"VnExpress Thị trường","key":"vnexpress","badge":"vnexpress","region":"vietnam","lang":"vi","category":"fnb"},
     {"url":"https://cafef.vn/hang-hoa-nguyen-lieu.rss","name":"CafeF Hàng hoá","key":"cafebiz","badge":"cafebiz","region":"vietnam","lang":"vi","category":"commodity"},
     {"url":"https://cafebiz.vn/rss/thi-truong.rss","name":"CafeBiz Thị trường","key":"cafebiz","badge":"cafebiz","region":"vietnam","lang":"vi","category":"fnb"},
+    {"url":"https://cafebiz.vn/rss/startup.rss","name":"CafeBiz Startup","key":"cafebiz","badge":"cafebiz","region":"vietnam","lang":"vi","category":"fnb"},
     # ── F&B QUỐC TẾ ──
     {"url":"https://www.foodnavigator-asia.com/Info/RSS-Feed","name":"Food Navigator Asia","key":"foodnavigator","badge":"foodnavigator","region":"sea","lang":"en","category":"fnb"},
     {"url":"https://www.foodnavigator.com/Info/RSS-Feed","name":"Food Navigator Europe","key":"foodnavigator","badge":"foodnavigator","region":"europe","lang":"en","category":"fnb"},
     {"url":"https://www.foodbusinessnews.net/rss/news","name":"Food Business News","key":"foodbusiness","badge":"foodnavigator","region":"americas","lang":"en","category":"fnb"},
     {"url":"https://nrn.com/rss.xml","name":"Nation's Restaurant News","key":"nrn","badge":"foodnavigator","region":"americas","lang":"en","category":"fnb"},
     # ── CÀ PHÊ CHUYÊN SÂU ──
-    {"url":"https://perfectdailygrind.com/feed/","name":"Perfect Daily Grind","key":"pdg","badge":"foodnavigator","region":"global","lang":"en","category":"coffee"},
-    {"url":"https://dailycoffeenews.com/feed/","name":"Daily Coffee News","key":"dcn","badge":"foodnavigator","region":"global","lang":"en","category":"coffee"},
-    {"url":"https://www.scaa.org/feed/","name":"SCA Coffee","key":"sca","badge":"foodnavigator","region":"global","lang":"en","category":"coffee"},
+    {"url":"https://perfectdailygrind.com/feed/","name":"Perfect Daily Grind","key":"pdg","badge":"pdg","region":"global","lang":"en","category":"coffee"},
+    {"url":"https://dailycoffeenews.com/feed/","name":"Daily Coffee News","key":"dcn","badge":"pdg","region":"global","lang":"en","category":"coffee"},
+    {"url":"https://sprudge.com/feed","name":"Sprudge Coffee","key":"sprudge","badge":"pdg","region":"global","lang":"en","category":"coffee"},
+    {"url":"https://www.baristamagazine.com/feed/","name":"Barista Magazine","key":"barista","badge":"pdg","region":"global","lang":"en","category":"coffee"},
+    {"url":"https://www.ico.org/rss/nf_e.xml","name":"ICO Coffee Report","key":"ico","badge":"pdg","region":"global","lang":"en","category":"coffee"},
     # ── AI & CLAUDE ──
     {"url":"https://www.anthropic.com/rss.xml","name":"Anthropic Blog","key":"anthropic","badge":"bloomberg","region":"global","lang":"en","category":"ai"},
     {"url":"https://techcrunch.com/category/artificial-intelligence/feed/","name":"TechCrunch AI","key":"techcrunch","badge":"bloomberg","region":"global","lang":"en","category":"ai"},
@@ -45,17 +48,38 @@ SOURCES = [
 # TỪ KHOÁ LỌC F&B
 # ═══════════════════════════════════════════════
 FNB_KEYWORDS = [
-    "cà phê","cafe","nhà hàng","quán ăn","thực phẩm","đồ uống","ẩm thực","f&b",
-    "highlands","phúc long","trung nguyên","the coffee house","nguyên liệu","chuỗi",
-    "giá gạo","giá đường","giá dầu ăn","giá sữa","bột mì","robusta","arabica",
-    "trà","bia","rượu","wine","brunch","thức uống","đồ ăn",
+    # ── Cà phê VN ──
+    "cà phê","cafe","robusta","arabica","barista","espresso","latte","cappuccino",
+    "cold brew","specialty coffee","third wave","pour over","filter coffee","drip coffee",
+    "trà sữa","bubble tea","milk tea","matcha","trà","thức uống",
+    # ── Brand VN nổi bật ──
+    "highlands","phúc long","trung nguyên","the coffee house","everyhaft","katinat",
+    "phê la","cộng cà phê","ông bầu","mê trang","là việt","phindeli","milan coffee",
+    "wego","wego coffee","urban station","cà phê bệt","gemini coffee","king coffee",
+    "passio","cà phê ông bầu","nest by AIA","the workshop","la viet",
+    # ── Brand quốc tế premium ──
+    "% arabica","percent arabica","blue bottle","stumptown","intelligentsia",
+    "tim wendelboe","fuglen","onibus","bear pond","verve coffee","ritual coffee",
+    "counter culture","heart coffee","four barrel","sightglass","go get em tiger",
+    "starbucks reserve","nespresso","lavazza","illy","segafredo","ucc","jde",
+    # ── B2B coffee ──
+    "ucc ueshima","ucc coffee","jde coffee","jacobs douwe","douwe egberts",
+    "nespresso professional","lavazza espresso","illy coffee","segafredo zanetti",
+    # ── F&B tổng quát ──
+    "nhà hàng","quán ăn","thực phẩm","đồ uống","ẩm thực","f&b","chuỗi",
+    "nguyên liệu","giá gạo","giá đường","giá dầu ăn","giá sữa","bột mì",
+    "bia","rượu","wine","brunch","đồ ăn","mở chi nhánh","khai trương",
     "coffee","restaurant","food","beverage","chain","food delivery","qsr","fast food",
     "dining","culinary","brewery","hospitality","grocery","starbucks","mcdonald","kfc",
     "chipotle","pizza","domino","commodity","ingredient","supply chain","oat milk",
     "plant-based","vegan","dairy","wheat","sugar","food tech","dark kitchen",
-    "ghost kitchen","grabfood","shopeefood","food inflation","menu","barista",
-    "espresso","latte","cappuccino","cold brew","specialty coffee","third wave",
-    "cafe chain","coffee shop","bubble tea","milk tea","trà sữa",
+    "ghost kitchen","grabfood","shopeefood","food inflation","menu",
+    # ── Mở rộng / đầu tư / marketing ──
+    "mở rộng","expansion","new store","new branch","chi nhánh mới","khai trương",
+    "gọi vốn","funding","series a","series b","investment","đầu tư","ipo","venture",
+    "menu mới","new menu","sản phẩm mới","ra mắt","launch","limited edition",
+    "marketing","campaign","chiến dịch","social media","influencer","collab",
+    "franchise","nhượng quyền","food court","kiosk","pop-up",
 ]
 
 AI_KEYWORDS = [
@@ -66,32 +90,65 @@ AI_KEYWORDS = [
 ]
 
 BRAND_MAP = {
-    "brand-highlands": ["highlands coffee","highlands"],
-    "brand-phuoclong": ["phúc long","phuc long"],
+    # ── Chuỗi cà phê VN đang nổi ──
+    "brand-highlands":      ["highlands coffee","highlands"],
+    "brand-phuoclong":      ["phúc long","phuc long"],
     "brand-thecoffeehouse": ["the coffee house","coffee house"],
-    "brand-trungnguyen": ["trung nguyên","trung nguyen","g7 coffee"],
-    "brand-starbucks": ["starbucks"],
-    "brand-mcdonalds": ["mcdonald"],
-    "brand-kfc": ["kfc","yum! brands","yum brands"],
-    "brand-grab": ["grabfood","grab food"],
-    "brand-phuclong": ["phúc long","phuc long"],
-    "brand-claude": ["claude","anthropic"],
-    "brand-openai": ["chatgpt","openai","gpt-4","gpt-5"],
+    "brand-trungnguyen":    ["trung nguyên","trung nguyen","g7 coffee","trung nguyen legend"],
+    "brand-everyhaft":      ["everyhaft","every haft"],
+    "brand-katinat":        ["katinat","kati nat"],
+    "brand-phela":          ["phê la","phe la"],
+    "brand-congcaphe":      ["cộng cà phê","cong ca phe","cong caphe"],
+    "brand-ongbau":         ["ông bầu","ong bau"],
+    "brand-metrang":        ["mê trang","me trang"],
+    "brand-laviet":         ["là việt","la viet","laviet coffee"],
+    "brand-phindeli":       ["phindeli"],
+    "brand-urbanstation":   ["urban station"],
+    "brand-passio":         ["passio coffee","passio"],
+    "brand-kingcoffee":     ["king coffee","king of coffee"],
+    # ── Chuỗi quốc tế tại VN ──
+    "brand-starbucks":      ["starbucks"],
+    "brand-mcdonalds":      ["mcdonald","mcdonalds"],
+    "brand-kfc":            ["kfc","yum! brands","yum brands"],
+    # ── Premium / Specialty quốc tế ──
+    "brand-arabica":        ["% arabica","percent arabica","arabica coffee"],
+    "brand-bluebottle":     ["blue bottle","blue bottle coffee"],
+    "brand-stumptown":      ["stumptown"],
+    "brand-intelligentsia": ["intelligentsia"],
+    "brand-fuglen":         ["fuglen"],
+    "brand-vervecoffee":    ["verve coffee","verve"],
+    # ── B2B / Wholesale ──
+    "brand-ucc":            ["ucc coffee","ucc ueshima","ucc"],
+    "brand-lavazza":        ["lavazza"],
+    "brand-illy":           ["illy coffee","illycaffe","illy"],
+    "brand-nespresso":      ["nespresso professional","nespresso"],
+    "brand-jde":            ["jde coffee","jacobs douwe","douwe egberts","jde"],
+    "brand-segafredo":      ["segafredo"],
+    # ── Delivery / Tech ──
+    "brand-grab":           ["grabfood","grab food"],
+    "brand-shopee":         ["shopeefood","shopee food"],
+    # ── AI ──
+    "brand-claude":         ["claude","anthropic"],
+    "brand-openai":         ["chatgpt","openai","gpt-4","gpt-5"],
 }
 
 TOPIC_MAP = {
-    "topic-coffee": ["cà phê","coffee","café","robusta","arabica","highlands","phúc long","trung nguyên","barista","espresso","cold brew","specialty coffee","third wave","brew"],
-    "topic-qsr": ["kfc","mcdonald","fast food","qsr","quick service","chipotle","pizza","burger","fast-food","domino"],
-    "topic-price": ["giá","price","commodity","nguyên liệu","ingredient","supply","cost","inflation","tăng giá","giá tăng","price increase","costly"],
-    "topic-delivery": ["delivery","grab food","shopee food","giao hàng","food delivery","dark kitchen","ghost kitchen","grabfood","shopeefood"],
-    "topic-plantbased": ["plant-based","vegan","oat milk","thực vật","chay","alternative protein","meatless"],
-    "topic-funding": ["gọi vốn","funding","series a","series b","investment","đầu tư","ipo","raise","venture","startup"],
-    "topic-brunch": ["brunch","breakfast","sáng","morning","weekend dining"],
-    "topic-wine": ["wine","rượu vang","beer","bia","craft beer","brewery","spirits","cocktail"],
-    "topic-ai": ["ai","claude","chatgpt","openai","artificial intelligence","machine learning","llm","automation","generative"],
-    "topic-macro": ["inflation","lạm phát","gdp","interest rate","fed","lãi suất","kinh tế","economy","recession","growth"],
-    "topic-trend": ["trend","xu hướng","consumer","người tiêu dùng","demand","nhu cầu","market research","insight","survey"],
-    "topic-supply": ["supply chain","chuỗi cung ứng","logistics","warehouse","kho","vận chuyển","import","export","xuất khẩu"],
+    "topic-coffee":    ["cà phê","coffee","café","robusta","arabica","barista","espresso","cold brew","specialty coffee","third wave","brew","pour over","drip","latte","cappuccino"],
+    "topic-expand":    ["mở chi nhánh","khai trương","mở rộng","expansion","new store","new branch","new location","franchise","nhượng quyền","kiosk","pop-up","food court"],
+    "topic-newmenu":   ["menu mới","new menu","sản phẩm mới","ra mắt","launch","limited edition","seasonal","new drink","new product","thức uống mới"],
+    "topic-marketing": ["marketing","campaign","chiến dịch","social media","influencer","collab","brand ambassador","quảng cáo","viral","trending"],
+    "topic-funding":   ["gọi vốn","funding","series a","series b","investment","đầu tư","ipo","raise","venture","startup","acquisition","mua lại"],
+    "topic-qsr":       ["kfc","mcdonald","fast food","qsr","quick service","chipotle","pizza","burger","fast-food","domino"],
+    "topic-price":     ["giá","price","commodity","nguyên liệu","ingredient","supply","cost","inflation","tăng giá","giá tăng","price increase","costly"],
+    "topic-delivery":  ["delivery","grab food","shopee food","giao hàng","food delivery","dark kitchen","ghost kitchen","grabfood","shopeefood"],
+    "topic-plantbased":["plant-based","vegan","oat milk","thực vật","chay","alternative protein","meatless"],
+    "topic-brunch":    ["brunch","breakfast","sáng","morning","weekend dining"],
+    "topic-wine":      ["wine","rượu vang","beer","bia","craft beer","brewery","spirits","cocktail"],
+    "topic-ai":        ["ai","claude","chatgpt","openai","artificial intelligence","machine learning","llm","automation","generative"],
+    "topic-macro":     ["inflation","lạm phát","gdp","interest rate","fed","lãi suất","kinh tế","economy","recession","growth"],
+    "topic-b2b":       ["b2b","wholesale","cung ứng","supplier","nhà cung cấp","ucc","lavazza","illy","nespresso professional","jde","segafredo","horeca"],
+    "topic-specialty": ["specialty coffee","third wave","single origin","pour over","filter","cupping","q grader","sca","barista champion","% arabica","blue bottle","stumptown","fuglen"],
+    "topic-supply":    ["supply chain","chuỗi cung ứng","logistics","warehouse","kho","vận chuyển","import","export","xuất khẩu"],
 }
 
 # Từ khóa sentiment
@@ -176,12 +233,26 @@ def extract_keywords(title, desc):
     """Trích xuất từ khoá nổi bật"""
     text = (title + " " + desc).lower()
     important = []
-    for kw in ["robusta","arabica","highlands","starbucks","kfc","mcdonald","delivery","plant-based",
-               "funding","brunch","wine","beer","inflation","supply chain","claude","chatgpt","ai",
-               "phúc long","trung nguyên","the coffee house","cold brew","specialty"]:
+    for kw in [
+        # Brand VN
+        "everyhaft","katinat","phê la","cộng cà phê","ông bầu","highlands","phúc long",
+        "trung nguyên","the coffee house","urban station","passio","king coffee","phindeli",
+        # Brand QT
+        "% arabica","blue bottle","stumptown","intelligentsia","fuglen","verve",
+        # B2B
+        "ucc","lavazza","illy","nespresso","jde","segafredo",
+        # Hành động
+        "mở chi nhánh","khai trương","gọi vốn","funding","menu mới","nhượng quyền","acquisition",
+        # Nguyên liệu
+        "robusta","arabica","cold brew","specialty","oat milk",
+        # Thị trường
+        "delivery","plant-based","brunch","wine","beer","inflation","supply chain",
+        # AI
+        "claude","chatgpt","ai",
+    ]:
         if kw in text:
             important.append(kw)
-    return important[:5]
+    return important[:6]
 
 # ═══════════════════════════════════════════════
 # FETCH ALL NEWS
