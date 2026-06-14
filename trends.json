@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T14:09:56.114397+00:00",
+  "updated": "2026-06-14T17:24:41.871014+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 36,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
+      "count": 37,
       "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 28,
-      "count_24h": 9,
+      "count": 29,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -94,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 16,
     "negative": 8,
-    "neutral": 55,
-    "score": 11,
+    "neutral": 56,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 37
     },
     {
       "word": "ucc",
@@ -124,7 +124,7 @@
         "title": "10 Out Of 10 Doctors Agree: New Coffees Are Fun!",
         "url": "https://sprudge.com/10-out-of-10-doctors-agree-new-coffees-are-fun-1074819.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Too Much Coffee Gear? Never Heard Of Her",
@@ -148,14 +148,14 @@
         "title": "Ethiopia Coffee Report: Production Up, Government Promoting Modernization",
         "url": "https://dailycoffeenews.com/2026/06/12/ethiopia-coffee-report-production-up-government-promoting-modernization/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
       {
         "title": "Japan enters low-cost rocket competition against SpaceX with H3 launch",
@@ -188,7 +188,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,9 +214,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 15,
+    "region-americas": 14,
     "region-europe": 2,
     "region-vietnam": 15,
-    "region-global": 31
+    "region-global": 32
   }
 }
