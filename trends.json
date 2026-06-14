@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-14T17:24:41.871014+00:00",
+  "updated": "2026-06-14T21:17:38.461741+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 12,
+      "count": 35,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 29,
+      "count": 30,
       "count_24h": 10,
       "trend": "hot"
     },
@@ -36,14 +36,14 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 6,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -65,18 +65,18 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
+      "count": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
     },
@@ -94,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
+    "positive": 15,
     "negative": 8,
-    "neutral": 56,
-    "score": 10,
+    "neutral": 57,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 35
     },
     {
       "word": "ucc",
@@ -124,7 +124,7 @@
         "title": "10 Out Of 10 Doctors Agree: New Coffees Are Fun!",
         "url": "https://sprudge.com/10-out-of-10-doctors-agree-new-coffees-are-fun-1074819.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Too Much Coffee Gear? Never Heard Of Her",
@@ -142,7 +142,7 @@
         "title": "Researchers Make Energy-Efficient Espresso Using Ultrasonic Sound Waves",
         "url": "https://sprudge.com/researchers-make-energy-efficient-espresso-using-ultrasonic-sound-waves-1070977.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Ethiopia Coffee Report: Production Up, Government Promoting Modernization",
@@ -155,14 +155,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Japan enters low-cost rocket competition against SpaceX with H3 launch",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-enters-low-cost-rocket-competition-against-spacex-with-h3-launch",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Kioxia caps years of uncertainty to become Japan's most valuable company",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-caps-years-of-uncertainty-to-become-japan-s-most-valuable-company",
@@ -186,9 +180,15 @@
         "url": "https://asia.nikkei.com/business/agriculture/thailand-cracks-down-on-foreign-enterprises-that-pretend-to-be-local",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "BOJ policy meeting, G7 summit, Min Aung Hlaing visits China",
+        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/boj-policy-meeting-g7-summit-min-aung-hlaing-visits-china",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
