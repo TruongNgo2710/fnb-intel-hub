@@ -1221,7 +1221,7 @@ document.addEventListener('keydown',e=>{
 // ══ STARTUP ══
 window.addEventListener('DOMContentLoaded',()=>{
   if(sessionStorage.getItem('fnb_ok')===ACCESS_CODE){
-    setTimeout(initMiniCharts,100);
+    setTimeout(()=>{ initMiniCharts(); init(); },100);
   }
 });
 </script>
