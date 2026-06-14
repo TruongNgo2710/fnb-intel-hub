@@ -16,8 +16,9 @@ jobs:
       - run: pip install feedparser
       - run: cd fnb-intel-hub && python fetch_news.py
       - run: cp fnb-intel-hub/news.json news.json
+      - run: cp fnb-intel-hub/trends.json trends.json
       - run: |
           git config user.name "FnB Bot"
           git config user.email "actions@github.com"
-          git add news.json
-          git diff --staged --quiet || (git commit -m "Update news" && git push)
+          git add news.json trends.json
+          git diff --staged --quiet || (git commit -m "Update news & trends $(date -u '+%d/%m %H:%M')" && git push)
