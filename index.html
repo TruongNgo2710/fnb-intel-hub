@@ -508,9 +508,50 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
   <!-- ── SIGNALS TAB ── -->
   <div id="tab-signals" class="tab-content">
     <div style="margin-bottom:14px">
-      <div style="font-size:15px;font-weight:700;margin-bottom:4px">⚡ Tín hiệu giao dịch</div>
+      <div style="font-size:15px;font-weight:700;margin-bottom:4px">⚡ Tín hiệu giao dịch & Phân tích Xu hướng</div>
       <div style="font-size:12.5px;color:var(--text2)">Tín hiệu dựa trên dữ liệu kỹ thuật &amp; phân tích thị trường. <b>Không phải tư vấn đầu tư.</b></div>
     </div>
+
+    <!-- LIVE TRENDS ANALYSIS FROM trends.json -->
+    <div id="trends-section" style="margin-bottom:18px;display:none">
+      <div style="font-size:13px;font-weight:700;margin-bottom:10px;display:flex;align-items:center;gap:8px">
+        📡 Phân tích xu hướng thực thời
+        <span style="font-size:10px;font-weight:700;color:var(--primary);background:var(--primary-dim);padding:2px 8px;border-radius:4px;border:1px solid rgba(0,214,143,.25)">AUTO-UPDATE 4H</span>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px">
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px">
+          <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">☕ Thị trường cà phê</div>
+          <div id="tr-coffee-price" style="font-size:13px;font-weight:700;color:var(--primary)">--</div>
+          <div id="tr-coffee-demand" style="font-size:11.5px;color:var(--text2);margin-top:3px">--</div>
+          <div id="tr-coffee-insight" style="font-size:11.5px;color:var(--text);margin-top:8px;line-height:1.55;border-top:1px solid var(--border);padding-top:8px">--</div>
+        </div>
+        <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px">
+          <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">🤖 AI & Claude news</div>
+          <div id="tr-ai-count" style="font-size:13px;font-weight:700;color:var(--purple)">-- bài</div>
+          <div id="tr-ai-insight" style="font-size:11.5px;color:var(--text);margin-top:8px;line-height:1.55">--</div>
+        </div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px;margin-bottom:10px">
+        <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">📊 Cảm xúc thị trường F&B</div>
+        <div style="display:flex;justify-content:space-between;margin-bottom:6px">
+          <span id="tr-sent-label" style="font-size:12.5px;font-weight:600;color:var(--text)">--</span>
+          <span id="tr-sent-score" style="font-size:12.5px;font-weight:700;color:var(--primary)">--</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:4px;height:8px;overflow:hidden;margin-bottom:6px">
+          <div id="tr-sent-bar" style="height:100%;border-radius:4px;background:var(--primary);width:50%;transition:width .6s ease"></div>
+        </div>
+        <div style="display:flex;justify-content:space-between">
+          <span style="font-size:10.5px;color:var(--text3)">🟢 Tích cực: <b id="tr-sent-pos" style="color:var(--primary)">--</b></span>
+          <span style="font-size:10.5px;color:var(--text3)">⚪ Trung lập: <b id="tr-sent-neu" style="color:var(--text2)">--</b></span>
+          <span style="font-size:10.5px;color:var(--text3)">🔴 Tiêu cực: <b id="tr-sent-neg" style="color:var(--red)">--</b></span>
+        </div>
+      </div>
+      <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px">
+        <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">🔥 Từ khoá nổi bật (24h)</div>
+        <div id="tr-keywords" style="display:flex;flex-wrap:wrap;gap:6px">--</div>
+      </div>
+    </div>
+
     <div class="signal-table">
       <div class="sig-row sig-row-hdr">
         <span>Tài sản</span><span>Giá</span><span>24h</span><span>Tín hiệu</span><span>Sức mạnh</span>
@@ -824,13 +865,85 @@ if(sessionStorage.getItem('fnb_ok')===ACCESS_CODE){
 // ══ INIT ══
 function init(){
   loadNews();
+  loadTrends();
   fetchAllPrices();
   setInterval(fetchAllPrices,60000);
   setInterval(loadNews,30*60*1000);
+  setInterval(loadTrends,4*60*60*1000);
   renderExperts();
   renderSignals();
   renderForum();
   loadBtcChart(7,null);
+}
+
+// ══ TRENDS (từ trends.json) ══
+async function loadTrends(){
+  try{
+    const r=await fetch('./trends.json?t='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    const d=await r.json();
+    const sec=document.getElementById('trends-section');
+    if(sec) sec.style.display='block';
+
+    // ── Coffee trends ──
+    if(d.coffee_trends){
+      const ct=d.coffee_trends;
+      const pDir=ct.price_direction==='up'?'📈 Giá đang TĂNG':ct.price_direction==='down'?'📉 Giá đang GIẢM':'➡️ Giá ổn định';
+      setEl('tr-coffee-price', pDir+' · '+ct.article_count+' bài cập nhật');
+      const dDir=ct.consumer_demand==='growing'?'🔥 Nhu cầu tăng mạnh':ct.consumer_demand==='declining'?'📉 Nhu cầu giảm':'📊 Nhu cầu ổn định';
+      setEl('tr-coffee-demand', dDir);
+      setEl('tr-coffee-insight', ct.insight||'--');
+      // Update F&B expert card
+      const fnbExp=EXPERTS.find(e=>e.id==='fnb');
+      if(fnbExp&&ct.insight){ fnbExp.insight=ct.insight; renderExperts(); }
+    }
+
+    // ── AI trends ──
+    if(d.ai_trends){
+      const at=d.ai_trends;
+      setEl('tr-ai-count', (at.claude_mentions||0)+' bài về Claude/Anthropic');
+      setEl('tr-ai-insight', at.insight||'--');
+      const aiExp=EXPERTS.find(e=>e.id==='ai');
+      if(aiExp&&at.insight){ aiExp.insight=at.insight; renderExperts(); }
+    }
+
+    // ── Sentiment ──
+    if(d.sentiment){
+      const s=d.sentiment;
+      const score=s.score||0;
+      const lbl=score>20?'Tích cực 🟢 — Thị trường lạc quan':score<-20?'Tiêu cực 🔴 — Thị trường lo ngại':'Trung lập ⚪ — Thị trường cân bằng';
+      setEl('tr-sent-label', lbl);
+      setEl('tr-sent-score', (score>0?'+':'')+score+'/100');
+      setEl('tr-sent-pos', s.positive||0);
+      setEl('tr-sent-neu', s.neutral||0);
+      setEl('tr-sent-neg', s.negative||0);
+      const bar=document.getElementById('tr-sent-bar');
+      if(bar){
+        const w=Math.max(5,Math.min(95,((score+100)/200)*100));
+        bar.style.width=w+'%';
+        bar.style.background=score>20?'var(--primary)':score<-20?'var(--red)':'var(--gold)';
+      }
+    }
+
+    // ── Hot keywords ──
+    if(d.hot_keywords&&d.hot_keywords.length){
+      const kw=document.getElementById('tr-keywords');
+      if(kw) kw.innerHTML=d.hot_keywords.slice(0,12).map(k=>`
+        <span style="background:var(--surface2);border:1px solid var(--border2);border-radius:4px;padding:3px 9px;font-size:11px;color:var(--text2)">
+          ${k.word} <b style="color:var(--text)">${k.count}</b>
+        </span>`).join('');
+    }
+
+    // ── Update trending topics in right panel ──
+    if(d.trending_topics&&d.trending_topics.length){
+      const map={'coffee':'tr-coffee','price':'tr-price','delivery':'tr-delivery','wine':'tr-wine','funding':'tr-funding'};
+      d.trending_topics.forEach(t=>{
+        const id=map[t.topic];
+        if(id){ const el=document.getElementById(id); if(el) el.textContent=t.count+' bài'; }
+      });
+    }
+
+  }catch(e){console.warn('Trends load error:',e);}
 }
 
 // ══ TAB SWITCH ══
