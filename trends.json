@@ -1,0 +1,244 @@
+{
+  "updated": "2026-06-14T11:47:21.813451+00:00",
+  "period": "7 ngày gần nhất",
+  "total_articles": 77,
+  "articles_24h": 29,
+  "trending_topics": [
+    {
+      "tag": "topic-ai",
+      "label": "#AI&Claude",
+      "count": 40,
+      "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 18,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 13,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 8,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 5,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-trend",
+      "label": "#XuHướng",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-plantbased",
+      "label": "#PlantBased",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    }
+  ],
+  "trending_brands": [
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    }
+  ],
+  "sentiment": {
+    "positive": 12,
+    "negative": 10,
+    "neutral": 55,
+    "score": 3,
+    "label": "Trung tính"
+  },
+  "hot_keywords": [
+    {
+      "word": "ai",
+      "count": 40
+    },
+    {
+      "word": "funding",
+      "count": 2
+    },
+    {
+      "word": "starbucks",
+      "count": 2
+    },
+    {
+      "word": "kfc",
+      "count": 2
+    },
+    {
+      "word": "specialty",
+      "count": 2
+    }
+  ],
+  "coffee_trends": {
+    "total_articles": 13,
+    "price_direction": "up",
+    "price_up_signals": 2,
+    "price_down_signals": 1,
+    "top_articles": [
+      {
+        "title": "Nhà sáng lập Highlands Coffee: 'Tôi luôn nghĩ về việc làm tốt hơn mỗi ngày'",
+        "url": "https://vnexpress.net/nha-sang-lap-highlands-coffee-toi-luon-nghi-ve-viec-lam-tot-hon-moi-ngay-5085170.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "1 ngày trước"
+      },
+      {
+        "title": "Ethiopia Coffee Report: Production Up, Government Promoting Modernization",
+        "url": "https://dailycoffeenews.com/2026/06/12/ethiopia-coffee-report-production-up-government-promoting-modernization/",
+        "source": "Daily Coffee News",
+        "time": "1 ngày trước"
+      },
+      {
+        "title": "Menu Tracker: New items from Wendy’s, Bojangles, and White Castle",
+        "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-wendy-s-bojangles-and-white-castle",
+        "source": "Nation's Restaurant News",
+        "time": "1 ngày trước"
+      },
+      {
+        "title": "Weekly Coffee News: Paying Farmers More + Bad Bunny’s Tour Coffee",
+        "url": "https://dailycoffeenews.com/2026/06/12/weekly-coffee-news-paying-farmers-more-bad-bunnys-tour-coffee/",
+        "source": "Daily Coffee News",
+        "time": "2 ngày trước"
+      },
+      {
+        "title": "Why Starbucks thinks smaller stores will translate into more growth",
+        "url": "https://www.nrn.com/quick-service/why-starbucks-thinks-smaller-stores-will-translate-into-more-growth",
+        "source": "Nation's Restaurant News",
+        "time": "2 ngày trước"
+      }
+    ],
+    "consumer_demand": "high",
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+  },
+  "ai_trends": {
+    "total_articles": 49,
+    "top_articles": [
+      {
+        "title": "Japan enters low-cost rocket competition against SpaceX with H3 launch",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-enters-low-cost-rocket-competition-against-spacex-with-h3-launch",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Kioxia caps years of uncertainty to become Japan's most valuable company",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-caps-years-of-uncertainty-to-become-japan-s-most-valuable-company",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China patrols waters east of Taiwan in response to Japan-Philippine talks",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-patrols-waters-east-of-taiwan-in-response-to-japan-philippine-talks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "A Swiss artist's portrait of Meiji-era Japan",
+        "url": "https://asia.nikkei.com/life-arts/arts/a-swiss-artist-s-portrait-of-meiji-era-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand cracks down on foreign enterprises that pretend to be local",
+        "url": "https://asia.nikkei.com/business/agriculture/thailand-cracks-down-on-foreign-enterprises-that-pretend-to-be-local",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      }
+    ],
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+  },
+  "price_signals": {
+    "robusta": {
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
+    },
+    "wheat": {
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
+    },
+    "sugar": {
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
+    },
+    "dairy": {
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
+    }
+  },
+  "regional_breakdown": {
+    "region-sea": 17,
+    "region-americas": 21,
+    "region-europe": 2,
+    "region-global": 35,
+    "region-vietnam": 2
+  }
+}
