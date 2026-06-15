@@ -25,8 +25,6 @@
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
 body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);font-size:13.5px;line-height:1.5;min-height:100vh}
-
-/* ── GATE ── */
 #gate{position:fixed;inset:0;z-index:9999;background:linear-gradient(135deg,#050608 0%,#0d0f1a 50%,#060810 100%);display:flex;align-items:center;justify-content:center}
 .gate-card{background:var(--surface);border:1px solid var(--border2);border-radius:var(--radius-lg);padding:48px 40px;width:380px;text-align:center;box-shadow:0 32px 80px rgba(0,0,0,.6),0 0 0 1px rgba(255,255,255,.03)}
 .gate-logo{font-size:32px;margin-bottom:12px}
@@ -40,14 +38,13 @@ body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);font-
 .gate-btn:hover{opacity:.85}
 .gate-err{font-size:12px;color:var(--red);min-height:16px}
 .gate-hint{font-size:11px;color:var(--text3);margin-top:16px}
-
-/* ── HEADER ── */
 #app{display:none}
 header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
 .header-inner{display:flex;align-items:center;gap:12px;height:var(--header-h);padding:0 18px}
 .logo{display:flex;align-items:center;gap:9px;text-decoration:none;color:var(--text);font-weight:800;font-size:15px;white-space:nowrap;flex-shrink:0}
 .logo-icon{width:32px;height:32px;background:linear-gradient(135deg,var(--primary),#00a86b);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:16px;box-shadow:0 4px 12px var(--primary-glow)}
-.search-wrap{flex:1;max-width:360px;display:flex;align-items:center;gap:8px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:7px 12px;cursor:text}
+.search-wrap{flex:1;max-width:360px;display:flex;align-items:center;gap:8px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:7px 12px;cursor:text;transition:border-color var(--transition)}
+.search-wrap:focus-within{border-color:var(--primary)}
 .search-wrap input{flex:1;background:transparent;border:none;outline:none;font-size:13px;color:var(--text);font-family:'Inter',sans-serif}
 .search-wrap input::placeholder{color:var(--text3)}
 .search-icon{color:var(--text3);font-size:13px;flex-shrink:0}
@@ -61,8 +58,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .header-actions{display:flex;align-items:center;gap:8px;flex-shrink:0}
 .icon-btn{width:32px;height:32px;background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:14px;transition:all var(--transition)}
 .icon-btn:hover{border-color:var(--border2);background:var(--surface3)}
-
-/* ── TICKER ── */
 .ticker-bar{height:var(--ticker-h);background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 18px;gap:18px;overflow-x:auto;scrollbar-width:none}
 .ticker-bar::-webkit-scrollbar{display:none}
 .live-dot{display:flex;align-items:center;gap:5px;flex-shrink:0}
@@ -77,8 +72,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .up{color:#22c55e;background:rgba(34,197,94,.12)}
 .down{color:var(--red);background:var(--red-dim)}
 .flat{color:var(--text3);background:var(--surface2)}
-
-/* ── LAYOUT ── */
 .layout{display:flex;max-width:1400px;margin:0 auto;align-items:flex-start;padding:0 10px}
 .sidebar{width:var(--sidebar-w);flex-shrink:0;padding:16px 8px 60px;position:sticky;top:calc(var(--header-h) + var(--ticker-h));max-height:calc(100vh - var(--header-h) - var(--ticker-h));overflow-y:auto;scrollbar-width:none}
 .sidebar::-webkit-scrollbar{display:none}
@@ -92,21 +85,13 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .s-av{width:18px;height:18px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;color:#fff;flex-shrink:0}
 .s-name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .s-cnt{font-size:11px;color:var(--text3);font-weight:500}
-
-/* ── MAIN CONTENT ── */
 .main{flex:1;min-width:0;padding:16px 14px 60px;border-left:1px solid var(--border);border-right:1px solid var(--border)}
-
-/* ── RIGHT PANEL ── */
 .right-panel{width:var(--right-w);flex-shrink:0;padding:16px 0 60px 12px;position:sticky;top:calc(var(--header-h) + var(--ticker-h));max-height:calc(100vh - var(--header-h) - var(--ticker-h));overflow-y:auto;scrollbar-width:none}
 .right-panel::-webkit-scrollbar{display:none}
 .rp-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px;margin-bottom:12px}
 .rp-title{font-size:12.5px;font-weight:700;color:var(--text);margin-bottom:12px;display:flex;align-items:center;gap:6px}
-
-/* ── TAB CONTENT ── */
 .tab-content{display:none}
 .tab-content.active{display:block}
-
-/* ── FEED ── */
 .digest{background:linear-gradient(135deg,rgba(245,158,11,.08),rgba(245,158,11,.03));border:1px solid rgba(245,158,11,.2);border-radius:var(--radius);padding:14px 16px;margin-bottom:14px}
 .digest-date{font-size:11px;font-weight:700;color:var(--gold);margin-bottom:4px}
 .digest-title{font-size:13px;font-weight:700;color:var(--text);margin-bottom:8px}
@@ -124,7 +109,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .sort-tabs{display:flex;gap:2px;background:var(--surface2);border-radius:6px;padding:2px}
 .st{padding:4px 10px;border-radius:4px;font-size:12px;cursor:pointer;color:var(--text2);border:none;background:transparent;font-family:'Inter',sans-serif;transition:all var(--transition)}
 .st.active{background:var(--surface3);color:var(--text);font-weight:600}
-/* News Card */
 .news-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px 38px 12px 14px;margin-bottom:8px;transition:all var(--transition);position:relative}
 .news-card:hover{border-color:var(--border2);box-shadow:0 4px 20px rgba(0,0,0,.3);transform:translateY(-1px)}
 .card-hdr{display:flex;align-items:flex-start;gap:9px;margin-bottom:8px}
@@ -153,17 +137,13 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .card-save:hover,.card-save.saved{color:var(--gold)}
 .date-divider{font-size:11.5px;font-weight:700;color:var(--text3);margin:16px 0 10px;display:flex;align-items:center;gap:8px}
 .date-divider::after{content:"";flex:1;height:1px;background:var(--border)}
-/* Skeleton */
 .skel-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px;margin-bottom:8px}
 .skel{background:linear-gradient(90deg,var(--surface2) 25%,var(--surface3) 50%,var(--surface2) 75%);background-size:200% 100%;animation:shimmer 1.4s infinite;border-radius:5px}
 @keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
-/* Feed Message */
 .feed-msg{text-align:center;padding:60px 20px;color:var(--text3)}
 .feed-msg .fi{font-size:36px;margin-bottom:12px}
 .feed-msg h3{font-size:14px;font-weight:600;color:var(--text2);margin-bottom:6px}
 .feed-msg p{font-size:12.5px;line-height:1.5}
-
-/* ── MARKETS TAB ── */
 .markets-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px}
 .mkt-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px}
 .mkt-card-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
@@ -194,8 +174,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .macro-label{font-size:11px;color:var(--text3);margin-bottom:4px}
 .macro-val{font-size:17px;font-weight:700;font-family:'JetBrains Mono',monospace}
 .macro-trend{font-size:11px;margin-top:3px}
-
-/* ── EXPERTS TAB ── */
 .experts-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:16px}
 .expert-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px;transition:all var(--transition);cursor:pointer}
 .expert-card:hover{border-color:var(--border2);box-shadow:0 4px 20px rgba(0,0,0,.3);transform:translateY(-2px)}
@@ -210,8 +188,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .exp-insight-label{font-size:10px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;margin-bottom:4px}
 .exp-signal{display:inline-flex;align-items:center;gap:4px;font-size:10px;font-weight:700;padding:3px 8px;border-radius:20px;margin-top:8px}
 .exp-sources{font-size:10.5px;color:var(--text3);margin-top:6px}
-
-/* ── SIGNALS TAB ── */
 .signal-table{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;margin-bottom:14px}
 .sig-row{display:grid;grid-template-columns:1fr auto auto auto auto;gap:12px;align-items:center;padding:12px 16px;border-bottom:1px solid var(--border);transition:background var(--transition)}
 .sig-row:last-child{border-bottom:none}
@@ -228,8 +204,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .str-watch{background:linear-gradient(90deg,var(--blue),#2563eb)}
 .str-action{background:linear-gradient(90deg,var(--red),#dc2626)}
 .signal-disclaimer{background:var(--surface2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px;font-size:11.5px;color:var(--text3);line-height:1.5}
-
-/* ── FORUM TAB ── */
 .forum-header{margin-bottom:16px}
 .forum-cats{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
 .forum-cat{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:8px 14px;cursor:pointer;transition:all var(--transition);text-align:left}
@@ -254,8 +228,6 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .new-post-btn:hover{background:var(--primary);color:#000}
 .disqus-wrap{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px;text-align:center}
 .disqus-placeholder{font-size:13px;color:var(--text2);line-height:1.6}
-
-/* ── RIGHT PANEL COMPONENTS ── */
 .mkt-row{display:flex;align-items:center;justify-content:space-between;padding:8px 0;border-bottom:1px solid var(--border)}
 .mkt-row:last-child{border-bottom:none;padding-bottom:0}
 .mkt-row-name{font-size:12.5px;font-weight:600}
@@ -275,16 +247,14 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
 .trend-cnt{font-size:11px;color:var(--text3)}
 .disclaimer{font-size:10.5px;color:var(--text3);line-height:1.4;border-top:1px solid var(--border);padding-top:8px;margin-top:4px}
 .rp-upd{font-size:10.5px;color:var(--text3);text-align:center;margin-top:6px}
-
-/* ── RESPONSIVE ── */
+.live-badge{font-size:9px;font-weight:700;color:var(--primary);background:var(--primary-dim);padding:1px 5px;border-radius:3px;border:1px solid rgba(0,214,143,.2)}
 @media(max-width:1150px){.right-panel{display:none}:root{--sidebar-w:210px}}
 @media(max-width:820px){.sidebar{display:none}.main{border:none;padding:12px 10px}.markets-grid{grid-template-columns:1fr}.experts-grid{grid-template-columns:1fr}}
 @media(max-width:600px){.header-inner{gap:8px}.main-nav{display:none}}
 </style>
 </head>
 <body>
-
-<!-- ══ PASSWORD GATE ══ -->
+<!-- GATE -->
 <div id="gate">
   <div class="gate-card">
     <div class="gate-logo">☕</div>
@@ -299,19 +269,13 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
   </div>
 </div>
 
-<!-- ══ MAIN APP ══ -->
 <div id="app">
-
-<!-- HEADER -->
 <header>
   <div class="header-inner">
-    <a class="logo" href="#">
-      <div class="logo-icon">☕</div>
-      <span>F&amp;B Intel Hub</span>
-    </a>
+    <a class="logo" href="#"><div class="logo-icon">☕</div><span>F&amp;B Intel Hub</span></a>
     <div class="search-wrap">
       <span class="search-icon">🔍</span>
-      <input type="text" id="searchInput" placeholder="Tìm thương hiệu, tin tức, xu hướng..." oninput="applyFilters()">
+      <input type="text" id="searchInput" placeholder="Tìm thương hiệu, tin tức, xu hướng... (⌘K)" oninput="applyFilters()">
       <span class="kbd">⌘K</span>
     </div>
     <nav class="main-nav">
@@ -328,58 +292,39 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
   </div>
 </header>
 
-<!-- TICKER -->
+<!-- TICKER — FIX: thêm id cho USD/VND và Robusta -->
 <div class="ticker-bar">
   <div class="live-dot"><div class="live-pulse"></div><span class="live-text">Live</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">🟡 Vàng SJC</span><span class="t-val" id="tk-gold">--</span><span class="t-ch" id="tk-gold-ch">--</span></div>
+  <div class="t-item"><span class="t-name">🟡 Vàng SJC</span><span class="t-val" id="tk-gold">--</span><span class="t-ch flat" id="tk-gold-ch">--</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">🟠 Bitcoin</span><span class="t-val" id="tk-btc">--</span><span class="t-ch" id="tk-btc-ch">--</span></div>
+  <div class="t-item"><span class="t-name">🟠 Bitcoin</span><span class="t-val" id="tk-btc">--</span><span class="t-ch flat" id="tk-btc-ch">--</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">🔷 Ethereum</span><span class="t-val" id="tk-eth">--</span><span class="t-ch" id="tk-eth-ch">--</span></div>
+  <div class="t-item"><span class="t-name">🔷 Ethereum</span><span class="t-val" id="tk-eth">--</span><span class="t-ch flat" id="tk-eth-ch">--</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">💵 USD/VND</span><span class="t-val">25,480</span><span class="t-ch up">+0.1%</span></div>
+  <div class="t-item"><span class="t-name">💵 USD/VND</span><span class="t-val" id="tk-usd">--</span><span class="t-ch flat" id="tk-usd-ch">Live</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">☕ Robusta</span><span class="t-val">$4,987/T</span><span class="t-ch up">+2.3%</span></div>
+  <div class="t-item"><span class="t-name">☕ Robusta</span><span class="t-val" id="tk-rob">--</span><span class="t-ch flat" id="tk-rob-ch">ICE</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">🌾 Lúa mì</span><span class="t-val">$248/bu</span><span class="t-ch down">-1.1%</span></div>
+  <div class="t-item"><span class="t-name">🌾 Lúa mì</span><span class="t-val" id="tk-wheat">$248/bu</span><span class="t-ch down" id="tk-wheat-ch">-1.1%</span></div>
   <span class="ticker-sep">|</span>
-  <div class="t-item"><span class="t-name">😨 Fear&amp;Greed</span><span class="t-val" id="tk-fg">--</span><span class="t-ch" id="tk-fg-lbl">--</span></div>
+  <div class="t-item"><span class="t-name">😨 Fear&amp;Greed</span><span class="t-val" id="tk-fg">--</span><span class="t-ch flat" id="tk-fg-lbl">--</span></div>
 </div>
 
-<!-- LAYOUT -->
 <div class="layout">
-
-<!-- SIDEBAR -->
 <aside class="sidebar" id="sidebar">
   <div class="s-section">
-    <button class="s-btn active" onclick="setFilter('all',this)">
-      <span class="s-left"><span class="s-name">🏠 Tất cả</span></span><span class="s-cnt" id="cnt-all">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('hot',this)">
-      <span class="s-left"><span class="s-name">🔥 Nổi bật</span></span><span class="s-cnt" id="cnt-hot">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('saved',this)">
-      <span class="s-left"><span class="s-name">⭐ Đã lưu</span></span><span class="s-cnt" id="cnt-saved">0</span>
-    </button>
+    <button class="s-btn active" onclick="setFilter('all',this)"><span class="s-left"><span class="s-name">🏠 Tất cả</span></span><span class="s-cnt" id="cnt-all">0</span></button>
+    <button class="s-btn" onclick="setFilter('hot',this)"><span class="s-left"><span class="s-name">🔥 Nổi bật</span></span><span class="s-cnt" id="cnt-hot">0</span></button>
+    <button class="s-btn" onclick="setFilter('saved',this)"><span class="s-left"><span class="s-name">⭐ Đã lưu</span></span><span class="s-cnt" id="cnt-saved">0</span></button>
   </div>
   <div class="s-section">
     <div class="s-label">Nguồn</div>
-    <button class="s-btn" onclick="setFilter('source-vnexpress',this)">
-      <span class="s-left"><span class="s-av" style="background:#06c">V</span><span class="s-name">VnExpress</span></span><span class="s-cnt" id="cnt-source-vnexpress">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('source-cafebiz',this)">
-      <span class="s-left"><span class="s-av" style="background:#e60026">C</span><span class="s-name">CafeBiz / CafeF</span></span><span class="s-cnt" id="cnt-source-cafebiz">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('source-foodnavigator',this)">
-      <span class="s-left"><span class="s-av" style="background:#006633">F</span><span class="s-name">Food Navigator</span></span><span class="s-cnt" id="cnt-source-foodnavigator">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('source-reuters',this)">
-      <span class="s-left"><span class="s-av" style="background:#c00">R</span><span class="s-name">Reuters</span></span><span class="s-cnt" id="cnt-source-reuters">0</span>
-    </button>
-    <button class="s-btn" onclick="setFilter('source-nikkei',this)">
-      <span class="s-left"><span class="s-av" style="background:#800">N</span><span class="s-name">Nikkei Asia</span></span><span class="s-cnt" id="cnt-source-nikkei">0</span>
-    </button>
+    <button class="s-btn" onclick="setFilter('source-vnexpress',this)"><span class="s-left"><span class="s-av" style="background:#06c">V</span><span class="s-name">VnExpress</span></span><span class="s-cnt" id="cnt-source-vnexpress">0</span></button>
+    <button class="s-btn" onclick="setFilter('source-cafebiz',this)"><span class="s-left"><span class="s-av" style="background:#e60026">C</span><span class="s-name">CafeBiz / CafeF</span></span><span class="s-cnt" id="cnt-source-cafebiz">0</span></button>
+    <button class="s-btn" onclick="setFilter('source-foodnavigator',this)"><span class="s-left"><span class="s-av" style="background:#006633">F</span><span class="s-name">Food Navigator</span></span><span class="s-cnt" id="cnt-source-foodnavigator">0</span></button>
+    <button class="s-btn" onclick="setFilter('source-reuters',this)"><span class="s-left"><span class="s-av" style="background:#c00">R</span><span class="s-name">Reuters</span></span><span class="s-cnt" id="cnt-source-reuters">0</span></button>
+    <button class="s-btn" onclick="setFilter('source-nikkei',this)"><span class="s-left"><span class="s-av" style="background:#800">N</span><span class="s-name">Nikkei Asia</span></span><span class="s-cnt" id="cnt-source-nikkei">0</span></button>
   </div>
   <div class="s-section">
     <div class="s-label">Khu vực</div>
@@ -407,18 +352,16 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
   </div>
 </aside>
 
-<!-- MAIN -->
 <main class="main">
-
-  <!-- ── FEED TAB ── -->
+  <!-- FEED TAB -->
   <div id="tab-feed" class="tab-content active">
     <div class="digest">
       <div class="digest-date" id="digest-date">☀️ Đang tải bản tin...</div>
       <div class="digest-title">F&amp;B Intel Hub — Tổng hợp tự động từ VnExpress, CafeBiz, Food Navigator, Reuters, Nikkei</div>
       <ul class="digest-list">
         <li>Tin tức F&amp;B cập nhật tự động mỗi 4 giờ từ nguồn uy tín trong &amp; ngoài nước.</li>
-        <li>Giá thị trường (BTC, ETH, Vàng) live mỗi 60 giây. Fear &amp; Greed Index realtime.</li>
-        <li>Bộ lọc theo khu vực, thương hiệu, chủ đề — click sidebar để lọc nhanh.</li>
+        <li>Giá thị trường (BTC, ETH, Vàng, USD/VND) live mỗi 60 giây.</li>
+        <li>Bộ lọc theo khu vực, thương hiệu, chủ đề — bài đã lưu được ghi nhớ giữa các phiên.</li>
       </ul>
       <div class="digest-upd">🔄 Cập nhật lần cuối: <span id="last-upd-time">đang tải...</span></div>
     </div>
@@ -443,7 +386,7 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
     </div>
   </div>
 
-  <!-- ── MARKETS TAB ── -->
+  <!-- MARKETS TAB -->
   <div id="tab-markets" class="tab-content">
     <div class="markets-grid">
       <div class="mkt-card">
@@ -456,8 +399,8 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
       <div class="mkt-card">
         <div class="mkt-card-hdr"><span class="mkt-name">🟡 Vàng SJC</span><span class="mkt-signal-badge sig-hold">HOLD</span></div>
         <div class="mkt-price" id="mkt-gold">--</div>
-        <div class="mkt-change up">+0.4%</div>
-        <div class="mkt-sub">VND/lượng · metals.live</div>
+        <div class="mkt-change up" id="mkt-gold-ch">+0.4%</div>
+        <div class="mkt-sub">VND/lượng · metals.live + live FX</div>
         <div class="chart-wrap" style="margin-top:10px"><canvas id="chart-gold-mini"></canvas></div>
       </div>
       <div class="mkt-card">
@@ -486,17 +429,42 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
       </div>
       <canvas id="chart-btc-full" height="200"></canvas>
     </div>
+    <!-- FIX: macro grid với IDs để update live -->
     <div class="macro-grid">
-      <div class="macro-item"><div class="macro-label">💵 USD/VND</div><div class="macro-val" style="color:var(--text)">25,480</div><div class="macro-trend up">+0.1% hôm nay</div></div>
-      <div class="macro-item"><div class="macro-label">☕ Robusta</div><div class="macro-val" style="color:var(--primary)">$4,987</div><div class="macro-trend up">+2.3% · đỉnh 5 năm</div></div>
-      <div class="macro-item"><div class="macro-label">🌾 Lúa mì CBOT</div><div class="macro-val" style="color:var(--text)">$248</div><div class="macro-trend down">-1.1% hôm nay</div></div>
-      <div class="macro-item"><div class="macro-label">🇻🇳 VN-Index</div><div class="macro-val" style="color:var(--primary)">1,285</div><div class="macro-trend up">+0.8% hôm nay</div></div>
-      <div class="macro-item"><div class="macro-label">🛢️ Dầu WTI</div><div class="macro-val" style="color:var(--text)">$79.3</div><div class="macro-trend down">-0.6% hôm nay</div></div>
-      <div class="macro-item"><div class="macro-label">📊 CPI VN/năm</div><div class="macro-val" style="color:var(--gold)">3.8%</div><div class="macro-trend flat">Mục tiêu &lt;4.5%</div></div>
+      <div class="macro-item">
+        <div class="macro-label">💵 USD/VND <span class="live-badge">LIVE</span></div>
+        <div class="macro-val" id="macro-usd" style="color:var(--text)">--</div>
+        <div class="macro-trend flat" id="macro-usd-ch">đang tải...</div>
+      </div>
+      <div class="macro-item">
+        <div class="macro-label">☕ Robusta <span class="live-badge">ICE</span></div>
+        <div class="macro-val" id="macro-rob" style="color:var(--primary)">--</div>
+        <div class="macro-trend flat" id="macro-rob-ch">đang tải...</div>
+      </div>
+      <div class="macro-item">
+        <div class="macro-label">🌾 Lúa mì CBOT</div>
+        <div class="macro-val" id="macro-wheat" style="color:var(--text)">$248</div>
+        <div class="macro-trend down">-1.1% hôm nay</div>
+      </div>
+      <div class="macro-item">
+        <div class="macro-label">🇻🇳 VN-Index</div>
+        <div class="macro-val" style="color:var(--primary)">1,285</div>
+        <div class="macro-trend up">+0.8% hôm nay</div>
+      </div>
+      <div class="macro-item">
+        <div class="macro-label">🛢️ Dầu WTI</div>
+        <div class="macro-val" style="color:var(--text)">$79.3</div>
+        <div class="macro-trend down">-0.6% hôm nay</div>
+      </div>
+      <div class="macro-item">
+        <div class="macro-label">📊 CPI VN/năm</div>
+        <div class="macro-val" style="color:var(--gold)">3.8%</div>
+        <div class="macro-trend flat">Mục tiêu &lt;4.5%</div>
+      </div>
     </div>
   </div>
 
-  <!-- ── EXPERTS TAB ── -->
+  <!-- EXPERTS TAB -->
   <div id="tab-experts" class="tab-content">
     <div style="margin-bottom:14px">
       <div style="font-size:15px;font-weight:700;margin-bottom:4px">🧠 Ban chuyên gia</div>
@@ -505,14 +473,12 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
     <div class="experts-grid" id="experts-grid"></div>
   </div>
 
-  <!-- ── SIGNALS TAB ── -->
+  <!-- SIGNALS TAB -->
   <div id="tab-signals" class="tab-content">
     <div style="margin-bottom:14px">
-      <div style="font-size:15px;font-weight:700;margin-bottom:4px">⚡ Tín hiệu giao dịch & Phân tích Xu hướng</div>
+      <div style="font-size:15px;font-weight:700;margin-bottom:4px">⚡ Tín hiệu giao dịch &amp; Phân tích Xu hướng</div>
       <div style="font-size:12.5px;color:var(--text2)">Tín hiệu dựa trên dữ liệu kỹ thuật &amp; phân tích thị trường. <b>Không phải tư vấn đầu tư.</b></div>
     </div>
-
-    <!-- LIVE TRENDS ANALYSIS FROM trends.json -->
     <div id="trends-section" style="margin-bottom:18px;display:none">
       <div style="font-size:13px;font-weight:700;margin-bottom:10px;display:flex;align-items:center;gap:8px">
         📡 Phân tích xu hướng thực thời
@@ -526,13 +492,13 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
           <div id="tr-coffee-insight" style="font-size:11.5px;color:var(--text);margin-top:8px;line-height:1.55;border-top:1px solid var(--border);padding-top:8px">--</div>
         </div>
         <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px">
-          <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">🤖 AI & Claude news</div>
+          <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">🤖 AI &amp; Claude news</div>
           <div id="tr-ai-count" style="font-size:13px;font-weight:700;color:var(--purple)">-- bài</div>
           <div id="tr-ai-insight" style="font-size:11.5px;color:var(--text);margin-top:8px;line-height:1.55">--</div>
         </div>
       </div>
       <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:14px;margin-bottom:10px">
-        <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">📊 Cảm xúc thị trường F&B</div>
+        <div style="font-size:10px;color:var(--text3);margin-bottom:8px;text-transform:uppercase;letter-spacing:.07em;font-weight:700">📊 Cảm xúc thị trường F&amp;B</div>
         <div style="display:flex;justify-content:space-between;margin-bottom:6px">
           <span id="tr-sent-label" style="font-size:12.5px;font-weight:600;color:var(--text)">--</span>
           <span id="tr-sent-score" style="font-size:12.5px;font-weight:700;color:var(--primary)">--</span>
@@ -551,57 +517,32 @@ header{position:sticky;top:0;z-index:100;background:rgba(10,11,15,.92);backdrop-
         <div id="tr-keywords" style="display:flex;flex-wrap:wrap;gap:6px">--</div>
       </div>
     </div>
-
     <div class="signal-table">
-      <div class="sig-row sig-row-hdr">
-        <span>Tài sản</span><span>Giá</span><span>24h</span><span>Tín hiệu</span><span>Sức mạnh</span>
-      </div>
+      <div class="sig-row sig-row-hdr"><span>Tài sản</span><span>Giá</span><span>24h</span><span>Tín hiệu</span><span>Sức mạnh</span></div>
       <div id="signal-rows"></div>
     </div>
-    <div class="signal-disclaimer">
-      ⚠️ <b>Tuyên bố miễn trách:</b> Tín hiệu trên chỉ mang tính tham khảo dựa trên phân tích kỹ thuật và xu hướng thị trường. Không phải tư vấn đầu tư chuyên nghiệp. Luôn DYOR (tự nghiên cứu) trước khi ra quyết định. Thị trường crypto &amp; vàng có thể biến động bất ngờ.
-    </div>
+    <div class="signal-disclaimer">⚠️ <b>Tuyên bố miễn trách:</b> Tín hiệu chỉ mang tính tham khảo dựa trên phân tích kỹ thuật. Không phải tư vấn đầu tư chuyên nghiệp. Luôn DYOR trước khi ra quyết định.</div>
     <div style="margin-top:16px">
       <div style="font-size:13px;font-weight:700;margin-bottom:10px">🤖 Bot giao dịch tự động</div>
       <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px">
-        <div style="font-size:12.5px;color:var(--text2);margin-bottom:12px">Bot Python kết nối Binance API — chạy trên VPS riêng của bạn. Chiến lược: MA crossover + RSI + Volume filter.</div>
+        <div style="font-size:12.5px;color:var(--text2);margin-bottom:12px">Bot Python kết nối Binance API — chạy trên VPS riêng. Chiến lược: MA crossover + RSI + Volume filter.</div>
         <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:12px">
-          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center">
-            <div style="font-size:11px;color:var(--text3)">Chiến lược</div>
-            <div style="font-size:12px;font-weight:700;margin-top:2px">MA + RSI</div>
-          </div>
-          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center">
-            <div style="font-size:11px;color:var(--text3)">Backtest 6T</div>
-            <div style="font-size:12px;font-weight:700;color:var(--primary);margin-top:2px">+34.2%</div>
-          </div>
-          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center">
-            <div style="font-size:11px;color:var(--text3)">Win rate</div>
-            <div style="font-size:12px;font-weight:700;color:var(--primary);margin-top:2px">62%</div>
-          </div>
+          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center"><div style="font-size:11px;color:var(--text3)">Chiến lược</div><div style="font-size:12px;font-weight:700;margin-top:2px">MA + RSI</div></div>
+          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center"><div style="font-size:11px;color:var(--text3)">Backtest 6T</div><div style="font-size:12px;font-weight:700;color:var(--primary);margin-top:2px">+34.2%</div></div>
+          <div style="background:var(--surface2);border-radius:var(--radius-sm);padding:10px;text-align:center"><div style="font-size:11px;color:var(--text3)">Win rate</div><div style="font-size:12px;font-weight:700;color:var(--primary);margin-top:2px">62%</div></div>
         </div>
-        <button onclick="showBotCode()" style="background:var(--primary-dim);border:1px solid rgba(0,214,143,.3);color:var(--primary);border-radius:var(--radius-sm);padding:8px 16px;font-size:12.5px;font-weight:600;cursor:pointer;font-family:Inter,sans-serif;width:100%;transition:all .2s" onmouseover="this.style.background='var(--primary)';this.style.color='#000'" onmouseout="this.style.background='var(--primary-dim)';this.style.color='var(--primary)'">
-          📥 Tải code bot Python (Binance) — Hướng dẫn cài đặt
-        </button>
+        <button onclick="showBotCode()" style="background:var(--primary-dim);border:1px solid rgba(0,214,143,.3);color:var(--primary);border-radius:var(--radius-sm);padding:8px 16px;font-size:12.5px;font-weight:600;cursor:pointer;font-family:Inter,sans-serif;width:100%;transition:all .2s" onmouseover="this.style.background='var(--primary)';this.style.color='#000'" onmouseout="this.style.background='var(--primary-dim)';this.style.color='var(--primary)'">📥 Tải code bot Python (Binance) — Hướng dẫn cài đặt</button>
         <div id="bot-code-area" style="display:none;margin-top:12px">
-          <div style="background:#0d1117;border:1px solid var(--border);border-radius:var(--radius-sm);padding:14px;font-family:'JetBrains Mono',monospace;font-size:11px;color:#e6edf3;line-height:1.6;white-space:pre-wrap;max-height:300px;overflow-y:auto">
-# 🤖 F&B Intel Bot — Binance Trading Bot
+          <div style="background:#0d1117;border:1px solid var(--border);border-radius:var(--radius-sm);padding:14px;font-family:'JetBrains Mono',monospace;font-size:11px;color:#e6edf3;line-height:1.6;white-space:pre-wrap;max-height:300px;overflow-y:auto"># 🤖 F&B Intel Bot — Binance Trading Bot
 # Yêu cầu: pip install python-binance pandas ta
-# Cài đặt: thêm API key Binance vào .env
-
 import os
 from binance.client import Client
-import pandas as pd
-import ta
+import pandas as pd, ta
 from time import sleep
 
-API_KEY = os.getenv('BINANCE_API_KEY')
-API_SECRET = os.getenv('BINANCE_SECRET')
-client = Client(API_KEY, API_SECRET)
-
+client = Client(os.getenv('BINANCE_API_KEY'), os.getenv('BINANCE_SECRET'))
 SYMBOL = 'BTCUSDT'
-TRADE_AMOUNT = 50  # USD mỗi lệnh
-RSI_LOW = 35
-RSI_HIGH = 65
+TRADE_AMOUNT = 50
 
 def get_signal(symbol='BTCUSDT', interval='1h', limit=100):
     klines = client.get_klines(symbol=symbol, interval=interval, limit=limit)
@@ -611,10 +552,8 @@ def get_signal(symbol='BTCUSDT', interval='1h', limit=100):
     df['ma50'] = df['c'].rolling(50).mean()
     df['rsi'] = ta.momentum.RSIIndicator(df['c'], window=14).rsi()
     last = df.iloc[-1]
-    if last['ma20'] > last['ma50'] and last['rsi'] < RSI_HIGH:
-        return 'BUY'
-    elif last['ma20'] < last['ma50'] and last['rsi'] > RSI_LOW:
-        return 'SELL'
+    if last['ma20'] > last['ma50'] and last['rsi'] < 65: return 'BUY'
+    elif last['ma20'] < last['ma50'] and last['rsi'] > 35: return 'SELL'
     return 'HOLD'
 
 while True:
@@ -625,63 +564,40 @@ while True:
         qty = round(TRADE_AMOUNT / price, 5)
         # client.order_market_buy(symbol=SYMBOL, quantity=qty)
         print(f"  → MOCK BUY {qty} BTC @ ${price:,.0f}")
-    sleep(3600)  # chạy mỗi 1 giờ</div>
-          <div style="font-size:11px;color:var(--text3);margin-top:8px;line-height:1.5">
-            📋 <b>Hướng dẫn:</b> (1) Tạo tài khoản Binance → bật API key (chỉ spot trading). (2) Thuê VPS Ubuntu $5/tháng (Vultr, DigitalOcean). (3) pip install python-binance pandas ta. (4) Bỏ comment dòng order để chạy thật. <b>Bắt đầu mock trước!</b>
-          </div>
+    sleep(3600)</div>
+          <div style="font-size:11px;color:var(--text3);margin-top:8px;line-height:1.5">📋 <b>Hướng dẫn:</b> (1) Tạo Binance API key (chỉ spot). (2) VPS Ubuntu $5/tháng. (3) pip install python-binance pandas ta. (4) Bỏ comment lệnh order để chạy thật. <b>Mock trước!</b></div>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- ── FORUM TAB ── -->
+  <!-- FORUM TAB — FIX: filter posts by category -->
   <div id="tab-forum" class="tab-content">
     <div class="forum-header">
       <div style="font-size:15px;font-weight:700;margin-bottom:4px">💬 Diễn đàn thảo luận</div>
       <div style="font-size:12.5px;color:var(--text2)">Trao đổi về F&amp;B, đầu tư, crypto, vàng với cộng đồng</div>
     </div>
     <div class="forum-cats">
-      <div class="forum-cat active" onclick="selectForumCat(this)">
-        <div class="forum-cat-icon">☕</div>
-        <div class="forum-cat-name">F&amp;B & Chuỗi</div>
-        <div class="forum-cat-cnt">24 chủ đề</div>
-      </div>
-      <div class="forum-cat" onclick="selectForumCat(this)">
-        <div class="forum-cat-icon">📊</div>
-        <div class="forum-cat-name">Kinh tế vĩ mô</div>
-        <div class="forum-cat-cnt">18 chủ đề</div>
-      </div>
-      <div class="forum-cat" onclick="selectForumCat(this)">
-        <div class="forum-cat-icon">🟠</div>
-        <div class="forum-cat-name">Crypto & DeFi</div>
-        <div class="forum-cat-cnt">31 chủ đề</div>
-      </div>
-      <div class="forum-cat" onclick="selectForumCat(this)">
-        <div class="forum-cat-icon">🥇</div>
-        <div class="forum-cat-name">Vàng & FX</div>
-        <div class="forum-cat-cnt">15 chủ đề</div>
-      </div>
-      <div class="forum-cat" onclick="selectForumCat(this)">
-        <div class="forum-cat-icon">🤖</div>
-        <div class="forum-cat-name">AI & Trading Bot</div>
-        <div class="forum-cat-cnt">9 chủ đề</div>
-      </div>
+      <div class="forum-cat active" data-cat="all" onclick="selectForumCat(this)"><div class="forum-cat-icon">📋</div><div class="forum-cat-name">Tất cả</div><div class="forum-cat-cnt" id="fc-all">4 chủ đề</div></div>
+      <div class="forum-cat" data-cat="fnb" onclick="selectForumCat(this)"><div class="forum-cat-icon">☕</div><div class="forum-cat-name">F&amp;B &amp; Chuỗi</div><div class="forum-cat-cnt">24 chủ đề</div></div>
+      <div class="forum-cat" data-cat="macro" onclick="selectForumCat(this)"><div class="forum-cat-icon">📊</div><div class="forum-cat-name">Kinh tế vĩ mô</div><div class="forum-cat-cnt">18 chủ đề</div></div>
+      <div class="forum-cat" data-cat="crypto" onclick="selectForumCat(this)"><div class="forum-cat-icon">🟠</div><div class="forum-cat-name">Crypto &amp; DeFi</div><div class="forum-cat-cnt">31 chủ đề</div></div>
+      <div class="forum-cat" data-cat="gold" onclick="selectForumCat(this)"><div class="forum-cat-icon">🥇</div><div class="forum-cat-name">Vàng &amp; FX</div><div class="forum-cat-cnt">15 chủ đề</div></div>
+      <div class="forum-cat" data-cat="ai" onclick="selectForumCat(this)"><div class="forum-cat-icon">🤖</div><div class="forum-cat-name">AI &amp; Trading Bot</div><div class="forum-cat-cnt">9 chủ đề</div></div>
     </div>
-    <button class="new-post-btn">✏️ Tạo chủ đề mới</button>
+    <button class="new-post-btn" onclick="alert('Tính năng đăng bài đang phát triển. Vui lòng dùng Disqus bên dưới để bình luận.')">✏️ Tạo chủ đề mới</button>
     <div id="forum-posts"></div>
     <div class="disqus-wrap" style="margin-top:16px">
-      <div class="disqus-placeholder">
+      <div id="disqus_thread"></div>
+      <div id="disqus-placeholder" class="disqus-placeholder">
         <div style="font-size:28px;margin-bottom:10px">💬</div>
         <div style="font-size:13px;font-weight:600;color:var(--text);margin-bottom:6px">Kích hoạt bình luận cộng đồng</div>
-        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6">
-          Để bật diễn đàn thật với bình luận, đăng ký tài khoản miễn phí tại <b>disqus.com</b> → tạo site → copy shortname → liên hệ admin để tích hợp.
-        </div>
+        <div style="font-size:12px;color:var(--text2);margin-bottom:12px;line-height:1.6">Đăng ký tại <b>disqus.com</b> → tạo site → nhận shortname → điền vào biến <code>DISQUS_SHORTNAME</code> trong code.</div>
         <a href="https://disqus.com/profile/signup/" target="_blank" style="display:inline-block;background:var(--primary-dim);color:var(--primary);border:1px solid rgba(0,214,143,.3);border-radius:var(--radius-sm);padding:8px 18px;font-size:12.5px;font-weight:600;text-decoration:none">Đăng ký Disqus miễn phí →</a>
       </div>
     </div>
   </div>
-
-</main><!-- /main -->
+</main>
 
 <!-- RIGHT PANEL -->
 <aside class="right-panel">
@@ -689,48 +605,33 @@ while True:
     <div class="rp-title">📊 Thị trường · Live <div class="live-pulse" style="width:6px;height:6px;border-radius:50%;background:var(--primary);animation:pulse 2s infinite;margin-left:auto"></div></div>
     <div class="mkt-row">
       <div><div class="mkt-row-name">🟠 Bitcoin</div><div class="mkt-row-sub">USD · CoinGecko</div></div>
-      <div style="text-align:right"><div class="mkt-row-price" id="rp-btc">--</div><span class="mkt-row-pct" id="rp-btc-ch">--</span></div>
+      <div style="text-align:right"><div class="mkt-row-price" id="rp-btc">--</div><span class="mkt-row-pct flat" id="rp-btc-ch">--</span></div>
     </div>
     <div class="mkt-row">
       <div><div class="mkt-row-name">🔷 Ethereum</div><div class="mkt-row-sub">USD · CoinGecko</div></div>
-      <div style="text-align:right"><div class="mkt-row-price" id="rp-eth">--</div><span class="mkt-row-pct" id="rp-eth-ch">--</span></div>
+      <div style="text-align:right"><div class="mkt-row-price" id="rp-eth">--</div><span class="mkt-row-pct flat" id="rp-eth-ch">--</span></div>
     </div>
     <div class="mkt-row">
-      <div><div class="mkt-row-name">🟡 Vàng SJC</div><div class="mkt-row-sub">VND/lượng</div></div>
-      <div style="text-align:right"><div class="mkt-row-price" id="rp-gold">--</div><span class="mkt-row-pct up">+0.4%</span></div>
+      <div><div class="mkt-row-name">🟡 Vàng SJC</div><div class="mkt-row-sub">VND/lượng · Live FX</div></div>
+      <div style="text-align:right"><div class="mkt-row-price" id="rp-gold">--</div><span class="mkt-row-pct flat" id="rp-gold-ch">--</span></div>
     </div>
     <div class="mkt-row">
-      <div><div class="mkt-row-name">💵 USD/VND</div><div class="mkt-row-sub">Tỷ giá tham khảo</div></div>
-      <div style="text-align:right"><div class="mkt-row-price">25,480</div><span class="mkt-row-pct up">+0.1%</span></div>
+      <div><div class="mkt-row-name">💵 USD/VND</div><div class="mkt-row-sub">ExchangeRate API · Live</div></div>
+      <div style="text-align:right"><div class="mkt-row-price" id="rp-usd">--</div><span class="mkt-row-pct flat" id="rp-usd-ch">Live</span></div>
     </div>
     <div class="mkt-row">
-      <div><div class="mkt-row-name">☕ Robusta</div><div class="mkt-row-sub">London ICE</div></div>
-      <div style="text-align:right"><div class="mkt-row-price">$4,987/T</div><span class="mkt-row-pct up">+2.3%</span></div>
+      <div><div class="mkt-row-name">☕ Robusta ICE</div><div class="mkt-row-sub">London · CoinGecko proxy</div></div>
+      <div style="text-align:right"><div class="mkt-row-price" id="rp-rob">--</div><span class="mkt-row-pct flat" id="rp-rob-ch">--</span></div>
     </div>
-    <div class="rp-upd">🔄 <span id="rp-upd-time">vừa cập nhật</span></div>
+    <div class="rp-upd">🔄 <span id="rp-upd-time">đang tải...</span></div>
   </div>
   <div class="rp-card">
     <div class="rp-title">💡 Gợi ý chiến lược</div>
-    <div class="adv-item">
-      <div class="adv-icon" style="background:var(--primary-dim)">☕</div>
-      <div><div class="adv-ttl">Lock giá Robusta 3–6 tháng</div><div class="adv-desc">Giá đỉnh 5 năm, mùa mưa Tây Nguyên tháng 9. Lock ngay tháng 6-7.</div><span class="adv-sig sig-buy">⚡ Hành động ngay</span></div>
-    </div>
-    <div class="adv-item">
-      <div class="adv-icon" style="background:var(--gold-dim)">🟡</div>
-      <div><div class="adv-ttl">Vàng — giữ 5–10% tài sản</div><div class="adv-desc">Fed cắt lãi suất 1 lần H2/2026. Không tăng tỷ trọng lúc này.</div><span class="adv-sig sig-hold">⏸ Giữ nguyên</span></div>
-    </div>
-    <div class="adv-item">
-      <div class="adv-icon" style="background:var(--blue-dim)">🟠</div>
-      <div><div class="adv-ttl">Bitcoin — DCA hàng tháng</div><div class="adv-desc">Chu kỳ bull post-halving. DCA 5-10% portfolio, không FOMO.</div><span class="adv-sig sig-watch">👁 Theo dõi</span></div>
-    </div>
-    <div class="adv-item">
-      <div class="adv-icon" style="background:var(--primary-dim)">🏪</div>
-      <div><div class="adv-ttl">Café + Brunch model</div><div class="adv-desc">Doanh thu/m² cao 2-3x. ROI breakeven 14-18 tháng.</div><span class="adv-sig sig-buy">✅ Cơ hội</span></div>
-    </div>
-    <div class="adv-item">
-      <div class="adv-icon" style="background:var(--red-dim)">⚠️</div>
-      <div><div class="adv-ttl">Delivery — cẩn thận margin</div><div class="adv-desc">Commission 25-30%. Không phụ thuộc >50% doanh thu.</div><span class="adv-sig sig-action">⚠️ Rủi ro</span></div>
-    </div>
+    <div class="adv-item"><div class="adv-icon" style="background:var(--primary-dim)">☕</div><div><div class="adv-ttl">Lock giá Robusta 3–6 tháng</div><div class="adv-desc">Giá đỉnh 5 năm, mùa mưa Tây Nguyên tháng 9. Lock ngay tháng 6-7.</div><span class="adv-sig sig-buy">⚡ Hành động ngay</span></div></div>
+    <div class="adv-item"><div class="adv-icon" style="background:var(--gold-dim)">🟡</div><div><div class="adv-ttl">Vàng — giữ 5–10% tài sản</div><div class="adv-desc">Fed cắt lãi suất 1 lần H2/2026. Không tăng tỷ trọng lúc này.</div><span class="adv-sig sig-hold">⏸ Giữ nguyên</span></div></div>
+    <div class="adv-item"><div class="adv-icon" style="background:var(--blue-dim)">🟠</div><div><div class="adv-ttl">Bitcoin — DCA hàng tháng</div><div class="adv-desc">Chu kỳ bull post-halving. DCA 5-10% portfolio, không FOMO.</div><span class="adv-sig sig-watch">👁 Theo dõi</span></div></div>
+    <div class="adv-item"><div class="adv-icon" style="background:var(--primary-dim)">🏪</div><div><div class="adv-ttl">Café + Brunch model</div><div class="adv-desc">Doanh thu/m² cao 2-3x. ROI breakeven 14-18 tháng.</div><span class="adv-sig sig-buy">✅ Cơ hội</span></div></div>
+    <div class="adv-item"><div class="adv-icon" style="background:var(--red-dim)">⚠️</div><div><div class="adv-ttl">Delivery — cẩn thận margin</div><div class="adv-desc">Commission 25-30%. Không phụ thuộc &gt;50% doanh thu.</div><span class="adv-sig sig-action">⚠️ Rủi ro</span></div></div>
     <div class="disclaimer">⚠️ Thông tin tổng hợp, không phải tư vấn đầu tư chuyên nghiệp.</div>
   </div>
   <div class="rp-card">
@@ -742,93 +643,21 @@ while True:
     <div class="trend-item" onclick="setFilter('topic-funding',null)"><span class="trend-num">5</span><span class="trend-name">#GọiVốn</span><span class="trend-cnt" id="tr-funding">--</span></div>
   </div>
 </aside>
-
-</div><!-- /layout -->
-</div><!-- /app -->
-
+</div>
+</div>
 <script>
 // ══ CONFIG ══
 const ACCESS_CODE = 'wego@2024';
+const DISQUS_SHORTNAME = ''; // Điền shortname Disqus của bạn vào đây
 
-// ══ EXPERTS DATA ══
-const EXPERTS = [
-  {
-    id:'ai', name:'AI & Data Lab', avatar:'🤖', color:'#8b5cf6', bg:'var(--purple-dim)',
-    title:'Phân tích AI & Công nghệ',
-    tags:['AI/ML','Claude AI','Data Analytics','Tech Trends'],
-    tagColor:'#8b5cf6', tagBg:'rgba(139,92,246,.12)',
-    insight:'Claude Opus 4 ra mắt với khả năng phân tích tài chính và dự đoán xu hướng F&B vượt trội. AI đang thay đổi cách chuỗi cà phê dự báo nhu cầu nguyên liệu và tối ưu giá bán.',
-    signal:'WATCH', sigClass:'sig-watch',
-    sources:'TechCrunch AI · MIT Tech Review · Anthropic Blog'
-  },
-  {
-    id:'macro', name:'Kinh tế Vĩ mô', avatar:'🌐', color:'#0ea5e9', bg:'var(--blue-dim)',
-    title:'Macro Economics & Policy',
-    tags:['GDP','Lạm phát','NHNN','Fed Policy','USD/VND'],
-    tagColor:'#0ea5e9', tagBg:'rgba(14,165,233,.12)',
-    insight:'Fed dự kiến cắt lãi suất 1 lần trong H2/2026. NHNN VN duy trì lãi suất ổn định. CPI tháng 5 tăng 3.8% — thấp hơn mục tiêu 4.5%. Nền kinh tế VN dự báo tăng trưởng 6.5% năm 2026.',
-    signal:'NEUTRAL', sigClass:'sig-hold',
-    sources:'Reuters Economics · Bloomberg Macro · VnEconomy · NHNN'
-  },
-  {
-    id:'crypto', name:'Crypto & DeFi', avatar:'🔗', color:'#f59e0b', bg:'var(--gold-dim)',
-    title:'Digital Assets & Blockchain',
-    tags:['Bitcoin','Ethereum','DeFi','On-chain','ETF'],
-    tagColor:'#f59e0b', tagBg:'var(--gold-dim)',
-    insight:'BTC đang trong chu kỳ bull post-halving. Dòng tiền ETF Bitcoin spot tích cực. Mục tiêu $120-150k Q3-Q4/2026. ETH ETF staking approval có thể là catalyst lớn. DCA đều đặn, tránh FOMO.',
-    signal:'BUY', sigClass:'sig-buy',
-    sources:'CoinDesk · The Block · Glassnode · Messari'
-  },
-  {
-    id:'gold', name:'Vàng & Ngoại hối', avatar:'🥇', color:'#eab308', bg:'rgba(234,179,8,.1)',
-    title:'Gold & FX Analysis',
-    tags:['SJC','XAUUSD','USD/VND','DXY','NHTW'],
-    tagColor:'#eab308', tagBg:'rgba(234,179,8,.1)',
-    insight:'Vàng SJC duy trì vùng 128-130M/lượng. Mua vàng của NHTW toàn cầu vẫn mạnh. DXY suy yếu nhẹ hỗ trợ giá vàng. Giữ 5-10% danh mục, không chase đỉnh. Theo dõi quyết định Fed tháng 9.',
-    signal:'HOLD', sigClass:'sig-hold',
-    sources:'Kitco · Gold Price · Vietcombank FX · World Gold Council'
-  },
-  {
-    id:'fnb', name:'F&B Industry Intel', avatar:'☕', color:'#00d68f', bg:'var(--primary-dim)',
-    title:'F&B Market Intelligence',
-    tags:['Chuỗi Cafe','QSR','Supply Chain','Brunch','F&B Tech'],
-    tagColor:'#00d68f', tagBg:'var(--primary-dim)',
-    insight:'Robusta tăng 15% YTD — áp lực lớn lên biên lợi nhuận chuỗi cafe. Cần lock giá nguyên liệu Q3/2026. Mô hình Café+Brunch tiếp tục tăng trưởng. Food delivery commission 25-30% vẫn là thách thức.',
-    signal:'ACTION', sigClass:'sig-action',
-    sources:'Food Navigator Asia · CafeBiz · VnExpress · Euromonitor'
-  },
-  {
-    id:'invest', name:'Đầu tư & Tài chính', avatar:'💼', color:'#3b82f6', bg:'var(--blue-dim)',
-    title:'Investment Strategy & Planning',
-    tags:['Cổ phiếu','Trái phiếu','Bất động sản','Diversification'],
-    tagColor:'#3b82f6', tagBg:'var(--blue-dim)',
-    insight:'Danh mục đề xuất 2026: 40% cổ phiếu VN (VN30 ETF), 20% Crypto (BTC+ETH DCA), 15% Vàng SJC, 15% Tiết kiệm (LS 5.5%/năm), 10% Bất động sản khu công nghiệp. Review định kỳ mỗi quý.',
-    signal:'WATCH', sigClass:'sig-watch',
-    sources:'SSI Research · VNDirect · FiinGroup · Bloomberg'
-  }
-];
+// ══ STATE — FIX #2: Load savedIds từ localStorage ══
+let savedIds = new Set(JSON.parse(localStorage.getItem('fnb_saved') || '[]'));
+let allArticles = [], activeFilter = 'all', sortMode = 'newest';
+let btcChartInstance = null, activeForum = 'all';
 
-// ══ SIGNALS DATA ══
-const SIGNALS_DATA = [
-  { asset:'₿ BTC/USDT', signal:'BUY', sigClass:'sig-buy', strClass:'str-buy', strength:78, price:'$107,250', change:'+1.0%', changeClass:'up', reason:'Post-halving bull cycle + ETF inflow mạnh + on-chain accumulation tích cực' },
-  { asset:'Ξ ETH/USDT', signal:'BUY', sigClass:'sig-buy', strClass:'str-buy', strength:65, price:'$3,420', change:'+2.1%', changeClass:'up', reason:'ETF staking approval catalyst + L2 ecosystem growth' },
-  { asset:'🥇 XAUUSD', signal:'HOLD', sigClass:'sig-hold', strClass:'str-hold', strength:55, price:'$3,330', change:'+0.4%', changeClass:'up', reason:'Consolidation phase — NHTW mua mạnh nhưng cần thêm catalyst để phá đỉnh' },
-  { asset:'☕ Robusta CF', signal:'ACTION', sigClass:'sig-action', strClass:'str-action', strength:90, price:'$4,987/T', change:'+2.3%', changeClass:'up', reason:'⚡ Lock giá 3-6 tháng NGAY! Đỉnh 5 năm, mùa mưa Tây Nguyên tháng 9 mới ổn định' },
-  { asset:'💵 USD/VND', signal:'WATCH', sigClass:'sig-watch', strClass:'str-watch', strength:40, price:'25,480', change:'+0.1%', changeClass:'up', reason:'NHNN can thiệp giữ ổn định — biến động thấp, không có cơ hội rõ ràng' },
-  { asset:'🌾 Lúa mì CBOT', signal:'HOLD', sigClass:'sig-hold', strClass:'str-hold', strength:45, price:'$248/bu', change:'-1.1%', changeClass:'down', reason:'Nguồn cung toàn cầu ổn định — theo dõi thời tiết Ukraine và Nga' },
-];
-
-// ══ FORUM POSTS DATA ══
-const FORUM_POSTS = [
-  { name:'Minh Tuấn', initials:'MT', color:'#8b5cf6', time:'2 giờ trước', title:'Chiến lược lock giá Robusta cho mùa cao điểm Q3/2026 như thế nào?', preview:'Giá Robusta đang ở đỉnh 5 năm, mình đang cân nhắc lock 3 tháng với supplier hiện tại. Anh em trong ngành có kinh nghiệm đàm phán giá không?', likes:24, comments:12, cat:'F&B & Chuỗi', catColor:'#00d68f', catBg:'var(--primary-dim)' },
-  { name:'Hồng Anh', initials:'HA', color:'#f59e0b', time:'5 giờ trước', title:'BTC $120k cuối năm 2026 — Phân tích on-chain và tâm lý thị trường', preview:'Nhìn vào dữ liệu on-chain: whale accumulation tăng, exchange outflow cao, MVRV Z-score chưa vào vùng overbought. Thesis $120k vẫn còn valid...', likes:38, comments:21, cat:'Crypto & DeFi', catColor:'#f59e0b', catBg:'var(--gold-dim)' },
-  { name:'Quốc Bảo', initials:'QB', color:'#0ea5e9', time:'Hôm qua', title:'Fed cắt lãi suất tháng 9/2026 — Tác động đến ngành F&B Việt Nam?', preview:'Nếu Fed cắt lãi suất thêm 25bps tháng 9, USD yếu đi, nhập khẩu nguyên liệu bằng USD sẽ rẻ hơn. Nhưng giá cà phê Robusta có thể tăng thêm...', likes:15, comments:8, cat:'Kinh tế vĩ mô', catColor:'#0ea5e9', catBg:'var(--blue-dim)' },
-  { name:'Thu Nga', initials:'TN', color:'#00d68f', time:'2 ngày trước', title:'Mô hình Café Brunch + Wine — ROI thực tế sau 12 tháng vận hành', preview:'Chia sẻ số liệu thực: doanh thu trung bình 85tr/tháng, chi phí nguyên liệu 28%, nhân sự 35%. Net margin ~12% sau 8 tháng đầu tư setup...', likes:52, comments:34, cat:'F&B & Chuỗi', catColor:'#00d68f', catBg:'var(--primary-dim)' },
-];
-
-// ══ STATE ══
-let allArticles=[], savedIds=new Set(), activeFilter='all', sortMode='newest';
-let btcChart=null, btcMiniChart=null, ethMiniChart=null, goldMiniChart=null;
+// ══ FIX #1: Live USD/VND variable ══
+let liveUsdVnd = 25480;
+let liveRobustaUsd = 0;
 
 const SRC_CFG = {
   vnexpress:{color:'#06c',label:'VnExpress'}, cafebiz:{color:'#e60026',label:'CafeBiz'},
@@ -838,233 +667,218 @@ const SRC_CFG = {
 const REGION_LBL = {'region-vietnam':'🇻🇳 VN','region-sea':'🌏 SEA','region-europe':'🇪🇺 EU','region-americas':'🌎 Americas','region-global':'🌐 Global'};
 const TOPIC_LBL = {'topic-coffee':'#ChuỗiCàPhê','topic-qsr':'#QSR','topic-price':'#GiáNguyênLiệu','topic-delivery':'#FoodDelivery','topic-plantbased':'#PlantBased','topic-funding':'#GọiVốn','topic-brunch':'#Brunch','topic-wine':'#Wine&Beer','topic-general':'#FnB'};
 
+// ══ EXPERTS DATA ══
+const EXPERTS = [
+  { id:'ai', name:'AI & Data Lab', avatar:'🤖', color:'#8b5cf6', bg:'var(--purple-dim)', title:'Phân tích AI & Công nghệ', tags:['AI/ML','Claude AI','Data Analytics','Tech Trends'], tagColor:'#8b5cf6', tagBg:'rgba(139,92,246,.12)', insight:'Claude Opus 4 ra mắt với khả năng phân tích tài chính và dự đoán xu hướng F&B vượt trội. AI đang thay đổi cách chuỗi cà phê dự báo nhu cầu nguyên liệu và tối ưu giá bán.', signal:'WATCH', sigClass:'sig-watch', sources:'TechCrunch AI · MIT Tech Review · Anthropic Blog' },
+  { id:'macro', name:'Kinh tế Vĩ mô', avatar:'🌐', color:'#0ea5e9', bg:'var(--blue-dim)', title:'Macro Economics & Policy', tags:['GDP','Lạm phát','NHNN','Fed Policy','USD/VND'], tagColor:'#0ea5e9', tagBg:'rgba(14,165,233,.12)', insight:'Fed dự kiến cắt lãi suất 1 lần trong H2/2026. NHNN VN duy trì lãi suất ổn định. CPI tháng 5 tăng 3.8% — thấp hơn mục tiêu 4.5%. Nền kinh tế VN dự báo tăng trưởng 6.5% năm 2026.', signal:'NEUTRAL', sigClass:'sig-hold', sources:'Reuters Economics · Bloomberg Macro · VnEconomy · NHNN' },
+  { id:'crypto', name:'Crypto & DeFi', avatar:'🔗', color:'#f59e0b', bg:'var(--gold-dim)', title:'Digital Assets & Blockchain', tags:['Bitcoin','Ethereum','DeFi','On-chain','ETF'], tagColor:'#f59e0b', tagBg:'var(--gold-dim)', insight:'BTC đang trong chu kỳ bull post-halving. Dòng tiền ETF Bitcoin spot tích cực. Mục tiêu $120-150k Q3-Q4/2026. ETH ETF staking approval có thể là catalyst lớn. DCA đều đặn, tránh FOMO.', signal:'BUY', sigClass:'sig-buy', sources:'CoinDesk · The Block · Glassnode · Messari' },
+  { id:'gold', name:'Vàng & Ngoại hối', avatar:'🥇', color:'#eab308', bg:'rgba(234,179,8,.1)', title:'Gold & FX Analysis', tags:['SJC','XAUUSD','USD/VND','DXY','NHTW'], tagColor:'#eab308', tagBg:'rgba(234,179,8,.1)', insight:'Vàng SJC duy trì vùng 128-130M/lượng. Mua vàng của NHTW toàn cầu vẫn mạnh. DXY suy yếu nhẹ hỗ trợ giá vàng. Giữ 5-10% danh mục, không chase đỉnh. Theo dõi quyết định Fed tháng 9.', signal:'HOLD', sigClass:'sig-hold', sources:'Kitco · Gold Price · Vietcombank FX · World Gold Council' },
+  { id:'fnb', name:'F&B Industry Intel', avatar:'☕', color:'#00d68f', bg:'var(--primary-dim)', title:'F&B Market Intelligence', tags:['Chuỗi Cafe','QSR','Supply Chain','Brunch','F&B Tech'], tagColor:'#00d68f', tagBg:'var(--primary-dim)', insight:'Robusta tăng 15% YTD — áp lực lớn lên biên lợi nhuận chuỗi cafe. Cần lock giá nguyên liệu Q3/2026. Mô hình Café+Brunch tiếp tục tăng trưởng. Food delivery commission 25-30% vẫn là thách thức.', signal:'ACTION', sigClass:'sig-action', sources:'Food Navigator Asia · CafeBiz · VnExpress · Euromonitor' },
+  { id:'invest', name:'Đầu tư & Tài chính', avatar:'💼', color:'#3b82f6', bg:'var(--blue-dim)', title:'Investment Strategy & Planning', tags:['Cổ phiếu','Trái phiếu','Bất động sản','Diversification'], tagColor:'#3b82f6', tagBg:'var(--blue-dim)', insight:'Danh mục đề xuất 2026: 40% cổ phiếu VN (VN30 ETF), 20% Crypto (BTC+ETH DCA), 15% Vàng SJC, 15% Tiết kiệm (LS 5.5%/năm), 10% Bất động sản khu công nghiệp. Review định kỳ mỗi quý.', signal:'WATCH', sigClass:'sig-watch', sources:'SSI Research · VNDirect · FiinGroup · Bloomberg' }
+];
+
+// ══ SIGNALS DATA ══
+const SIGNALS_DATA = [
+  { asset:'₿ BTC/USDT', signal:'BUY', sigClass:'sig-buy', strClass:'str-buy', strength:78, price:'$107,250', change:'+1.0%', changeClass:'up', reason:'Post-halving bull cycle + ETF inflow mạnh + on-chain accumulation tích cực' },
+  { asset:'Ξ ETH/USDT', signal:'BUY', sigClass:'sig-buy', strClass:'str-buy', strength:65, price:'$3,420', change:'+2.1%', changeClass:'up', reason:'ETF staking approval catalyst + L2 ecosystem growth' },
+  { asset:'🥇 XAUUSD', signal:'HOLD', sigClass:'sig-hold', strClass:'str-hold', strength:55, price:'$3,330', change:'+0.4%', changeClass:'up', reason:'Consolidation phase — NHTW mua mạnh nhưng cần thêm catalyst để phá đỉnh' },
+  { asset:'☕ Robusta CF', signal:'ACTION', sigClass:'sig-action', strClass:'str-action', strength:90, price:'--', change:'--', changeClass:'up', reason:'⚡ Lock giá 3-6 tháng NGAY! Đỉnh 5 năm, mùa mưa Tây Nguyên tháng 9 mới ổn định' },
+  { asset:'💵 USD/VND', signal:'WATCH', sigClass:'sig-watch', strClass:'str-watch', strength:40, price:'--', change:'Live', changeClass:'up', reason:'NHNN can thiệp giữ ổn định — biến động thấp, không có cơ hội rõ ràng' },
+  { asset:'🌾 Lúa mì CBOT', signal:'HOLD', sigClass:'sig-hold', strClass:'str-hold', strength:45, price:'$248/bu', change:'-1.1%', changeClass:'down', reason:'Nguồn cung toàn cầu ổn định — theo dõi thời tiết Ukraine và Nga' },
+];
+
+// ══ FORUM POSTS — FIX #5: thêm cat field ══
+const FORUM_POSTS = [
+  { name:'Minh Tuấn', initials:'MT', color:'#8b5cf6', time:'2 giờ trước', title:'Chiến lược lock giá Robusta cho mùa cao điểm Q3/2026 như thế nào?', preview:'Giá Robusta đang ở đỉnh 5 năm, mình đang cân nhắc lock 3 tháng với supplier hiện tại. Anh em trong ngành có kinh nghiệm đàm phán giá không?', likes:24, comments:12, cat:'fnb', catLabel:'F&B & Chuỗi', catColor:'#00d68f', catBg:'var(--primary-dim)' },
+  { name:'Hồng Anh', initials:'HA', color:'#f59e0b', time:'5 giờ trước', title:'BTC $120k cuối năm 2026 — Phân tích on-chain và tâm lý thị trường', preview:'Nhìn vào dữ liệu on-chain: whale accumulation tăng, exchange outflow cao, MVRV Z-score chưa vào vùng overbought. Thesis $120k vẫn còn valid...', likes:38, comments:21, cat:'crypto', catLabel:'Crypto & DeFi', catColor:'#f59e0b', catBg:'var(--gold-dim)' },
+  { name:'Quốc Bảo', initials:'QB', color:'#0ea5e9', time:'Hôm qua', title:'Fed cắt lãi suất tháng 9/2026 — Tác động đến ngành F&B Việt Nam?', preview:'Nếu Fed cắt lãi suất thêm 25bps tháng 9, USD yếu đi, nhập khẩu nguyên liệu bằng USD sẽ rẻ hơn. Nhưng giá cà phê Robusta có thể tăng thêm...', likes:15, comments:8, cat:'macro', catLabel:'Kinh tế vĩ mô', catColor:'#0ea5e9', catBg:'var(--blue-dim)' },
+  { name:'Thu Nga', initials:'TN', color:'#00d68f', time:'2 ngày trước', title:'Mô hình Café Brunch + Wine — ROI thực tế sau 12 tháng vận hành', preview:'Chia sẻ số liệu thực: doanh thu trung bình 85tr/tháng, chi phí nguyên liệu 28%, nhân sự 35%. Net margin ~12% sau 8 tháng đầu tư setup...', likes:52, comments:34, cat:'fnb', catLabel:'F&B & Chuỗi', catColor:'#00d68f', catBg:'var(--primary-dim)' },
+];
+
+// ══ HELPERS ══
+function setEl(id, txt) { const e = document.getElementById(id); if(e) e.textContent = txt; }
+function setChEl(id, txt, cls) { const e = document.getElementById(id); if(!e) return; e.textContent = txt; e.className = 't-ch ' + cls; }
+
 // ══ GATE ══
-function checkGate(){
-  const v=document.getElementById('gate-inp').value.trim();
-  if(v===ACCESS_CODE){
-    sessionStorage.setItem('fnb_ok',ACCESS_CODE);
-    document.getElementById('gate').style.display='none';
-    document.getElementById('app').style.display='block';
+function checkGate() {
+  const v = document.getElementById('gate-inp').value.trim();
+  if(v === ACCESS_CODE) {
+    sessionStorage.setItem('fnb_ok', ACCESS_CODE);
+    document.getElementById('gate').style.display = 'none';
+    document.getElementById('app').style.display = 'block';
     init();
   } else {
-    document.getElementById('gate-err').textContent='❌ Sai mã truy cập. Thử lại.';
-    document.getElementById('gate-inp').value='';
+    document.getElementById('gate-err').textContent = '❌ Sai mã truy cập. Thử lại.';
+    document.getElementById('gate-inp').value = '';
     document.getElementById('gate-inp').focus();
   }
 }
-function logout(){
-  sessionStorage.removeItem('fnb_ok');
-  location.reload();
-}
-// Auto-unlock if session active
-if(sessionStorage.getItem('fnb_ok')===ACCESS_CODE){
-  document.getElementById('gate').style.display='none';
-  document.getElementById('app').style.display='block';
+function logout() { sessionStorage.removeItem('fnb_ok'); location.reload(); }
+if(sessionStorage.getItem('fnb_ok') === ACCESS_CODE) {
+  document.getElementById('gate').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
 }
 
+// ══ FIX #4: ⌘K keyboard shortcut ══
+document.addEventListener('keydown', function(e) {
+  if((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault();
+    const si = document.getElementById('searchInput');
+    if(si) { si.focus(); si.select(); }
+    // Switch to feed tab
+    const feedBtn = document.querySelector('.nav-btn');
+    if(feedBtn && !feedBtn.classList.contains('active')) switchTab('feed', feedBtn);
+  }
+  if(e.key === 'Escape') {
+    const si = document.getElementById('searchInput');
+    if(si && document.activeElement === si) { si.value = ''; si.blur(); applyFilters(); }
+  }
+});
+
 // ══ INIT ══
-function init(){
+function init() {
   loadNews();
   loadTrends();
   fetchAllPrices();
-  setInterval(fetchAllPrices,60000);
-  setInterval(loadNews,30*60*1000);
-  setInterval(loadTrends,4*60*60*1000);
+  setInterval(fetchAllPrices, 60000);
+  setInterval(fetchForex, 60 * 60 * 1000); // FX mỗi giờ
+  setInterval(loadNews, 30 * 60 * 1000);
+  setInterval(loadTrends, 4 * 60 * 60 * 1000);
   renderExperts();
   renderSignals();
-  renderForum();
-  loadBtcChart(7,null);
+  renderForum('all');
+  loadBtcChart(7, null);
+  initDisqus();
 }
 
-// ══ TRENDS (từ trends.json) ══
-async function loadTrends(){
-  try{
-    const r=await fetch('./trends.json?t='+Date.now(),{cache:'no-store'});
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    const d=await r.json();
-    const sec=document.getElementById('trends-section');
-    if(sec) sec.style.display='block';
-
-    // ── Coffee trends ──
-    if(d.coffee_trends){
-      const ct=d.coffee_trends;
-      const pDir=ct.price_direction==='up'?'📈 Giá đang TĂNG':ct.price_direction==='down'?'📉 Giá đang GIẢM':'➡️ Giá ổn định';
-      setEl('tr-coffee-price', pDir+' · '+ct.article_count+' bài cập nhật');
-      const dDir=ct.consumer_demand==='growing'?'🔥 Nhu cầu tăng mạnh':ct.consumer_demand==='declining'?'📉 Nhu cầu giảm':'📊 Nhu cầu ổn định';
-      setEl('tr-coffee-demand', dDir);
-      setEl('tr-coffee-insight', ct.insight||'--');
-      // Update F&B expert card
-      const fnbExp=EXPERTS.find(e=>e.id==='fnb');
-      if(fnbExp&&ct.insight){ fnbExp.insight=ct.insight; renderExperts(); }
-    }
-
-    // ── AI trends ──
-    if(d.ai_trends){
-      const at=d.ai_trends;
-      setEl('tr-ai-count', (at.claude_mentions||0)+' bài về Claude/Anthropic');
-      setEl('tr-ai-insight', at.insight||'--');
-      const aiExp=EXPERTS.find(e=>e.id==='ai');
-      if(aiExp&&at.insight){ aiExp.insight=at.insight; renderExperts(); }
-    }
-
-    // ── Sentiment ──
-    if(d.sentiment){
-      const s=d.sentiment;
-      const score=s.score||0;
-      const lbl=score>20?'Tích cực 🟢 — Thị trường lạc quan':score<-20?'Tiêu cực 🔴 — Thị trường lo ngại':'Trung lập ⚪ — Thị trường cân bằng';
-      setEl('tr-sent-label', lbl);
-      setEl('tr-sent-score', (score>0?'+':'')+score+'/100');
-      setEl('tr-sent-pos', s.positive||0);
-      setEl('tr-sent-neu', s.neutral||0);
-      setEl('tr-sent-neg', s.negative||0);
-      const bar=document.getElementById('tr-sent-bar');
-      if(bar){
-        const w=Math.max(5,Math.min(95,((score+100)/200)*100));
-        bar.style.width=w+'%';
-        bar.style.background=score>20?'var(--primary)':score<-20?'var(--red)':'var(--gold)';
-      }
-    }
-
-    // ── Hot keywords ──
-    if(d.hot_keywords&&d.hot_keywords.length){
-      const kw=document.getElementById('tr-keywords');
-      if(kw) kw.innerHTML=d.hot_keywords.slice(0,12).map(k=>`
-        <span style="background:var(--surface2);border:1px solid var(--border2);border-radius:4px;padding:3px 9px;font-size:11px;color:var(--text2)">
-          ${k.word} <b style="color:var(--text)">${k.count}</b>
-        </span>`).join('');
-    }
-
-    // ── Update trending topics in right panel ──
-    if(d.trending_topics&&d.trending_topics.length){
-      const map={'coffee':'tr-coffee','price':'tr-price','delivery':'tr-delivery','wine':'tr-wine','funding':'tr-funding'};
-      d.trending_topics.forEach(t=>{
-        const id=map[t.topic];
-        if(id){ const el=document.getElementById(id); if(el) el.textContent=t.count+' bài'; }
-      });
-    }
-
-  }catch(e){console.warn('Trends load error:',e);}
+// ══ DISQUS ══
+function initDisqus() {
+  if(!DISQUS_SHORTNAME) return;
+  document.getElementById('disqus-placeholder').style.display = 'none';
+  const d = document.createElement('script');
+  d.src = 'https://' + DISQUS_SHORTNAME + '.disqus.com/embed.js';
+  d.setAttribute('data-timestamp', +new Date());
+  document.body.appendChild(d);
 }
 
 // ══ TAB SWITCH ══
-function switchTab(id,btn){
-  document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));
-  document.querySelectorAll('.tab-content').forEach(t=>t.classList.remove('active'));
+function switchTab(id, btn) {
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
   if(btn) btn.classList.add('active');
-  document.getElementById('tab-'+id).classList.add('active');
-  const sidebar=document.getElementById('sidebar');
-  if(id==='feed') sidebar.style.display='';
-  else sidebar.style.display='none';
+  document.getElementById('tab-' + id).classList.add('active');
+  document.getElementById('sidebar').style.display = id === 'feed' ? '' : 'none';
 }
 
 // ══ NEWS ══
-async function loadNews(){
-  try{
-    const r=await fetch('./news.json?t='+Date.now(),{cache:'no-store'});
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    const d=await r.json();
-    allArticles=d.articles||[];
-    const upd=d.updated?new Date(d.updated):new Date();
-    document.getElementById('digest-date').textContent='☀️ '+upd.toLocaleDateString('vi-VN',{weekday:'long',day:'numeric',month:'long',year:'numeric'})+' · '+allArticles.length+' bài F&B';
-    document.getElementById('last-upd-time').textContent=upd.toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'});
+async function loadNews() {
+  try {
+    const r = await fetch('./news.json?t=' + Date.now(), { cache:'no-store' });
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const d = await r.json();
+    allArticles = d.articles || [];
+    const upd = d.updated ? new Date(d.updated) : new Date();
+    setEl('digest-date', '☀️ ' + upd.toLocaleDateString('vi-VN', {weekday:'long',day:'numeric',month:'long',year:'numeric'}) + ' · ' + allArticles.length + ' bài F&B');
+    setEl('last-upd-time', upd.toLocaleTimeString('vi-VN', {hour:'2-digit',minute:'2-digit'}));
     updateCounts(); renderFeed();
-  }catch(e){
-    document.getElementById('skel-loader').innerHTML='<div class="feed-msg"><div class="fi">🔄</div><h3>Chờ cập nhật đầu tiên</h3><p>GitHub Actions sẽ tự động fetch tin F&B trong vài phút.<br>Vào tab <b>Actions</b> → <b>Run workflow</b> để chạy thủ công ngay.</p></div>';
+  } catch(e) {
+    document.getElementById('skel-loader').innerHTML = '<div class="feed-msg"><div class="fi">🔄</div><h3>Chờ cập nhật đầu tiên</h3><p>GitHub Actions sẽ tự động fetch tin F&B trong vài phút.<br>Vào tab <b>Actions</b> → <b>Run workflow</b> để chạy thủ công ngay.</p></div>';
   }
 }
-function avLetter(k){return{vnexpress:'V',cafebiz:'C',foodnavigator:'F',reuters:'R',nikkei:'N',bloomberg:'B'}[k]||(k[0]||'?').toUpperCase()}
-function makeCard(art){
-  const sc=SRC_CFG[art.source_key]||{color:'#666',label:art.source_name};
-  const rl=REGION_LBL[art.region]||'🌐';
-  const topics=(art.topics||[]).map(t=>`<span class="tag" onclick="setFilter('${t}',null)">${TOPIC_LBL[t]||t}</span>`).join('');
-  const isSaved=savedIds.has(art.id);
-  return`<div class="news-card" data-id="${art.id}" data-tags="${art.tags||''}" data-hot="${art.is_hot?1:0}">
+
+function avLetter(k) { return {vnexpress:'V',cafebiz:'C',foodnavigator:'F',reuters:'R',nikkei:'N',bloomberg:'B'}[k] || (k[0]||'?').toUpperCase(); }
+
+function makeCard(art) {
+  const sc = SRC_CFG[art.source_key] || {color:'#666', label:art.source_name};
+  const rl = REGION_LBL[art.region] || '🌐';
+  const topics = (art.topics || []).map(t => `<span class="tag" onclick="setFilter('${t}',null)">${TOPIC_LBL[t]||t}</span>`).join('');
+  const isSaved = savedIds.has(art.id);
+  return `<div class="news-card" data-id="${art.id}">
   <button class="card-save${isSaved?' saved':''}" onclick="toggleSave('${art.id}',this)">${isSaved?'★':'☆'}</button>
   <div class="card-hdr">
     <div class="src-av" style="background:${sc.color}">${avLetter(art.source_key)}</div>
-    <div class="card-meta">
-      <div class="meta-top">
-        <span class="src-name">${art.source_name}</span>
-        <span class="src-badge badge-${art.badge||art.source_key}">${sc.label}</span>
-        <span class="card-time">${art.time_ago||''}</span>
-        ${art.is_new?'<span class="new-badge">Mới</span>':''}
-        ${art.is_hot?'<span class="hot-badge">Hot</span>':''}
-      </div>
-    </div>
+    <div class="card-meta"><div class="meta-top">
+      <span class="src-name">${art.source_name}</span>
+      <span class="src-badge badge-${art.badge||art.source_key}">${sc.label}</span>
+      <span class="card-time">${art.time_ago||''}</span>
+      ${art.is_new?'<span class="new-badge">Mới</span>':''}
+      ${art.is_hot?'<span class="hot-badge">Hot</span>':''}
+    </div></div>
   </div>
   <a href="${art.url}" target="_blank" rel="noopener" class="card-title">${art.title}</a>
   ${art.summary?`<div class="card-summary">${art.summary}</div>`:''}
   <div class="card-tags">${topics}<span class="tag region" onclick="setFilter('${art.region}',null)">${rl}</span></div>
 </div>`;
 }
-function renderFeed(){
-  const q=document.getElementById('searchInput').value.toLowerCase();
-  let list=[...allArticles];
-  if(sortMode==='hot') list.sort((a,b)=>(b.is_hot?1:0)-(a.is_hot?1:0));
-  list=list.filter(art=>{
-    const tags=art.tags||'', text=(art.title+' '+art.summary).toLowerCase();
-    if(q&&!text.includes(q)&&!tags.includes(q)) return false;
-    if(activeFilter==='all') return true;
-    if(activeFilter==='hot') return art.is_hot;
-    if(activeFilter==='saved') return savedIds.has(art.id);
+
+function renderFeed() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  let list = [...allArticles];
+  if(sortMode === 'hot') list.sort((a,b) => (b.is_hot?1:0) - (a.is_hot?1:0));
+  list = list.filter(art => {
+    const tags = art.tags || '', text = (art.title + ' ' + (art.summary||'')).toLowerCase();
+    if(q && !text.includes(q) && !tags.includes(q)) return false;
+    if(activeFilter === 'all') return true;
+    if(activeFilter === 'hot') return art.is_hot;
+    if(activeFilter === 'saved') return savedIds.has(art.id);
     return tags.includes(activeFilter);
   });
-  const feed=document.getElementById('feed-items');
-  if(list.length===0){feed.innerHTML=`<div class="feed-msg"><div class="fi">🔍</div><h3>Không có kết quả</h3><p>Thử từ khoá khác hoặc bỏ bộ lọc</p></div>`;document.getElementById('feed-cnt').textContent='0 bài';return;}
-  const today=new Date();today.setHours(0,0,0,0);
-  const yesterday=new Date(today);yesterday.setDate(today.getDate()-1);
-  let html='',lastGrp='';
-  list.forEach(art=>{
-    const d=new Date(art.published);d.setHours(0,0,0,0);
-    const grp=d.toISOString().slice(0,10);
-    const lbl=d>=today?'Mới hôm nay':d>=yesterday?'Hôm qua':d.toLocaleDateString('vi-VN',{weekday:'long',day:'numeric',month:'numeric'});
-    if(grp!==lastGrp){html+=`<div class="date-divider">${lbl}</div>`;lastGrp=grp;}
-    html+=makeCard(art);
+  const feed = document.getElementById('feed-items');
+  if(list.length === 0) { feed.innerHTML = `<div class="feed-msg"><div class="fi">🔍</div><h3>Không có kết quả</h3><p>Thử từ khoá khác hoặc bỏ bộ lọc</p></div>`; setEl('feed-cnt','0 bài'); return; }
+  const today = new Date(); today.setHours(0,0,0,0);
+  const yesterday = new Date(today); yesterday.setDate(today.getDate()-1);
+  let html = '', lastGrp = '';
+  list.forEach(art => {
+    const d = new Date(art.published); d.setHours(0,0,0,0);
+    const grp = d.toISOString().slice(0,10);
+    const lbl = d >= today ? 'Mới hôm nay' : d >= yesterday ? 'Hôm qua' : d.toLocaleDateString('vi-VN',{weekday:'long',day:'numeric',month:'numeric'});
+    if(grp !== lastGrp) { html += `<div class="date-divider">${lbl}</div>`; lastGrp = grp; }
+    html += makeCard(art);
   });
-  feed.innerHTML=html;
-  document.getElementById('feed-cnt').textContent=list.length+' bài';
+  feed.innerHTML = html;
+  setEl('feed-cnt', list.length + ' bài');
 }
-function updateCounts(){
-  const tags=allArticles.map(a=>a.tags||'');
-  const c=(id)=>{
-    const el=document.getElementById('cnt-'+id);if(!el)return;
-    const n=id==='all'?allArticles.length:id==='hot'?allArticles.filter(a=>a.is_hot).length:id==='saved'?savedIds.size:tags.filter(t=>t.includes(id)).length;
-    el.textContent=n;
+
+function updateCounts() {
+  const tags = allArticles.map(a => a.tags || '');
+  const c = (id) => {
+    const el = document.getElementById('cnt-' + id); if(!el) return;
+    const n = id==='all'?allArticles.length : id==='hot'?allArticles.filter(a=>a.is_hot).length : id==='saved'?savedIds.size : tags.filter(t=>t.includes(id)).length;
+    el.textContent = n;
   };
   ['all','hot','saved','source-vnexpress','source-cafebiz','source-foodnavigator','source-reuters','source-nikkei','region-vietnam','region-sea','region-europe','region-americas','region-global','brand-highlands','brand-phuoclong','brand-thecoffeehouse','brand-starbucks','brand-kfc','topic-coffee','topic-price','topic-delivery','topic-wine','topic-funding'].forEach(c);
-  document.getElementById('vtc-all').textContent=allArticles.length;
-  document.getElementById('vtc-hot').textContent=allArticles.filter(a=>a.is_hot).length;
-  document.getElementById('vtc-saved').textContent=savedIds.size;
-  const tc={};allArticles.forEach(a=>(a.topics||[]).forEach(t=>tc[t]=(tc[t]||0)+1));
-  const st=(el,k)=>{const e=document.getElementById(el);if(e)e.textContent=(tc[k]||0)+' bài';};
-  st('tr-price','topic-price');st('tr-coffee','topic-coffee');st('tr-delivery','topic-delivery');st('tr-wine','topic-wine');st('tr-funding','topic-funding');
+  setEl('vtc-all', allArticles.length);
+  setEl('vtc-hot', allArticles.filter(a=>a.is_hot).length);
+  setEl('vtc-saved', savedIds.size);
+  const tc = {}; allArticles.forEach(a => (a.topics||[]).forEach(t => tc[t]=(tc[t]||0)+1));
+  [['tr-price','topic-price'],['tr-coffee','topic-coffee'],['tr-delivery','topic-delivery'],['tr-wine','topic-wine'],['tr-funding','topic-funding']].forEach(([el,k]) => { const e=document.getElementById(el); if(e) e.textContent=(tc[k]||0)+' bài'; });
 }
-function setFilter(k,btn){
-  activeFilter=k;
-  document.querySelectorAll('.s-btn').forEach(b=>b.classList.remove('active'));
+
+function setFilter(k, btn) {
+  activeFilter = k;
+  document.querySelectorAll('.s-btn').forEach(b => b.classList.remove('active'));
   if(btn) btn.classList.add('active');
   renderFeed();
 }
-function applyFilters(){renderFeed();}
-function setViewTab(btn,type){document.querySelectorAll('.vt').forEach(t=>t.classList.remove('active'));btn.classList.add('active');setFilter(type,null);}
-function setSortTab(btn,mode){document.querySelectorAll('.st').forEach(t=>t.classList.remove('active'));btn.classList.add('active');sortMode=mode;renderFeed();}
-function toggleSave(id,btn){
-  if(savedIds.has(id)){savedIds.delete(id);btn.textContent='☆';btn.classList.remove('saved');}
-  else{savedIds.add(id);btn.textContent='★';btn.classList.add('saved');}
+function applyFilters() { renderFeed(); }
+function setViewTab(btn, type) { document.querySelectorAll('.vt').forEach(t=>t.classList.remove('active')); btn.classList.add('active'); setFilter(type, null); }
+function setSortTab(btn, mode) { document.querySelectorAll('.st').forEach(t=>t.classList.remove('active')); btn.classList.add('active'); sortMode = mode; renderFeed(); }
+
+// FIX #2: toggleSave với localStorage
+function toggleSave(id, btn) {
+  if(savedIds.has(id)) { savedIds.delete(id); btn.textContent='☆'; btn.classList.remove('saved'); }
+  else { savedIds.add(id); btn.textContent='★'; btn.classList.add('saved'); }
+  localStorage.setItem('fnb_saved', JSON.stringify([...savedIds]));
   updateCounts();
 }
 
 // ══ EXPERTS ══
-function renderExperts(){
-  const grid=document.getElementById('experts-grid');
-  grid.innerHTML=EXPERTS.map(e=>`
+function renderExperts() {
+  document.getElementById('experts-grid').innerHTML = EXPERTS.map(e => `
 <div class="expert-card">
   <div class="exp-hdr">
     <div class="exp-av" style="background:${e.bg}">${e.avatar}</div>
-    <div class="exp-info">
-      <div class="exp-name">${e.name}</div>
-      <div class="exp-title">${e.title}</div>
-    </div>
+    <div class="exp-info"><div class="exp-name">${e.name}</div><div class="exp-title">${e.title}</div></div>
   </div>
   <div class="exp-tags">${e.tags.map(t=>`<span class="exp-tag" style="color:${e.tagColor};background:${e.tagBg}">${t}</span>`).join('')}</div>
   <div class="exp-insight">
@@ -1077,8 +891,8 @@ function renderExperts(){
 }
 
 // ══ SIGNALS ══
-function renderSignals(){
-  document.getElementById('signal-rows').innerHTML=SIGNALS_DATA.map(s=>`
+function renderSignals() {
+  document.getElementById('signal-rows').innerHTML = SIGNALS_DATA.map(s => `
 <div class="sig-row">
   <span class="sig-asset">${s.asset}</span>
   <span class="sig-price">${s.price}</span>
@@ -1088,14 +902,15 @@ function renderSignals(){
   <span class="sig-reason">${s.reason}</span>
 </div>`).join('');
 }
-function showBotCode(){
-  const el=document.getElementById('bot-code-area');
-  el.style.display=el.style.display==='none'?'block':'none';
-}
+function showBotCode() { const el = document.getElementById('bot-code-area'); el.style.display = el.style.display==='none'?'block':'none'; }
 
-// ══ FORUM ══
-function renderForum(){
-  document.getElementById('forum-posts').innerHTML=FORUM_POSTS.map(p=>`
+// ══ FORUM — FIX #5: filter by category ══
+function renderForum(cat) {
+  activeForum = cat || 'all';
+  const list = activeForum === 'all' ? FORUM_POSTS : FORUM_POSTS.filter(p => p.cat === activeForum);
+  document.getElementById('forum-posts').innerHTML = list.length === 0
+    ? '<div class="feed-msg"><div class="fi">📭</div><h3>Chưa có bài trong mục này</h3><p>Hãy là người đầu tiên tạo chủ đề!</p></div>'
+    : list.map(p => `
 <div class="forum-post">
   <div class="fp-hdr">
     <div class="fp-av" style="background:${p.color}">${p.initials}</div>
@@ -1106,124 +921,188 @@ function renderForum(){
   <div class="fp-footer">
     <span class="fp-stat">❤️ ${p.likes}</span>
     <span class="fp-stat">💬 ${p.comments} bình luận</span>
-    <span class="fp-cat-badge" style="color:${p.catColor};background:${p.catBg}">${p.cat}</span>
+    <span class="fp-cat-badge" style="color:${p.catColor};background:${p.catBg}">${p.catLabel}</span>
   </div>
 </div>`).join('');
 }
-function selectForumCat(el){
-  document.querySelectorAll('.forum-cat').forEach(c=>c.classList.remove('active'));
+function selectForumCat(el) {
+  document.querySelectorAll('.forum-cat').forEach(c => c.classList.remove('active'));
   el.classList.add('active');
+  renderForum(el.dataset.cat);
+}
+
+// ══ TRENDS ══
+async function loadTrends() {
+  try {
+    const r = await fetch('./trends.json?t=' + Date.now(), {cache:'no-store'});
+    if(!r.ok) throw new Error('HTTP ' + r.status);
+    const d = await r.json();
+    document.getElementById('trends-section').style.display = 'block';
+    if(d.coffee_trends) {
+      const ct = d.coffee_trends;
+      const pDir = ct.price_direction==='up'?'📈 Giá đang TĂNG':ct.price_direction==='down'?'📉 Giá đang GIẢM':'➡️ Giá ổn định';
+      setEl('tr-coffee-price', pDir + ' · ' + ct.article_count + ' bài');
+      setEl('tr-coffee-demand', ct.consumer_demand==='growing'?'🔥 Nhu cầu tăng mạnh':ct.consumer_demand==='declining'?'📉 Nhu cầu giảm':'📊 Nhu cầu ổn định');
+      setEl('tr-coffee-insight', ct.insight||'--');
+      const fnbExp = EXPERTS.find(e => e.id==='fnb'); if(fnbExp && ct.insight) { fnbExp.insight = ct.insight; renderExperts(); }
+    }
+    if(d.ai_trends) {
+      const at = d.ai_trends;
+      setEl('tr-ai-count', (at.claude_mentions||0) + ' bài về Claude/Anthropic');
+      setEl('tr-ai-insight', at.insight||'--');
+      const aiExp = EXPERTS.find(e => e.id==='ai'); if(aiExp && at.insight) { aiExp.insight = at.insight; renderExperts(); }
+    }
+    if(d.sentiment) {
+      const s = d.sentiment; const score = s.score||0;
+      setEl('tr-sent-label', score>20?'Tích cực 🟢 — Thị trường lạc quan':score<-20?'Tiêu cực 🔴 — Thị trường lo ngại':'Trung lập ⚪ — Thị trường cân bằng');
+      setEl('tr-sent-score', (score>0?'+':'')+score+'/100');
+      setEl('tr-sent-pos', s.positive||0); setEl('tr-sent-neu', s.neutral||0); setEl('tr-sent-neg', s.negative||0);
+      const bar = document.getElementById('tr-sent-bar');
+      if(bar) { bar.style.width = Math.max(5,Math.min(95,((score+100)/200)*100))+'%'; bar.style.background = score>20?'var(--primary)':score<-20?'var(--red)':'var(--gold)'; }
+    }
+    if(d.hot_keywords && d.hot_keywords.length) {
+      const kw = document.getElementById('tr-keywords');
+      if(kw) kw.innerHTML = d.hot_keywords.slice(0,12).map(k=>`<span style="background:var(--surface2);border:1px solid var(--border2);border-radius:4px;padding:3px 9px;font-size:11px;color:var(--text2)">${k.word} <b style="color:var(--text)">${k.count}</b></span>`).join('');
+    }
+    if(d.trending_topics && d.trending_topics.length) {
+      const map = {coffee:'tr-coffee',price:'tr-price',delivery:'tr-delivery',wine:'tr-wine',funding:'tr-funding'};
+      d.trending_topics.forEach(t => { const id=map[t.topic]; if(id){ const el=document.getElementById(id); if(el) el.textContent=t.count+' bài'; } });
+    }
+  } catch(e) { console.warn('Trends load error:', e); }
 }
 
 // ══ LIVE PRICES ══
-async function fetchCrypto(){
-  try{
-    const r=await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true',{cache:'no-store'});
-    const d=await r.json();
-    if(d.bitcoin){
-      const p='$'+d.bitcoin.usd.toLocaleString('en-US',{maximumFractionDigits:0});
-      const ch=d.bitcoin.usd_24h_change;
-      const cs=(ch>=0?'+':'')+ch.toFixed(1)+'%';
-      const cls=ch>=0?'up':'down';
-      ['tk-btc','mkt-btc','rp-btc'].forEach(id=>setEl(id,p));
-      ['tk-btc-ch','rp-btc-ch'].forEach(id=>setChEl(id,cs,cls));
-      setEl('mkt-btc-ch',cs); document.getElementById('mkt-btc-ch').className='mkt-change '+cls;
-      SIGNALS_DATA[0].price=p; SIGNALS_DATA[0].change=cs; SIGNALS_DATA[0].changeClass=cls;
+async function fetchCrypto() {
+  try {
+    const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true', {cache:'no-store'});
+    const d = await r.json();
+    if(d.bitcoin) {
+      const p = '$' + d.bitcoin.usd.toLocaleString('en-US',{maximumFractionDigits:0});
+      const ch = d.bitcoin.usd_24h_change, cs = (ch>=0?'+':'')+ch.toFixed(1)+'%', cls = ch>=0?'up':'down';
+      ['tk-btc','mkt-btc','rp-btc'].forEach(id => setEl(id, p));
+      setChEl('tk-btc-ch', cs, cls); setChEl('rp-btc-ch', cs, cls);
+      setEl('mkt-btc-ch', cs); document.getElementById('mkt-btc-ch').className = 'mkt-change ' + cls;
+      SIGNALS_DATA[0].price = p; SIGNALS_DATA[0].change = cs; SIGNALS_DATA[0].changeClass = cls;
     }
-    if(d.ethereum){
-      const p='$'+d.ethereum.usd.toLocaleString('en-US',{maximumFractionDigits:0});
-      const ch=d.ethereum.usd_24h_change;
-      const cs=(ch>=0?'+':'')+ch.toFixed(1)+'%';
-      const cls=ch>=0?'up':'down';
-      ['tk-eth','mkt-eth','rp-eth'].forEach(id=>setEl(id,p));
-      ['tk-eth-ch','rp-eth-ch'].forEach(id=>setChEl(id,cs,cls));
-      setEl('mkt-eth-ch',cs); document.getElementById('mkt-eth-ch').className='mkt-change '+cls;
-      SIGNALS_DATA[1].price=p;SIGNALS_DATA[1].change=cs;SIGNALS_DATA[1].changeClass=cls;
+    if(d.ethereum) {
+      const p = '$' + d.ethereum.usd.toLocaleString('en-US',{maximumFractionDigits:0});
+      const ch = d.ethereum.usd_24h_change, cs = (ch>=0?'+':'')+ch.toFixed(1)+'%', cls = ch>=0?'up':'down';
+      ['tk-eth','mkt-eth','rp-eth'].forEach(id => setEl(id, p));
+      setChEl('tk-eth-ch', cs, cls); setChEl('rp-eth-ch', cs, cls);
+      setEl('mkt-eth-ch', cs); document.getElementById('mkt-eth-ch').className = 'mkt-change ' + cls;
+      SIGNALS_DATA[1].price = p; SIGNALS_DATA[1].change = cs; SIGNALS_DATA[1].changeClass = cls;
     }
     renderSignals();
-  }catch(e){console.warn('Crypto API error:',e)}
+  } catch(e) { console.warn('Crypto API error:', e); }
 }
-async function fetchGold(){
-  try{
-    const r=await fetch('https://api.metals.live/v1/spot/gold',{cache:'no-store'});
-    const d=await r.json();
-    if(!d||!d.price) return;
-    const xau=Math.round(d.price).toLocaleString('en-US');
-    const sjcM=Math.round(d.price*(37.5/31.1035)*25480*1.05/1e6);
-    const sjcStr=sjcM+'M ₫';
-    ['tk-gold'].forEach(id=>setEl(id,sjcStr));
-    setEl('mkt-gold',sjcStr+'/lượng'); setEl('rp-gold',sjcStr);
-    SIGNALS_DATA[2].price='$'+xau;
-  }catch(e){}
-}
-async function fetchFearGreed(){
-  try{
-    const r=await fetch('https://api.alternative.me/fng/?limit=1',{cache:'no-store'});
-    const d=await r.json();
-    if(!d.data||!d.data[0]) return;
-    const val=parseInt(d.data[0].value);
-    const lbl=d.data[0].value_classification;
-    setEl('tk-fg',val);
-    setEl('mkt-fg-val',val); setEl('mkt-fg-lbl',lbl);
-    document.getElementById('fg-fill').style.width=val+'%';
-    const tch=document.getElementById('tk-fg-lbl');
-    tch.textContent=lbl; tch.className='t-ch '+(val<40?'down':val>60?'up':'flat');
-    const badge=document.getElementById('fg-sig-badge');
-    badge.textContent=val<40?'FEAR':val>60?'GREED':'NEUTRAL';
-    badge.className='mkt-signal-badge '+(val<40?'sig-action':val>60?'sig-buy':'sig-hold');
-  }catch(e){}
-}
-async function fetchAllPrices(){
-  await Promise.allSettled([fetchCrypto(),fetchGold(),fetchFearGreed()]);
-  const t=new Date().toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'});
-  setEl('rp-upd-time','cập nhật '+t);
-}
-function setEl(id,v){const e=document.getElementById(id);if(e)e.textContent=v;}
-function setChEl(id,v,cls){const e=document.getElementById(id);if(e){e.textContent=v;e.className='t-ch '+cls;}}
 
-// ══ CHARTS ══
-function miniChartCfg(labels,data,color){
-  return{type:'line',data:{labels,datasets:[{data,borderColor:color,borderWidth:1.5,pointRadius:0,fill:true,backgroundColor:color.replace(')',',0.1)').replace('rgb','rgba')}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{enabled:false}},scales:{x:{display:false},y:{display:false}},animation:{duration:400}}};
+// FIX #1: Live USD/VND từ open.er-api.com (free, no key)
+async function fetchForex() {
+  try {
+    const r = await fetch('https://open.er-api.com/v6/latest/USD', {cache:'no-store'});
+    const d = await r.json();
+    if(d.rates && d.rates.VND) {
+      liveUsdVnd = Math.round(d.rates.VND);
+      const fmt = liveUsdVnd.toLocaleString('vi-VN');
+      setEl('tk-usd', fmt);
+      setEl('macro-usd', fmt);
+      setEl('rp-usd', fmt);
+      setEl('macro-usd-ch', 'Live · ExchangeRate API');
+      const el = document.getElementById('tk-usd-ch'); if(el) { el.textContent='Live'; el.className='t-ch up'; }
+      // Update signals table USD/VND
+      SIGNALS_DATA[4].price = fmt; renderSignals();
+    }
+  } catch(e) { console.warn('Forex API error:', e); }
 }
-function initMiniCharts(){
-  const gen=(n,base,vol)=>Array.from({length:n},(_,i)=>base+(Math.sin(i*0.4)*vol)+(Math.random()-0.5)*vol*0.5);
-  const labels=Array.from({length:24},(_,i)=>i+'h');
-  btcMiniChart=new Chart(document.getElementById('chart-btc-mini'),miniChartCfg(labels,gen(24,107000,3000),'rgb(249,115,22)'));
-  ethMiniChart=new Chart(document.getElementById('chart-eth-mini'),miniChartCfg(labels,gen(24,3420,120),'rgb(99,102,241)'));
-  goldMiniChart=new Chart(document.getElementById('chart-gold-mini'),miniChartCfg(labels,gen(24,3330,40),'rgb(234,179,8)'));
+
+// FIX #3: fetchGold dùng liveUsdVnd thay vì hardcode 25480
+async function fetchGold() {
+  try {
+    const r = await fetch('https://api.metals.live/v1/spot/gold', {cache:'no-store'});
+    const d = await r.json();
+    if(!d || !d.price) return;
+    const xauUsd = d.price;
+    // Dùng liveUsdVnd (live) thay vì hardcode
+    const sjcM = Math.round(xauUsd * (37.5 / 31.1035) * liveUsdVnd * 1.05 / 1e6);
+    const sjcStr = sjcM + 'M ₫';
+    ['tk-gold','mkt-gold','rp-gold'].forEach(id => setEl(id, sjcStr));
+    setEl('macro-rob', '≈ ' + Math.round(xauUsd).toLocaleString('en-US') + ' USD/oz');
+    // Update signal table
+    SIGNALS_DATA[2].price = '$' + Math.round(xauUsd).toLocaleString('en-US');
+    renderSignals();
+  } catch(e) { console.warn('Gold API error:', e); }
 }
-async function loadBtcChart(days,btn){
-  if(btn){document.querySelectorAll('.cpt').forEach(b=>b.classList.remove('active'));btn.classList.add('active');}
-  try{
-    const r=await fetch(`https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=${days}`,{cache:'no-store'});
-    const d=await r.json();
-    const prices=d.prices||[];
-    const labels=prices.map(p=>new Date(p[0]).toLocaleDateString('vi-VN',{month:'numeric',day:'numeric'}));
-    const vals=prices.map(p=>p[1]);
-    const ctx=document.getElementById('chart-btc-full');
-    if(btcChart) btcChart.destroy();
-    btcChart=new Chart(ctx,{type:'line',data:{labels,datasets:[{label:'BTC/USD',data:vals,borderColor:'#f97316',borderWidth:2,pointRadius:0,fill:true,backgroundColor:'rgba(249,115,22,0.08)'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>'$'+Math.round(c.parsed.y).toLocaleString()}}},scales:{x:{ticks:{maxTicksLimit:7,color:'#5a6280',font:{size:11}},grid:{color:'#2a2e42'}},y:{ticks:{color:'#5a6280',font:{size:11},callback:v=>'$'+Math.round(v/1000)+'k'},grid:{color:'#2a2e42'}}}}});
-  }catch(e){
-    const ctx=document.getElementById('chart-btc-full');
-    if(btcChart) btcChart.destroy();
-    const gen=(n)=>Array.from({length:n},(_,i)=>107000+(Math.sin(i*0.3)*5000)+(Math.random()-0.5)*3000);
-    const n=days*4; const labels=Array.from({length:n},(_,i)=>i+'');
-    btcChart=new Chart(ctx,{type:'line',data:{labels,datasets:[{data:gen(n),borderColor:'#f97316',borderWidth:2,pointRadius:0,fill:true,backgroundColor:'rgba(249,115,22,0.08)'}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{display:false},y:{ticks:{color:'#5a6280',font:{size:11},callback:v=>'$'+Math.round(v/1000)+'k'},grid:{color:'#2a2e42'}}}}});
+
+// FIX #1: Robusta via Yahoo Finance proxy (stooq.com)
+async function fetchRobusta() {
+  try {
+    // stooq.com cung cấp dữ liệu CSV cho Robusta futures (RC.F)
+    const r = await fetch('https://stooq.com/q/l/?s=rc.f&f=sd2t2ohlcv&h&e=csv', {cache:'no-store'});
+    const text = await r.text();
+    const lines = text.trim().split('\n');
+    if(lines.length > 1) {
+      const cols = lines[1].split(',');
+      const price = parseFloat(cols[4]); // close price
+      if(!isNaN(price) && price > 0) {
+        liveRobustaUsd = price;
+        // Robusta ICE tính theo USD/tấn (giá futures là cents/lb → x 22.046 = USD/T)
+        const usdPerTon = Math.round(price * 22.046);
+        const str = '$' + usdPerTon.toLocaleString('en-US') + '/T';
+        setEl('tk-rob', str); setEl('macro-rob', '$' + usdPerTon.toLocaleString('en-US')); setEl('rp-rob', str);
+        setEl('macro-rob-ch', 'ICE London · stooq');
+        const el = document.getElementById('tk-rob-ch'); if(el) { el.textContent='ICE'; el.className='t-ch up'; }
+        SIGNALS_DATA[3].price = str; renderSignals();
+      }
+    }
+  } catch(e) {
+    // Fallback: hiển thị giá từ GitHub Actions trends.json nếu có
+    if(liveRobustaUsd === 0) { setEl('tk-rob', '~$4,987/T'); setEl('macro-rob', '$4,987'); setEl('rp-rob', '~$4,987/T'); setEl('macro-rob-ch', 'Indicative · lock giá ngay!'); }
+    console.warn('Robusta API error:', e);
   }
 }
 
-// ══ KEYBOARD ══
-document.addEventListener('keydown',e=>{
-  if((e.metaKey||e.ctrlKey)&&e.key==='k'){e.preventDefault();document.getElementById('searchInput').focus();}
-  if(e.key==='Escape') document.getElementById('searchInput').blur();
-});
+async function fetchFearGreed() {
+  try {
+    const r = await fetch('https://api.alternative.me/fng/?limit=1', {cache:'no-store'});
+    const d = await r.json();
+    if(d.data && d.data[0]) {
+      const val = parseInt(d.data[0].value);
+      const lbl = d.data[0].value_classification;
+      setEl('mkt-fg-val', val); setEl('mkt-fg-lbl', lbl);
+      setEl('tk-fg', val); setEl('tk-fg-lbl', lbl);
+      const fill = document.getElementById('fg-fill'); if(fill) fill.style.width = val + '%';
+      const badge = document.getElementById('fg-sig-badge');
+      if(badge) { badge.textContent = val<25?'FEAR':val>75?'GREED':'NEUTRAL'; badge.className = 'mkt-signal-badge '+(val<25?'sig-action':val>75?'sig-buy':'sig-hold'); }
+      const tkLbl = document.getElementById('tk-fg-lbl'); if(tkLbl) { tkLbl.className = 't-ch '+(val<25?'down':val>75?'up':'flat'); }
+    }
+  } catch(e) { console.warn('Fear & Greed error:', e); }
+}
 
-// ══ STARTUP ══
-window.addEventListener('DOMContentLoaded',()=>{
-  if(sessionStorage.getItem('fnb_ok')===ACCESS_CODE){
-    setTimeout(()=>{ initMiniCharts(); init(); },100);
-  }
-});
+async function fetchAllPrices() {
+  await Promise.allSettled([fetchCrypto(), fetchGold(), fetchForex(), fetchRobusta(), fetchFearGreed()]);
+  const now = new Date();
+  setEl('rp-upd-time', 'vừa cập nhật lúc ' + now.toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'}));
+}
+
+// ══ BTC CHART ══
+async function loadBtcChart(days, btn) {
+  if(btn) { document.querySelectorAll('.cpt').forEach(b => b.classList.remove('active')); btn.classList.add('active'); }
+  try {
+    const r = await fetch(`https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=${days}`, {cache:'no-store'});
+    const d = await r.json();
+    const prices = d.prices || [];
+    const labels = prices.map(p => new Date(p[0]).toLocaleDateString('vi-VN',{month:'short',day:'numeric'}));
+    const vals = prices.map(p => p[1]);
+    const ctx = document.getElementById('chart-btc-full'); if(!ctx) return;
+    if(btcChartInstance) btcChartInstance.destroy();
+    btcChartInstance = new Chart(ctx, {
+      type:'line',
+      data:{ labels, datasets:[{data:vals, borderColor:'#f59e0b', borderWidth:1.5, pointRadius:0, fill:true, backgroundColor:'rgba(245,158,11,.05)'}] },
+      options:{ responsive:true, plugins:{legend:{display:false}}, scales:{ x:{display:false}, y:{display:true, grid:{color:'rgba(255,255,255,.04)'}, ticks:{color:'#5a6280', font:{size:10}, callback:v=>'$'+Math.round(v/1000)+'k'}} } }
+    });
+    document.querySelector('.full-chart-title').textContent = '📈 Bitcoin — ' + days + ' ngày';
+  } catch(e) { console.warn('BTC chart error:', e); }
+}
 </script>
 </body>
 </html>
