@@ -1,61 +1,61 @@
 {
-  "updated": "2026-06-15T04:30:34.743851+00:00",
+  "updated": "2026-06-15T14:00:37.607211+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 41,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 38,
-      "count_24h": 11,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 28,
-      "count_24h": 8,
+      "count": 25,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
+      "count": 9,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 4,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 4,
-      "trend": "hot"
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
       "count": 2,
       "count_24h": 1,
       "trend": "up"
@@ -69,16 +69,16 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
@@ -94,9 +94,9 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 8,
-    "neutral": 58,
+    "positive": 15,
+    "negative": 9,
+    "neutral": 56,
     "score": 8,
     "label": "Trung tính"
   },
@@ -106,16 +106,20 @@
       "count": 38
     },
     {
-      "word": "ucc",
+      "word": "gọi vốn",
       "count": 3
     },
     {
-      "word": "gọi vốn",
-      "count": 3
+      "word": "funding",
+      "count": 2
+    },
+    {
+      "word": "ucc",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -127,28 +131,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Cold coffee is driving sales, but cafés need to create unique, signature drinks",
+        "url": "https://perfectdailygrind.com/2026/06/cold-coffee-matcha-unique-signature-drinks/",
+        "source": "Perfect Daily Grind",
+        "time": "8 giờ trước"
+      },
+      {
         "title": "Nhà hàng, quán cà phê đau đầu với bản quyền âm nhạc",
         "url": "https://vnexpress.net/nha-hang-quan-ca-phe-dau-dau-voi-ban-quyen-am-nhac-5083833.html",
         "source": "VnExpress Kinh doanh",
-        "time": "3 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "10 Out Of 10 Doctors Agree: New Coffees Are Fun!",
         "url": "https://sprudge.com/10-out-of-10-doctors-agree-new-coffees-are-fun-1074819.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Too Much Coffee Gear? Never Heard Of Her",
         "url": "https://sprudge.com/too-much-coffee-gear-never-heard-of-her-1074831.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Nhà sáng lập Highlands Coffee: 'Tôi luôn nghĩ về việc làm tốt hơn mỗi ngày'",
-        "url": "https://vnexpress.net/nha-sang-lap-highlands-coffee-toi-luon-nghi-ve-viec-lam-tot-hon-moi-ngay-5085170.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -157,12 +161,6 @@
   "ai_trends": {
     "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Thailand cracks down on foreign enterprises that pretend to be local",
-        "url": "https://asia.nikkei.com/business/agriculture/thailand-cracks-down-on-foreign-enterprises-that-pretend-to-be-local",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "BOJ policy meeting, G7 summit, Min Aung Hlaing visits China",
         "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/boj-policy-meeting-g7-summit-min-aung-hlaing-visits-china",
@@ -182,8 +180,14 @@
         "time": "0 phút trước"
       },
       {
-        "title": "From watches to sake, Japanese retailers try new tourist traps",
-        "url": "https://asia.nikkei.com/business/travel-leisure/from-watches-to-sake-japanese-retailers-try-new-tourist-traps",
+        "title": "From watches to sake, Japanese retailers try new tourist lures",
+        "url": "https://asia.nikkei.com/business/travel-leisure/from-watches-to-sake-japanese-retailers-try-new-tourist-lures",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US attack drone maker taps into Taiwan controller demand",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/us-attack-drone-maker-taps-into-taiwan-controller-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -214,9 +218,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-europe": 1,
-    "region-vietnam": 16,
-    "region-global": 31,
-    "region-americas": 13
+    "region-vietnam": 17,
+    "region-americas": 15,
+    "region-global": 29
   }
 }
