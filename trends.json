@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-15T14:00:37.607211+00:00",
+  "updated": "2026-06-15T19:52:51.499996+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 41,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 17,
+      "count": 37,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 25,
-      "count_24h": 10,
+      "count": 18,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 3,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -35,16 +35,9 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
+      "count": 9,
       "count_24h": 6,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -54,10 +47,17 @@
       "trend": "up"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -65,25 +65,19 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 3,
+      "count": 9,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -94,16 +88,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 9,
-    "neutral": 56,
-    "score": 8,
+    "positive": 16,
+    "negative": 7,
+    "neutral": 57,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -112,17 +106,13 @@
     {
       "word": "funding",
       "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
-    "price_direction": "up",
+    "total_articles": 11,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -131,48 +121,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Cold coffee is driving sales, but cafés need to create unique, signature drinks",
-        "url": "https://perfectdailygrind.com/2026/06/cold-coffee-matcha-unique-signature-drinks/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Nhà hàng, quán cà phê đau đầu với bản quyền âm nhạc",
-        "url": "https://vnexpress.net/nha-hang-quan-ca-phe-dau-dau-voi-ban-quyen-am-nhac-5083833.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "10 Out Of 10 Doctors Agree: New Coffees Are Fun!",
-        "url": "https://sprudge.com/10-out-of-10-doctors-agree-new-coffees-are-fun-1074819.html",
+        "title": "A Slick New Stovetop Coffeemaker From Carhartt And Gemini Express",
+        "url": "https://sprudge.com/a-slick-new-stovetop-coffeemaker-from-carhartt-and-gemini-express-1077433.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "Too Much Coffee Gear? Never Heard Of Her",
-        "url": "https://sprudge.com/too-much-coffee-gear-never-heard-of-her-1074831.html",
+        "title": "Blueprint Coffee Releases Timespan, A Dark Roast Specialty Coffee",
+        "url": "https://sprudge.com/blueprint-coffee-releases-timespan-a-dark-roast-specialty-coffee-1085820.html",
         "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Roastery Equipment Seller Coffee Equipment Pros Opens Texas Showroom",
+        "url": "https://dailycoffeenews.com/2026/06/15/roastery-equipment-seller-coffee-equipment-pros-opens-texas-showroom/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Nicaragua Coffee Report: Weather and Costs Hurting Production",
+        "url": "https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "BOJ policy meeting, G7 summit, Min Aung Hlaing visits China",
-        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/boj-policy-meeting-g7-summit-min-aung-hlaing-visits-china",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Data and AI-driven analysis 'the new oil' in mining, Deloitte adviser says",
-        "url": "https://asia.nikkei.com/business/markets/commodities/data-and-ai-driven-analysis-the-new-oil-in-mining-deloitte-adviser-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Myanmar's Min Aung Hlaing to visit China for diplomatic boost",
         "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-s-min-aung-hlaing-to-visit-china-for-diplomatic-boost",
@@ -190,9 +168,21 @@
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/us-attack-drone-maker-taps-into-taiwan-controller-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Few months, even a year: Energy prices to remain elevated on US-Iran deal",
+        "url": "https://asia.nikkei.com/business/markets/few-months-even-a-year-energy-prices-to-remain-elevated-on-us-iran-deal",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Zhipu soars and Minimax stumbles as China's AI stocks diverge",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/zhipu-soars-and-minimax-stumbles-as-china-s-ai-stocks-diverge",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,9 +207,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 18,
     "region-vietnam": 17,
-    "region-americas": 15,
-    "region-global": 29
+    "region-europe": 1,
+    "region-global": 29,
+    "region-americas": 15
   }
 }
