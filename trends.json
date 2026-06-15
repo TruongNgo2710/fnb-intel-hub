@@ -1,35 +1,28 @@
 {
-  "updated": "2026-06-15T19:52:51.499996+00:00",
+  "updated": "2026-06-15T22:23:54.689271+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 53,
+  "articles_24h": 56,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
+      "count": 35,
       "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
+      "count": 17,
       "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 10,
       "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -37,6 +30,20 @@
       "label": "#ChuỗiCungỨng",
       "count": 9,
       "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -52,21 +59,26 @@
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 9,
+      "count": 10,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
@@ -97,19 +109,15 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 35
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "funding",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -124,65 +132,65 @@
         "title": "A Slick New Stovetop Coffeemaker From Carhartt And Gemini Express",
         "url": "https://sprudge.com/a-slick-new-stovetop-coffeemaker-from-carhartt-and-gemini-express-1077433.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "Blueprint Coffee Releases Timespan, A Dark Roast Specialty Coffee",
         "url": "https://sprudge.com/blueprint-coffee-releases-timespan-a-dark-roast-specialty-coffee-1085820.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Roastery Equipment Seller Coffee Equipment Pros Opens Texas Showroom",
         "url": "https://dailycoffeenews.com/2026/06/15/roastery-equipment-seller-coffee-equipment-pros-opens-texas-showroom/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Nicaragua Coffee Report: Weather and Costs Hurting Production",
         "url": "https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Myanmar's Min Aung Hlaing to visit China for diplomatic boost",
-        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-s-min-aung-hlaing-to-visit-china-for-diplomatic-boost",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "From watches to sake, Japanese retailers try new tourist lures",
-        "url": "https://asia.nikkei.com/business/travel-leisure/from-watches-to-sake-japanese-retailers-try-new-tourist-lures",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "US attack drone maker taps into Taiwan controller demand",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/us-attack-drone-maker-taps-into-taiwan-controller-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Few months, even a year: Energy prices to remain elevated on US-Iran deal",
-        "url": "https://asia.nikkei.com/business/markets/few-months-even-a-year-energy-prices-to-remain-elevated-on-us-iran-deal",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Zhipu soars and Minimax stumbles as China's AI stocks diverge",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/zhipu-soars-and-minimax-stumbles-as-china-s-ai-stocks-diverge",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Pakistani gig workers' exports to hit record high but AI threats loom",
+        "url": "https://asia.nikkei.com/business/business-trends/pakistani-gig-workers-exports-to-hit-record-high-but-ai-threats-loom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam adds health checks as tourism boom strains airports",
+        "url": "https://asia.nikkei.com/business/travel-leisure/vietnam-adds-health-checks-as-tourism-boom-strains-airports",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "New era of cooperation between Britain and Japan",
+        "url": "https://asia.nikkei.com/opinion/new-era-of-cooperation-between-britain-and-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Terra Drone buys 2 Ukrainian drone makers in global push",
+        "url": "https://asia.nikkei.com/business/business-deals/japan-s-terra-drone-buys-2-ukrainian-drone-makers-in-global-push",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,10 +215,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 17,
-    "region-europe": 1,
-    "region-global": 29,
-    "region-americas": 15
+    "region-sea": 16,
+    "region-vietnam": 18,
+    "region-europe": 2,
+    "region-americas": 17,
+    "region-global": 27
   }
 }
