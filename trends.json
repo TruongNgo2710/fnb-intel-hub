@@ -1,57 +1,57 @@
 {
-  "updated": "2026-06-16T12:58:25.573053+00:00",
+  "updated": "2026-06-16T19:41:47.004665+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 73,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 31,
+      "count": 49,
+      "count_24h": 44,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 11,
+      "count": 12,
+      "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 4,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -65,7 +65,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 11,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -77,45 +77,75 @@
     {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
+      "count": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-bluebottle",
+      "name": "brand-bluebottle",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-passio",
+      "name": "brand-passio",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 17,
-    "negative": 9,
-    "neutral": 54,
-    "score": 10,
+    "negative": 5,
+    "neutral": 58,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 48
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "inflation",
+      "count": 2
+    },
+    {
+      "word": "ucc",
+      "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
+      {
+        "title": "Blue Bottle Coffee launches cold espresso made without machines",
+        "url": "https://www.nrn.com/beverage-trends/blue-bottle-coffee-launches-cold-espresso-made-without-machines",
+        "source": "Nation's Restaurant News",
+        "time": "-218 phút trước"
+      },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
@@ -123,54 +153,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "A Slick New Stovetop Coffeemaker From Carhartt And Gemini Express",
-        "url": "https://sprudge.com/a-slick-new-stovetop-coffeemaker-from-carhartt-and-gemini-express-1077433.html",
+        "title": "2026 Top 500: The 50 biggest restaurant chains in America",
+        "url": "https://www.nrn.com/top-500-restaurants/2026-top-500-the-50-biggest-restaurant-chains-in-america",
+        "source": "Nation's Restaurant News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "The Sprudge Guide To Coffee In Indianapolis",
+        "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-indianapolis-1003367.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Blueprint Coffee Releases Timespan, A Dark Roast Specialty Coffee",
-        "url": "https://sprudge.com/blueprint-coffee-releases-timespan-a-dark-roast-specialty-coffee-1085820.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Roastery Equipment Seller Coffee Equipment Pros Opens Texas Showroom",
-        "url": "https://dailycoffeenews.com/2026/06/15/roastery-equipment-seller-coffee-equipment-pros-opens-texas-showroom/",
+        "title": "Fairtrade Launches Free EUDR Geolocation Tool for Coffee Cooperatives",
+        "url": "https://dailycoffeenews.com/2026/06/16/fairtrade-launches-free-eudr-geolocation-tool-for-coffee-cooperatives/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Nicaragua Coffee Report: Weather and Costs Hurting Production",
-        "url": "https://dailycoffeenews.com/2026/06/15/nicaragua-coffee-report-weather-and-costs-hurting-production/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "2 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Cambodian interior minister hires US law firms to fight scam link claims",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/cambodian-interior-minister-hires-us-law-firms-to-fight-scam-link-claims",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Cambodia eyes Japan labor ties as Thai conflict sends workers home",
-        "url": "https://asia.nikkei.com/spotlight/the-future-of-asia/future-of-asia-2026/cambodia-eyes-japan-labor-ties-as-thai-conflict-sends-workers-home",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China retail sales fall for first time since COVID lockdowns",
-        "url": "https://asia.nikkei.com/economy/china-retail-sales-fall-for-first-time-since-covid-lockdowns",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Mongolia aims for deeper ties with 'third neighbor' Japan",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/mongolia-aims-for-deeper-ties-with-third-neighbor-japan",
@@ -182,9 +188,27 @@
         "url": "https://asia.nikkei.com/business/media-entertainment/disney-vows-expansion-of-shanghai-park-in-second-decade",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan KMT chief's US trip boosts her profile as defense questions persist",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-kmt-chief-s-us-trip-boosts-her-profile-as-defense-questions-persist",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank launches OpenAI cybersecurity in Japan as US restricts rival model",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/softbank-launches-openai-cybersecurity-in-japan-as-us-restricts-rival-model",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Myanmar's Min Aung Hlaing gains legitimacy with Beijing state visit",
+        "url": "https://asia.nikkei.com/politics/international-relations/myanmar-s-min-aung-hlaing-gains-legitimacy-with-beijing-state-visit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,9 +233,10 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 27,
     "region-sea": 16,
-    "region-vietnam": 16,
-    "region-americas": 21,
-    "region-global": 27
+    "region-vietnam": 12,
+    "region-europe": 2,
+    "region-global": 23
   }
 }
