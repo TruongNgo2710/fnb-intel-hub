@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-16T19:41:47.004665+00:00",
+  "updated": "2026-06-16T22:16:25.768905+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 69,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 44,
+      "count": 48,
+      "count_24h": 41,
       "trend": "hot"
     },
     {
@@ -22,7 +22,7 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -36,7 +36,7 @@
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -107,15 +107,15 @@
   ],
   "sentiment": {
     "positive": 17,
-    "negative": 5,
-    "neutral": 58,
-    "score": 15,
+    "negative": 4,
+    "neutral": 59,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -144,7 +144,7 @@
         "title": "Blue Bottle Coffee launches cold espresso made without machines",
         "url": "https://www.nrn.com/beverage-trends/blue-bottle-coffee-launches-cold-espresso-made-without-machines",
         "source": "Nation's Restaurant News",
-        "time": "-218 phút trước"
+        "time": "-64 phút trước"
       },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -156,39 +156,27 @@
         "title": "2026 Top 500: The 50 biggest restaurant chains in America",
         "url": "https://www.nrn.com/top-500-restaurants/2026-top-500-the-50-biggest-restaurant-chains-in-america",
         "source": "Nation's Restaurant News",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "The Sprudge Guide To Coffee In Indianapolis",
         "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-indianapolis-1003367.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Fairtrade Launches Free EUDR Geolocation Tool for Coffee Cooperatives",
         "url": "https://dailycoffeenews.com/2026/06/16/fairtrade-launches-free-eudr-geolocation-tool-for-coffee-cooperatives/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Mongolia aims for deeper ties with 'third neighbor' Japan",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/mongolia-aims-for-deeper-ties-with-third-neighbor-japan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Disney vows expansion of Shanghai park in second decade",
-        "url": "https://asia.nikkei.com/business/media-entertainment/disney-vows-expansion-of-shanghai-park-in-second-decade",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan KMT chief's US trip boosts her profile as defense questions persist",
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-kmt-chief-s-us-trip-boosts-her-profile-as-defense-questions-persist",
@@ -206,9 +194,21 @@
         "url": "https://asia.nikkei.com/politics/international-relations/myanmar-s-min-aung-hlaing-gains-legitimacy-with-beijing-state-visit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam group plans $360m plane repair hub with Hong Kong, Japan partners",
+        "url": "https://asia.nikkei.com/business/business-deals/vietnam-group-plans-360m-plane-repair-hub-with-hong-kong-japan-partners",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "BOJ hikes rates as deputy head warns inflation risks and Iran uncertainties",
+        "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-as-deputy-head-warns-inflation-risks-and-iran-uncertainties",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
