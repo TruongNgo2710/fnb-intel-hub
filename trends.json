@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-17T18:23:15.289596+00:00",
+  "updated": "2026-06-17T22:04:54.673132+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 35,
-      "count_24h": 24,
+      "count": 38,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 14,
+      "count": 18,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 9,
+      "count": 13,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -35,15 +35,15 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
-      "count_24h": 4,
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -72,19 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 5,
+      "trend": "hot"
     },
     {
       "tag": "brand-passio",
       "name": "brand-passio",
       "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
       "trend": "up"
     },
     {
@@ -98,29 +92,27 @@
       "name": "brand-bluebottle",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
+    "positive": 19,
+    "negative": 8,
+    "neutral": 53,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 35
+      "count": 38
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 2
     },
     {
       "word": "specialty",
@@ -147,51 +139,33 @@
         "title": "Colorado’s Bonfire Coffee is Stoked with Big New Roastery",
         "url": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Colombian Police Seize 2.4 Metric Tons of Cocaine in Coffee Pellets",
         "url": "https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Peru Coffee Report: Production Steady Despite Structural Challenges",
         "url": "https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Partners Coffee In Brooklyn, NY",
         "url": "https://sprudge.com/build-outs-of-coffee-partners-coffee-in-brooklyn-ny-1041194.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Foreign activists take aim at bigger targets in corporate Japan",
-        "url": "https://asia.nikkei.com/business/business-asia/foreign-activists-take-aim-at-bigger-targets-in-corporate-japan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "NTT hoped to lead optical data networks. AI and Nvidia changed that",
-        "url": "https://asia.nikkei.com/business/technology/ntt-hoped-to-lead-optical-data-networks.-ai-and-nvidia-changed-that",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Ukraine-Russia drone war turns UGVs into medevac lifeline",
-        "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan's top diplomat seeks tighter Philippine ties against China coercion",
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-top-diplomat-seeks-tighter-philippine-ties-against-china-coercion",
@@ -203,9 +177,27 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asian-streaming-services-go-big-on-microdramas-and-ai-content",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Komatsu may follow rivals in raising prices in North America: CFO",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/komatsu-may-follow-rivals-in-raising-prices-in-north-america-cfo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Takaichi to visit India with execs from Suzuki, Itochu and more",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-to-visit-india-with-execs-from-suzuki-itochu-and-more",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI nation: Is it boom, bubble or both for South Korea?",
+        "url": "https://asia.nikkei.com/opinion/ai-nation-is-it-boom-bubble-or-both-for-south-korea",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -230,10 +222,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 19,
-    "region-vietnam": 16,
-    "region-global": 27,
-    "region-europe": 1
+    "region-sea": 18,
+    "region-americas": 20,
+    "region-europe": 2,
+    "region-vietnam": 15,
+    "region-global": 25
   }
 }
