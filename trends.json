@@ -1,47 +1,47 @@
 {
-  "updated": "2026-06-17T12:21:14.356182+00:00",
+  "updated": "2026-06-17T18:23:15.289596+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 71,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 33,
+      "count": 35,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 16,
       "count_24h": 14,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 8,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
       "count": 5,
       "count_24h": 4,
       "trend": "hot"
@@ -50,7 +50,14 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -65,18 +72,6 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
@@ -89,7 +84,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -99,42 +100,34 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 16,
+    "positive": 21,
     "negative": 5,
-    "neutral": 59,
-    "score": 14,
+    "neutral": 54,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 35
     },
     {
       "word": "gọi vốn",
       "count": 3
     },
     {
-      "word": "ucc",
-      "count": 2
-    },
-    {
-      "word": "acquisition",
+      "word": "specialty",
       "count": 2
     },
     {
       "word": "passio",
-      "count": 2
-    },
-    {
-      "word": "claude",
       "count": 2
     }
   ],
@@ -142,7 +135,7 @@
     "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -151,48 +144,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Colorado’s Bonfire Coffee is Stoked with Big New Roastery",
+        "url": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Colombian Police Seize 2.4 Metric Tons of Cocaine in Coffee Pellets",
+        "url": "https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Peru Coffee Report: Production Steady Despite Structural Challenges",
+        "url": "https://dailycoffeenews.com/2026/06/17/peru-coffee-report-production-steady-despite-structural-challenges/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Partners Coffee In Brooklyn, NY",
         "url": "https://sprudge.com/build-outs-of-coffee-partners-coffee-in-brooklyn-ny-1041194.html",
         "source": "Sprudge Coffee",
-        "time": "18 phút trước"
-      },
-      {
-        "title": "What baristas love and hate about working in coffee shops",
-        "url": "https://perfectdailygrind.com/2026/06/what-baristas-love-hate-working-coffee-shops/",
-        "source": "Perfect Daily Grind",
         "time": "6 giờ trước"
-      },
-      {
-        "title": "Blue Bottle Coffee launches cold espresso made without machines",
-        "url": "https://www.nrn.com/beverage-trends/blue-bottle-coffee-launches-cold-espresso-made-without-machines",
-        "source": "Nation's Restaurant News",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "2026 Top 500: The 50 biggest restaurant chains in America",
-        "url": "https://www.nrn.com/top-500-restaurants/2026-top-500-the-50-biggest-restaurant-chains-in-america",
-        "source": "Nation's Restaurant News",
-        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Japan ride-hailing app Go races toward robotaxis after successful IPO",
-        "url": "https://asia.nikkei.com/business/markets/ipo/japan-ride-hailing-app-go-races-toward-robotaxis-after-successful-ipo",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Why Kioxia is going easy on capex despite AI memory boom",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/why-kioxia-is-going-easy-on-capex-despite-ai-memory-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Foreign activists take aim at bigger targets in corporate Japan",
         "url": "https://asia.nikkei.com/business/business-asia/foreign-activists-take-aim-at-bigger-targets-in-corporate-japan",
@@ -210,9 +191,21 @@
         "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-russia-drone-war-turns-ugvs-into-medevac-lifeline",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's top diplomat seeks tighter Philippine ties against China coercion",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-top-diplomat-seeks-tighter-philippine-ties-against-china-coercion",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asian streaming services go big on microdramas and AI content",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asian-streaming-services-go-big-on-microdramas-and-ai-content",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -237,10 +230,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-europe": 2,
-    "region-americas": 22,
-    "region-vietnam": 15,
-    "region-global": 23
+    "region-sea": 17,
+    "region-americas": 19,
+    "region-vietnam": 16,
+    "region-global": 27,
+    "region-europe": 1
   }
 }
