@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-18T11:54:48.140220+00:00",
+  "updated": "2026-06-18T15:32:16.659699+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
+      "count": 41,
       "count_24h": 35,
       "trend": "hot"
     },
@@ -15,43 +15,43 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 21,
-      "count_24h": 20,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 8,
+      "count_24h": 18,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 9,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 8,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -80,18 +80,6 @@
       "name": "ChatGPT/OpenAI",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-passio",
-      "name": "brand-passio",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-bluebottle",
-      "name": "brand-bluebottle",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
@@ -104,14 +92,10 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 41
     },
     {
       "word": "gọi vốn",
-      "count": 3
-    },
-    {
-      "word": "specialty",
       "count": 3
     },
     {
@@ -124,10 +108,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "stable",
+    "total_articles": 9,
+    "price_direction": "up",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -136,35 +120,35 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Does sifting ground coffee really make a difference?",
-        "url": "https://perfectdailygrind.com/2026/06/sifting-ground-coffee-filter-brewing/",
-        "source": "Perfect Daily Grind",
-        "time": "6 giờ trước"
+        "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
+        "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Option-O Launches the Two-Headed Lagom GDS Grinder",
+        "url": "https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Conical Vs. Flat Burrs? You Can Have Both With The New LAGOM GDS Grinder",
+        "url": "https://sprudge.com/conical-vs-flat-burrs-you-can-have-both-with-the-new-lagom-gds-grinder-1088440.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
       },
       {
         "title": "Chi phí sinh hoạt đồng loạt tăng",
         "url": "https://vnexpress.net/chi-phi-sinh-hoat-dong-loat-tang-5086180.html",
         "source": "VnExpress Kinh doanh",
-        "time": "11 giờ trước"
-      },
-      {
-        "title": "Here Is Everyone Competing At The 2026 US Barista Championship",
-        "url": "https://sprudge.com/here-is-everyone-competing-at-the-2026-us-barista-championship-1086574.html",
-        "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
-      },
-      {
-        "title": "Colorado’s Bonfire Coffee is Stoked with Big New Roastery",
-        "url": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
-        "source": "Daily Coffee News",
-        "time": "19 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Marvell to use TSMC's next-gen 1.4-nm chip tech to stay in AI data race",
@@ -197,7 +181,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -222,9 +206,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 17,
-    "region-vietnam": 18,
-    "region-global": 26
+    "region-sea": 18,
+    "region-americas": 18,
+    "region-vietnam": 17,
+    "region-global": 27
   }
 }
