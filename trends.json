@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T04:13:32.450264+00:00",
+  "updated": "2026-06-18T11:54:48.140220+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 73,
@@ -7,44 +7,44 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 34,
-      "count_24h": 33,
+      "count": 38,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
+      "count": 21,
       "count_24h": 20,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
       "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 7,
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -76,20 +76,14 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-passio",
-      "name": "brand-passio",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-passio",
+      "name": "brand-passio",
       "count": 1,
       "trend": "up"
     },
@@ -101,36 +95,36 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 9,
-    "neutral": 51,
+    "positive": 22,
+    "negative": 11,
+    "neutral": 47,
     "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 34
+      "count": 38
     },
     {
       "word": "gọi vốn",
       "count": 3
     },
     {
-      "word": "claude",
-      "count": 2
-    },
-    {
       "word": "specialty",
+      "count": 3
+    },
+    {
+      "word": "chatgpt",
       "count": 2
     },
     {
-      "word": "passio",
+      "word": "claude",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -142,68 +136,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Does sifting ground coffee really make a difference?",
+        "url": "https://perfectdailygrind.com/2026/06/sifting-ground-coffee-filter-brewing/",
+        "source": "Perfect Daily Grind",
+        "time": "6 giờ trước"
+      },
+      {
         "title": "Chi phí sinh hoạt đồng loạt tăng",
         "url": "https://vnexpress.net/chi-phi-sinh-hoat-dong-loat-tang-5086180.html",
         "source": "VnExpress Kinh doanh",
-        "time": "4 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Here Is Everyone Competing At The 2026 US Barista Championship",
         "url": "https://sprudge.com/here-is-everyone-competing-at-the-2026-us-barista-championship-1086574.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Colorado’s Bonfire Coffee is Stoked with Big New Roastery",
         "url": "https://dailycoffeenews.com/2026/06/17/colorados-bonfire-coffee-is-stoked-with-big-new-roastery/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
-      },
-      {
-        "title": "Colombian Police Seize 2.4 Metric Tons of Cocaine in Coffee Pellets",
-        "url": "https://dailycoffeenews.com/2026/06/17/colombian-police-seize-2-4-metric-tons-of-cocaine-in-coffee-pellets/",
-        "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 45,
     "top_articles": [
       {
-        "title": "Japan's Takaichi to visit India with execs from Suzuki, Itochu and more",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-to-visit-india-with-execs-from-suzuki-itochu-and-more",
+        "title": "Marvell to use TSMC's next-gen 1.4-nm chip tech to stay in AI data race",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/marvell-to-use-tsmc-s-next-gen-1.4-nm-chip-tech-to-stay-in-ai-data-race",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "AI nation: Is it boom, bubble or both for South Korea?",
-        "url": "https://asia.nikkei.com/opinion/ai-nation-is-it-boom-bubble-or-both-for-south-korea",
+        "title": "Uber bets on its global repute in Nepal's crowded ride-hailing sector",
+        "url": "https://asia.nikkei.com/business/transportation/uber-bets-on-its-global-repute-in-nepal-s-crowded-ride-hailing-sector",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "SoftBank, Rakuten bonds draw Japan retail investors chasing returns",
-        "url": "https://asia.nikkei.com/business/markets/bonds/softbank-rakuten-bonds-draw-japan-retail-investors-chasing-returns",
+        "title": "Malaysian gold retailers squeezed on capital to acquire precious metal",
+        "url": "https://asia.nikkei.com/business/markets/malaysian-gold-retailers-squeezed-on-capital-to-acquire-precious-metal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Yen falls after Fed decision, erasing intervention gains since April",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-falls-after-fed-decision-erasing-intervention-gains-since-april",
+        "title": "Taiwan's refusal to accept China's rule isn't a 'provocation,' Lai says",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-refusal-to-accept-china-s-rule-isn-t-a-provocation-lai-says",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Thailand suffers 25% drop in tourists from Middle East",
-        "url": "https://asia.nikkei.com/business/travel-leisure/thailand-suffers-25-drop-in-tourists-from-middle-east",
+        "title": "AI boosts Samsung but batters IT jobs",
+        "url": "https://asia.nikkei.com/techasia/ai-boosts-samsung-but-batters-it-jobs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -222,16 +216,15 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "up",
+      "count": 2,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-europe": 1,
-    "region-americas": 18,
-    "region-vietnam": 17,
+    "region-sea": 19,
+    "region-americas": 17,
+    "region-vietnam": 18,
     "region-global": 26
   }
 }
