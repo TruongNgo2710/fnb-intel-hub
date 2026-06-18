@@ -1,21 +1,28 @@
 {
-  "updated": "2026-06-18T18:29:46.603658+00:00",
+  "updated": "2026-06-18T22:13:57.841214+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 36,
+      "count": 42,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 18,
       "count_24h": 15,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -26,17 +33,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -95,28 +95,20 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 19,
     "negative": 12,
-    "neutral": 47,
-    "score": 11,
+    "neutral": 49,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "chatgpt",
-      "count": 2
-    },
-    {
-      "word": "claude",
-      "count": 2
     }
   ],
   "coffee_trends": {
@@ -141,19 +133,19 @@
         "title": "The 2026 US Barista Championship: Round One, Day One",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-one-1090611.html",
         "source": "Sprudge Coffee",
-        "time": "46 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "ORIGAMI CUP USA 2026 Celebrates The Collaborative Art Of Pour-Over Coffee Brewing In Houston, Texas",
         "url": "https://sprudge.com/origami-cup-usa-2026-celebrates-the-collaborative-art-of-pour-over-coffee-brewing-in-houston-texas-1091349.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
         "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -163,24 +155,6 @@
     "total_articles": 45,
     "top_articles": [
       {
-        "title": "Uber bets on its global repute in Nepal's crowded ride-hailing sector",
-        "url": "https://asia.nikkei.com/business/transportation/uber-bets-on-its-global-repute-in-nepal-s-crowded-ride-hailing-sector",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Malaysian gold retailers squeezed on capital to acquire precious metal",
-        "url": "https://asia.nikkei.com/business/markets/malaysian-gold-retailers-squeezed-on-capital-to-acquire-precious-metal",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan's refusal to accept China's rule isn't a 'provocation,' Lai says",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-refusal-to-accept-china-s-rule-isn-t-a-provocation-lai-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "AI boosts Samsung but batters IT jobs",
         "url": "https://asia.nikkei.com/techasia/ai-boosts-samsung-but-batters-it-jobs",
         "source": "Nikkei Asia",
@@ -189,6 +163,24 @@
       {
         "title": "OpenAI to launch ChatGPT advertising service targeting users in Japan",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-to-launch-chatgpt-advertising-service-targeting-users-in-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Philippines central bank hikes rate to contain inflation",
+        "url": "https://asia.nikkei.com/economy/philippines-central-bank-hikes-rate-to-contain-inflation",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesian VC executives jailed for graft over failed startup investment",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/indonesian-vc-executives-jailed-for-graft-over-failed-startup-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesia's central bank hikes rates again, totaling 1% in span of a month",
+        "url": "https://asia.nikkei.com/business/markets/indonesia-s-central-bank-hikes-rates-again-totaling-1-in-span-of-a-month",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -218,9 +210,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 24,
-    "region-vietnam": 16,
-    "region-global": 21
+    "region-sea": 20,
+    "region-americas": 20,
+    "region-vietnam": 17,
+    "region-global": 23
   }
 }
