@@ -1,13 +1,13 @@
 {
-  "updated": "2026-06-19T04:31:17.057011+00:00",
+  "updated": "2026-06-19T12:10:34.037957+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
+      "count": 40,
       "count_24h": 31,
       "trend": "hot"
     },
@@ -19,24 +19,24 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 8,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
       "count": 6,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -78,7 +78,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 9,
-    "neutral": 54,
-    "score": 10,
+    "positive": 20,
+    "negative": 10,
+    "neutral": 50,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -112,17 +112,11 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 7,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
-      {
-        "title": "Beanless coffee race heats up in Japan as Coca-Cola wades in",
-        "url": "https://asia.nikkei.com/business/food-beverage/beanless-coffee-race-heats-up-in-japan-as-coca-cola-wades-in",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
@@ -133,59 +127,65 @@
         "title": "The 2026 US Barista Championship: Round One, Day One",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-one-1090611.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "ORIGAMI CUP USA 2026 Celebrates The Collaborative Art Of Pour-Over Coffee Brewing In Houston, Texas",
         "url": "https://sprudge.com/origami-cup-usa-2026-celebrates-the-collaborative-art-of-pour-over-coffee-brewing-in-houston-texas-1091349.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
         "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "21 giờ trước"
+      },
+      {
+        "title": "Option-O Launches the Two-Headed Lagom GDS Grinder",
+        "url": "https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/",
+        "source": "Daily Coffee News",
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 44,
     "top_articles": [
       {
-        "title": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services",
+        "title": "Corporate Japan warns of new normal for supply chains after US-Iran deal",
+        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/corporate-japan-warns-of-new-normal-for-supply-chains-after-us-iran-deal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats",
+        "title": "Months after scam crackdown, thousands remain stuck in Cambodia",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/months-after-scam-crackdown-thousands-remain-stuck-in-cambodia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Alibaba leans on AI to drum up subdued '618' shopping festival",
-        "url": "https://asia.nikkei.com/business/retail/alibaba-leans-on-ai-to-drum-up-subdued-618-shopping-festival",
+        "title": "Japan's Zipair ties up with Bic Camera to expand wagyu sales to tourists",
+        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-zipair-ties-up-with-bic-camera-to-expand-wagyu-sales-to-tourists2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Australia aims to cool sports betting fever with ad ban plan",
-        "url": "https://asia.nikkei.com/spotlight/policy-asia/australia-aims-to-cool-sports-betting-fever-with-ad-ban-plan",
+        "title": "Editor's Choice: Gulf ceasefire brings relief but Asia's energy strain persists",
+        "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "At least 6 oil tankers sail through Hormuz following US-Iran deal",
-        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/at-least-6-oil-tankers-sail-through-hormuz-following-us-iran-deal",
+        "title": "The AI boom is quietly choking people in East Asia",
+        "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -199,9 +199,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -210,8 +210,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 21,
+    "region-sea": 16,
+    "region-europe": 1,
+    "region-americas": 23,
     "region-vietnam": 16,
     "region-global": 24
   }
