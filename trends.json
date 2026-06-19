@@ -1,42 +1,42 @@
 {
-  "updated": "2026-06-18T22:13:57.841214+00:00",
+  "updated": "2026-06-19T04:31:17.057011+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 72,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 37,
+      "count": 38,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 15,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 9,
+      "count": 17,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 9,
+      "count": 8,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 8,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -45,13 +45,6 @@
       "count": 4,
       "count_24h": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -63,6 +56,13 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -78,7 +78,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 12,
-    "neutral": 49,
-    "score": 9,
+    "positive": 17,
+    "negative": 9,
+    "neutral": 54,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -112,9 +112,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "total_articles": 9,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -133,65 +133,65 @@
         "title": "The 2026 US Barista Championship: Round One, Day One",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-one-1090611.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "ORIGAMI CUP USA 2026 Celebrates The Collaborative Art Of Pour-Over Coffee Brewing In Houston, Texas",
         "url": "https://sprudge.com/origami-cup-usa-2026-celebrates-the-collaborative-art-of-pour-over-coffee-brewing-in-houston-texas-1091349.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
         "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 42,
     "top_articles": [
       {
-        "title": "AI boosts Samsung but batters IT jobs",
-        "url": "https://asia.nikkei.com/techasia/ai-boosts-samsung-but-batters-it-jobs",
+        "title": "Alibaba's cloud arm opens 5th Japan data center, adding new AI services",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-cloud-arm-opens-5th-japan-data-center-adding-new-ai-services",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "OpenAI to launch ChatGPT advertising service targeting users in Japan",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-to-launch-chatgpt-advertising-service-targeting-users-in-japan",
+        "title": "Japan eyes 'continuous' AI legal reforms to counter Mythos-level threats",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-continuous-ai-legal-reforms-to-counter-mythos-level-threats",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Philippines central bank hikes rate to contain inflation",
-        "url": "https://asia.nikkei.com/economy/philippines-central-bank-hikes-rate-to-contain-inflation",
+        "title": "Alibaba leans on AI to drum up subdued '618' shopping festival",
+        "url": "https://asia.nikkei.com/business/retail/alibaba-leans-on-ai-to-drum-up-subdued-618-shopping-festival",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Indonesian VC executives jailed for graft over failed startup investment",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/indonesian-vc-executives-jailed-for-graft-over-failed-startup-investment",
+        "title": "Australia aims to cool sports betting fever with ad ban plan",
+        "url": "https://asia.nikkei.com/spotlight/policy-asia/australia-aims-to-cool-sports-betting-fever-with-ad-ban-plan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Indonesia's central bank hikes rates again, totaling 1% in span of a month",
-        "url": "https://asia.nikkei.com/business/markets/indonesia-s-central-bank-hikes-rates-again-totaling-1-in-span-of-a-month",
+        "title": "At least 6 oil tankers sail through Hormuz following US-Iran deal",
+        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/at-least-6-oil-tankers-sail-through-hormuz-following-us-iran-deal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -204,15 +204,15 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
-      "direction": "up",
-      "count": 2,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 20,
-    "region-vietnam": 17,
-    "region-global": 23
+    "region-sea": 19,
+    "region-americas": 21,
+    "region-vietnam": 16,
+    "region-global": 24
   }
 }
