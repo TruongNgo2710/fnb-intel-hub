@@ -1,57 +1,57 @@
 {
-  "updated": "2026-06-19T12:10:34.037957+00:00",
+  "updated": "2026-06-19T18:03:28.090489+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 31,
+      "count": 42,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 16,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -64,21 +64,27 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "count": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-stumptown",
+      "name": "brand-stumptown",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -96,15 +102,15 @@
   ],
   "sentiment": {
     "positive": 20,
-    "negative": 10,
-    "neutral": 50,
-    "score": 12,
+    "negative": 7,
+    "neutral": 53,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -112,7 +118,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -124,28 +130,28 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The 2026 US Barista Championship: Round One, Day One",
-        "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-one-1090611.html",
+        "title": "Presta Coffee Roasters Releases Three Rare Yemen Coffees From Al-Khanshali Estate",
+        "url": "https://sprudge.com/presta-coffee-roasters-releases-three-rare-yemen-coffees-from-al-khanshali-estate-1092123.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "ORIGAMI CUP USA 2026 Celebrates The Collaborative Art Of Pour-Over Coffee Brewing In Houston, Texas",
-        "url": "https://sprudge.com/origami-cup-usa-2026-celebrates-the-collaborative-art-of-pour-over-coffee-brewing-in-houston-texas-1091349.html",
+        "title": "The 2026 US Barista Championship: Round One, Day Two",
+        "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
-        "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "title": "Team USA’s Secret Weapon At The World Cup? Defender And Resident Barista Joe Scally",
+        "url": "https://sprudge.com/team-usas-secret-weapon-at-the-world-cup-defender-and-resident-barista-joe-scally-1089872.html",
+        "source": "Sprudge Coffee",
+        "time": "4 giờ trước"
       },
       {
-        "title": "Option-O Launches the Two-Headed Lagom GDS Grinder",
-        "url": "https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/",
+        "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
+        "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -212,8 +218,8 @@
   "regional_breakdown": {
     "region-sea": 16,
     "region-europe": 1,
-    "region-americas": 23,
+    "region-americas": 22,
     "region-vietnam": 16,
-    "region-global": 24
+    "region-global": 25
   }
 }
