@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-19T18:03:28.090489+00:00",
+  "updated": "2026-06-19T21:14:09.534887+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 44,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 24,
+      "count": 41,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 14,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
@@ -28,15 +28,15 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 6,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -110,7 +110,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -133,39 +133,33 @@
         "title": "Presta Coffee Roasters Releases Three Rare Yemen Coffees From Al-Khanshali Estate",
         "url": "https://sprudge.com/presta-coffee-roasters-releases-three-rare-yemen-coffees-from-al-khanshali-estate-1092123.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "The 2026 US Barista Championship: Round One, Day Two",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Team USA’s Secret Weapon At The World Cup? Defender And Resident Barista Joe Scally",
         "url": "https://sprudge.com/team-usas-secret-weapon-at-the-world-cup-defender-and-resident-barista-joe-scally-1089872.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
         "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Corporate Japan warns of new normal for supply chains after US-Iran deal",
-        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/corporate-japan-warns-of-new-normal-for-supply-chains-after-us-iran-deal",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Months after scam crackdown, thousands remain stuck in Cambodia",
         "url": "https://asia.nikkei.com/spotlight/society/crime/months-after-scam-crackdown-thousands-remain-stuck-in-cambodia",
@@ -189,9 +183,15 @@
         "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI video startup PixVerse scores 'Captain Tsubasa' license during World Cup",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-video-startup-pixverse-scores-captain-tsubasa-license-during-world-cup",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,9 +216,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-europe": 1,
     "region-americas": 22,
+    "region-sea": 17,
     "region-vietnam": 16,
     "region-global": 25
   }
