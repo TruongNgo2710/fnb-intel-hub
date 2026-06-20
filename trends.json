@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-20T17:30:19.512290+00:00",
+  "updated": "2026-06-20T21:22:19.662269+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 10,
+      "count": 45,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
@@ -19,23 +19,16 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 9,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -45,6 +38,13 @@
       "count": 4,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -72,13 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -102,15 +102,15 @@
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 8,
-    "neutral": 54,
-    "score": 12,
+    "negative": 10,
+    "neutral": 52,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -118,7 +118,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 4,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -130,42 +130,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The 2026 US Barista Championship: Semi-Finals",
-        "url": "https://sprudge.com/the-2026-us-barista-championship-semi-finals-1094564.html",
-        "source": "Sprudge Coffee",
-        "time": "7 phút trước"
-      },
-      {
-        "title": "Here Are The Semi-Finalists For The 2026 US Barista Championship",
-        "url": "https://sprudge.com/here-are-the-semi-finalists-for-the-2026-us-barista-championship-1094491.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Presta Coffee Roasters Releases Three Rare Yemen Coffees From Al-Khanshali Estate",
-        "url": "https://sprudge.com/presta-coffee-roasters-releases-three-rare-yemen-coffees-from-al-khanshali-estate-1092123.html",
-        "source": "Sprudge Coffee",
+        "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
+        "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
+        "source": "Daily Coffee News",
         "time": "1 ngày trước"
       },
       {
-        "title": "The 2026 US Barista Championship: Round One, Day Two",
-        "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
+        "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
+        "source": "Daily Coffee News",
+        "time": "2 ngày trước"
+      },
+      {
+        "title": "Option-O Launches the Two-Headed Lagom GDS Grinder",
+        "url": "https://dailycoffeenews.com/2026/06/18/option-o-launches-the-two-headed-lagom-gds-grinder/",
+        "source": "Daily Coffee News",
+        "time": "2 ngày trước"
       }
     ],
-    "consumer_demand": "high",
+    "consumer_demand": "moderate",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "The AI boom is quietly choking people in East Asia",
-        "url": "https://asia.nikkei.com/opinion/the-ai-boom-is-quietly-choking-people-in-east-asia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI video startup PixVerse scores 'Captain Tsubasa' license during World Cup",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-video-startup-pixverse-scores-captain-tsubasa-license-during-world-cup",
@@ -189,9 +177,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/optical-cable-maker-wcfo-to-add-cambodia-capacity-amid-ai-boom",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Exploring Taipingshan, Taiwan's primeval mountain escape",
+        "url": "https://asia.nikkei.com/life-arts/life/destinations/exploring-taipingshan-taiwan-s-primeval-mountain-escape",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,8 +211,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 22,
-    "region-vietnam": 13,
+    "region-americas": 21,
+    "region-vietnam": 14,
     "region-global": 26
   }
 }
