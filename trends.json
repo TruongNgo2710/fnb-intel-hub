@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-20T07:54:54.556330+00:00",
+  "updated": "2026-06-20T10:36:41.760301+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 42,
+  "articles_24h": 40,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 39,
-      "count_24h": 17,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 10,
+      "count": 15,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -36,7 +36,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 7,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -84,12 +84,6 @@
     {
       "tag": "brand-stumptown",
       "name": "brand-stumptown",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-jde",
-      "name": "brand-jde",
       "count": 1,
       "trend": "up"
     },
@@ -107,10 +101,10 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 19,
     "negative": 8,
-    "neutral": 54,
-    "score": 12,
+    "neutral": 53,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -121,14 +115,10 @@
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "stumptown",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -143,25 +133,25 @@
         "title": "Here Are The Semi-Finalists For The 2026 US Barista Championship",
         "url": "https://sprudge.com/here-are-the-semi-finalists-for-the-2026-us-barista-championship-1094491.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Presta Coffee Roasters Releases Three Rare Yemen Coffees From Al-Khanshali Estate",
         "url": "https://sprudge.com/presta-coffee-roasters-releases-three-rare-yemen-coffees-from-al-khanshali-estate-1092123.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "The 2026 US Barista Championship: Round One, Day Two",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Team USA’s Secret Weapon At The World Cup? Defender And Resident Barista Joe Scally",
         "url": "https://sprudge.com/team-usas-secret-weapon-at-the-world-cup-defender-and-resident-barista-joe-scally-1089872.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -228,7 +218,7 @@
   "regional_breakdown": {
     "region-sea": 19,
     "region-americas": 21,
-    "region-vietnam": 14,
-    "region-global": 26
+    "region-vietnam": 15,
+    "region-global": 25
   }
 }
