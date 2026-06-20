@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:14:09.534887+00:00",
+  "updated": "2026-06-20T03:56:15.192680+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 44,
@@ -7,36 +7,36 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 19,
+      "count": 40,
+      "count_24h": 18,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 12,
+      "count": 17,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 5,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 3,
+      "count": 8,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -84,6 +84,12 @@
     {
       "tag": "brand-stumptown",
       "name": "brand-stumptown",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-jde",
+      "name": "brand-jde",
       "count": 1,
       "trend": "up"
     },
@@ -101,24 +107,28 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 7,
-    "neutral": 53,
-    "score": 16,
+    "positive": 18,
+    "negative": 8,
+    "neutral": 54,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 40
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "stumptown",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -130,28 +140,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Here Are The Semi-Finalists For The 2026 US Barista Championship",
+        "url": "https://sprudge.com/here-are-the-semi-finalists-for-the-2026-us-barista-championship-1094491.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Presta Coffee Roasters Releases Three Rare Yemen Coffees From Al-Khanshali Estate",
         "url": "https://sprudge.com/presta-coffee-roasters-releases-three-rare-yemen-coffees-from-al-khanshali-estate-1092123.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "The 2026 US Barista Championship: Round One, Day Two",
         "url": "https://sprudge.com/the-2026-us-barista-championship-round-one-day-two-1094233.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Team USA’s Secret Weapon At The World Cup? Defender And Resident Barista Joe Scally",
         "url": "https://sprudge.com/team-usas-secret-weapon-at-the-world-cup-defender-and-resident-barista-joe-scally-1089872.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
-        "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
-        "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -160,18 +170,6 @@
   "ai_trends": {
     "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Months after scam crackdown, thousands remain stuck in Cambodia",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/months-after-scam-crackdown-thousands-remain-stuck-in-cambodia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Zipair ties up with Bic Camera to expand wagyu sales to tourists",
-        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-zipair-ties-up-with-bic-camera-to-expand-wagyu-sales-to-tourists2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Editor's Choice: Gulf ceasefire brings relief but Asia's energy strain persists",
         "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-gulf-ceasefire-brings-relief-but-asia-s-energy-strain-persists",
@@ -187,6 +185,18 @@
       {
         "title": "AI video startup PixVerse scores 'Captain Tsubasa' license during World Cup",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-video-startup-pixverse-scores-captain-tsubasa-license-during-world-cup",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Largest Thai hospital group plans $800m wellness hub in Bangkok",
+        "url": "https://asia.nikkei.com/business/health-care/largest-thai-hospital-group-plans-800m-wellness-hub-in-bangkok",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan targets $65bn in public-private physical AI investment by 2040",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-targets-65bn-in-public-private-physical-ai-investment-by-2040",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -216,9 +226,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 22,
-    "region-sea": 17,
-    "region-vietnam": 16,
-    "region-global": 25
+    "region-sea": 19,
+    "region-americas": 21,
+    "region-vietnam": 14,
+    "region-global": 26
   }
 }
