@@ -1,14 +1,14 @@
 {
-  "updated": "2026-06-21T17:43:37.112141+00:00",
+  "updated": "2026-06-21T21:18:57.545036+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 32,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 12,
+      "count": 42,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -116,7 +116,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -168,14 +168,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Exploring Taipingshan, Taiwan's primeval mountain escape",
-        "url": "https://asia.nikkei.com/life-arts/life/destinations/exploring-taipingshan-taiwan-s-primeval-mountain-escape",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "From repair shop to world stage, China bike maker wins young hearts",
         "url": "https://asia.nikkei.com/business/automobiles/from-repair-shop-to-world-stage-china-bike-maker-wins-young-hearts",
@@ -199,9 +193,15 @@
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
