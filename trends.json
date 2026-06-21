@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-21T11:20:17.806987+00:00",
+  "updated": "2026-06-21T14:17:56.849967+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -14,15 +14,15 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 8,
+      "count": 16,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 3,
+      "count": 10,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -33,6 +33,13 @@
       "trend": "up"
     },
     {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 5,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
@@ -40,9 +47,9 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 3,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -59,13 +66,6 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -78,12 +78,18 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-stumptown",
       "name": "brand-stumptown",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-jde",
+      "name": "brand-jde",
       "count": 1,
       "trend": "up"
     },
@@ -101,10 +107,10 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 10,
-    "neutral": 52,
-    "score": 10,
+    "positive": 16,
+    "negative": 11,
+    "neutral": 53,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -115,10 +121,14 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "stumptown",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 4,
+    "total_articles": 6,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -133,7 +143,13 @@
         "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
         "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
+      },
+      {
+        "title": "Coffee News Recap, 19 Jun: Stumptown president exits months after KDP acquisition, Liberia to revive coffee production & other stories",
+        "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-19-june-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "2 ngày trước"
       },
       {
         "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
@@ -148,7 +164,7 @@
         "time": "2 ngày trước"
       }
     ],
-    "consumer_demand": "moderate",
+    "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
@@ -211,8 +227,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-vietnam": 13,
-    "region-global": 26,
-    "region-americas": 21
+    "region-vietnam": 14,
+    "region-global": 28,
+    "region-americas": 18
   }
 }
