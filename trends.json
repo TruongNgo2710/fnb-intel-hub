@@ -1,50 +1,50 @@
 {
-  "updated": "2026-06-22T19:33:29.546653+00:00",
+  "updated": "2026-06-22T22:07:03.346642+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 46,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 43,
-      "count_24h": 19,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 11,
+      "count": 17,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 12,
-      "count_24h": 8,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 7,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
@@ -59,6 +59,13 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -78,7 +85,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -90,6 +97,12 @@
     {
       "tag": "brand-stumptown",
       "name": "brand-stumptown",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-jde",
+      "name": "brand-jde",
       "count": 1,
       "trend": "up"
     },
@@ -101,10 +114,10 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 18,
     "negative": 10,
-    "neutral": 51,
-    "score": 11,
+    "neutral": 52,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -115,12 +128,16 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "stumptown",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "total_articles": 8,
+    "price_direction": "up",
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -130,54 +147,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Uganda Coffee Report: Production Steady but Government Signals Strategy Shift",
+        "url": "https://dailycoffeenews.com/2026/06/22/uganda-coffee-report-production-steady-but-government-signals-strategy-shift/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Arizona’s Cartel Roasting Co. Expands Into Los Angeles",
         "url": "https://dailycoffeenews.com/2026/06/22/arizonas-cartel-roasting-co-expands-into-los-angeles/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Chinese Study Finds Native Fungus May Lift Conventional Coffee Into Specialty Range",
         "url": "https://dailycoffeenews.com/2026/06/22/chinese-study-finds-native-fungus-may-lift-conventional-coffee-into-specialty-range/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "7 giờ trước"
       },
       {
-        "title": "Weekly Coffee News: Stumptown President Signs Off + Dolly Parton Coffee",
-        "url": "https://dailycoffeenews.com/2026/06/19/weekly-coffee-news-stumptown-president-signs-off-dolly-parton-coffee/",
-        "source": "Daily Coffee News",
-        "time": "3 ngày trước"
-      },
-      {
-        "title": "Brewed Blend of Date and Olive Seeds Comes Close to Turkish Coffee, Study Finds",
-        "url": "https://dailycoffeenews.com/2026/06/18/brewed-blend-of-date-and-olive-seeds-comes-close-to-turkish-coffee-study-finds/",
-        "source": "Daily Coffee News",
-        "time": "4 ngày trước"
+        "title": "What’s happening at World of Coffee Brussels",
+        "url": "https://perfectdailygrind.com/2026/06/whats-happening-world-of-coffee-brussels/",
+        "source": "Perfect Daily Grind",
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Chinese appliance brands gain ground in Southeast Asia",
-        "url": "https://asia.nikkei.com/business/electronics/chinese-appliance-brands-gain-ground-in-southeast-asia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AirAsia to bring back suspended flights by September as fuel costs ease",
-        "url": "https://asia.nikkei.com/business/transportation/airasia-to-bring-back-suspended-flights-by-september-as-fuel-costs-ease",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan launches five-day 'immediate combat readiness' drill",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-launches-five-day-immediate-combat-readiness-drill",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Preferred Networks debuts AI priced less than half of OpenAI models",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-debuts-ai-priced-less-than-half-of-openai-models",
@@ -189,15 +188,33 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-seeks-ai-alliances-with-france-india-to-curb-us-china-dominance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China expo draws Nvidia, Apple, Micron as Beijing guards AI supply chain",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/china-expo-draws-nvidia-apple-micron-as-beijing-guards-ai-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's HDRE plans $3bn of battery storage projects in Japan",
+        "url": "https://asia.nikkei.com/business/energy/taiwan-s-hdre-plans-3bn-of-battery-storage-projects-in-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
     "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -216,10 +233,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-americas": 23,
     "region-vietnam": 15,
-    "region-europe": 2,
-    "region-global": 25
+    "region-sea": 16,
+    "region-americas": 20,
+    "region-europe": 3,
+    "region-global": 26
   }
 }
