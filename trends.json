@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T21:18:57.545036+00:00",
+  "updated": "2026-06-22T04:29:30.118399+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 32,
@@ -28,9 +28,9 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 7,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-coffee",
@@ -108,9 +108,9 @@
   ],
   "sentiment": {
     "positive": 14,
-    "negative": 11,
-    "neutral": 55,
-    "score": 4,
+    "negative": 10,
+    "neutral": 56,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -171,12 +171,6 @@
     "total_articles": 45,
     "top_articles": [
       {
-        "title": "From repair shop to world stage, China bike maker wins young hearts",
-        "url": "https://asia.nikkei.com/business/automobiles/from-repair-shop-to-world-stage-china-bike-maker-wins-young-hearts",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Japan seafood processor aims to hook customers abroad with 'shirasu'",
         "url": "https://asia.nikkei.com/business/food-beverage/japan-seafood-processor-aims-to-hook-customers-abroad-with-shirasu",
         "source": "Nikkei Asia",
@@ -185,6 +179,12 @@
       {
         "title": "New museum brings Thai artist Tang Chang back into focus",
         "url": "https://asia.nikkei.com/life-arts/arts/new-museum-brings-thai-artist-tang-chang-back-into-focus",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chinese appliance brands gain ground in Southeast Asia",
+        "url": "https://asia.nikkei.com/business/electronics/chinese-appliance-brands-gain-ground-in-southeast-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -226,9 +226,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
+    "region-sea": 19,
+    "region-americas": 19,
     "region-vietnam": 14,
-    "region-global": 28,
-    "region-americas": 18
+    "region-global": 28
   }
 }
