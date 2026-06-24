@@ -1,50 +1,57 @@
 {
-  "updated": "2026-06-24T17:58:28.055511+00:00",
+  "updated": "2026-06-24T21:27:17.792297+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 56,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 23,
+      "count": 42,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
+      "count": 13,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 9,
       "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 5,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 4,
-      "trend": "hot"
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -52,13 +59,6 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -86,12 +86,6 @@
       "name": "Starbucks",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
@@ -104,7 +98,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -112,10 +106,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "up",
-    "price_up_signals": 3,
-    "price_down_signals": 0,
+    "price_up_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -127,45 +121,33 @@
         "title": "Report: Drive-Through Coffee and Chicken Among Fastest-Growing US Brand Categories",
         "url": "https://dailycoffeenews.com/2026/06/24/report-drive-through-coffee-and-chicken-among-fastest-growing-us-brand-categories/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Vietnam Coffee Report: Production Rising for Third Straight Year",
         "url": "https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
+      },
+      {
+        "title": "Is the rise of co-working cafés changing what hospitality looks like?",
+        "url": "https://perfectdailygrind.com/2026/06/co-working-cafes-changing-coffee-hospitality/",
+        "source": "Perfect Daily Grind",
+        "time": "15 giờ trước"
       },
       {
         "title": "Best of Congo Cooperatives Returns with 34 High-Quality Traceable Lots",
         "url": "https://dailycoffeenews.com/2026/06/23/best-of-congo-cooperatives-returns-with-34-high-quality-traceable-lots/",
         "source": "Daily Coffee News",
-        "time": "23 giờ trước"
-      },
-      {
-        "title": "UK Revives Dormant Anti-Deforestation Plan, Includes Coffee",
-        "url": "https://dailycoffeenews.com/2026/06/23/uk-revives-dormant-anti-deforestation-plan-includes-coffee/",
-        "source": "Daily Coffee News",
         "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "SoftBank's Son says calling AI a bubble is 'blasphemy'",
-        "url": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-calling-ai-a-bubble-is-blasphemy",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "State-backed China Resources Power's unit to raise $3.6bn in record IPO",
-        "url": "https://asia.nikkei.com/business/markets/ipo/state-backed-china-resources-power-s-unit-to-raise-3.6bn-in-record-ipo",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thailand's central bank keeps policy rate unchanged at 1%",
         "url": "https://asia.nikkei.com/business/markets/thailand-s-central-bank-keeps-policy-rate-unchanged-at-1",
@@ -183,15 +165,27 @@
         "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-detains-2-japanese-over-alleged-rare-earth-export-control-breach",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "US down to 1 Pacific aircraft carrier for last 22 weeks",
+        "url": "https://asia.nikkei.com/politics/defense/us-down-to-1-pacific-aircraft-carrier-for-last-22-weeks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -211,9 +205,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 20,
+    "region-americas": 21,
     "region-vietnam": 12,
-    "region-global": 28,
+    "region-global": 27,
     "region-europe": 2
   }
 }
