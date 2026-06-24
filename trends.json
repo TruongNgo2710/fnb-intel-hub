@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:46:44.806161+00:00",
+  "updated": "2026-06-24T03:49:08.936855+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 53,
@@ -19,17 +19,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
       "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -47,16 +47,16 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -70,15 +70,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
       "trend": "up"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 6,
+    "positive": 20,
+    "negative": 5,
     "neutral": 55,
-    "score": 16,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -112,10 +112,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -127,32 +127,32 @@
         "title": "Best of Congo Cooperatives Returns with 34 High-Quality Traceable Lots",
         "url": "https://dailycoffeenews.com/2026/06/23/best-of-congo-cooperatives-returns-with-34-high-quality-traceable-lots/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "UK Revives Dormant Anti-Deforestation Plan, Includes Coffee",
         "url": "https://dailycoffeenews.com/2026/06/23/uk-revives-dormant-anti-deforestation-plan-includes-coffee/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Design Details: The Pourover Gets Chunky with Gustaf Westman",
         "url": "https://dailycoffeenews.com/2026/06/23/design-details-the-pourover-gets-chunky-with-gustaf-westman/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "DOJ Investigating New York Coffee Chain After Ban of Pro-Israel Congressman",
         "url": "https://dailycoffeenews.com/2026/06/23/doj-investigating-new-york-coffee-chain-after-ban-of-pro-israel-congressman/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 50,
     "top_articles": [
       {
         "title": "Vietnam's Long Thanh International Airport risks further delays",
@@ -185,7 +185,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-europe": 4,
+    "region-europe": 3,
     "region-vietnam": 10,
+    "region-sea": 17,
     "region-americas": 20,
-    "region-global": 29
+    "region-global": 30
   }
 }
