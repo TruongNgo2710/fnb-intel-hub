@@ -1,35 +1,35 @@
 {
-  "updated": "2026-06-24T21:27:17.792297+00:00",
+  "updated": "2026-06-25T03:48:04.940645+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 25,
+      "count": 37,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 9,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 4,
+      "count": 12,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -42,16 +42,9 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -61,44 +54,50 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-thecoffeehouse",
+      "name": "The Coffee House",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 18,
     "negative": 8,
-    "neutral": 53,
-    "score": 14,
+    "neutral": 54,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -106,10 +105,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 12,
     "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -118,48 +117,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Build-Outs Of Coffee: Bird Dog Coffee In Laguna Hills, CA",
+        "url": "https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html",
+        "source": "Sprudge Coffee",
+        "time": "10 giờ trước"
+      },
+      {
         "title": "Report: Drive-Through Coffee and Chicken Among Fastest-Growing US Brand Categories",
         "url": "https://dailycoffeenews.com/2026/06/24/report-drive-through-coffee-and-chicken-among-fastest-growing-us-brand-categories/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "12 giờ trước"
+      },
+      {
+        "title": "Jill Hoff Of Monogram Coffee Is The 2026 Canada Barista Champion",
+        "url": "https://sprudge.com/jill-hoff-of-monogram-coffee-is-the-2026-canada-barista-champion-1098917.html",
+        "source": "Sprudge Coffee",
+        "time": "12 giờ trước"
       },
       {
         "title": "Vietnam Coffee Report: Production Rising for Third Straight Year",
         "url": "https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Is the rise of co-working cafés changing what hospitality looks like?",
-        "url": "https://perfectdailygrind.com/2026/06/co-working-cafes-changing-coffee-hospitality/",
-        "source": "Perfect Daily Grind",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "Best of Congo Cooperatives Returns with 34 High-Quality Traceable Lots",
-        "url": "https://dailycoffeenews.com/2026/06/23/best-of-congo-cooperatives-returns-with-34-high-quality-traceable-lots/",
-        "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Thailand's central bank keeps policy rate unchanged at 1%",
-        "url": "https://asia.nikkei.com/business/markets/thailand-s-central-bank-keeps-policy-rate-unchanged-at-1",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Malaysia to draft drone industry plan, eyes air taxi services",
-        "url": "https://asia.nikkei.com/business/technology/malaysia-to-draft-drone-industry-plan-eyes-air-taxi-services",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China detains 2 Japanese over alleged rare-earth export control breach",
         "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-detains-2-japanese-over-alleged-rare-earth-export-control-breach",
@@ -173,13 +160,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "South Korea's AI chip boom spills into property market",
+        "url": "https://asia.nikkei.com/business/markets/property/south-korea-s-ai-chip-boom-spills-into-property-market",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank chipmaker Arm hits 50% share in top AI data centers: exec",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/softbank-chipmaker-arm-hits-50-share-in-top-ai-data-centers-exec",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,9 +204,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 21,
+    "region-americas": 18,
     "region-vietnam": 12,
-    "region-global": 27,
-    "region-europe": 2
+    "region-europe": 3,
+    "region-global": 29
   }
 }
