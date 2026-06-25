@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-25T18:14:17.724332+00:00",
+  "updated": "2026-06-25T21:47:15.847814+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 28,
+      "count_24h": 27,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
+      "count": 19,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -40,18 +40,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -63,15 +63,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -97,15 +97,11 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "claude",
-      "count": 2
     }
   ],
   "coffee_trends": {
@@ -124,25 +120,25 @@
         "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
         "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
         "source": "Sprudge Coffee",
-        "time": "13 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
         "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Women-Powered Coffee Coalition Launches with Focus on Chiapas, Mexico",
         "url": "https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Trung Nguyên Legend khởi công hệ thống nhà máy cà phê gần 2.200 tỷ",
         "url": "https://vnexpress.net/trung-nguyen-legend-khoi-cong-he-thong-nha-may-ca-phe-gan-2-200-ty-5089963.html",
         "source": "VnExpress Kinh doanh",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -151,18 +147,6 @@
   "ai_trends": {
     "total_articles": 47,
     "top_articles": [
-      {
-        "title": "SoftBank chipmaker Arm hits 50% share in top AI data centers: exec",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/softbank-chipmaker-arm-hits-50-share-in-top-ai-data-centers-exec",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Anthropic accuses Alibaba of 'largest known distillation attack' on Claude",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-accuses-alibaba-of-largest-known-distillation-attack-on-claude",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "South Korea plans new chip cluster as AI boom strains capacity",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-plans-new-chip-cluster-as-ai-boom-strains-capacity",
@@ -180,9 +164,21 @@
         "url": "https://asia.nikkei.com/spotlight/society/crime/taiwan-to-impose-stiff-penalties-on-e-cigarettes-to-curb-drug-use",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China-linked viruses found on USB drives from online retailers",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/china-linked-viruses-found-on-usb-drives-from-online-retailers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 47 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -202,13 +198,13 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 20,
+    "region-sea": 18,
+    "region-americas": 19,
     "region-vietnam": 12,
     "region-global": 28,
     "region-europe": 3
