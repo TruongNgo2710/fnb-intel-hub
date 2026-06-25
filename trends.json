@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T07:48:35.499154+00:00",
+  "updated": "2026-06-25T10:46:43.254175+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 61,
@@ -12,13 +12,6 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 14,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
@@ -26,17 +19,24 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 12,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -47,9 +47,16 @@
       "trend": "up"
     },
     {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -88,10 +95,10 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 7,
-    "neutral": 55,
-    "score": 14,
+    "positive": 19,
+    "negative": 4,
+    "neutral": 57,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -109,7 +116,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 12,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -121,28 +128,28 @@
         "time": "0 phút trước"
       },
       {
-        "title": "A guide to preventive maintenance for coffee roasters",
-        "url": "https://perfectdailygrind.com/2026/06/guide-to-preventive-maintenance-coffee-roasters/",
-        "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
-      },
-      {
         "title": "Build-Outs Of Coffee: Bird Dog Coffee In Laguna Hills, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Report: Drive-Through Coffee and Chicken Among Fastest-Growing US Brand Categories",
         "url": "https://dailycoffeenews.com/2026/06/24/report-drive-through-coffee-and-chicken-among-fastest-growing-us-brand-categories/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Jill Hoff Of Monogram Coffee Is The 2026 Canada Barista Champion",
         "url": "https://sprudge.com/jill-hoff-of-monogram-coffee-is-the-2026-canada-barista-champion-1098917.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "19 giờ trước"
+      },
+      {
+        "title": "Vietnam Coffee Report: Production Rising for Third Straight Year",
+        "url": "https://dailycoffeenews.com/2026/06/24/vietnam-coffee-report-production-rising-for-third-straight-year/",
+        "source": "Daily Coffee News",
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
