@@ -1,57 +1,57 @@
 {
-  "updated": "2026-06-25T14:39:32.575611+00:00",
+  "updated": "2026-06-25T18:14:17.724332+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 32,
+      "count": 42,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 13,
+      "count": 17,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -63,58 +63,56 @@
   ],
   "trending_brands": [
     {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 4,
+      "trend": "hot"
+    },
+    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-trungnguyen",
       "name": "Trung Nguyên",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-thecoffeehouse",
-      "name": "The Coffee House",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 4,
-    "neutral": 56,
-    "score": 20,
+    "positive": 19,
+    "negative": 7,
+    "neutral": 54,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 41
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -123,48 +121,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Trung Nguyên Legend khởi công hệ thống nhà máy cà phê gần 2.200 tỷ",
-        "url": "https://vnexpress.net/trung-nguyen-legend-khoi-cong-he-thong-nha-may-ca-phe-gan-2-200-ty-5089963.html",
-        "source": "VnExpress Kinh doanh",
+        "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
+        "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
+        "source": "Sprudge Coffee",
+        "time": "13 phút trước"
+      },
+      {
+        "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
+        "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
+        "source": "Daily Coffee News",
         "time": "1 giờ trước"
       },
       {
-        "title": "Exactly How Much Coffee Do You Need To Boost Athletic Performance?",
-        "url": "https://sprudge.com/exactly-how-much-coffee-do-you-need-to-boost-athletic-performance-1098894.html",
-        "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Bird Dog Coffee In Laguna Hills, CA",
-        "url": "https://sprudge.com/build-outs-of-coffee-bird-dog-coffee-in-laguna-hills-ca-1046155.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Report: Drive-Through Coffee and Chicken Among Fastest-Growing US Brand Categories",
-        "url": "https://dailycoffeenews.com/2026/06/24/report-drive-through-coffee-and-chicken-among-fastest-growing-us-brand-categories/",
+        "title": "Women-Powered Coffee Coalition Launches with Focus on Chiapas, Mexico",
+        "url": "https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Trung Nguyên Legend khởi công hệ thống nhà máy cà phê gần 2.200 tỷ",
+        "url": "https://vnexpress.net/trung-nguyen-legend-khoi-cong-he-thong-nha-may-ca-phe-gan-2-200-ty-5089963.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "US down to 1 Pacific aircraft carrier for last 22 weeks",
-        "url": "https://asia.nikkei.com/politics/defense/us-down-to-1-pacific-aircraft-carrier-for-last-22-weeks",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "South Korea's AI chip boom spills into property market",
-        "url": "https://asia.nikkei.com/business/markets/property/south-korea-s-ai-chip-boom-spills-into-property-market",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "SoftBank chipmaker Arm hits 50% share in top AI data centers: exec",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/softbank-chipmaker-arm-hits-50-share-in-top-ai-data-centers-exec",
@@ -182,9 +168,21 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-plans-new-chip-cluster-as-ai-boom-strains-capacity",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's 'law enforcement' in waters east of Taiwan draws pushback",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-law-enforcement-in-waters-east-of-taiwan-draws-pushback",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan to impose stiff penalties on e-cigarettes to curb drug use",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/taiwan-to-impose-stiff-penalties-on-e-cigarettes-to-curb-drug-use",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 47 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +208,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 18,
-    "region-vietnam": 13,
-    "region-global": 30,
-    "region-europe": 2
+    "region-americas": 20,
+    "region-vietnam": 12,
+    "region-global": 28,
+    "region-europe": 3
   }
 }
