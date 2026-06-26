@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-26T07:58:46.510688+00:00",
+  "updated": "2026-06-26T10:57:46.497332+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 22,
+      "count": 40,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 15,
+      "count": 19,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -28,15 +28,15 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 6,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -83,15 +83,15 @@
   ],
   "sentiment": {
     "positive": 22,
-    "negative": 10,
-    "neutral": 48,
-    "score": 15,
+    "negative": 11,
+    "neutral": 47,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -114,39 +114,33 @@
         "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
         "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
         "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Women-Powered Coffee Coalition Launches with Focus on Chiapas, Mexico",
         "url": "https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Exactly How Much Coffee Do You Need To Boost Athletic Performance?",
         "url": "https://sprudge.com/exactly-how-much-coffee-do-you-need-to-boost-athletic-performance-1098894.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "22 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Upscale Japan sake brand looks to boost exports to Taiwan, Hong Kong",
-        "url": "https://asia.nikkei.com/business/food-beverage/upscale-japan-sake-brand-looks-to-boost-exports-to-taiwan-hong-kong",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
         "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
@@ -160,19 +154,25 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "The AI cold war needs a nonalignment movement",
+        "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Indonesia risks deeper power crisis from coal supply failures",
+        "url": "https://asia.nikkei.com/business/energy/indonesia-risks-deeper-power-crisis-from-coal-supply-failures",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Kawasaki Heavy and Airbus to team up on anti-submarine drone for Japan",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/kawasaki-heavy-and-airbus-to-team-up-on-anti-submarine-drone-for-japan",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
