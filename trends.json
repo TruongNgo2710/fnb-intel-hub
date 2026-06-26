@@ -1,50 +1,50 @@
 {
-  "updated": "2026-06-26T14:30:56.550579+00:00",
+  "updated": "2026-06-26T17:52:39.482546+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 54,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 20,
+      "count": 42,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 15,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 8,
+      "count_24h": 9,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 8,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -65,13 +65,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 9,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -79,25 +79,19 @@
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-jde",
-      "name": "brand-jde",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 24,
-    "negative": 11,
-    "neutral": 45,
+    "positive": 21,
+    "negative": 8,
+    "neutral": 51,
     "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -105,7 +99,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -117,35 +111,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
+        "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Weekly Coffee News: Jute Bag Update + Borer Infestation Expands",
         "url": "https://dailycoffeenews.com/2026/06/26/weekly-coffee-news-jute-bag-update-borer-infestation-expands/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Coffee News Recap, 26 Jun: Heineken hires head of KDP’s Global Coffee Co., Coca-Cola reportedly looking to restructure Costa after failed sale & other stories",
-        "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
         "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
         "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "23 giờ trước"
       },
       {
         "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
         "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
@@ -178,7 +172,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,10 +197,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-europe": 5,
-    "region-vietnam": 16,
+    "region-sea": 20,
+    "region-vietnam": 15,
+    "region-global": 28,
     "region-americas": 13,
-    "region-global": 29
+    "region-europe": 4
   }
 }
