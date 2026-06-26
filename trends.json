@@ -1,42 +1,42 @@
 {
-  "updated": "2026-06-26T17:52:39.482546+00:00",
+  "updated": "2026-06-26T21:23:14.918404+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 22,
+      "count": 45,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 10,
+      "count": 13,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
+      "count": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 4,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -79,19 +79,25 @@
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
+    },
+    {
+      "tag": "brand-jde",
+      "name": "brand-jde",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 8,
-    "neutral": 51,
-    "score": 16,
+    "positive": 19,
+    "negative": 12,
+    "neutral": 49,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -99,7 +105,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -111,48 +117,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
+        "url": "https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
         "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Jute Bag Update + Borer Infestation Expands",
         "url": "https://dailycoffeenews.com/2026/06/26/weekly-coffee-news-jute-bag-update-borer-infestation-expands/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
-        "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
-        "source": "Sprudge Coffee",
-        "time": "23 giờ trước"
-      },
-      {
-        "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
-        "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
-        "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "title": "Coffee News Recap, 26 Jun: Heineken hires head of KDP’s Global Coffee Co., Coca-Cola reportedly looking to restructure Costa after failed sale & other stories",
+        "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
-        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SoftBank shares slip over 12% on OpenAI IPO delay concerns",
-        "url": "https://asia.nikkei.com/business/markets/softbank-shares-slip-over-12-on-openai-ipo-delay-concerns",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "The AI cold war needs a nonalignment movement",
         "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
@@ -170,9 +164,21 @@
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/kawasaki-heavy-and-airbus-to-team-up-on-anti-submarine-drone-for-japan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Daiichi Life to arrange leveraged buyout loans in first for Japan life insurer",
+        "url": "https://asia.nikkei.com/business/finance/daiichi-life-to-arrange-leveraged-buyout-loans-in-first-for-japan-life-insurer",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takeda's 1st female CEO leans into AI to shape biopharma business",
+        "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-s-1st-female-ceo-leans-into-ai-to-shape-biopharma-business",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -197,10 +203,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
+    "region-sea": 19,
+    "region-americas": 16,
     "region-vietnam": 15,
-    "region-global": 28,
-    "region-americas": 13,
+    "region-global": 26,
     "region-europe": 4
   }
 }
