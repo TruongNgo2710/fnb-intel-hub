@@ -1,49 +1,49 @@
 {
-  "updated": "2026-06-25T21:47:15.847814+00:00",
+  "updated": "2026-06-26T03:57:28.307727+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 56,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 27,
+      "count": 40,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
+      "count": 21,
       "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -79,25 +79,19 @@
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-trungnguyen",
-      "name": "Trung Nguyên",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 7,
-    "neutral": 54,
-    "score": 15,
+    "positive": 22,
+    "negative": 9,
+    "neutral": 49,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -105,9 +99,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "up",
-    "price_up_signals": 2,
+    "total_articles": 9,
+    "price_direction": "stable",
+    "price_up_signals": 1,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -120,51 +114,33 @@
         "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
         "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
         "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Women-Powered Coffee Coalition Launches with Focus on Chiapas, Mexico",
         "url": "https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
-        "title": "Trung Nguyên Legend khởi công hệ thống nhà máy cà phê gần 2.200 tỷ",
-        "url": "https://vnexpress.net/trung-nguyen-legend-khoi-cong-he-thong-nha-may-ca-phe-gan-2-200-ty-5089963.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "8 giờ trước"
+        "title": "Exactly How Much Coffee Do You Need To Boost Athletic Performance?",
+        "url": "https://sprudge.com/exactly-how-much-coffee-do-you-need-to-boost-athletic-performance-1098894.html",
+        "source": "Sprudge Coffee",
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "South Korea plans new chip cluster as AI boom strains capacity",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-plans-new-chip-cluster-as-ai-boom-strains-capacity",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's 'law enforcement' in waters east of Taiwan draws pushback",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-law-enforcement-in-waters-east-of-taiwan-draws-pushback",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan to impose stiff penalties on e-cigarettes to curb drug use",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/taiwan-to-impose-stiff-penalties-on-e-cigarettes-to-curb-drug-use",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China-linked viruses found on USB drives from online retailers",
         "url": "https://asia.nikkei.com/spotlight/cybersecurity/china-linked-viruses-found-on-usb-drives-from-online-retailers",
@@ -176,15 +152,33 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Upscale Japan sake brand looks to boost exports to Taiwan, Hong Kong",
+        "url": "https://asia.nikkei.com/business/food-beverage/upscale-japan-sake-brand-looks-to-boost-exports-to-taiwan-hong-kong",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank shares slipped over 12% on concerns of OpenAI IPO delay",
+        "url": "https://asia.nikkei.com/business/markets/softbank-shares-slipped-over-12-on-concerns-of-openai-ipo-delay",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -203,10 +197,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 19,
-    "region-vietnam": 12,
-    "region-global": 28,
-    "region-europe": 3
+    "region-sea": 17,
+    "region-americas": 17,
+    "region-europe": 4,
+    "region-vietnam": 15,
+    "region-global": 27
   }
 }
