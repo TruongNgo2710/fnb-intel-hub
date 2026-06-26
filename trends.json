@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T03:57:28.307727+00:00",
+  "updated": "2026-06-26T07:58:46.510688+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 56,
@@ -7,21 +7,28 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 24,
+      "count": 38,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 21,
-      "count_24h": 16,
+      "count": 20,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -30,13 +37,6 @@
       "label": "#ChuỗiCungỨng",
       "count": 7,
       "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -49,7 +49,7 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
+      "count": 1,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -77,21 +77,21 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 22,
-    "negative": 9,
-    "neutral": 49,
-    "score": 16,
+    "negative": 10,
+    "neutral": 48,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -114,45 +114,33 @@
         "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
         "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Researchers Propose New Method for Tracing Roasted Coffee Origins",
         "url": "https://dailycoffeenews.com/2026/06/25/researchers-propose-new-method-for-tracing-roasted-coffee-origins/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Women-Powered Coffee Coalition Launches with Focus on Chiapas, Mexico",
         "url": "https://dailycoffeenews.com/2026/06/25/women-powered-coffee-coalition-launches-with-focus-on-chiapas-mexico/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Exactly How Much Coffee Do You Need To Boost Athletic Performance?",
         "url": "https://sprudge.com/exactly-how-much-coffee-do-you-need-to-boost-athletic-performance-1098894.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "China-linked viruses found on USB drives from online retailers",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/china-linked-viruses-found-on-usb-drives-from-online-retailers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Upscale Japan sake brand looks to boost exports to Taiwan, Hong Kong",
         "url": "https://asia.nikkei.com/business/food-beverage/upscale-japan-sake-brand-looks-to-boost-exports-to-taiwan-hong-kong",
@@ -160,8 +148,14 @@
         "time": "0 phút trước"
       },
       {
-        "title": "SoftBank shares slipped over 12% on concerns of OpenAI IPO delay",
-        "url": "https://asia.nikkei.com/business/markets/softbank-shares-slipped-over-12-on-concerns-of-openai-ipo-delay",
+        "title": "Trump's Iran oil sanction waiver set to squeeze China's teapot refiners",
+        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-s-iran-oil-sanction-waiver-set-to-squeeze-china-s-teapot-refiners",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank shares slip over 12% on OpenAI IPO delay concerns",
+        "url": "https://asia.nikkei.com/business/markets/softbank-shares-slip-over-12-on-openai-ipo-delay-concerns",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -170,9 +164,15 @@
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -198,9 +198,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 17,
     "region-europe": 4,
-    "region-vietnam": 15,
+    "region-vietnam": 16,
+    "region-americas": 16,
     "region-global": 27
   }
 }
