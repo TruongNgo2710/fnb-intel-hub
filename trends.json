@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-27T03:40:19.559287+00:00",
+  "updated": "2026-06-27T06:56:25.477409+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 51,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -19,17 +19,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 10,
       "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -89,9 +89,9 @@
   ],
   "sentiment": {
     "positive": 19,
-    "negative": 12,
-    "neutral": 49,
-    "score": 9,
+    "negative": 11,
+    "neutral": 50,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -120,25 +120,25 @@
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
         "url": "https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
         "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Jute Bag Update + Borer Infestation Expands",
         "url": "https://dailycoffeenews.com/2026/06/26/weekly-coffee-news-jute-bag-update-borer-infestation-expands/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Coffee News Recap, 26 Jun: Heineken hires head of KDP’s Global Coffee Co., Coca-Cola reportedly looking to restructure Costa after failed sale & other stories",
         "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/",
         "source": "Perfect Daily Grind",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -147,12 +147,6 @@
   "ai_trends": {
     "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Indonesia risks deeper power crisis from coal supply failures",
-        "url": "https://asia.nikkei.com/business/energy/indonesia-risks-deeper-power-crisis-from-coal-supply-failures",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Kawasaki Heavy and Airbus to team up on anti-submarine drone for Japan",
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/kawasaki-heavy-and-airbus-to-team-up-on-anti-submarine-drone-for-japan",
@@ -174,6 +168,12 @@
       {
         "title": "Japan banks, tech firms join on AI chat tool for retail asset management",
         "url": "https://asia.nikkei.com/business/finance/japan-banks-tech-firms-join-on-ai-chat-tool-for-retail-asset-management",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand's Saha teams with Japan telecom SoftBank on AI-powered services",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-saha-teams-with-japan-telecom-softbank-on-ai-powered-services",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -206,7 +206,7 @@
     "region-sea": 19,
     "region-americas": 17,
     "region-vietnam": 16,
-    "region-global": 24,
-    "region-europe": 4
+    "region-global": 25,
+    "region-europe": 3
   }
 }
