@@ -1,50 +1,50 @@
 {
-  "updated": "2026-06-27T10:13:49.969743+00:00",
+  "updated": "2026-06-27T13:49:29.044595+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 49,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 22,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 6,
+      "count": 14,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 4,
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -79,19 +79,13 @@
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-jde",
-      "name": "brand-jde",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 10,
+    "positive": 21,
+    "negative": 8,
     "neutral": 51,
-    "score": 11,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -105,7 +99,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -120,25 +114,25 @@
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
         "url": "https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
         "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Jute Bag Update + Borer Infestation Expands",
         "url": "https://dailycoffeenews.com/2026/06/26/weekly-coffee-news-jute-bag-update-borer-infestation-expands/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "1 ngày trước"
       },
       {
-        "title": "Coffee News Recap, 26 Jun: Heineken hires head of KDP’s Global Coffee Co., Coca-Cola reportedly looking to restructure Costa after failed sale & other stories",
-        "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "22 giờ trước"
+        "title": "Build-Outs Of Coffee: Others Coffee In Washington, DC",
+        "url": "https://sprudge.com/build-outs-of-coffee-others-coffee-in-washington-dc-1046087.html",
+        "source": "Sprudge Coffee",
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -205,8 +199,8 @@
   "regional_breakdown": {
     "region-sea": 19,
     "region-americas": 17,
-    "region-vietnam": 15,
-    "region-global": 25,
+    "region-vietnam": 14,
+    "region-global": 26,
     "region-europe": 4
   }
 }
