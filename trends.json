@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-26T21:23:14.918404+00:00",
+  "updated": "2026-06-27T03:40:19.559287+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 55,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 28,
+      "count": 42,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 11,
-      "count_24h": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -36,15 +36,15 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 6,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-qsr",
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -97,7 +97,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -120,39 +120,33 @@
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
         "url": "https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
         "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Jute Bag Update + Borer Infestation Expands",
         "url": "https://dailycoffeenews.com/2026/06/26/weekly-coffee-news-jute-bag-update-borer-infestation-expands/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Coffee News Recap, 26 Jun: Heineken hires head of KDP’s Global Coffee Co., Coca-Cola reportedly looking to restructure Costa after failed sale & other stories",
         "url": "https://perfectdailygrind.com/2026/06/coffee-news-recap-26-june-2026/",
         "source": "Perfect Daily Grind",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "The AI cold war needs a nonalignment movement",
-        "url": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Indonesia risks deeper power crisis from coal supply failures",
         "url": "https://asia.nikkei.com/business/energy/indonesia-risks-deeper-power-crisis-from-coal-supply-failures",
@@ -176,9 +170,15 @@
         "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-s-1st-female-ceo-leans-into-ai-to-shape-biopharma-business",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan banks, tech firms join on AI chat tool for retail asset management",
+        "url": "https://asia.nikkei.com/business/finance/japan-banks-tech-firms-join-on-ai-chat-tool-for-retail-asset-management",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -204,9 +204,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 16,
-    "region-vietnam": 15,
-    "region-global": 26,
+    "region-americas": 17,
+    "region-vietnam": 16,
+    "region-global": 24,
     "region-europe": 4
   }
 }
