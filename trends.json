@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T17:17:33.864702+00:00",
+  "updated": "2026-06-28T21:06:12.578171+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 35,
@@ -21,15 +21,15 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -89,10 +89,10 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 18,
     "negative": 10,
-    "neutral": 53,
-    "score": 9,
+    "neutral": 52,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -114,7 +114,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -129,19 +129,19 @@
         "title": "The World Cup? You Mean The Nine Country Mega Blend I’m Currently Drinking?",
         "url": "https://sprudge.com/the-world-cup-you-mean-the-nine-country-mega-blend-im-currently-drinking-1103546.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Cách tính chi phí bản quyền âm nhạc cho các quán cà phê, nhà hàng",
         "url": "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
         "source": "VnExpress Kinh doanh",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
         "url": "https://sprudge.com/the-real-resident-barista-at-the-world-cup-is-becky-reeves-1101622.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
@@ -157,18 +157,6 @@
     "total_articles": 48,
     "top_articles": [
       {
-        "title": "Shareholders in Japan push back against poor earnings, weak governance",
-        "url": "https://asia.nikkei.com/business/markets/equities/shareholders-in-japan-push-back-against-poor-earnings-weak-governance",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Honda starts AI data center battery production in US after EV pivot",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-starts-ai-data-center-battery-production-in-us-after-ev-pivot",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Japan's Daikin to set up India R&D hub for data center cooling",
         "url": "https://asia.nikkei.com/business/companies/japan-s-daikin-to-set-up-india-r-d-hub-for-data-center-cooling",
         "source": "Nikkei Asia",
@@ -183,6 +171,18 @@
       {
         "title": "Japan to launch 8 projects in 'digital corridor' spanning Taiwan, India",
         "url": "https://asia.nikkei.com/business/telecommunication/japan-to-launch-8-projects-in-digital-corridor-spanning-taiwan-india",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's top banks weigh how to raise dollars for promised US investments",
+        "url": "https://asia.nikkei.com/business/finance/japan-s-top-banks-weigh-how-to-raise-dollars-for-promised-us-investments",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Kathmandu's cocktail scene finds its own flavor",
+        "url": "https://asia.nikkei.com/life-arts/life/eat-drink/kathmandu-s-cocktail-scene-finds-its-own-flavor",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -212,8 +212,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 20,
+    "region-sea": 17,
+    "region-americas": 19,
     "region-vietnam": 14,
     "region-global": 28,
     "region-europe": 2
