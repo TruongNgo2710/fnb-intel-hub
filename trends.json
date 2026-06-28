@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T13:53:07.208562+00:00",
+  "updated": "2026-06-28T17:17:33.864702+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 35,
@@ -7,28 +7,28 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 14,
+      "count": 42,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 12,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 10,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 7,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -43,8 +43,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-qsr",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 10,
+      "count": 11,
       "trend": "hot"
     },
     {
@@ -86,29 +86,27 @@
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-jde",
-      "name": "brand-jde",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 17,
     "negative": 10,
-    "neutral": 52,
-    "score": 10,
+    "neutral": 53,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
     },
     {
       "word": "claude",
@@ -116,7 +114,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -131,13 +129,13 @@
         "title": "The World Cup? You Mean The Nine Country Mega Blend I’m Currently Drinking?",
         "url": "https://sprudge.com/the-world-cup-you-mean-the-nine-country-mega-blend-im-currently-drinking-1103546.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Cách tính chi phí bản quyền âm nhạc cho các quán cà phê, nhà hàng",
         "url": "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
         "source": "VnExpress Kinh doanh",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
@@ -149,14 +147,14 @@
         "title": "Kauai Coffee Inks Long-Term Lease After Months of Uncertainty",
         "url": "https://dailycoffeenews.com/2026/06/26/kauai-coffee-inks-long-term-lease-after-months-of-uncertainty/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
       {
         "title": "Shareholders in Japan push back against poor earnings, weak governance",
@@ -189,7 +187,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,9 +213,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-americas": 19,
+    "region-americas": 20,
     "region-vietnam": 14,
-    "region-global": 29,
+    "region-global": 28,
     "region-europe": 2
   }
 }
