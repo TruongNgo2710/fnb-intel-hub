@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:03:49.139952+00:00",
+  "updated": "2026-06-28T10:31:52.776143+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 37,
@@ -26,17 +26,17 @@
       "trend": "up"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 6,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -125,7 +125,7 @@
         "title": "Cách tính chi phí bản quyền âm nhạc cho các quán cà phê, nhà hàng",
         "url": "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
         "source": "VnExpress Kinh doanh",
-        "time": "3 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "The Real Resident Barista At The World Cup Is Becky Reeves",
@@ -153,18 +153,6 @@
     "total_articles": 47,
     "top_articles": [
       {
-        "title": "Japan banks, tech firms join on AI chat tool for retail asset management",
-        "url": "https://asia.nikkei.com/business/finance/japan-banks-tech-firms-join-on-ai-chat-tool-for-retail-asset-management",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Thailand's Saha teams with Japan telecom SoftBank on AI-powered services",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-saha-teams-with-japan-telecom-softbank-on-ai-powered-services",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Shareholders in Japan push back against poor earnings, weak governance",
         "url": "https://asia.nikkei.com/business/markets/equities/shareholders-in-japan-push-back-against-poor-earnings-weak-governance",
         "source": "Nikkei Asia",
@@ -179,6 +167,18 @@
       {
         "title": "Japan's Daikin to set up India R&D hub for data center cooling",
         "url": "https://asia.nikkei.com/business/companies/japan-s-daikin-to-set-up-india-r-d-hub-for-data-center-cooling",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China and North Korea absorb lessons from Ukraine's evolving battlefield",
+        "url": "https://asia.nikkei.com/spotlight/comment/china-and-north-korea-absorb-lessons-from-ukraine-s-evolving-battlefield",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to launch 8 projects in 'digital corridor' spanning Taiwan, India",
+        "url": "https://asia.nikkei.com/business/telecommunication/japan-to-launch-8-projects-in-digital-corridor-spanning-taiwan-india",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -208,9 +208,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 16,
     "region-americas": 19,
-    "region-vietnam": 14,
+    "region-vietnam": 15,
     "region-global": 28,
     "region-europe": 2
   }
