@@ -1,34 +1,34 @@
 {
-  "updated": "2026-06-29T18:12:09.071238+00:00",
+  "updated": "2026-06-29T21:30:10.157235+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 49,
+  "articles_24h": 54,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 19,
+      "count": 43,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 12,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -42,7 +42,14 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -50,13 +57,6 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -78,34 +78,34 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 9,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 15,
     "negative": 11,
-    "neutral": 52,
-    "score": 8,
+    "neutral": 54,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
-    },
-    {
-      "word": "claude",
-      "count": 3
+      "count": 43
     },
     {
       "word": "gọi vốn",
+      "count": 3
+    },
+    {
+      "word": "claude",
       "count": 3
     },
     {
@@ -115,8 +115,8 @@
   ],
   "coffee_trends": {
     "total_articles": 10,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "price_direction": "up",
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -129,45 +129,33 @@
         "title": "Sprouts Farmers Market Expands Partnership With Klatch Coffee, Bringing In-Store Cafes To San Diego",
         "url": "https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html",
         "source": "Sprudge Coffee",
-        "time": "37 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Filigree Coffee In Orlando, FL",
         "url": "https://sprudge.com/build-outs-of-coffee-filigree-coffee-in-orlando-fl-1071249.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Three New World Coffee Champions Were Just Crowned",
         "url": "https://sprudge.com/three-new-world-coffee-champions-were-just-crowned-1101834.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Underwood Coffee Overjoyed to Open in Downtown Duluth",
         "url": "https://dailycoffeenews.com/2026/06/29/underwood-coffee-overjoyed-to-open-in-downtown-duluth/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Asia's AI rally winners face a rising leverage problem",
-        "url": "https://asia.nikkei.com/business/markets/trading-asia/asia-s-ai-rally-winners-face-a-rising-leverage-problem",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Australia's Firmus announces Nvidia-backed 'AI factory' in Indonesia",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-s-firmus-announces-nvidia-backed-ai-factory-in-indonesia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Takaichi and Modi to agree on supporting ammonia production",
         "url": "https://asia.nikkei.com/business/materials/takaichi-and-modi-to-agree-on-supporting-ammonia-production",
@@ -181,13 +169,25 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-        "source": "TechCrunch AI",
-        "time": "1 phút trước"
+        "title": "'I've applied to 8,000 jobs': Tech grads at top US schools feel shut out by AI",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/i-ve-applied-to-8-000-jobs-tech-grads-at-top-us-schools-feel-shut-out-by-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan retail investors wait with near $100bn in funds in volatile market",
+        "url": "https://asia.nikkei.com/business/markets/equities/japan-retail-investors-wait-with-near-100bn-in-funds-in-volatile-market",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,10 +212,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-global": 33,
-    "region-vietnam": 12,
-    "region-americas": 14,
-    "region-europe": 1
+    "region-sea": 19,
+    "region-americas": 18,
+    "region-vietnam": 10,
+    "region-global": 33
   }
 }
