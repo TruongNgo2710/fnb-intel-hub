@@ -1,48 +1,48 @@
 {
-  "updated": "2026-06-30T11:14:51.898804+00:00",
+  "updated": "2026-06-30T14:25:38.927301+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
+      "count": 40,
       "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
+      "count": 18,
       "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
+      "count": 5,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -82,6 +82,12 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-starbucks",
       "name": "Starbucks",
       "count": 1,
@@ -89,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 18,
     "negative": 11,
-    "neutral": 50,
-    "score": 10,
+    "neutral": 51,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -114,9 +120,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "total_articles": 10,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -132,29 +138,29 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chasing trends at any cost can be risky for roasters",
-        "url": "https://perfectdailygrind.com/2026/06/chasing-trends-risky-for-coffee-roasters/",
-        "source": "Perfect Daily Grind",
-        "time": "5 giờ trước"
+        "title": "From Coffee Grounds To Biochar In 90 Seconds Flat",
+        "url": "https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
       },
       {
         "title": "Sprouts Farmers Market Expands Partnership With Klatch Coffee, Bringing In-Store Cafes To San Diego",
         "url": "https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html",
         "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Filigree Coffee In Orlando, FL",
         "url": "https://sprudge.com/build-outs-of-coffee-filigree-coffee-in-orlando-fl-1071249.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
@@ -187,7 +193,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -201,9 +207,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -212,9 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 13,
-    "region-global": 33,
-    "region-americas": 14
+    "region-sea": 19,
+    "region-americas": 13,
+    "region-vietnam": 15,
+    "region-global": 33
   }
 }
