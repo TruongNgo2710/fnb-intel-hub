@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-30T14:25:38.927301+00:00",
+  "updated": "2026-06-30T17:59:29.980569+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 26,
+      "count": 42,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 15,
+      "count": 16,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 11,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -29,8 +29,15 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -40,22 +47,15 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
@@ -72,14 +72,20 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 7,
+      "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-illy",
+      "name": "brand-illy",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-kfc",
@@ -95,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 21,
     "negative": 11,
-    "neutral": 51,
-    "score": 9,
+    "neutral": 48,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -113,17 +119,13 @@
     {
       "word": "claude",
       "count": 3
-    },
-    {
-      "word": "chatgpt",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "stable",
+    "total_articles": 12,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Crisis brewing for Nepali tea exporters with Indian quality checks",
@@ -138,29 +140,29 @@
         "time": "0 phút trước"
       },
       {
-        "title": "From Coffee Grounds To Biochar In 90 Seconds Flat",
-        "url": "https://sprudge.com/from-coffee-grounds-to-biochar-in-90-seconds-flat-1098986.html",
-        "source": "Sprudge Coffee",
+        "title": "FDA Weighs Next Steps on Decaf Solvent Rules Following New Comments",
+        "url": "https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/",
+        "source": "Daily Coffee News",
         "time": "2 giờ trước"
       },
       {
-        "title": "Sprouts Farmers Market Expands Partnership With Klatch Coffee, Bringing In-Store Cafes To San Diego",
-        "url": "https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "title": "Study Explores Coffee’s Gut-Brain Effects in Humans",
+        "url": "https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Filigree Coffee In Orlando, FL",
-        "url": "https://sprudge.com/build-outs-of-coffee-filigree-coffee-in-orlando-fl-1071249.html",
-        "source": "Sprudge Coffee",
-        "time": "21 giờ trước"
+        "title": "Coffee Crafters Returns to its Roots with New 2-Pound Roaster, the Duo",
+        "url": "https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
@@ -181,19 +183,19 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Japan backs SoftBank-led AI models with up to $6.2bn in chasing US, China",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
-        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -202,9 +204,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "sugar": {
       "direction": "stable",
@@ -218,9 +220,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 13,
+    "region-sea": 18,
+    "region-americas": 16,
+    "region-europe": 1,
     "region-vietnam": 15,
-    "region-global": 33
+    "region-global": 30
   }
 }
