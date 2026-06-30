@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-30T07:58:15.614199+00:00",
+  "updated": "2026-06-30T11:14:51.898804+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
+      "count": 41,
       "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 16,
+      "count": 16,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -47,16 +47,16 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 8,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 19,
     "negative": 11,
-    "neutral": 51,
-    "score": 9,
+    "neutral": 50,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -135,39 +135,27 @@
         "title": "Chasing trends at any cost can be risky for roasters",
         "url": "https://perfectdailygrind.com/2026/06/chasing-trends-risky-for-coffee-roasters/",
         "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Sprouts Farmers Market Expands Partnership With Klatch Coffee, Bringing In-Store Cafes To San Diego",
         "url": "https://sprudge.com/sprouts-farmers-market-expands-partnership-with-klatch-coffee-bringing-in-store-cafes-to-san-diego-1127496.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Filigree Coffee In Orlando, FL",
         "url": "https://sprudge.com/build-outs-of-coffee-filigree-coffee-in-orlando-fl-1071249.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "'I've applied for 8,000 jobs': Tech grads at top US schools feel shut out by AI",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/i-ve-applied-for-8-000-jobs-tech-grads-at-top-us-schools-feel-shut-out-by-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan retail investors wait with near $100bn in funds in volatile market",
-        "url": "https://asia.nikkei.com/business/markets/equities/japan-retail-investors-wait-with-near-100bn-in-funds-in-volatile-market",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
         "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
@@ -181,13 +169,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Indonesia's Gojek co-founder Nadiem Makarim jailed for 10 years for graft",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/indonesia-s-gojek-co-founder-nadiem-makarim-jailed-for-10-years-for-graft",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,9 +212,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 15,
-    "region-sea": 19,
+    "region-sea": 20,
     "region-vietnam": 13,
-    "region-global": 33
+    "region-global": 33,
+    "region-americas": 14
   }
 }
