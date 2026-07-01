@@ -318,6 +318,59 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .ct-btns{display:flex;gap:5px;margin-bottom:14px;}
 .ct-btn{background:var(--bg3);border:1px solid var(--border);color:var(--text2);padding:4px 11px;border-radius:5px;cursor:pointer;font-size:11.5px;font-family:'DM Sans',sans-serif;transition:all .12s;}
 .ct-btn.active{background:rgba(245,158,11,.1);border-color:rgba(245,158,11,.4);color:var(--amber);}
+
+/* ═══════════════════════════════════════
+   VẬN HÀNH PAGE
+═══════════════════════════════════════ */
+#page-ops{padding:22px 28px 40px;max-width:1320px;margin:0 auto;}
+.ops-kpi-row{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:28px;}
+.ops-kpi{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:18px 20px;transition:border .15s;}
+.ops-kpi:hover{border-color:var(--border2);}
+.ops-kpi-val{font-family:'DM Mono',monospace;font-size:28px;font-weight:500;line-height:1;margin-bottom:5px;}
+.ops-kpi-lbl{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.8px;font-weight:600;}
+.ops-kpi-sub{font-size:11px;color:var(--text2);margin-top:3px;}
+.ops-sec{margin-bottom:30px;}
+.ops-sec-hdr{display:flex;align-items:center;gap:10px;margin-bottom:14px;}
+.ops-sec-title{font-family:'Playfair Display',serif;font-size:16px;color:var(--text);}
+.ops-sec-hdr::after{content:'';flex:1;height:1px;background:var(--border);}
+.branch-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(275px,1fr));gap:12px;}
+.bc{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:16px;transition:border .15s,transform .12s;}
+.bc:hover{border-color:var(--border2);transform:translateY(-1px);}
+.bc-head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px;}
+.bc-name{font-weight:600;font-size:13.5px;line-height:1.3;}
+.bc-status{display:flex;align-items:center;gap:5px;font-size:10.5px;flex-shrink:0;}
+.bc-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0;}
+.bc-dot.open{background:var(--green);animation:pulse 2s infinite;}
+.bc-dot.closed{background:var(--text3);}
+.bc-type{display:inline-block;font-size:10px;padding:2px 7px;border-radius:4px;margin-bottom:8px;font-weight:500;}
+.bc-type.toa-nha{background:rgba(168,85,247,.12);color:var(--purple);}
+.bc-type.fullday{background:rgba(34,197,94,.1);color:var(--green);}
+.bc-type.brunch{background:rgba(245,158,11,.1);color:var(--amber);}
+.bc-info{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px;}
+.bc-inf{background:var(--bg3);border-radius:8px;padding:8px 10px;}
+.bc-inf-val{font-family:'DM Mono',monospace;font-size:16px;font-weight:500;margin-bottom:1px;}
+.bc-inf-lbl{font-size:9.5px;color:var(--text3);text-transform:uppercase;letter-spacing:.5px;}
+.bc-hours{font-size:11px;color:var(--text2);margin-top:8px;}
+.bc-alert{margin-top:8px;background:rgba(239,68,68,.07);border:1px solid rgba(239,68,68,.18);border-radius:6px;padding:5px 9px;font-size:11px;color:var(--red);}
+.bc-ok{margin-top:8px;background:rgba(34,197,94,.06);border:1px solid rgba(34,197,94,.15);border-radius:6px;padding:5px 9px;font-size:11px;color:var(--green);}
+.tbl-wrap{background:var(--bg2);border:1px solid var(--border);border-radius:12px;overflow:hidden;}
+.ops-table{width:100%;border-collapse:collapse;}
+.ops-table th{text-align:left;padding:9px 13px;font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.7px;border-bottom:1px solid var(--border);font-weight:700;}
+.ops-table td{padding:10px 13px;border-bottom:1px solid var(--border);font-size:12.5px;vertical-align:middle;}
+.ops-table tbody tr:last-child td{border-bottom:none;}
+.ops-table tbody tr:hover td{background:var(--bg3);}
+.ops-2col{display:grid;grid-template-columns:1fr 1fr;gap:22px;}
+.badge-ok{background:rgba(34,197,94,.1);color:var(--green);border:1px solid rgba(34,197,94,.2);padding:2px 8px;border-radius:4px;font-size:10.5px;white-space:nowrap;}
+.badge-warn{background:rgba(245,158,11,.1);color:var(--amber);border:1px solid rgba(245,158,11,.2);padding:2px 8px;border-radius:4px;font-size:10.5px;white-space:nowrap;}
+.badge-err{background:rgba(239,68,68,.1);color:var(--red);border:1px solid rgba(239,68,68,.2);padding:2px 8px;border-radius:4px;font-size:10.5px;white-space:nowrap;}
+.pce{background:none;border:1px solid transparent;color:var(--text);padding:4px 7px;border-radius:5px;font-family:'DM Mono',monospace;font-size:12px;width:100%;min-width:80px;transition:border .12s;}
+.pce:hover{border-color:var(--border);}
+.pce:focus{border-color:var(--amber);outline:none;background:var(--bg3);}
+.ops-add-btn{margin-top:9px;background:var(--bg3);border:1px solid var(--border);color:var(--text2);padding:7px 14px;border-radius:7px;cursor:pointer;font-size:12px;font-family:'DM Sans',sans-serif;transition:all .15s;}
+.ops-add-btn:hover{border-color:var(--border2);color:var(--text);}
+.ops-del-btn{background:none;border:none;color:var(--text3);cursor:pointer;font-size:13px;padding:3px 7px;border-radius:4px;transition:all .12s;}
+.ops-del-btn:hover{color:var(--red);background:rgba(239,68,68,.1);}
+@media(max-width:960px){.ops-2col{grid-template-columns:1fr;}.ops-kpi-row{grid-template-columns:1fr 1fr;}}
 </style>
 </head>
 <body>
@@ -349,6 +402,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
     <button class="nav-btn" onclick="showPage('digest',this)">Bản tin</button>
     <button class="nav-btn" onclick="showPage('experts',this)">Chuyên gia</button>
     <button class="nav-btn" onclick="showPage('forum',this)">Diễn đàn</button>
+    <button class="nav-btn" onclick="showPage('ops',this);initOps()">Vận Hành</button>
   </nav>
   <div class="header-right">
     <button class="ctrl-btn" onclick="openChartModal()" title="BTC Chart">📊</button>
@@ -519,6 +573,88 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
     <div id="fsb-hot"></div>
     <div class="fsb-ttl" style="margin-top:18px;">Thành viên tích cực</div>
     <div id="fsb-members"></div>
+  </div>
+</div>
+
+<!-- PAGE: VẬN HÀNH -->
+<div id="page-ops" class="page">
+  <div class="ops-kpi-row">
+    <div class="ops-kpi">
+      <div class="ops-kpi-val" style="color:var(--amber)">7</div>
+      <div class="ops-kpi-lbl">Chi nhánh</div>
+      <div class="ops-kpi-sub">3 toà nhà · 3 full day · 1 brunch</div>
+    </div>
+    <div class="ops-kpi">
+      <div class="ops-kpi-val" id="ops-kpi-staff" style="color:var(--green)">--</div>
+      <div class="ops-kpi-lbl">Nhân sự (có mặt / cần)</div>
+      <div class="ops-kpi-sub" id="ops-kpi-staff-sub">Đang tính...</div>
+    </div>
+    <div class="ops-kpi">
+      <div class="ops-kpi-val" id="ops-kpi-missing" style="color:var(--red)">--</div>
+      <div class="ops-kpi-lbl">Vị trí còn thiếu</div>
+      <div class="ops-kpi-sub" id="ops-kpi-missing-sub">Cần tuyển dụng</div>
+    </div>
+    <div class="ops-kpi">
+      <div class="ops-kpi-val" id="ops-kpi-debt" style="color:var(--purple)">--</div>
+      <div class="ops-kpi-lbl">Công nợ NCC</div>
+      <div class="ops-kpi-sub" id="ops-kpi-debt-sub">Nhấn để cập nhật</div>
+    </div>
+  </div>
+
+  <div class="ops-sec">
+    <div class="ops-sec-hdr"><div class="ops-sec-title">⊞ Tổng quan 7 chi nhánh</div></div>
+    <div class="branch-grid" id="branch-grid"></div>
+  </div>
+
+  <div class="ops-sec">
+    <div class="ops-sec-hdr"><div class="ops-sec-title">👥 Nhân sự & Ca làm việc</div></div>
+    <div class="tbl-wrap">
+      <table class="ops-table">
+        <thead><tr>
+          <th>Chi nhánh</th><th>Loại</th><th>Giờ hoạt động</th>
+          <th>Ca sáng</th><th>Ca chiều</th><th>T7 sáng</th>
+          <th>Manager</th><th>Part hiện / cần</th><th>Trạng thái</th>
+        </tr></thead>
+        <tbody id="staff-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="ops-2col">
+    <div>
+      <div class="ops-sec">
+        <div class="ops-sec-hdr"><div class="ops-sec-title">📦 Giá nguyên liệu</div></div>
+        <div class="tbl-wrap">
+          <table class="ops-table">
+            <thead><tr><th>Nguyên liệu</th><th>ĐVT</th><th>Đơn giá (đ)</th><th>Nhà CC</th><th>Cập nhật</th><th></th></tr></thead>
+            <tbody id="price-tbody"></tbody>
+          </table>
+        </div>
+        <button class="ops-add-btn" onclick="addPriceRow()">+ Thêm nguyên liệu</button>
+      </div>
+    </div>
+    <div>
+      <div class="ops-sec">
+        <div class="ops-sec-hdr"><div class="ops-sec-title">💳 Công nợ nhà cung cấp</div></div>
+        <div class="tbl-wrap">
+          <table class="ops-table">
+            <thead><tr><th>Nhà CC</th><th>Số tiền (đ)</th><th>Đáo hạn</th><th>Trạng thái</th><th></th></tr></thead>
+            <tbody id="debt-tbody"></tbody>
+          </table>
+        </div>
+        <button class="ops-add-btn" onclick="addDebtRow()">+ Thêm công nợ</button>
+      </div>
+      <div class="ops-sec">
+        <div class="ops-sec-hdr"><div class="ops-sec-title">📊 Tồn kho nguyên liệu</div></div>
+        <div class="tbl-wrap">
+          <table class="ops-table">
+            <thead><tr><th>Nguyên liệu</th><th>Tồn</th><th>ĐVT</th><th>Cảnh báo dưới</th><th>Trạng thái</th><th></th></tr></thead>
+            <tbody id="inv-tbody"></tbody>
+          </table>
+        </div>
+        <button class="ops-add-btn" onclick="addInvRow()">+ Thêm mặt hàng</button>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -1340,6 +1476,267 @@ async function fetchFG() {
 async function fetchAll() {
   await Promise.allSettled([fetchCrypto(),fetchForex(),fetchRobusta(),fetchFG()]);
   await fetchGold();
+}
+
+// ══════════════════════════════════════════════════
+// VẬN HÀNH MODULE
+// ══════════════════════════════════════════════════
+const BRANCHES = [
+  {id:'maple',name:'Maple Tree',type:'toa-nha',typeLabel:'Toà nhà',
+   hours:{mon_fri:[7,18],sat:[7,12],sun:null},
+   shift:{morning:2,afternoon:2,sat:1},
+   manager:{salary:'38–42k/h'},
+   part:{current:3,need:4,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'grace',name:'The Grace',type:'toa-nha',typeLabel:'Toà nhà',
+   hours:{mon_fri:[7,18],sat:[7,12],sun:null},
+   shift:{morning:2,afternoon:2,sat:1},
+   manager:{salary:'38–42k/h'},
+   part:{current:3,need:4,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'riverfront',name:'River Front FC',type:'toa-nha',typeLabel:'Toà nhà',
+   hours:{mon_fri:[7,18],sat:[7,12],sun:null},
+   shift:{morning:3,afternoon:3,sat:2},
+   manager:{salary:'38–42k/h'},
+   part:{current:5,need:6,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'dongdu',name:'60 Đông Du',type:'fullday',typeLabel:'Full day',
+   hours:{mon_fri:[7,21],sat:[7,21],sun:[7,21]},
+   shift:{morning:2,afternoon:2,sat:2},
+   manager:{salary:'38–42k/h'},
+   part:{current:4,need:5,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'nblan',name:'29 Nguyễn Bá Lân',type:'fullday',typeLabel:'Full day',
+   hours:{mon_fri:[7,20],sat:[7,20],sun:[7,20]},
+   shift:{morning:2,afternoon:2,sat:2},
+   manager:{salary:'38–42k/h'},
+   part:{current:4,need:5,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'hht96',name:'96 Hà Huy Tập',type:'fullday',typeLabel:'Full day',
+   hours:{mon_fri:[7,21],sat:[7,21],sun:[7,21]},
+   shift:{morning:2,afternoon:2,sat:2},
+   manager:{salary:'38–42k/h'},
+   part:{current:4,need:5,salary:'28–30k/h'},
+   alerts:[]},
+  {id:'hht112',name:'112 Hà Huy Tập',type:'brunch',typeLabel:'Brunch & Wine',
+   hours:{mon_fri:[6.5,10.5],sat:[6.5,10.5],sun:[6.5,10.5]},
+   shift:{morning:7,afternoon:0,sat:0},
+   manager:{salary:'17,000,000đ/tháng'},
+   part:{current:2,need:5,salary:'30k/h'},
+   alerts:['Thiếu 3 Full-time (7tr/tháng) — chưa tuyển được','Thiếu 3 Part-time — còn 2/5 bạn','Bảo vệ & lao công chưa tuyển được']},
+];
+
+function branchIsOpen(b) {
+  const now = new Date();
+  const utc7h = now.getUTCHours() + 7;
+  const utc7m = now.getUTCMinutes();
+  const utc7 = new Date(now.getTime() + 7*3600000);
+  const dow = utc7.getUTCDay();
+  const h = utc7.getUTCHours() + utc7m/60;
+  let range;
+  if (dow===0) range = b.hours.sun;
+  else if (dow===6) range = b.hours.sat;
+  else range = b.hours.mon_fri;
+  if (!range) return false;
+  return h >= range[0] && h < range[1];
+}
+
+function fmtHours(b) {
+  const fh = r => r ? r[0]+'h–'+r[1]+'h' : 'Nghỉ';
+  const mf=b.hours.mon_fri, s=b.hours.sat, su=b.hours.sun;
+  if (su && s && JSON.stringify(mf)===JSON.stringify(s) && JSON.stringify(s)===JSON.stringify(su))
+    return 'T2–CN ' + fh(mf);
+  let out = 'T2–T6 ' + fh(mf);
+  if (s) out += ' | T7 ' + fh(s); else out += ' | T7 Nghỉ';
+  if (!su) out += ' | CN Nghỉ';
+  return out;
+}
+
+function renderBranchGrid() {
+  const el = document.getElementById('branch-grid');
+  if (!el) return;
+  el.innerHTML = BRANCHES.map(b => {
+    const open = branchIsOpen(b);
+    const pm = b.part.need - b.part.current;
+    return `<div class="bc">
+      <div class="bc-head">
+        <div>
+          <div class="bc-name">${b.name}</div>
+          <span class="bc-type ${b.type}">${b.typeLabel}</span>
+        </div>
+        <div class="bc-status">
+          <div class="bc-dot ${open?'open':'closed'}"></div>
+          <span style="color:${open?'var(--green)':'var(--text3)'}">${open?'Đang mở':'Đóng cửa'}</span>
+        </div>
+      </div>
+      <div class="bc-hours">${fmtHours(b)}</div>
+      <div class="bc-info">
+        <div class="bc-inf">
+          <div class="bc-inf-val" style="color:var(--amber)">${b.part.current}/${b.part.need}</div>
+          <div class="bc-inf-lbl">Part (có/cần)</div>
+        </div>
+        <div class="bc-inf">
+          <div class="bc-inf-val" style="color:${pm>0?'var(--red)':'var(--green)'}">${pm>0?'–'+pm:'✓ Đủ'}</div>
+          <div class="bc-inf-lbl">${pm>0?'Còn thiếu':'Nhân sự'}</div>
+        </div>
+      </div>
+      ${b.alerts.length ? b.alerts.map(a=>`<div class="bc-alert">⚠ ${a}</div>`).join('') :
+        '<div class="bc-ok">✓ Nhân sự bình thường</div>'}
+    </div>`;
+  }).join('');
+}
+
+function renderStaffTable() {
+  const el = document.getElementById('staff-tbody');
+  if (!el) return;
+  el.innerHTML = BRANCHES.map(b => {
+    const pm = b.part.need - b.part.current;
+    const status = b.id==='hht112'
+      ? `<span class="badge-err">Thiếu nhiều vị trí</span>`
+      : pm<=0 ? `<span class="badge-ok">✓ Đủ nhân sự</span>`
+              : `<span class="badge-warn">Thiếu ${pm} Part</span>`;
+    const afCell = b.shift.afternoon ? b.shift.afternoon+' bạn' : '<span style="color:var(--text3)">—</span>';
+    const satCell = b.hours.sat ? b.shift.sat+' bạn' : '<span style="color:var(--text3)">Nghỉ</span>';
+    return `<tr>
+      <td style="font-weight:600">${b.name}</td>
+      <td><span class="bc-type ${b.type}" style="font-size:9.5px">${b.typeLabel}</span></td>
+      <td style="font-size:11px;color:var(--text2)">${fmtHours(b)}</td>
+      <td style="font-family:'DM Mono',monospace">${b.shift.morning} bạn</td>
+      <td style="font-family:'DM Mono',monospace">${afCell}</td>
+      <td style="font-family:'DM Mono',monospace">${satCell}</td>
+      <td style="font-size:11.5px;color:var(--text2)">${b.manager.salary}</td>
+      <td style="font-family:'DM Mono',monospace">${b.part.current}/${b.part.need} &nbsp;<span style="color:var(--text3);font-size:11px">${b.part.salary}</span></td>
+      <td>${status}</td>
+    </tr>`;
+  }).join('');
+}
+
+// ── Giá nguyên liệu ──────────────────────────────
+const DEFAULT_PRICES = [
+  {name:'Cà phê Robusta (hạt)',unit:'kg',price:'55.000',supplier:'Đại lý Tây Nguyên',updated:'01/07/2026'},
+  {name:'Sữa tươi Vinamilk',unit:'lít',price:'22.000',supplier:'Vinamilk',updated:'01/07/2026'},
+  {name:'Sữa đặc Ông Thọ',unit:'hộp 380g',price:'18.500',supplier:'Đại lý',updated:'01/07/2026'},
+  {name:'Đường trắng RE',unit:'kg',price:'17.000',supplier:'Đại lý',updated:'01/07/2026'},
+  {name:'Ly giấy 12oz',unit:'cái',price:'850',supplier:'Bao bì Sài Gòn',updated:'01/07/2026'},
+  {name:'Ống hút giấy',unit:'cái',price:'280',supplier:'Bao bì Sài Gòn',updated:'01/07/2026'},
+  {name:'Túi giấy có quai',unit:'cái',price:'2.200',supplier:'In ấn Wego',updated:'01/07/2026'},
+  {name:'Hộp đá viên 5kg',unit:'hộp',price:'45.000',supplier:'Công ty nước đá',updated:'01/07/2026'},
+  {name:'Siro hương vị',unit:'chai 700ml',price:'145.000',supplier:'Monin',updated:'01/07/2026'},
+];
+
+function loadPrices(){try{return JSON.parse(localStorage.getItem('wego_prices'))||DEFAULT_PRICES;}catch(e){return DEFAULT_PRICES;}}
+function savePrices(d){localStorage.setItem('wego_prices',JSON.stringify(d));}
+
+function renderPriceTable() {
+  const data=loadPrices();
+  const el=document.getElementById('price-tbody');
+  if(!el) return;
+  el.innerHTML=data.map((r,i)=>`<tr>
+    <td><input class="pce" value="${r.name}" onchange="updatePrice(${i},'name',this.value)" style="width:155px"></td>
+    <td><input class="pce" value="${r.unit}" onchange="updatePrice(${i},'unit',this.value)" style="width:75px"></td>
+    <td><input class="pce" value="${r.price}" onchange="updatePrice(${i},'price',this.value)" style="width:85px;color:var(--amber)"></td>
+    <td><input class="pce" value="${r.supplier}" onchange="updatePrice(${i},'supplier',this.value)" style="width:125px"></td>
+    <td><input class="pce" value="${r.updated}" onchange="updatePrice(${i},'updated',this.value)" style="width:90px;color:var(--text3);font-size:11px"></td>
+    <td><button class="ops-del-btn" onclick="delPrice(${i})">✕</button></td>
+  </tr>`).join('');
+}
+function updatePrice(i,k,v){const d=loadPrices();d[i][k]=v;savePrices(d);}
+function delPrice(i){const d=loadPrices();d.splice(i,1);savePrices(d);renderPriceTable();}
+function addPriceRow(){const d=loadPrices();d.push({name:'Nguyên liệu mới',unit:'kg',price:'0',supplier:'',updated:new Date().toLocaleDateString('vi-VN')});savePrices(d);renderPriceTable();document.getElementById('price-tbody').lastElementChild?.querySelector('.pce')?.focus();}
+
+// ── Công nợ ─────────────────────────────────────
+const DEFAULT_DEBTS = [
+  {supplier:'Đại lý cà phê Tây Nguyên',amount:'12.500.000',due:'15/07/2026',status:'pending'},
+  {supplier:'Bao bì Sài Gòn',amount:'4.200.000',due:'10/07/2026',status:'pending'},
+  {supplier:'Vinamilk',amount:'8.800.000',due:'20/07/2026',status:'pending'},
+];
+const DEBT_STATUS={pending:'⏳ Chờ thanh toán',paid:'✓ Đã thanh toán',overdue:'⚠ Quá hạn'};
+
+function loadDebts(){try{return JSON.parse(localStorage.getItem('wego_debts'))||DEFAULT_DEBTS;}catch(e){return DEFAULT_DEBTS;}}
+function saveDebts(d){localStorage.setItem('wego_debts',JSON.stringify(d));}
+
+function renderDebtTable() {
+  const data=loadDebts();
+  const el=document.getElementById('debt-tbody');
+  if(!el) return;
+  el.innerHTML=data.map((r,i)=>`<tr>
+    <td><input class="pce" value="${r.supplier}" onchange="updateDebt(${i},'supplier',this.value)" style="width:150px"></td>
+    <td><input class="pce" value="${r.amount}" onchange="updateDebt(${i},'amount',this.value)" style="width:105px;color:var(--purple)"></td>
+    <td><input class="pce" value="${r.due}" onchange="updateDebt(${i},'due',this.value)" style="width:85px"></td>
+    <td><select class="pce" onchange="updateDebt(${i},'status',this.value)" style="width:145px;background:var(--bg3)">
+      ${Object.keys(DEBT_STATUS).map(k=>`<option value="${k}"${r.status===k?' selected':''}>${DEBT_STATUS[k]}</option>`).join('')}
+    </select></td>
+    <td><button class="ops-del-btn" onclick="delDebt(${i})">✕</button></td>
+  </tr>`).join('');
+  const total=data.filter(d=>d.status!=='paid').reduce((s,d)=>{
+    const n=parseInt((d.amount||'').replace(/[.,\s]/g,''));return s+(isNaN(n)?0:n);
+  },0);
+  const k=document.getElementById('ops-kpi-debt');
+  if(k) k.textContent=total>=1e6?(total/1e6).toFixed(1)+'M':total.toLocaleString('vi-VN')+'đ';
+  const ks=document.getElementById('ops-kpi-debt-sub');
+  if(ks) ks.textContent=data.filter(d=>d.status==='pending').length+' khoản chưa thanh toán';
+}
+function updateDebt(i,k,v){const d=loadDebts();d[i][k]=v;saveDebts(d);renderDebtTable();}
+function delDebt(i){const d=loadDebts();d.splice(i,1);saveDebts(d);renderDebtTable();}
+function addDebtRow(){const d=loadDebts();d.push({supplier:'Nhà CC mới',amount:'0',due:'',status:'pending'});saveDebts(d);renderDebtTable();}
+
+// ── Tồn kho ─────────────────────────────────────
+const DEFAULT_INV=[
+  {name:'Cà phê Robusta (hạt)',qty:'45',unit:'kg',min:'20'},
+  {name:'Sữa tươi Vinamilk',qty:'120',unit:'lít',min:'50'},
+  {name:'Đường trắng RE',qty:'30',unit:'kg',min:'15'},
+  {name:'Ly giấy 12oz',qty:'2400',unit:'cái',min:'500'},
+  {name:'Ống hút giấy',qty:'3000',unit:'cái',min:'1000'},
+  {name:'Túi giấy có quai',qty:'580',unit:'cái',min:'200'},
+  {name:'Hộp đá viên',qty:'8',unit:'hộp',min:'5'},
+];
+function loadInv(){try{return JSON.parse(localStorage.getItem('wego_inv'))||DEFAULT_INV;}catch(e){return DEFAULT_INV;}}
+function saveInv(d){localStorage.setItem('wego_inv',JSON.stringify(d));}
+
+function renderInvTable() {
+  const data=loadInv();
+  const el=document.getElementById('inv-tbody');
+  if(!el) return;
+  el.innerHTML=data.map((r,i)=>{
+    const q=parseFloat(r.qty)||0,m=parseFloat(r.min)||0;
+    const pct=m>0?q/m:2;
+    const badge=pct<1?'<span class="badge-err">⚠ Dưới mức</span>':pct<1.5?'<span class="badge-warn">Sắp hết</span>':'<span class="badge-ok">✓ Đủ</span>';
+    return `<tr>
+      <td><input class="pce" value="${r.name}" onchange="updateInv(${i},'name',this.value)" style="width:145px"></td>
+      <td><input class="pce" value="${r.qty}" onchange="updateInv(${i},'qty',this.value)" style="width:60px;color:${pct<1?'var(--red)':pct<1.5?'var(--amber)':'var(--green)'}" onblur="renderInvTable()"></td>
+      <td><input class="pce" value="${r.unit}" onchange="updateInv(${i},'unit',this.value)" style="width:55px"></td>
+      <td><input class="pce" value="${r.min}" onchange="updateInv(${i},'min',this.value)" style="width:55px;color:var(--text3)" onblur="renderInvTable()"></td>
+      <td>${badge}</td>
+      <td><button class="ops-del-btn" onclick="delInv(${i})">✕</button></td>
+    </tr>`;
+  }).join('');
+}
+function updateInv(i,k,v){const d=loadInv();d[i][k]=v;saveInv(d);}
+function delInv(i){const d=loadInv();d.splice(i,1);saveInv(d);renderInvTable();}
+function addInvRow(){const d=loadInv();d.push({name:'Mặt hàng mới',qty:'0',unit:'kg',min:'10'});saveInv(d);renderInvTable();}
+
+// ── KPI nhân sự ──────────────────────────────────
+function renderStaffKpi() {
+  const totalHave=BRANCHES.reduce((s,b)=>s+b.part.current+1,0);
+  const totalNeed=BRANCHES.reduce((s,b)=>s+b.part.need+1,0);
+  const missing=BRANCHES.reduce((s,b)=>s+Math.max(0,b.part.need-b.part.current),0)+3+3+2;
+  const k1=document.getElementById('ops-kpi-staff');
+  if(k1) k1.textContent=totalHave+'/'+totalNeed;
+  const k1s=document.getElementById('ops-kpi-staff-sub');
+  if(k1s) k1s.textContent='7 Manager + '+BRANCHES.reduce((s,b)=>s+b.part.current,0)+' Part';
+  const k2=document.getElementById('ops-kpi-missing');
+  if(k2) k2.textContent=missing;
+  const k2s=document.getElementById('ops-kpi-missing-sub');
+  if(k2s) k2s.textContent='Cần tuyển '+missing+' vị trí';
+}
+
+function initOps() {
+  renderBranchGrid();
+  renderStaffTable();
+  renderPriceTable();
+  renderDebtTable();
+  renderInvTable();
+  renderStaffKpi();
 }
 
 // ══════════════════════════════════════════════════
