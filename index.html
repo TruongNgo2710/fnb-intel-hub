@@ -372,6 +372,37 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .ops-del-btn:hover{color:var(--red);background:rgba(239,68,68,.1);}
 @media(max-width:960px){.ops-2col{grid-template-columns:1fr;}.ops-kpi-row{grid-template-columns:1fr 1fr;}}
 
+/* REVENUE TRACKER */
+.rev-sec{margin-top:28px;}
+.rev-hdr{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+.rev-title{font-size:14px;font-weight:600;}
+.rev-date{font-size:11px;color:var(--text3);}
+.rev-date-pick{background:var(--bg3);border:1px solid var(--border);color:var(--text);padding:4px 9px;border-radius:6px;font-family:'DM Mono',monospace;font-size:11px;cursor:pointer;}
+.rev-kpi{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:18px;}
+.rev-kpi-card{background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:12px 14px;border-top:2px solid;}
+.rev-kpi-label{font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.6px;margin-bottom:5px;}
+.rev-kpi-val{font-family:'DM Mono',monospace;font-size:18px;font-weight:500;}
+.rev-kpi-sub{font-size:10px;color:var(--text3);margin-top:3px;}
+.rev-table{width:100%;border-collapse:collapse;font-size:12.5px;}
+.rev-table th{padding:8px 10px;text-align:left;font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:.6px;border-bottom:1px solid var(--border);font-weight:500;}
+.rev-table td{padding:6px 10px;border-bottom:1px solid rgba(255,255,255,0.04);vertical-align:middle;}
+.rev-table tr:last-child td{border-bottom:none;}
+.rev-table tr:hover td{background:rgba(255,255,255,0.02);}
+.rev-inp{width:100%;background:var(--bg3);border:1px solid var(--border);color:var(--text);padding:5px 8px;border-radius:6px;font-family:'DM Mono',monospace;font-size:12px;text-align:right;outline:none;transition:border .15s;}
+.rev-inp:focus{border-color:var(--border2);}
+.rev-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:600;}
+.rev-badge.hit{background:rgba(34,197,94,.12);color:var(--green);}
+.rev-badge.miss{background:rgba(239,68,68,.1);color:var(--red);}
+.rev-badge.na{background:rgba(144,144,168,.08);color:var(--text3);}
+.rev-progress{width:100%;height:5px;background:var(--bg4);border-radius:3px;overflow:hidden;margin-top:3px;}
+.rev-bar{height:100%;border-radius:3px;transition:width .4s;}
+.rev-tab-row{display:flex;gap:6px;margin-bottom:16px;}
+.rev-tab{background:var(--bg3);border:1px solid var(--border);color:var(--text3);padding:5px 13px;border-radius:6px;cursor:pointer;font-size:12px;font-family:'DM Sans',sans-serif;transition:all .12s;}
+.rev-tab.active{background:rgba(245,158,11,.1);border-color:rgba(245,158,11,.3);color:var(--amber);}
+.rev-summary{background:var(--bg3);border:1px solid var(--border);border-radius:10px;padding:14px 16px;margin-top:14px;font-size:12px;color:var(--text2);line-height:1.7;}
+.rev-summary strong{color:var(--text);}
+@media(max-width:960px){.rev-kpi{grid-template-columns:repeat(2,1fr);}}
+
 /* ═══════════════════════════════════════
    SUB-TAB NAV (dùng cho Phân Tích & Đầu Tư)
 ═══════════════════════════════════════ */
@@ -772,6 +803,73 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       </div>
     </div>
   </div>
+
+  <!-- REVENUE TRACKER -->
+  <div class="rev-sec">
+    <div class="rev-hdr">
+      <div>
+        <div class="rev-title">💰 Doanh Thu theo Chi Nhánh</div>
+        <div class="rev-date">Nhập doanh thu hàng ngày — tự động tính KPI</div>
+      </div>
+      <div style="display:flex;gap:8px;align-items:center;">
+        <input type="date" id="rev-date-input" class="rev-date-pick" onchange="loadRevData()">
+        <button class="ops-add-btn" style="margin:0;" onclick="exportRevReport()">📊 Xuất báo cáo</button>
+      </div>
+    </div>
+
+    <div class="rev-tab-row">
+      <button class="rev-tab active" onclick="switchRevView('daily',this)">Hôm nay</button>
+      <button class="rev-tab" onclick="switchRevView('week',this)">7 ngày</button>
+      <button class="rev-tab" onclick="switchRevView('month',this)">Tháng này</button>
+    </div>
+
+    <div class="rev-kpi" id="rev-kpi-row">
+      <div class="rev-kpi-card" style="border-top-color:var(--amber);">
+        <div class="rev-kpi-label">Tổng doanh thu</div>
+        <div class="rev-kpi-val" id="rv-total">—</div>
+        <div class="rev-kpi-sub">7 chi nhánh</div>
+      </div>
+      <div class="rev-kpi-card" style="border-top-color:var(--green);">
+        <div class="rev-kpi-label">Vs. Target</div>
+        <div class="rev-kpi-val" id="rv-vs-target">—</div>
+        <div class="rev-kpi-sub" id="rv-target-pct">chưa có target</div>
+      </div>
+      <div class="rev-kpi-card" style="border-top-color:var(--teal);">
+        <div class="rev-kpi-label">Tổng bill</div>
+        <div class="rev-kpi-val" id="rv-bills">—</div>
+        <div class="rev-kpi-sub">lượt giao dịch</div>
+      </div>
+      <div class="rev-kpi-card" style="border-top-color:var(--purple);">
+        <div class="rev-kpi-label">Avg ticket</div>
+        <div class="rev-kpi-val" id="rv-avg">—</div>
+        <div class="rev-kpi-sub">đồng / bill</div>
+      </div>
+      <div class="rev-kpi-card" style="border-top-color:var(--red);">
+        <div class="rev-kpi-label">Chi nhánh tốt nhất</div>
+        <div class="rev-kpi-val" id="rv-best" style="font-size:13px;">—</div>
+        <div class="rev-kpi-sub" id="rv-best-val">—</div>
+      </div>
+    </div>
+
+    <div class="tbl-wrap">
+      <table class="rev-table">
+        <thead>
+          <tr>
+            <th>Chi nhánh</th>
+            <th>Doanh thu (đ)</th>
+            <th>Số bill</th>
+            <th>Avg ticket</th>
+            <th>Target ngày (đ)</th>
+            <th>% Target</th>
+            <th>Ghi chú</th>
+          </tr>
+        </thead>
+        <tbody id="rev-tbody"></tbody>
+      </table>
+    </div>
+
+    <div class="rev-summary" id="rev-summary" style="display:none;"></div>
+  </div>
 </div>
 
 <!-- PAGE: PHÂN TÍCH -->
@@ -822,6 +920,23 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       </div>
       <div class="chart-canvas-wrap" style="height:260px;">
         <canvas id="an-btc-chart"></canvas>
+      </div>
+    </div>
+
+    <div class="chart-box">
+      <div class="chart-box-hdr">
+        <span class="chart-box-title">Ethereum Price Chart (USD)</span>
+        <div style="display:flex;align-items:center;gap:12px;">
+          <div class="chart-range">
+            <button class="cr-btn active" onclick="loadEthChart(7,this)">7N</button>
+            <button class="cr-btn" onclick="loadEthChart(30,this)">30N</button>
+            <button class="cr-btn" onclick="loadEthChart(90,this)">3T</button>
+          </div>
+          <span class="chart-box-meta" id="an-eth-upd">Đang tải…</span>
+        </div>
+      </div>
+      <div class="chart-canvas-wrap" style="height:180px;">
+        <canvas id="an-eth-chart"></canvas>
       </div>
     </div>
 
@@ -2367,6 +2482,7 @@ function initOps() {
   renderDebtTable();
   renderInvTable();
   renderStaffKpi();
+  initRevTracker();
 }
 
 // ══════════════════════════════════════════════════
@@ -2449,6 +2565,7 @@ async function initAnalysis() {
   anDataCache.loaded = true;
   updateAnUI();
   loadBtcChartAn(7, null);
+  loadEthChart(7, null);
 }
 
 function updateAnUI() {
@@ -2592,6 +2709,27 @@ async function loadBtcChartAn(days, btn) {
 // Bind chart range buttons to loadBtcChartAn
 function loadBtcChart(days, btn) { loadBtcChartAn(days, btn); }
 
+let anEthChart = null;
+async function loadEthChart(days, btn) {
+  if (btn) { document.querySelectorAll('#an-crypto .cr-btn[onclick*="loadEthChart"]').forEach(b=>b.classList.remove('active')); btn.classList.add('active'); }
+  try {
+    const r = await fetch(`https://api.coingecko.com/api/v3/coins/ethereum/market_chart?vs_currency=usd&days=${days}`);
+    const d = await r.json();
+    const prices = d.prices || [];
+    const labels = prices.map(p => { const dt = new Date(p[0]); return (dt.getMonth()+1)+'/'+dt.getDate(); });
+    const data = prices.map(p => p[1]);
+    const ctx = document.getElementById('an-eth-chart');
+    if (!ctx) return;
+    if (anEthChart) anEthChart.destroy();
+    anEthChart = new Chart(ctx, {
+      type:'line',
+      data:{labels,datasets:[{label:'ETH/USD',data,borderColor:'#a855f7',backgroundColor:'rgba(168,85,247,0.07)',borderWidth:2,pointRadius:0,fill:true,tension:.3}]},
+      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},tooltip:{mode:'index',intersect:false,callbacks:{label:c=>'$'+Math.round(c.raw).toLocaleString()}}},scales:{x:{ticks:{color:'#55556a',maxTicksLimit:8,font:{size:10}},grid:{color:'rgba(255,255,255,0.04)'}},y:{ticks:{color:'#55556a',font:{size:10},callback:v=>'$'+v.toLocaleString()},grid:{color:'rgba(255,255,255,0.04)'}}}}
+    });
+    const upd = document.getElementById('an-eth-upd'); if(upd) upd.textContent = 'Cập nhật: ' + new Date().toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'});
+  } catch(e) {}
+}
+
 /* ═══════════════════════════════════════════════════════
    INVEST PAGE
 ═══════════════════════════════════════════════════════ */
@@ -2624,6 +2762,240 @@ function updateInvestSignals() {
 function getWeekNum(d) {
   const firstDay = new Date(d.getFullYear(), 0, 1);
   return Math.ceil(((d - firstDay) / 86400000 + firstDay.getDay() + 1) / 7);
+}
+
+/* ═══════════════════════════════════════════════════════
+   REVENUE TRACKER
+═══════════════════════════════════════════════════════ */
+const REV_BRANCHES = [
+  {id:'maple',   name:'Maple Tree',       color:'var(--teal)',   defaultTarget:4000000},
+  {id:'grace',   name:'The Grace',        color:'var(--purple)', defaultTarget:4000000},
+  {id:'river',   name:'River Front FC',   color:'var(--amber)',  defaultTarget:6000000},
+  {id:'dongdu',  name:'60 Đông Du',       color:'var(--green)',  defaultTarget:8000000},
+  {id:'nblan',   name:'29 Nguyễn Bá Lân', color:'var(--teal)',   defaultTarget:7000000},
+  {id:'hht96',   name:'96 Hà Huy Tập',   color:'var(--amber)',  defaultTarget:7000000},
+  {id:'hht112',  name:'112 Hà Huy Tập',  color:'var(--red)',    defaultTarget:5000000},
+];
+let revView = 'daily';
+
+function fmtVND(n) {
+  if (!n) return '—';
+  if (n >= 1000000) return (n/1000000).toFixed(1) + 'tr';
+  if (n >= 1000) return (n/1000).toFixed(0) + 'k';
+  return n.toFixed(0);
+}
+function fmtVNDFull(n) {
+  return n ? n.toLocaleString('vi-VN') + 'đ' : '—';
+}
+
+function todayStr() {
+  return new Date().toISOString().slice(0,10);
+}
+
+function getRevKey(date) {
+  return 'wego_rev_' + (date || todayStr());
+}
+
+function loadRevData() {
+  const dateInput = document.getElementById('rev-date-input');
+  const date = dateInput ? dateInput.value || todayStr() : todayStr();
+  const stored = JSON.parse(localStorage.getItem(getRevKey(date)) || '{}');
+  renderRevTable(date, stored);
+}
+
+function saveRevRow(branchId, field, val) {
+  const dateInput = document.getElementById('rev-date-input');
+  const date = dateInput ? dateInput.value || todayStr() : todayStr();
+  const stored = JSON.parse(localStorage.getItem(getRevKey(date)) || '{}');
+  if (!stored[branchId]) stored[branchId] = {};
+  stored[branchId][field] = val;
+  localStorage.setItem(getRevKey(date), JSON.stringify(stored));
+  updateRevKpis(stored);
+  updateRevSummary(date, stored);
+}
+
+function renderRevTable(date, stored) {
+  const tbody = document.getElementById('rev-tbody');
+  if (!tbody) return;
+  tbody.innerHTML = REV_BRANCHES.map(b => {
+    const d = stored[b.id] || {};
+    const rev = parseFloat(d.rev) || 0;
+    const bills = parseInt(d.bills) || 0;
+    const target = parseFloat(d.target) || b.defaultTarget;
+    const avg = bills > 0 ? Math.round(rev / bills) : 0;
+    const pct = target > 0 ? (rev / target * 100) : 0;
+    const badge = rev === 0 ? 'na' : pct >= 100 ? 'hit' : 'miss';
+    const badgeTxt = rev === 0 ? '—' : pct >= 100 ? '✓ ĐẠT' : Math.round(pct)+'%';
+    const barColor = pct >= 100 ? 'var(--green)' : pct >= 70 ? 'var(--amber)' : 'var(--red)';
+    return `<tr>
+      <td style="font-weight:600;color:${b.color};">${b.name}</td>
+      <td><input class="rev-inp" type="number" placeholder="0" value="${d.rev||''}" style="width:120px;" oninput="saveRevRow('${b.id}','rev',this.value);updateRowCalc('${b.id}',this.closest('tr'))"></td>
+      <td><input class="rev-inp" type="number" placeholder="0" value="${d.bills||''}" style="width:70px;" oninput="saveRevRow('${b.id}','bills',this.value);updateRowCalc('${b.id}',this.closest('tr'))"></td>
+      <td style="font-family:'DM Mono',monospace;" id="avg-${b.id}">${avg>0?avg.toLocaleString('vi-VN')+'đ':'—'}</td>
+      <td><input class="rev-inp" type="number" placeholder="${b.defaultTarget.toLocaleString()}" value="${d.target||''}" style="width:110px;" oninput="saveRevRow('${b.id}','target',this.value);updateRowCalc('${b.id}',this.closest('tr'))"></td>
+      <td>
+        <span class="rev-badge ${badge}" id="badge-${b.id}">${badgeTxt}</span>
+        <div class="rev-progress"><div class="rev-bar" id="bar-${b.id}" style="width:${Math.min(pct,100)}%;background:${barColor};"></div></div>
+      </td>
+      <td><input class="rev-inp" type="text" placeholder="ghi chú..." value="${d.note||''}" style="width:120px;text-align:left;font-family:'DM Sans',sans-serif;" oninput="saveRevRow('${b.id}','note',this.value)"></td>
+    </tr>`;
+  }).join('');
+  updateRevKpis(stored);
+  updateRevSummary(date, stored);
+}
+
+function updateRowCalc(branchId, row) {
+  if (!row) return;
+  const inputs = row.querySelectorAll('.rev-inp');
+  const rev = parseFloat(inputs[0].value) || 0;
+  const bills = parseInt(inputs[1].value) || 0;
+  const target = parseFloat(inputs[2].value) || REV_BRANCHES.find(b=>b.id===branchId)?.defaultTarget || 0;
+  const avg = bills > 0 ? Math.round(rev / bills) : 0;
+  const avgEl = document.getElementById('avg-'+branchId); if(avgEl) avgEl.textContent = avg>0?avg.toLocaleString('vi-VN')+'đ':'—';
+  const pct = target > 0 ? (rev/target*100) : 0;
+  const badgeEl = document.getElementById('badge-'+branchId);
+  const barEl = document.getElementById('bar-'+branchId);
+  if (badgeEl) {
+    const badge = rev===0?'na':pct>=100?'hit':'miss';
+    badgeEl.className = 'rev-badge '+badge;
+    badgeEl.textContent = rev===0?'—':pct>=100?'✓ ĐẠT':Math.round(pct)+'%';
+  }
+  if (barEl) {
+    const color = pct>=100?'var(--green)':pct>=70?'var(--amber)':'var(--red)';
+    barEl.style.width = Math.min(pct,100)+'%';
+    barEl.style.background = color;
+  }
+}
+
+function updateRevKpis(stored) {
+  let totalRev=0, totalBills=0, bestRev=0, bestName='—', bestVal='—';
+  REV_BRANCHES.forEach(b => {
+    const d = stored[b.id] || {};
+    const rev = parseFloat(d.rev) || 0;
+    const bills = parseInt(d.bills) || 0;
+    const target = parseFloat(d.target) || b.defaultTarget;
+    totalRev += rev; totalBills += bills;
+    if (rev > bestRev) { bestRev=rev; bestName=b.name; bestVal=fmtVND(rev)+'đ'; }
+  });
+  const avgTicket = totalBills>0 ? Math.round(totalRev/totalBills) : 0;
+
+  // Total target
+  let totalTarget=0;
+  REV_BRANCHES.forEach(b => {
+    const d = stored[b.id] || {};
+    totalTarget += parseFloat(d.target)||b.defaultTarget;
+  });
+  const vsTarget = totalTarget>0 ? (totalRev/totalTarget*100) : 0;
+
+  const rvTotal = document.getElementById('rv-total'); if(rvTotal) rvTotal.textContent = totalRev>0?fmtVND(totalRev)+'đ':'—';
+  const rvVs = document.getElementById('rv-vs-target'); if(rvVs) rvVs.textContent = totalRev>0?Math.round(vsTarget)+'%':'—';
+  const rvPct = document.getElementById('rv-target-pct'); if(rvPct) rvPct.textContent = totalRev>0?(vsTarget>=100?'✓ Đạt target':fmtVND(totalTarget-totalRev)+'đ còn thiếu'):'chưa nhập dữ liệu';
+  const rvBills = document.getElementById('rv-bills'); if(rvBills) rvBills.textContent = totalBills>0?totalBills.toLocaleString():'—';
+  const rvAvg = document.getElementById('rv-avg'); if(rvAvg) rvAvg.textContent = avgTicket>0?avgTicket.toLocaleString()+'đ':'—';
+  const rvBest = document.getElementById('rv-best'); if(rvBest) rvBest.textContent = bestName;
+  const rvBestV = document.getElementById('rv-best-val'); if(rvBestV) rvBestV.textContent = bestVal;
+}
+
+function updateRevSummary(date, stored) {
+  const summaryEl = document.getElementById('rev-summary');
+  if (!summaryEl) return;
+  let hasData = false;
+  let lines = [];
+  REV_BRANCHES.forEach(b => {
+    const d = stored[b.id] || {};
+    if (d.rev && parseFloat(d.rev)>0) {
+      hasData = true;
+      const rev = parseFloat(d.rev);
+      const bills = parseInt(d.bills)||0;
+      const target = parseFloat(d.target)||b.defaultTarget;
+      const pct = target>0?(rev/target*100):0;
+      const avg = bills>0?Math.round(rev/bills):0;
+      lines.push(`<strong>${b.name}:</strong> ${fmtVND(rev)}đ ${bills>0?'· '+bills+' bill':''}${avg>0?' · avg '+avg.toLocaleString()+'đ':''} ${pct>0?'· '+Math.round(pct)+'% target':''}`);
+    }
+  });
+  if (!hasData) { summaryEl.style.display='none'; return; }
+  summaryEl.style.display='block';
+  summaryEl.innerHTML = '<div style="margin-bottom:8px;font-weight:600;color:var(--text);">📋 Tóm tắt ngày '+date+'</div>' + lines.join('<br>');
+}
+
+function switchRevView(view, btn) {
+  revView = view;
+  document.querySelectorAll('.rev-tab').forEach(b=>b.classList.remove('active'));
+  if(btn) btn.classList.add('active');
+  if (view === 'daily') {
+    loadRevData();
+  } else if (view === 'week') {
+    renderRevWeekSummary();
+  } else {
+    renderRevMonthSummary();
+  }
+}
+
+function renderRevWeekSummary() {
+  // Show last 7 days totals
+  const tbody = document.getElementById('rev-tbody');
+  if (!tbody) return;
+  const rows = [];
+  for (let i=6; i>=0; i--) {
+    const d = new Date(); d.setDate(d.getDate()-i);
+    const dateStr = d.toISOString().slice(0,10);
+    const stored = JSON.parse(localStorage.getItem(getRevKey(dateStr))||'{}');
+    let total=0, bills=0;
+    REV_BRANCHES.forEach(b=>{const x=stored[b.id]||{};total+=parseFloat(x.rev)||0;bills+=parseInt(x.bills)||0;});
+    const dow=['CN','T2','T3','T4','T5','T6','T7'][d.getDay()];
+    rows.push(`<tr><td style="font-weight:600;">${dow} ${d.getDate()}/${d.getMonth()+1}</td><td colspan="2" style="font-family:'DM Mono',monospace;">${total>0?total.toLocaleString('vi-VN')+'đ':'Chưa có dữ liệu'}</td><td>${bills>0?bills+' bill':'—'}</td><td>${total>0&&bills>0?Math.round(total/bills).toLocaleString()+'đ':'—'}</td><td colspan="2"></td></tr>`);
+  }
+  tbody.innerHTML = rows.join('');
+  document.getElementById('rev-summary').style.display='none';
+  // Update KPI with week total
+  let weekTotal=0,weekBills=0;
+  for (let i=6;i>=0;i--){const d2=new Date();d2.setDate(d2.getDate()-i);const s=JSON.parse(localStorage.getItem(getRevKey(d2.toISOString().slice(0,10)))||'{}');REV_BRANCHES.forEach(b=>{const x=s[b.id]||{};weekTotal+=parseFloat(x.rev)||0;weekBills+=parseInt(x.bills)||0;});}
+  const rv=document.getElementById('rv-total');if(rv)rv.textContent=weekTotal>0?fmtVND(weekTotal)+'đ':'—';
+  const rb=document.getElementById('rv-bills');if(rb)rb.textContent=weekBills>0?weekBills.toLocaleString():'—';
+  const ra=document.getElementById('rv-avg');if(ra)ra.textContent=weekTotal>0&&weekBills>0?Math.round(weekTotal/weekBills).toLocaleString()+'đ':'—';
+}
+
+function renderRevMonthSummary() {
+  const tbody = document.getElementById('rev-tbody');
+  if (!tbody) return;
+  const now = new Date();
+  const year = now.getFullYear(), month = now.getMonth();
+  const daysInMonth = new Date(year,month+1,0).getDate();
+  const rows = [];
+  for (let d=1; d<=daysInMonth; d++) {
+    const dateStr = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const stored = JSON.parse(localStorage.getItem(getRevKey(dateStr))||'{}');
+    let total=0,bills=0; REV_BRANCHES.forEach(b=>{const x=stored[b.id]||{};total+=parseFloat(x.rev)||0;bills+=parseInt(x.bills)||0;});
+    if (total>0) rows.push(`<tr><td style="font-weight:600;">Ngày ${d}/${month+1}</td><td colspan="2" style="font-family:'DM Mono',monospace;">${total.toLocaleString('vi-VN')}đ</td><td>${bills} bill</td><td>${bills>0?Math.round(total/bills).toLocaleString()+'đ':'—'}</td><td colspan="2"></td></tr>`);
+  }
+  tbody.innerHTML = rows.length ? rows.join('') : '<tr><td colspan="7" style="text-align:center;color:var(--text3);padding:20px;">Chưa có dữ liệu tháng này</td></tr>';
+  document.getElementById('rev-summary').style.display='none';
+}
+
+function exportRevReport() {
+  const dateInput = document.getElementById('rev-date-input');
+  const date = dateInput ? dateInput.value || todayStr() : todayStr();
+  const stored = JSON.parse(localStorage.getItem(getRevKey(date)) || '{}');
+  let lines = [`=== BÁO CÁO DOANH THU WEGO COFFEE ===`, `Ngày: ${date}`, ``, `Chi nhánh | Doanh thu | Bill | Avg ticket | % Target`];
+  let totalRev=0;
+  REV_BRANCHES.forEach(b=>{
+    const d=stored[b.id]||{};
+    const rev=parseFloat(d.rev)||0; const bills=parseInt(d.bills)||0;
+    const target=parseFloat(d.target)||b.defaultTarget;
+    const avg=bills>0?Math.round(rev/bills):0;
+    const pct=target>0?(rev/target*100):0;
+    lines.push(`${b.name} | ${rev.toLocaleString('vi-VN')}đ | ${bills} | ${avg.toLocaleString('vi-VN')}đ | ${pct>0?Math.round(pct)+'%':'—'}`);
+    totalRev+=rev;
+  });
+  lines.push(``, `TỔNG: ${totalRev.toLocaleString('vi-VN')}đ`);
+  const blob = new Blob([lines.join('\n')], {type:'text/plain;charset=utf-8'});
+  const a = document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`wego_revenue_${date}.txt`; a.click();
+}
+
+function initRevTracker() {
+  const inp = document.getElementById('rev-date-input');
+  if (inp) inp.value = todayStr();
+  loadRevData();
 }
 
 /* ═══════════════════════════════════════════════════════
