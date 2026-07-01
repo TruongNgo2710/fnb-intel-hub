@@ -1,64 +1,64 @@
 {
-  "updated": "2026-07-01T18:00:55.934065+00:00",
+  "updated": "2026-07-01T21:41:59.129260+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 29,
+      "count": 41,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
+      "count": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 6,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -82,9 +82,9 @@
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -94,29 +94,29 @@
       "trend": "up"
     },
     {
-      "tag": "brand-illy",
-      "name": "brand-illy",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-illy",
+      "name": "brand-illy",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 21,
     "negative": 4,
-    "neutral": 56,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 55,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -129,16 +129,12 @@
     {
       "word": "ucc",
       "count": 2
-    },
-    {
-      "word": "specialty",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "down",
-    "price_up_signals": 0,
+    "total_articles": 12,
+    "price_direction": "stable",
+    "price_up_signals": 1,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -148,42 +144,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Exclusive! An Interview With Coffee-Loving U.S. Soccer Hero Joe Scally",
-        "url": "https://sprudge.com/exclusive-an-interview-with-coffee-loving-u-s-soccer-hero-joe-scally-1132449.html",
+        "title": "Royal Coffee Begins Issuing IEEPA Tariff Credits As CBP Returns Duties To Importers",
+        "url": "https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html",
         "source": "Sprudge Coffee",
-        "time": "23 phút trước"
+        "time": "48 phút trước"
       },
       {
-        "title": "Report Says Vietnam’s Robusta Boom Faces a Reckoning",
-        "url": "https://dailycoffeenews.com/2026/07/01/report-says-vietnams-robusta-boom-faces-a-reckoning/",
+        "title": "Starbucks is ‘Actively Reassessing’ a Key Climate Pledge Amid Other Sustainability Milestones",
+        "url": "https://dailycoffeenews.com/2026/07/01/starbucks-is-actively-reassessing-a-key-climate-pledge-amid-other-sustainability-milestones/",
         "source": "Daily Coffee News",
         "time": "2 giờ trước"
       },
       {
-        "title": "Luckin Coffee, Church’s Texas Chicken, Cotton Patch Cafe",
-        "url": "https://www.nrn.com/quick-service/luckin-coffee-church-s-texas-chicken-cotton-patch-cafe",
-        "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "title": "A Podcast About Coffee Featuring Decaf, Lavender, And Lovely New Cafes",
+        "url": "https://sprudge.com/a-podcast-about-coffee-featuring-decaf-lavender-and-lovely-new-cafes-1132163.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
       },
       {
-        "title": "Current State Coffee’s First Cafe is Presently Open in Shawnee, Kansas",
-        "url": "https://dailycoffeenews.com/2026/07/01/current-state-coffees-first-cafe-is-presently-open-in-shawnee-kansas/",
-        "source": "Daily Coffee News",
+        "title": "Exclusive! An Interview With Coffee-Loving U.S. Soccer Hero Joe Scally",
+        "url": "https://sprudge.com/exclusive-an-interview-with-coffee-loving-u-s-soccer-hero-joe-scally-1132449.html",
+        "source": "Sprudge Coffee",
         "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Qualcomm challenges Nvidia's AI grip with chip that ditches HBM",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/qualcomm-challenges-nvidia-s-ai-grip-with-chip-that-ditches-hbm",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Toyota to harmonize vehicle specs with AI, helping to speed production",
         "url": "https://asia.nikkei.com/business/automobiles/toyota-to-harmonize-vehicle-specs-with-ai-helping-to-speed-production",
@@ -207,9 +197,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/kawasaki-heavy-to-raise-over-1bn-via-new-shares-bonds-for-ai-investment",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan state lender JBIC's US financing soars as supply chain role grows",
+        "url": "https://asia.nikkei.com/business/finance/japan-state-lender-jbic-s-us-financing-soars-as-supply-chain-role-grows",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -234,10 +230,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 18,
     "region-europe": 2,
-    "region-americas": 16,
+    "region-americas": 17,
     "region-vietnam": 16,
-    "region-global": 29
+    "region-global": 27
   }
 }
