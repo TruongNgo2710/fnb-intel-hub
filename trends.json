@@ -1,47 +1,54 @@
 {
-  "updated": "2026-07-01T11:28:03.445850+00:00",
+  "updated": "2026-07-01T18:00:55.934065+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 32,
+      "count": 44,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 16,
+      "count_24h": 15,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 6,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
@@ -49,16 +56,9 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -72,18 +72,24 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
       "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     },
@@ -101,28 +107,36 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 7,
-    "neutral": 51,
-    "score": 19,
+    "positive": 20,
+    "negative": 4,
+    "neutral": 56,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
-    },
-    {
-      "word": "claude",
-      "count": 4
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 3
+    },
+    {
+      "word": "ucc",
+      "count": 2
+    },
+    {
+      "word": "specialty",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -134,42 +148,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Luckin Coffee adds kiosks to its New York City locations",
-        "url": "https://www.nrn.com/quick-service/luckin-coffee-adds-kiosks-to-its-new-york-city-locations",
+        "title": "Exclusive! An Interview With Coffee-Loving U.S. Soccer Hero Joe Scally",
+        "url": "https://sprudge.com/exclusive-an-interview-with-coffee-loving-u-s-soccer-hero-joe-scally-1132449.html",
+        "source": "Sprudge Coffee",
+        "time": "23 phút trước"
+      },
+      {
+        "title": "Report Says Vietnam’s Robusta Boom Faces a Reckoning",
+        "url": "https://dailycoffeenews.com/2026/07/01/report-says-vietnams-robusta-boom-faces-a-reckoning/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Luckin Coffee, Church’s Texas Chicken, Cotton Patch Cafe",
+        "url": "https://www.nrn.com/quick-service/luckin-coffee-church-s-texas-chicken-cotton-patch-cafe",
         "source": "Nation's Restaurant News",
-        "time": "16 giờ trước"
+        "time": "4 giờ trước"
       },
       {
-        "title": "FDA Weighs Next Steps on Decaf Solvent Rules Following New Comments",
-        "url": "https://dailycoffeenews.com/2026/06/30/fda-weighs-next-steps-on-decaf-solvent-rules-following-new-comments/",
+        "title": "Current State Coffee’s First Cafe is Presently Open in Shawnee, Kansas",
+        "url": "https://dailycoffeenews.com/2026/07/01/current-state-coffees-first-cafe-is-presently-open-in-shawnee-kansas/",
         "source": "Daily Coffee News",
-        "time": "19 giờ trước"
-      },
-      {
-        "title": "Study Explores Coffee’s Gut-Brain Effects in Humans",
-        "url": "https://dailycoffeenews.com/2026/06/30/study-explores-coffees-gut-brain-effects-in-humans/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Coffee Crafters Returns to its Roots with New 2-Pound Roaster, the Duo",
-        "url": "https://dailycoffeenews.com/2026/06/30/coffee-crafters-returns-to-its-roots-with-new-2-pound-roaster-the-duo/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Thailand to implement startup law by year-end, innovation agency chief says",
-        "url": "https://asia.nikkei.com/business/startups/thailand-to-implement-startup-law-by-year-end-innovation-agency-chief-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Qualcomm challenges Nvidia's AI grip with chip that ditches HBM",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/qualcomm-challenges-nvidia-s-ai-grip-with-chip-that-ditches-hbm",
@@ -193,15 +201,21 @@
         "url": "https://asia.nikkei.com/business/travel-leisure/japan-raises-visa-fees-fivefold-to-tackle-overtourism2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Kawasaki Heavy to raise over $1bn via new shares, bonds for AI investment",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/kawasaki-heavy-to-raise-over-1bn-via-new-shares-bonds-for-ai-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
       "direction": "stable",
@@ -209,9 +223,9 @@
       "signal": "➡️ Ổn định"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
@@ -220,10 +234,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-europe": 1,
-    "region-vietnam": 17,
-    "region-global": 30,
-    "region-americas": 13
+    "region-sea": 17,
+    "region-europe": 2,
+    "region-americas": 16,
+    "region-vietnam": 16,
+    "region-global": 29
   }
 }
