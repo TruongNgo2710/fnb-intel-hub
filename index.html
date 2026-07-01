@@ -115,12 +115,18 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .hbtn.active{background:rgba(245,158,11,.1);border-color:rgba(245,158,11,.35);color:var(--amber);}
 
 /* ARTICLE CARD */
-.acard{background:var(--bg2);border:1px solid var(--border);border-radius:11px;padding:17px;margin-bottom:9px;transition:border .18s,transform .1s;}
-.acard:hover{border-color:var(--border2);transform:translateY(-1px);}
-.cm{display:flex;align-items:center;gap:7px;margin-bottom:9px;}
-.cav{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;flex-shrink:0;}
+.acard{background:var(--bg2);border:1px solid var(--border);border-radius:12px;margin-bottom:10px;transition:border .18s,transform .12s,box-shadow .18s;cursor:pointer;overflow:hidden;}
+.acard:hover{border-color:var(--border2);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.35);}
+.acard-thumb{width:100%;aspect-ratio:16/7;overflow:hidden;position:relative;background:var(--bg3);}
+.acard-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .4s ease;display:block;}
+.acard:hover .acard-thumb img{transform:scale(1.04);}
+.acard-thumb-overlay{position:absolute;inset:0;background:linear-gradient(to bottom,transparent 30%,rgba(8,8,13,.75));pointer-events:none;}
+.acard-thumb-badges{position:absolute;top:10px;left:10px;display:flex;gap:5px;}
+.acard-body{padding:14px 16px 12px;}
+.cm{display:flex;align-items:center;gap:7px;margin-bottom:8px;}
+.cav{width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;flex-shrink:0;}
 .cau{font-size:11.5px;font-weight:600;}
-.csb{font-size:9.5px;padding:2px 7px;border-radius:3px;font-weight:700;letter-spacing:.2px;}
+.csb{font-size:9px;padding:2px 6px;border-radius:3px;font-weight:700;letter-spacing:.2px;}
 .badge-fnb{background:rgba(245,158,11,.14);color:var(--amber);}
 .badge-macro{background:rgba(234,179,8,.14);color:var(--yellow);}
 .badge-crypto{background:rgba(168,85,247,.14);color:var(--purple);}
@@ -128,22 +134,64 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 .badge-ai{background:rgba(6,182,212,.14);color:var(--cyan);}
 .badge-fx{background:rgba(34,197,94,.14);color:var(--green);}
 .badge-news{background:rgba(144,144,168,.1);color:var(--text3);}
-.ctime{font-size:10.5px;color:var(--text3);margin-left:auto;}
+.ctime{font-size:10px;color:var(--text3);margin-left:auto;}
 .cbdg{display:flex;gap:3px;}
-.bnew{background:rgba(20,184,166,.13);color:var(--teal);font-size:8.5px;padding:2px 5px;border-radius:3px;font-weight:700;letter-spacing:.4px;}
-.bhot{background:rgba(245,158,11,.13);color:var(--amber);font-size:8.5px;padding:2px 5px;border-radius:3px;font-weight:700;}
-.cbk{margin-left:3px;background:none;border:none;cursor:pointer;color:var(--text3);font-size:15px;line-height:1;transition:color .12s;padding:0 2px;}
-.cbk:hover,.cbk.saved{color:var(--amber);}
-.ctitle{font-family:'Playfair Display',serif;font-size:15.5px;line-height:1.38;margin-bottom:9px;}
-.cbullets{display:flex;flex-direction:column;gap:4px;margin-bottom:10px;}
-.cbullet{display:flex;gap:7px;font-size:12px;color:var(--text2);line-height:1.5;}
+.bnew{background:rgba(20,184,166,.13);color:var(--teal);font-size:8px;padding:2px 5px;border-radius:3px;font-weight:700;letter-spacing:.4px;}
+.bhot{background:rgba(245,158,11,.13);color:var(--amber);font-size:8px;padding:2px 5px;border-radius:3px;font-weight:700;}
+.ctitle{font-family:'Playfair Display',serif;font-size:15px;line-height:1.38;margin-bottom:8px;}
+.cbullets{display:flex;flex-direction:column;gap:4px;margin-bottom:9px;}
+.cbullet{display:flex;gap:7px;font-size:11.5px;color:var(--text2);line-height:1.5;}
 .cbullet::before{content:"›";color:var(--amber);flex-shrink:0;font-size:13px;}
-.ctags{display:flex;gap:5px;flex-wrap:wrap;}
-.ctag{font-size:10.5px;color:var(--text3);background:var(--bg3);padding:2px 7px;border-radius:3px;}
+.ctags{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px;}
+.ctag{font-size:10px;color:var(--text3);background:var(--bg3);padding:2px 7px;border-radius:3px;}
 .mbtn{font-size:10.5px;color:var(--text3);cursor:pointer;padding:0;background:none;border:none;font-family:'DM Sans',sans-serif;margin-top:2px;}
 .mbtn:hover{color:var(--text2);}
+.acard-actions{display:flex;align-items:center;gap:6px;padding-top:9px;border-top:1px solid var(--border);}
+.aact{background:none;border:1px solid var(--border);color:var(--text3);padding:4px 10px;border-radius:6px;cursor:pointer;font-size:11px;font-family:'DM Sans',sans-serif;transition:all .12s;display:inline-flex;align-items:center;gap:4px;}
+.aact:hover{border-color:var(--border2);color:var(--text);background:var(--bg3);}
+.aact.saved{color:var(--amber);border-color:rgba(245,158,11,.3);}
+.aact-read{margin-left:auto;background:rgba(245,158,11,.1);border-color:rgba(245,158,11,.25);color:var(--amber);font-weight:600;}
+.aact-read:hover{background:rgba(245,158,11,.18);border-color:rgba(245,158,11,.45);}
 .feed-empty{text-align:center;padding:60px 20px;color:var(--text3);}
 .feed-empty .ei{font-size:32px;margin-bottom:10px;}
+
+/* ARTICLE DRAWER MODAL */
+.art-modal{position:fixed;inset:0;z-index:500;display:flex;align-items:stretch;justify-content:flex-end;pointer-events:none;}
+.art-modal.open{pointer-events:all;}
+.art-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.6);backdrop-filter:blur(4px);opacity:0;transition:opacity .28s;}
+.art-modal.open .art-backdrop{opacity:1;}
+.art-drawer{position:relative;z-index:1;width:min(700px,96vw);background:var(--bg2);overflow-y:auto;transform:translateX(105%);transition:transform .32s cubic-bezier(.22,.68,0,1.15);border-left:1px solid var(--border2);display:flex;flex-direction:column;}
+.art-modal.open .art-drawer{transform:translateX(0);}
+.art-hero-wrap{position:relative;width:100%;aspect-ratio:16/7;overflow:hidden;background:var(--bg3);flex-shrink:0;}
+.art-hero{width:100%;height:100%;object-fit:cover;display:block;}
+.art-hero-overlay{position:absolute;inset:0;background:linear-gradient(to bottom,transparent 40%,rgba(8,8,13,.7));}
+.art-close{position:absolute;top:12px;right:12px;width:34px;height:34px;border-radius:50%;background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.15);cursor:pointer;display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;z-index:2;transition:background .15s;}
+.art-close:hover{background:rgba(0,0,0,.8);}
+.art-body{padding:26px 28px 40px;flex:1;}
+.art-src-row{display:flex;align-items:center;gap:9px;margin-bottom:14px;}
+.art-av{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:700;flex-shrink:0;}
+.art-src-info{flex:1;}
+.art-src-name{font-size:13px;font-weight:600;line-height:1.2;}
+.art-src-badge{font-size:9px;padding:1px 6px;border-radius:3px;font-weight:700;display:inline-block;margin-top:2px;}
+.art-src-time{font-size:11px;color:var(--text3);}
+.art-title{font-family:'Playfair Display',serif;font-size:22px;line-height:1.33;margin-bottom:14px;}
+.art-divider{height:1px;background:var(--border);margin:16px 0;}
+.art-section-lbl{font-size:9.5px;font-weight:700;letter-spacing:1.3px;color:var(--text3);text-transform:uppercase;margin-bottom:10px;}
+.art-bullet{display:flex;gap:10px;font-size:13px;color:var(--text2);line-height:1.65;margin-bottom:11px;}
+.art-bullet::before{content:"›";color:var(--amber);font-size:15px;flex-shrink:0;margin-top:1px;}
+.art-tags{display:flex;gap:6px;flex-wrap:wrap;margin:14px 0 20px;}
+.art-tag{font-size:11px;background:var(--bg3);border:1px solid var(--border);padding:3px 9px;border-radius:4px;color:var(--text3);}
+.art-footer{display:flex;align-items:center;gap:8px;padding:16px 0 0;border-top:1px solid var(--border);}
+.art-read-btn{background:var(--amber);color:#000;border:none;padding:10px 20px;border-radius:8px;font-weight:700;font-size:13px;cursor:pointer;font-family:'DM Sans',sans-serif;text-decoration:none;display:inline-flex;align-items:center;gap:6px;transition:opacity .15s;}
+.art-read-btn:hover{opacity:.87;}
+.art-share-btn{background:var(--bg3);border:1px solid var(--border);color:var(--text2);padding:10px 15px;border-radius:8px;font-size:12.5px;cursor:pointer;font-family:'DM Sans',sans-serif;transition:all .12s;display:inline-flex;align-items:center;gap:5px;}
+.art-share-btn:hover{border-color:var(--border2);color:var(--text);}
+.art-save-btn{background:var(--bg3);border:1px solid var(--border);color:var(--text2);padding:10px 15px;border-radius:8px;font-size:12.5px;cursor:pointer;font-family:'DM Sans',sans-serif;transition:all .12s;}
+.art-save-btn:hover{border-color:var(--border2);color:var(--text);}
+.art-save-btn.saved{color:var(--amber);border-color:rgba(245,158,11,.35);}
+/* toast */
+.toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);background:var(--bg4);border:1px solid var(--border2);color:var(--text);padding:9px 18px;border-radius:8px;font-size:12.5px;z-index:9999;opacity:0;transition:all .22s;pointer-events:none;}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
 
 /* RIGHT SIDEBAR */
 .sidebar-right{width:var(--rsidebar-w);flex-shrink:0;position:sticky;top:calc(var(--header-h)+var(--ticker-h));height:calc(100vh - var(--header-h) - var(--ticker-h));overflow-y:auto;border-left:1px solid var(--border);padding:18px 14px;}
@@ -339,14 +387,14 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
     <div class="sb-divider"></div>
     <div class="sb-section">
       <div class="sb-title">Nguồn</div>
-      <div class="sb-item" onclick="filterSrc('ico',this)"><span class="sb-dot" style="background:#f59e0b"></span>ICO Coffee<span class="sb-count">127</span></div>
-      <div class="sb-item" onclick="filterSrc('cafeF',this)"><span class="sb-dot" style="background:#ef4444"></span>CafeF<span class="sb-count">312</span></div>
-      <div class="sb-item" onclick="filterSrc('ssi',this)"><span class="sb-dot" style="background:#14b8a6"></span>SSI Research<span class="sb-count">214</span></div>
-      <div class="sb-item" onclick="filterSrc('kitco',this)"><span class="sb-dot" style="background:#eab308"></span>Kitco<span class="sb-count">267</span></div>
-      <div class="sb-item" onclick="filterSrc('glassnode',this)"><span class="sb-dot" style="background:#8b5cf6"></span>Glassnode<span class="sb-count">203</span></div>
-      <div class="sb-item" onclick="filterSrc('theblock',this)"><span class="sb-dot" style="background:#a855f7"></span>The Block<span class="sb-count">289</span></div>
-      <div class="sb-item" onclick="filterSrc('momentum',this)"><span class="sb-dot" style="background:#f97316"></span>Momentum Works<span class="sb-count">104</span></div>
-      <div class="sb-item" onclick="filterSrc('mckinsey_ai',this)"><span class="sb-dot" style="background:#06b6d4"></span>McKinsey AI<span class="sb-count">87</span></div>
+      <div class="sb-item" onclick="filterSrc('ico',this)"><span class="sb-dot" style="background:#f59e0b"></span>ICO Coffee<span class="sb-count" id="sc-ico">0</span></div>
+      <div class="sb-item" onclick="filterSrc('cafeF',this)"><span class="sb-dot" style="background:#ef4444"></span>CafeF<span class="sb-count" id="sc-cafeF">0</span></div>
+      <div class="sb-item" onclick="filterSrc('ssi',this)"><span class="sb-dot" style="background:#14b8a6"></span>SSI Research<span class="sb-count" id="sc-ssi">0</span></div>
+      <div class="sb-item" onclick="filterSrc('kitco',this)"><span class="sb-dot" style="background:#eab308"></span>Kitco<span class="sb-count" id="sc-kitco">0</span></div>
+      <div class="sb-item" onclick="filterSrc('glassnode',this)"><span class="sb-dot" style="background:#8b5cf6"></span>Glassnode<span class="sb-count" id="sc-glassnode">0</span></div>
+      <div class="sb-item" onclick="filterSrc('theblock',this)"><span class="sb-dot" style="background:#a855f7"></span>The Block<span class="sb-count" id="sc-theblock">0</span></div>
+      <div class="sb-item" onclick="filterSrc('momentum',this)"><span class="sb-dot" style="background:#f97316"></span>Momentum Works<span class="sb-count" id="sc-momentum">0</span></div>
+      <div class="sb-item" onclick="filterSrc('mckinsey_ai',this)"><span class="sb-dot" style="background:#06b6d4"></span>McKinsey AI<span class="sb-count" id="sc-mckinsey_ai">0</span></div>
     </div>
     <div class="sb-divider"></div>
     <div class="sb-section">
@@ -477,6 +525,38 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
 </div><!-- /app-body -->
 </div><!-- /app -->
 
+<!-- ARTICLE DRAWER -->
+<div id="art-modal" class="art-modal">
+  <div class="art-backdrop" onclick="closeArticleModal()"></div>
+  <div class="art-drawer">
+    <div class="art-hero-wrap">
+      <img id="art-hero" class="art-hero" src="" alt="">
+      <div class="art-hero-overlay"></div>
+      <button class="art-close" onclick="closeArticleModal()">✕</button>
+    </div>
+    <div class="art-body">
+      <div class="art-src-row">
+        <div id="art-av" class="art-av"></div>
+        <div class="art-src-info">
+          <div id="art-src-name" class="art-src-name"></div>
+          <span id="art-src-badge" class="art-src-badge"></span>
+        </div>
+        <span id="art-src-time" class="art-src-time"></span>
+      </div>
+      <h1 id="art-title" class="art-title"></h1>
+      <div class="art-divider"></div>
+      <div class="art-section-lbl">Điểm chính</div>
+      <div id="art-bullets"></div>
+      <div id="art-tags" class="art-tags"></div>
+      <div class="art-footer">
+        <a id="art-read-btn" class="art-read-btn" target="_blank" rel="noopener">Đọc bài gốc ↗</a>
+        <button id="art-save-btn" class="art-save-btn" onclick="artToggleSave()">☆ Lưu</button>
+        <button class="art-share-btn" onclick="shareArticle(currentArticleId)">↗ Chia sẻ</button>
+      </div>
+    </div>
+  </div>
+</div>
+
 <!-- MODALS -->
 <div class="modal-overlay" id="post-modal">
   <div class="modal">
@@ -541,43 +621,83 @@ const ARTICLES = [
   {id:1,author:'ICO Coffee',av:'☕',ac:'#f59e0b',sb:'Báo cáo',bc:'badge-fnb',domain:'fnb',time:'1 giờ trước',isNew:true,isHot:false,isDeep:true,
    title:'Giá Robusta phục hồi +4.2% sau 3 tuần giảm — tác động đến chi phí chuỗi cà phê?',
    bullets:['Giá Robusta tăng lên ~$4,987/tấn trên sàn ICE London sau đợt giảm kéo dài từ cuối tháng 5','Nguồn cung Tây Nguyên dự kiến giảm 8-12% vụ tới do El Niño muộn','Chuỗi quy mô nhỏ nên lock giá nguyên liệu sớm — hợp đồng 3-6 tháng với nhà cung cấp quen'],
-   tags:['#CàPhê','#Robusta','#ChiPhí'],src:'ico',hash:'cafephe'},
+   tags:['#CàPhê','#Robusta','#ChiPhí'],src:'ico',hash:'cafephe',
+   img:'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=700&q=80',url:'https://www.ico.int/'},
   {id:2,author:'Glassnode',av:'🔬',ac:'#8b5cf6',sb:'On-Chain',bc:'badge-crypto',domain:'crypto',time:'2 giờ trước',isNew:true,isHot:true,isDeep:true,
    title:'BTC consolidate $103K — on-chain signal tích lũy mạnh từ long-term holder',
    bullets:['LTH tích lũy ròng +42,000 BTC trong 2 tuần qua — không có dấu hiệu phân phối','MVRV Z-score đang ở 2.1 — còn xa vùng quá mua lịch sử (>7.0)','Bitcoin ETF inflow tuần qua đạt $2.1B — cao nhất kể từ tháng 3/2025','Exchange balance giảm xuống thấp nhất 6 năm: accumulation signal rõ ràng'],
-   tags:['#Bitcoin','#Crypto','#OnChain'],src:'glassnode',hash:'crypto'},
+   tags:['#Bitcoin','#Crypto','#OnChain'],src:'glassnode',hash:'crypto',
+   img:'https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=700&q=80',url:'https://glassnode.com/'},
   {id:3,author:'Kitco News',av:'🥇',ac:'#eab308',sb:'Phân tích',bc:'badge-gold',domain:'gold',time:'3 giờ trước',isNew:true,isHot:true,isDeep:false,
    title:'Vàng SJC áp sát 96M/lượng — phân tích kỹ thuật XAU/USD cho tuần tới',
    bullets:['XAU/USD test vùng kháng cự $3,280 — vượt qua nhắm đến $3,350 trong tuần','Fed Minutes lo ngại lạm phát dai dẳng, củng cố dòng tiền vào vàng trú ẩn','Hỗ trợ kỹ thuật mạnh ở vùng $3,220 — rủi ro giảm được giới hạn'],
-   tags:['#Vàng','#SJC','#XAU'],src:'kitco',hash:'vang'},
+   tags:['#Vàng','#SJC','#XAU'],src:'kitco',hash:'vang',
+   img:'https://images.unsplash.com/photo-1610375461246-83df859d849d?w=700&q=80',url:'https://www.kitco.com/'},
   {id:4,author:'Momentum Works',av:'🚀',ac:'#f97316',sb:'Báo cáo',bc:'badge-fnb',domain:'fnb',time:'4 giờ trước',isNew:false,isHot:true,isDeep:true,
    title:'Cà phê Việt Nam Q2/2026: Specialty tăng 23% YoY, chuỗi tòa nhà chiếm ưu thế',
    bullets:['Phân khúc specialty coffee tăng trưởng 23% YoY trong khi thị trường chung chỉ +8%','Chuỗi trong toà nhà văn phòng hạng A có average ticket size 65,000đ — cao hơn 40% street café','Khách hàng văn phòng ghé 3.2 lần/tuần, retention rate 78% — phân khúc trung thành nhất','Highland dẫn đầu 700+ điểm; Phúc Long +40 điểm/quý; Katinat focus office clusters'],
-   tags:['#F&B','#Specialty','#TòaNhà'],src:'momentum',hash:'fnb'},
+   tags:['#F&B','#Specialty','#TòaNhà'],src:'momentum',hash:'fnb',
+   img:'https://images.unsplash.com/photo-1521302200778-33500795e128?w=700&q=80',url:'https://momentum.works/'},
   {id:5,author:'SSI Research',av:'📈',ac:'#14b8a6',sb:'Macro',bc:'badge-macro',domain:'macro',time:'5 giờ trước',isNew:false,isHot:false,isDeep:true,
    title:'Kinh tế VN H1/2026: GDP +7.1%, lạm phát trong tầm kiểm soát',
    bullets:['GDP tăng 7.1% trong H1/2026, vượt mục tiêu 6.5% nhờ xuất khẩu và FDI phục hồi','CPI tháng 6 ở mức 3.8% YoY — trong vùng mục tiêu NHNN, không gây áp lực tăng lãi suất','VN-Index phục hồi 12% từ đáy tháng 4, thanh khoản cải thiện 18,000 tỷ/phiên'],
-   tags:['#MacroVN','#GDP','#VNIndex'],src:'ssi',hash:'macro'},
+   tags:['#MacroVN','#GDP','#VNIndex'],src:'ssi',hash:'macro',
+   img:'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=700&q=80',url:'https://www.ssi.com.vn/en/research'},
   {id:6,author:'The Block',av:'⛓️',ac:'#a855f7',sb:'Research',bc:'badge-crypto',domain:'crypto',time:'6 giờ trước',isNew:false,isHot:false,isDeep:true,
    title:'DeFi TVL vượt $200B lần đầu — RWA là narrative dẫn đầu Q2/2026',
    bullets:['Tổng TVL DeFi đạt $201.3B — milestone lịch sử lần đầu vượt $200B','Ethereum chiếm 65% TVL; Solana bứt phá với 28% DEX volume toàn thị trường','Real World Assets (RWA) là narrative mạnh nhất với $18B onchain'],
-   tags:['#DeFi','#TVL','#Ethereum'],src:'theblock',hash:'crypto'},
+   tags:['#DeFi','#TVL','#Ethereum'],src:'theblock',hash:'crypto',
+   img:'https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=700&q=80',url:'https://www.theblock.co/'},
   {id:7,author:'FXStreet',av:'💱',ac:'#22c55e',sb:'FX',bc:'badge-fx',domain:'gold',time:'7 giờ trước',isNew:false,isHot:false,isDeep:false,
    title:'USD/VND ổn định quanh 25,480 — NHNN tiếp tục can thiệp tỷ giá',
    bullets:['USD/VND giao dịch trong biên 25,400-25,520 trong 2 tuần gần đây','NHNN bán ra ~$2B để giữ tỷ giá — dự trữ ngoại tệ vẫn ở mức an toàn ~$90B','Dự báo USD/VND cuối năm 2026: 25,600-25,800 theo kịch bản cơ sở'],
-   tags:['#USDVND','#Tỷgiá','#NHNN'],src:'fxstreet',hash:'fx'},
+   tags:['#USDVND','#Tỷgiá','#NHNN'],src:'fxstreet',hash:'fx',
+   img:'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=700&q=80',url:'https://www.fxstreet.com/'},
   {id:8,author:'McKinsey AI',av:'🤖',ac:'#06b6d4',sb:'Insight',bc:'badge-ai',domain:'ai',time:'8 giờ trước',isNew:false,isHot:true,isDeep:true,
    title:'AI trong F&B Operations 2026: Từ dự báo nhu cầu đến tối ưu vận hành chuỗi',
    bullets:['AI demand forecasting giúp chuỗi F&B giảm 18-23% food waste, cải thiện biên lợi nhuận','Computer vision cho quality control đang được 34% chuỗi QSR lớn triển khai tại ASEAN','Wego use case: AI scheduling staff theo traffic pattern toà nhà tiết kiệm 15-20% labour cost'],
-   tags:['#AI','#F&B','#Operations'],src:'mckinsey_ai',hash:'ai'},
+   tags:['#AI','#F&B','#Operations'],src:'mckinsey_ai',hash:'ai',
+   img:'https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=700&q=80',url:'https://www.mckinsey.com/capabilities/quantumblack/our-insights'},
   {id:9,author:'Trading Economics',av:'📊',ac:'#06b6d4',sb:'Data',bc:'badge-macro',domain:'macro',time:'10 giờ trước',isNew:false,isHot:false,isDeep:false,
    title:'Lãi suất Fed giữ nguyên tháng 6 — kỳ vọng cắt giảm dời sang Q4/2026',
    bullets:['FOMC tháng 6 giữ nguyên lãi suất 4.25-4.50% — đúng dự báo thị trường 88% xác suất','Dot plot mới: 2 lần cắt giảm trong 2026, timing dời sang Q4 thay vì Q3','PCE core 2.8% YoY tháng 5 — còn cách xa mục tiêu 2%, justify Fed pause'],
-   tags:['#Fed','#LãiSuất','#Macro'],src:'trading_eco',hash:'macro'},
+   tags:['#Fed','#LãiSuất','#Macro'],src:'trading_eco',hash:'macro',
+   img:'https://images.unsplash.com/photo-1535320903710-d993d3d77d29?w=700&q=80',url:'https://tradingeconomics.com/'},
   {id:10,author:'CB Insights',av:'🔭',ac:'#f97316',sb:'Report',bc:'badge-ai',domain:'ai',time:'12 giờ trước',isNew:false,isHot:false,isDeep:true,
    title:'FoodTech ASEAN 2026: $3.2B đầu tư, Việt Nam nổi lên là F&B innovation hub',
    bullets:['FoodTech ASEAN nhận $3.2B funding H1/2026, tăng 41% — VN chiếm 18% số deals','Cloud kitchen và ghost restaurant tăng trưởng mạnh nhất với 56% deals ở series A/B','F&B SaaS (POS, inventory, loyalty) là mảng nóng nhất tại VN với 12 startup raise round'],
-   tags:['#FoodTech','#ASEAN','#Startup'],src:'cb_insights',hash:'ai'},
+   tags:['#FoodTech','#ASEAN','#Startup'],src:'cb_insights',hash:'ai',
+   img:'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=700&q=80',url:'https://www.cbinsights.com/'},
+  {id:11,author:'CafeF Kinh doanh',av:'📰',ac:'#ef4444',sb:'Báo',bc:'badge-fnb',domain:'fnb',time:'14 giờ trước',isNew:false,isHot:false,isDeep:false,
+   title:'Phúc Long mở thêm 15 cửa hàng Q3/2026, tập trung tòa nhà văn phòng hạng A',
+   bullets:['Phúc Long xác nhận kế hoạch mở 15 chi nhánh mới trong Q3/2026 tại TPHCM và Hà Nội','80% vị trí mới được ưu tiên trong tòa nhà văn phòng và trung tâm thương mại hạng A','Doanh thu H1/2026 tăng 31% YoY, biên lợi nhuận gộp cải thiện 3 điểm % lên 63%'],
+   tags:['#PhúcLong','#F&B','#MởRộng'],src:'cafeF',hash:'fnb',
+   img:'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=700&q=80',url:'https://cafef.vn/'},
+  {id:12,author:'World Coffee Research',av:'🌿',ac:'#22c55e',sb:'Research',bc:'badge-fnb',domain:'fnb',time:'1 ngày trước',isNew:false,isHot:false,isDeep:true,
+   title:'Biến đổi khí hậu đe dọa 50% vùng trồng Arabica toàn cầu đến 2050',
+   bullets:['Nghiên cứu WCR: 50% vùng trồng Arabica phù hợp hiện tại sẽ biến mất đến 2050 do nhiệt độ tăng','Tây Nguyên VN nằm trong vùng có nguy cơ trung bình — cần chuyển đổi giống chịu nhiệt','Giống Centroamericano F1 hybrid cho năng suất +40% và khả năng chịu nóng tốt hơn 2°C'],
+   tags:['#ClimateChange','#Arabica','#Specialty'],src:'wcr',hash:'cafephe',
+   img:'https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=700&q=80',url:'https://worldcoffeeresearch.org/'},
+  {id:13,author:'VDSC Rồng Việt',av:'🐉',ac:'#f59e0b',sb:'Report',bc:'badge-macro',domain:'macro',time:'1 ngày trước',isNew:false,isHot:false,isDeep:true,
+   title:'Ngành tiêu dùng VN H2/2026: Phục hồi hình chữ V, F&B dẫn đầu tăng trưởng',
+   bullets:['VDSC dự báo chi tiêu tiêu dùng tăng 9.2% H2/2026 nhờ tăng lương và FDI việc làm','Ngành F&B hưởng lợi từ xu hướng "treat yourself" hậu COVID — tần suất ăn ngoài tăng 18%','Chuỗi cà phê văn phòng tăng trưởng 2.3x nhanh hơn mức trung bình ngành'],
+   tags:['#Macro','#TiêuDùng','#F&B'],src:'vdsc',hash:'macro',
+   img:'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=700&q=80',url:'https://www.vdsc.com.vn/'},
+  {id:14,author:'CryptoQuant',av:'📡',ac:'#06b6d4',sb:'Data',bc:'badge-crypto',domain:'crypto',time:'1 ngày trước',isNew:false,isHot:true,isDeep:false,
+   title:'Bitcoin exchange reserve xuống thấp nhất 6 năm — tín hiệu supply shock',
+   bullets:['BTC trên các sàn tập trung giảm còn 2.3M — mức thấp nhất kể từ tháng 11/2018','Miner outflow giảm 40% so với tháng trước — miners đang giữ coin, không bán','Stablecoin supply tăng $8B tuần qua: "dry powder" sẵn sàng mua vào bất cứ lúc nào'],
+   tags:['#Bitcoin','#OnChain','#Supply'],src:'cryptoquant',hash:'crypto',
+   img:'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=700&q=80',url:'https://cryptoquant.com/'},
+  {id:15,author:'CoinDesk',av:'💎',ac:'#14b8a6',sb:'News',bc:'badge-crypto',domain:'crypto',time:'2 ngày trước',isNew:false,isHot:false,isDeep:false,
+   title:'Ethereum ETF inflow đạt $620M tuần — institutional allocation tăng mạnh',
+   bullets:['Ethereum spot ETF nhận $620M inflow trong tuần — cao nhất kể từ tháng 1/2026','BlackRock ETHA dẫn đầu với $280M; Fidelity FETH $148M trong 5 phiên','Tỷ lệ ETH/BTC tăng nhẹ từ 0.026 lên 0.028 — Ethereum relative strength cải thiện'],
+   tags:['#Ethereum','#ETF','#Institutional'],src:'coindesk',hash:'crypto',
+   img:'https://images.unsplash.com/photo-1614854262318-831574f15f1f?w=700&q=80',url:'https://www.coindesk.com/'},
+  {id:16,author:'NielsenIQ VN',av:'🎯',ac:'#14b8a6',sb:'Data',bc:'badge-ai',domain:'ai',time:'2 ngày trước',isNew:false,isHot:false,isDeep:true,
+   title:'Consumer insight Q2/2026: 68% người dùng văn phòng TPHCM chi trên 80k/ngày cho F&B',
+   bullets:['68% nhân viên văn phòng hạng A TPHCM chi 80,000-150,000đ/ngày cho F&B tại nơi làm','Cà phê là hạng mục "không thể thiếu" với 91% response — tần suất 1.8 ly/ngày','Premium segment (>70k/ly) tăng thị phần từ 23% lên 31% YoY — nhạy cảm giá giảm'],
+   tags:['#Consumer','#Insight','#Office'],src:'nielsen',hash:'ai',
+   img:'https://images.unsplash.com/photo-1552664730-d307ca884978?w=700&q=80',url:'https://nielseniq.com/'},
 ];
 
 const TRENDING = [
@@ -676,6 +796,7 @@ if (sessionStorage.getItem('wi_auth') === '1') {
 function initApp() {
   renderExpertSb();
   renderArticles();
+  updateSidebarCounts();
   renderTrending();
   renderDigest();
   renderExperts();
@@ -690,6 +811,7 @@ function initApp() {
       document.getElementById('searchInput').focus();
     }
     if (e.key==='Escape') {
+      if (document.getElementById('art-modal').classList.contains('open')) { closeArticleModal(); return; }
       document.querySelectorAll('.modal-overlay.open').forEach(m=>m.classList.remove('open'));
       const si = document.getElementById('searchInput');
       if (document.activeElement===si) { si.value=''; si.blur(); renderArticles(); }
@@ -712,12 +834,14 @@ function showPage(id, btn) {
 // EXPERT SIDEBAR
 // ══════════════════════════════════════════════════
 function renderExpertSb() {
-  document.getElementById('expert-sb-list').innerHTML = EXPERTS.map(e => `
-    <div class="expert-mini ${activeExpert===e.id?'active':''}" onclick="filterByExpert('${e.id}',this)">
+  document.getElementById('expert-sb-list').innerHTML = EXPERTS.map(e => {
+    const cnt = allArticles.filter(a=>a.src===e.id).length;
+    return `<div class="expert-mini ${activeExpert===e.id?'active':''}" data-eid="${e.id}" onclick="filterByExpert('${e.id}',this)">
       <div class="ea-sm" style="background:${e.color}22;color:${e.color}">${e.emoji}</div>
       <span class="en-sm">${e.name}</span>
-      <span class="ec-sm">${e.count}</span>
-    </div>`).join('');
+      <span class="ec-sm">${cnt}</span>
+    </div>`;
+  }).join('');
   document.getElementById('exp-total').textContent = EXPERTS.length;
 }
 
@@ -786,6 +910,12 @@ function getFiltered() {
   return list;
 }
 
+// domain → fallback image
+function imgByDomain(domain) {
+  const m={fnb:'https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=700&q=80',cafephe:'https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=700&q=80',crypto:'https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=700&q=80',gold:'https://images.unsplash.com/photo-1610375461246-83df859d849d?w=700&q=80',macro:'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=700&q=80',ai:'https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=700&q=80',fx:'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?w=700&q=80',vang:'https://images.unsplash.com/photo-1610375461246-83df859d849d?w=700&q=80'};
+  return m[domain]||m.macro;
+}
+
 function renderArticles() {
   const list = getFiltered();
   document.getElementById('cnt-all').textContent = allArticles.length;
@@ -796,34 +926,101 @@ function renderArticles() {
   if (!list.length) { el.innerHTML = '<div class="feed-empty"><div class="ei">🔍</div><p>Không có nội dung phù hợp</p></div>'; return; }
   el.innerHTML = list.map(a => {
     const saved = savedIds.has(a.id);
-    return `<div class="acard" id="ac-${a.id}">
-      <div class="cm">
-        <div class="cav" style="background:${a.ac}22;color:${a.ac}">${a.av}</div>
-        <span class="cau">${a.author}</span>
-        <span class="csb ${a.bc}">${a.sb}</span>
-        <span class="ctime">${a.time}</span>
-        <div class="cbdg">
+    const thumb = a.img || imgByDomain(a.domain||a.hash);
+    return `<div class="acard" id="ac-${a.id}" onclick="openArticle(${a.id})">
+      <div class="acard-thumb">
+        <img src="${thumb}" loading="lazy" alt="${a.title}" onerror="this.src='${imgByDomain(a.domain)}'">
+        <div class="acard-thumb-overlay"></div>
+        <div class="acard-thumb-badges">
           ${a.isNew?'<span class="bnew">MỚI</span>':''}
           ${a.isHot?'<span class="bhot">🔥 HOT</span>':''}
         </div>
-        <button class="cbk ${saved?'saved':''}" onclick="event.stopPropagation();toggleSave(${a.id},this)">${saved?'★':'☆'}</button>
       </div>
-      <div class="ctitle">${a.title}</div>
-      <div class="cbullets" id="bl-${a.id}">
-        ${a.bullets.slice(0,3).map(b=>`<div class="cbullet">${b}</div>`).join('')}
-        ${a.bullets.length>3?`<button class="mbtn" onclick="showAllBullets(${a.id},this)">+${a.bullets.length-3} điểm tóm tắt</button>`:''}
+      <div class="acard-body">
+        <div class="cm">
+          <div class="cav" style="background:${a.ac}22;color:${a.ac}">${a.av}</div>
+          <span class="cau">${a.author}</span>
+          <span class="csb ${a.bc}">${a.sb}</span>
+          <span class="ctime">${a.time}</span>
+        </div>
+        <div class="ctitle">${a.title}</div>
+        <div class="cbullets">
+          ${a.bullets.slice(0,2).map(b=>`<div class="cbullet">${b}</div>`).join('')}
+        </div>
+        <div class="ctags">${a.tags.map(t=>`<span class="ctag">${t}</span>`).join('')}</div>
+        <div class="acard-actions">
+          <button class="aact ${saved?'saved':''}" onclick="event.stopPropagation();toggleSave(${a.id},this)">${saved?'★ Đã lưu':'☆ Lưu'}</button>
+          <button class="aact" onclick="event.stopPropagation();shareArticle(${a.id})">↗ Chia sẻ</button>
+          <button class="aact aact-read" onclick="event.stopPropagation();openArticle(${a.id})">Đọc thêm →</button>
+        </div>
       </div>
-      <div class="ctags">${a.tags.map(t=>`<span class="ctag">${t}</span>`).join('')}</div>
     </div>`;
   }).join('');
 }
 
-function showAllBullets(id, btn) {
+// ══════════════════════════════════════════════════
+// ARTICLE MODAL
+// ══════════════════════════════════════════════════
+let currentArticleId = null;
+
+function openArticle(id) {
   const a = allArticles.find(x=>x.id===id);
   if (!a) return;
-  btn.remove();
-  const bl = document.getElementById('bl-'+id);
-  a.bullets.slice(3).forEach(b => { const d=document.createElement('div');d.className='cbullet';d.textContent=b;bl.appendChild(d); });
+  currentArticleId = id;
+  const thumb = a.img || imgByDomain(a.domain||a.hash);
+  document.getElementById('art-hero').src = thumb;
+  document.getElementById('art-hero').onerror = function(){this.src=imgByDomain(a.domain);};
+  document.getElementById('art-av').style.cssText=`background:${a.ac}22;color:${a.ac}`;
+  document.getElementById('art-av').textContent=a.av;
+  document.getElementById('art-src-name').textContent=a.author;
+  const badge=document.getElementById('art-src-badge');badge.textContent=a.sb;badge.className='art-src-badge '+a.bc;
+  document.getElementById('art-src-time').textContent=a.time;
+  document.getElementById('art-title').textContent=a.title;
+  document.getElementById('art-bullets').innerHTML=a.bullets.map(b=>`<div class="art-bullet">${b}</div>`).join('');
+  document.getElementById('art-tags').innerHTML=a.tags.map(t=>`<span class="art-tag">${t}</span>`).join('');
+  const readBtn=document.getElementById('art-read-btn');
+  readBtn.href=a.url||'#';
+  readBtn.style.opacity=a.url?'1':'0.4';
+  readBtn.style.pointerEvents=a.url?'all':'none';
+  const saveBtn=document.getElementById('art-save-btn');
+  saveBtn.textContent=savedIds.has(id)?'★ Đã lưu':'☆ Lưu';
+  saveBtn.className='art-save-btn'+(savedIds.has(id)?' saved':'');
+  document.getElementById('art-modal').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+
+function closeArticleModal() {
+  document.getElementById('art-modal').classList.remove('open');
+  document.body.style.overflow='';
+  currentArticleId=null;
+}
+
+function shareArticle(id) {
+  const a = allArticles.find(x=>x.id===id);
+  if (!a) return;
+  const url=a.url||window.location.href;
+  if(navigator.share){navigator.share({title:a.title,text:a.bullets[0],url});}
+  else{navigator.clipboard.writeText(url).then(()=>showToast('Đã copy link ✓'));}
+}
+
+function showToast(msg) {
+  let t=document.getElementById('toast');
+  if(!t){t=document.createElement('div');t.id='toast';t.className='toast';document.body.appendChild(t);}
+  t.textContent=msg;t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'),2200);
+}
+
+function artToggleSave() {
+  if(!currentArticleId) return;
+  const btn=document.getElementById('art-save-btn');
+  const id=currentArticleId;
+  if(savedIds.has(id)){savedIds.delete(id);btn.textContent='☆ Lưu';btn.className='art-save-btn';}
+  else{savedIds.add(id);btn.textContent='★ Đã lưu';btn.className='art-save-btn saved';}
+  localStorage.setItem('fnb_saved',JSON.stringify([...savedIds]));
+  document.getElementById('cnt-saved').textContent=savedIds.size;
+  // update card button too
+  const card=document.getElementById('ac-'+id);
+  if(card){const sb=card.querySelector('.aact');if(sb){sb.textContent=savedIds.has(id)?'★ Đã lưu':'☆ Lưu';sb.className='aact'+(savedIds.has(id)?' saved':'');}}
 }
 
 function toggleSave(id, btn) {
@@ -999,6 +1196,44 @@ function submitPost() {
 // ══════════════════════════════════════════════════
 // NEWS.JSON
 // ══════════════════════════════════════════════════
+function mapSrcFromSource(source, domain) {
+  const s = (source||'').toLowerCase();
+  if (s.includes('ico') || s.includes('international coffee org')) return 'ico';
+  if (s.includes('cafef') || s.includes('cafebiz')) return 'cafeF';
+  if (s.includes('world coffee') || s.includes('wcr')) return 'wcr';
+  if (s.includes('momentum works') || s.includes('momentumworks')) return 'momentum';
+  if (s.includes('ssi')) return 'ssi';
+  if (s.includes('vdsc') || s.includes('rồng việt')) return 'vdsc';
+  if (s.includes('trading economics')) return 'trading_eco';
+  if (s.includes('kitco')) return 'kitco';
+  if (s.includes('fxstreet') || s.includes('fx street')) return 'fxstreet';
+  if (s.includes('the block') || s.includes('theblock')) return 'theblock';
+  if (s.includes('glassnode')) return 'glassnode';
+  if (s.includes('cryptoquant')) return 'cryptoquant';
+  if (s.includes('coindesk') || s.includes('coin desk')) return 'coindesk';
+  if (s.includes('mckinsey')) return 'mckinsey_ai';
+  if (s.includes('cb insights') || s.includes('cbinsights')) return 'cb_insights';
+  if (s.includes('nielsen')) return 'nielsen';
+  // Domain fallback
+  const dmap = {fnb:'cafeF',cafephe:'ico',macro:'trading_eco',gold:'kitco',crypto:'theblock',ai:'mckinsey_ai'};
+  return dmap[domain] || 'ssi';
+}
+
+function updateSidebarCounts() {
+  const srcIds = ['ico','cafeF','ssi','kitco','glassnode','theblock','momentum','mckinsey_ai'];
+  srcIds.forEach(s => {
+    const el = document.getElementById('sc-'+s);
+    if (el) el.textContent = allArticles.filter(a=>a.src===s).length;
+  });
+  // also update expert sidebar counts
+  document.querySelectorAll('.expert-mini').forEach(el => {
+    const id = el.getAttribute('data-eid');
+    if (!id) return;
+    const cnt = el.querySelector('.ec-sm');
+    if (cnt) cnt.textContent = allArticles.filter(a=>a.src===id).length;
+  });
+}
+
 async function loadNewsJson() {
   try {
     const r = await fetch('news.json',{cache:'no-store'});
@@ -1011,10 +1246,13 @@ async function loadNewsJson() {
       time:item.time||'hôm nay', isNew:true, isHot:false, isDeep:false,
       title:item.title||'',
       bullets:item.summary?item.summary.split('. ').filter(s=>s.length>10).slice(0,4):[item.description||''],
-      tags:(item.tags||[]).map(t=>'#'+t), src:'news', hash:item.domain||'macro',
+      tags:(item.tags||[]).map(t=>'#'+t),
+      src:mapSrcFromSource(item.source, item.domain||'macro'),
+      hash:item.domain||'macro',
     })).filter(a=>a.title);
     allArticles = [...ARTICLES,...mapped];
     renderArticles();
+    updateSidebarCounts();
   } catch(e){}
 }
 
