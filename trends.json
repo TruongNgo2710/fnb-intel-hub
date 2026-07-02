@@ -1,48 +1,41 @@
 {
-  "updated": "2026-07-02T10:45:14.529113+00:00",
+  "updated": "2026-07-02T14:08:04.502440+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
+      "count": 40,
       "count_24h": 27,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 12,
+      "count": 16,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 8,
+      "count": 14,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -54,9 +47,16 @@
       "trend": "up"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -82,6 +82,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 2,
+      "trend": "up"
+    },
+    {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 2,
@@ -92,31 +98,19 @@
       "name": "Starbucks",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-illy",
-      "name": "brand-illy",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 22,
+    "negative": 3,
+    "neutral": 55,
+    "score": 24,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -124,7 +118,7 @@
     },
     {
       "word": "claude",
-      "count": 3
+      "count": 2
     },
     {
       "word": "ucc",
@@ -132,10 +126,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "stable",
+    "total_articles": 15,
+    "price_direction": "up",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -144,48 +138,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Royal Coffee Begins Issuing IEEPA Tariff Credits As CBP Returns Duties To Importers",
-        "url": "https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html",
+        "title": "Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI",
+        "url": "https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "4 phút trước"
       },
       {
-        "title": "Starbucks is ‘Actively Reassessing’ a Key Climate Pledge Amid Other Sustainability Milestones",
-        "url": "https://dailycoffeenews.com/2026/07/01/starbucks-is-actively-reassessing-a-key-climate-pledge-amid-other-sustainability-milestones/",
+        "title": "Muvna Takes a Mammoth Step into Modular Grinding",
+        "url": "https://dailycoffeenews.com/2026/07/02/muvna-takes-a-mammoth-step-into-modular-grinding/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "A Podcast About Coffee Featuring Decaf, Lavender, And Lovely New Cafes",
-        "url": "https://sprudge.com/a-podcast-about-coffee-featuring-decaf-lavender-and-lovely-new-cafes-1132163.html",
+        "title": "Is This The Coolest Custom La Marzocco Linea Ever?",
+        "url": "https://sprudge.com/is-this-the-coolest-custom-la-marzocco-linea-ever-1138051.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Exclusive! An Interview With Coffee-Loving U.S. Soccer Hero Joe Scally",
-        "url": "https://sprudge.com/exclusive-an-interview-with-coffee-loving-u-s-soccer-hero-joe-scally-1132449.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
+        "title": "Can coffee shops automate while still retaining the human touch?",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-shops-automation-vs-human-touch/",
+        "source": "Perfect Daily Grind",
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan state lender JBIC's US financing soars as supply chain role grows",
-        "url": "https://asia.nikkei.com/business/finance/japan-state-lender-jbic-s-us-financing-soars-as-supply-chain-role-grows",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Aflac Japan reports breach on 4.38m customers, includes bank details",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/aflac-japan-reports-breach-on-4.38m-customers-includes-bank-details",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China solar panel material JV remains dormant months after launch",
         "url": "https://asia.nikkei.com/business/energy/china-solar-panel-material-jv-remains-dormant-months-after-launch",
@@ -203,9 +185,21 @@
         "url": "https://asia.nikkei.com/business/pharmaceuticals/takeda-and-insilico-strike-ai-led-drug-discovery-deal-worth-up-to-600m",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI's big questions for humanity and Japan's startup mojo",
+        "url": "https://asia.nikkei.com/techasia/ai-s-big-questions-for-humanity-and-japan-s-startup-mojo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "India, Japan sign first defense co-development pact, boost AI, energy ties",
+        "url": "https://asia.nikkei.com/politics/international-relations/india-japan-sign-first-defense-co-development-pact-boost-ai-energy-ties",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,9 +208,9 @@
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
       "direction": "stable",
@@ -230,10 +224,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 18,
-    "region-sea": 17,
+    "region-sea": 16,
     "region-europe": 3,
-    "region-vietnam": 15,
-    "region-global": 27
+    "region-americas": 16,
+    "region-vietnam": 17,
+    "region-global": 28
   }
 }
