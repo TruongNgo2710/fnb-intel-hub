@@ -596,6 +596,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       <div class="sb-item" onclick="filterSrc('theblock',this)"><span class="sb-dot" style="background:#a855f7"></span>The Block<span class="sb-count" id="sc-theblock">0</span></div>
       <div class="sb-item" onclick="filterSrc('momentum',this)"><span class="sb-dot" style="background:#f97316"></span>Momentum Works<span class="sb-count" id="sc-momentum">0</span></div>
       <div class="sb-item" onclick="filterSrc('mckinsey_ai',this)"><span class="sb-dot" style="background:#06b6d4"></span>McKinsey AI<span class="sb-count" id="sc-mckinsey_ai">0</span></div>
+      <div class="sb-item" onclick="filterSrc('anthropic',this)"><span class="sb-dot" style="background:#a855f7"></span>Anthropic<span class="sb-count" id="sc-anthropic">0</span></div>
     </div>
     <div class="sb-divider"></div>
     <div class="sb-section">
@@ -622,6 +623,7 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       <button class="hbtn" onclick="filterHash('macro',this)">#Kinh tế</button>
       <button class="hbtn" onclick="filterHash('fx',this)">#Tỷ giá</button>
       <button class="hbtn" onclick="filterHash('ai',this)">#AI</button>
+      <button class="hbtn" onclick="filterHash('claude',this)" style="color:var(--purple)">#Claude</button>
     </div>
     <div id="articles-list"></div>
   </main>
@@ -645,6 +647,38 @@ body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;fon
       <div class="mkt-row"><span class="mkt-n">USD/VND</span><span class="mkt-v" id="mkt-usd" style="color:var(--green)">--</span><span class="mkt-c flat">live</span></div>
       <div class="mkt-row"><span class="mkt-n">Robusta</span><span class="mkt-v" id="mkt-rob" style="color:var(--amber)">--</span><span class="mkt-c flat">ICE</span></div>
       <div class="mkt-row"><span class="mkt-n">Fear&Greed</span><span class="mkt-v" id="mkt-fg" style="color:var(--text)">--</span><span class="mkt-c flat" id="mkt-fg-lbl">--</span></div>
+    </div>
+    <div class="rs-card">
+      <div class="rs-title">☕ Giá Cà Phê Hôm Nay</div>
+      <div class="mkt-row">
+        <span class="mkt-n">Robusta ICE 🌍</span>
+        <span class="mkt-v" id="cp-rob" style="color:var(--amber)">--</span>
+        <span class="mkt-c flat" id="cp-rob-ch">ICE</span>
+      </div>
+      <div class="mkt-row">
+        <span class="mkt-n">Arabica NY 🇺🇸</span>
+        <span class="mkt-v" id="cp-ara" style="color:var(--green)">--</span>
+        <span class="mkt-c flat">NY</span>
+      </div>
+      <div class="mkt-row" style="border-top:1px solid var(--border);margin-top:6px;padding-top:6px">
+        <span class="mkt-n">Dak Lak 🇻🇳</span>
+        <span class="mkt-v" id="cp-vn" style="color:var(--teal)">--</span>
+        <span class="mkt-c flat">Farm gate</span>
+      </div>
+      <div class="mkt-row">
+        <span class="mkt-n">Xuất khẩu FOB</span>
+        <span class="mkt-v" id="cp-exp" style="color:var(--text2)">--</span>
+        <span class="mkt-c flat">/tấn</span>
+      </div>
+      <div style="margin-top:8px;padding:6px 8px;background:rgba(245,158,11,.06);border:1px solid rgba(245,158,11,.12);border-radius:6px">
+        <div style="font-size:10px;color:var(--text3);margin-bottom:3px">⚡ Biến động 24h</div>
+        <div style="font-size:11px;color:var(--text2)" id="cp-note">Đang lấy dữ liệu...</div>
+      </div>
+    </div>
+    <div class="rs-card" style="border-color:rgba(168,85,247,.15);background:rgba(168,85,247,.03)">
+      <div class="rs-title" style="color:var(--purple)">🧠 Claude Tips hôm nay</div>
+      <div id="claude-tip" style="font-size:12px;color:var(--text2);line-height:1.6"></div>
+      <div style="margin-top:8px;font-size:11px;color:var(--text3)" id="claude-tip-tag"></div>
     </div>
   </aside>
 </div>
@@ -1496,6 +1530,7 @@ const EXPERTS = [
   {id:'mckinsey_ai',name:'McKinsey AI',handle:'@McKinsey',emoji:'🤖',color:'#06b6d4',domain:'ai',bio:'Báo cáo AI & automation cho doanh nghiệp. F&B ops, supply chain, consumer analytics.',sources:['Report','Insight'],tags:['#ai-biz','#automation'],count:87},
   {id:'cb_insights',name:'CB Insights',handle:'@CBinsights',emoji:'🔭',color:'#f97316',domain:'ai',bio:'Intelligence cho startups, F&B tech, foodtech. Funding, M&A, market map.',sources:['Report','Brief'],tags:['#foodtech','#startup'],count:112},
   {id:'nielsen',name:'NielsenIQ VN',handle:'@NielsenIQ',emoji:'🎯',color:'#14b8a6',domain:'ai',bio:'Consumer analytics Việt Nam. F&B shopper behavior, pricing intelligence, category management.',sources:['Report','Data'],tags:['#consumer','#retail'],count:94},
+  {id:'anthropic',name:'Anthropic Claude',handle:'@AnthropicAI',emoji:'🧠',color:'#a855f7',domain:'ai',bio:'Tính năng mới nhất của Claude AI — Opus 4.8, Computer Use, Extended Thinking, Projects, API. Use cases thực tế cho F&B & quản lý chuỗi.',sources:['Docs','Blog'],tags:['#claude','#ai-tools','#fnb-ai'],count:6},
 ];
 
 const ARTICLES = [
@@ -1759,6 +1794,38 @@ const ARTICLES = [
    bullets:['AI accounting tools (MISA, Fast, KiotViet AI) giảm 70% thời gian nhập liệu cho SME VN','Cash flow forecasting AI: độ chính xác 87% trong 30 ngày — giúp quyết định tuyển dụng, nhập hàng','F&B specific: Lightspeed, Toast AI module dự báo doanh thu theo weather, events, day-of-week','Wego roadmap gợi ý: tích hợp POS + AI forecast → tự động order nguyên liệu, schedule staff'],
    tags:['#AIFinance','#CashFlow','#SME'],src:'mckinsey_ai',hash:'ai',
    img:'https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=700&q=80',url:'https://www.mckinsey.com/'},
+
+  // ── Claude & Anthropic AI Updates ────────────────────────
+  {id:51,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'Tính năng mới',bc:'badge-ai',domain:'ai',time:'30 phút trước',isNew:true,isHot:true,isDeep:true,
+   title:'Claude Sonnet 4.6 & Opus 4.8 — tất cả tính năng mới bạn cần biết để kiếm tiền',
+   bullets:['Computer Use: Claude điều khiển máy tính thực tế — tự điền form, tạo báo cáo, làm việc với Excel/Sheets thay bạn','Extended Thinking: phân tích bài toán phức tạp từng bước — tốt cho quyết định đầu tư, pricing strategy','Projects: nhớ context dài hạn qua nhiều session — không phải giải thích lại từ đầu mỗi lần','Cowork Mode: tích hợp trực tiếp với file máy tính, cho phép build dashboard, phân tích dữ liệu từ file Excel'],
+   tags:['#Claude','#Opus4','#Sonnet4'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=700&q=80',url:'https://docs.claude.com/'},
+  {id:52,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'F&B Use Case',bc:'badge-ai',domain:'ai',time:'1 giờ trước',isNew:true,isHot:false,isDeep:true,
+   title:'5 cách dùng Claude để tối ưu vận hành chuỗi cà phê — tiết kiệm 15h/tuần',
+   bullets:['Dùng Claude phân tích doanh thu 7 chi nhánh: paste data vào chat → nhận insight ngay về branch nào underperform và tại sao','Claude viết báo cáo tháng: cung cấp số liệu thô → nhận báo cáo có format, highlight điểm bất thường tự động','Lịch ca làm việc tối ưu: mô tả constraints (ai off, giờ nào bận nhất) → Claude tạo lịch tối ưu hoá nhân sự','Phản hồi mail toà nhà: paste email tiếng Anh → Claude dịch + soạn phản hồi chuyên nghiệp trong 30 giây'],
+   tags:['#ClaudeFnB','#Wego','#Operations'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=700&q=80',url:'https://claude.ai/'},
+  {id:53,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'Đầu tư AI',bc:'badge-ai',domain:'ai',time:'2 giờ trước',isNew:true,isHot:true,isDeep:true,
+   title:'Dùng Claude để phân tích đầu tư: từ crypto đến vàng và cổ phiếu VN',
+   bullets:['Claude đọc và tóm tắt báo cáo PDF dài: paste link hoặc upload → nhận điểm chính trong 10 giây','Phân tích kỹ thuật chart: describe chart pattern cho Claude → nhận phân tích support/resistance, trend signals','So sánh cơ hội đầu tư: "So sánh BTC vs VàngSJC vs VN-Index về risk/return trong 12 tháng" — Claude tổng hợp ngay','Tạo investment thesis: mô tả portfolio mục tiêu → Claude xây dựng luận điểm đầu tư có cơ sở dữ liệu'],
+   tags:['#ClaudeInvest','#Portfolio','#AI'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=700&q=80',url:'https://claude.ai/'},
+  {id:54,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'Tự động hóa',bc:'badge-ai',domain:'ai',time:'3 giờ trước',isNew:false,isHot:false,isDeep:true,
+   title:'Claude API cho SME VN: build chatbot, data pipeline, auto-report không cần dev',
+   bullets:['Claude API ($3/1M token Sonnet) — build chatbot chăm sóc khách hàng chuỗi cà phê với chi phí <500k/tháng','Tool Use: Claude tự gọi API lấy giá, tìm kiếm web, đọc database — không cần viết code logic phức tạp','Batch processing: xử lý 100 review/phản hồi khách hàng cùng lúc — phân loại sentiment, gắn tag tự động','Wego roadmap: chatbot đặt đồ uống + FAQ → tích hợp Zalo OA hoặc website với <100 dòng code'],
+   tags:['#ClaudeAPI','#Chatbot','#Automation'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=700&q=80',url:'https://docs.claude.com/en/docs/build-with-claude/tool-use/overview'},
+  {id:55,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'Kiếm tiền với AI',bc:'badge-ai',domain:'ai',time:'4 giờ trước',isNew:false,isHot:true,isDeep:true,
+   title:'10 cách kiếm tiền với Claude năm 2026 — từ freelance đến build sản phẩm',
+   bullets:['Content creation: viết bài SEO, social media content, email marketing cho các thương hiệu F&B — 500k-2M đ/dự án','Tư vấn AI: giúp SME VN implement AI workflow — 5-15M/ngày consulting fee (đang thiếu cung)','Build AI tools: dùng Claude API tạo SaaS nhỏ (menu optimization, review analyzer) — recurring revenue model','Affiliate & partnership: giới thiệu Claude Pro/Team cho doanh nghiệp VN — commission program của Anthropic'],
+   tags:['#KiếmTiền','#AIBusiness','#Freelance'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=700&q=80',url:'https://www.anthropic.com/'},
+  {id:56,author:'Anthropic',av:'🧠',ac:'#a855f7',sb:'Prompt Guide',bc:'badge-ai',domain:'ai',time:'5 giờ trước',isNew:false,isHot:false,isDeep:true,
+   title:'Prompt engineering cho quản lý F&B: template sẵn dùng cho Wego Coffee',
+   bullets:['Phân tích chi nhánh: "Phân tích dữ liệu doanh thu sau: [data]. Tìm pattern bất thường, so sánh với ngành, đề xuất 3 hành động cụ thể"','Báo cáo cuối tuần: "Tóm tắt tuần làm việc: [bullet points]. Viết email báo cáo cho đối tác toà nhà, tone chuyên nghiệp, tiếng Anh"','Pricing strategy: "Robusta tăng 15%, tôi bán latte 65k, margin 62%. Đề xuất tăng giá không mất khách và không mất margin"','Tuyển dụng: "Soạn JD cho vị trí Barista chuỗi cà phê toà nhà văn phòng, lương 28-30k/h, tone friendly nhưng professional"'],
+   tags:['#PromptGuide','#Claude','#F&B'],src:'anthropic',hash:'claude',
+   img:'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=700&q=80',url:'https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview'},
 ];
 
 const TRENDING = [
@@ -1862,9 +1929,12 @@ function initApp() {
   renderDigest();
   renderExperts();
   renderForum();
+  initClaudeTips();
   loadNewsJson();
+  fetchRSSNews();
   fetchAll();
   setInterval(fetchAll, 300000);
+  setInterval(initClaudeTips, 60000);
   document.addEventListener('keydown', e => {
     if ((e.metaKey||e.ctrlKey) && e.key==='k') {
       e.preventDefault();
@@ -2281,7 +2351,7 @@ function mapSrcFromSource(source, domain) {
 }
 
 function updateSidebarCounts() {
-  const srcIds = ['ico','cafeF','ssi','kitco','glassnode','theblock','momentum','mckinsey_ai'];
+  const srcIds = ['ico','cafeF','ssi','kitco','glassnode','theblock','momentum','mckinsey_ai','anthropic'];
   srcIds.forEach(s => {
     const el = document.getElementById('sc-'+s);
     if (el) el.textContent = allArticles.filter(a=>a.src===s).length;
@@ -2369,20 +2439,69 @@ async function fetchGold() {
   } catch(e){}
 }
 
-async function fetchRobusta() {
-  try {
-    const r=await fetch('https://stooq.com/q/l/?s=rc.f&f=sd2t2ohlcv&h&e=csv',{cache:'no-store'});
-    const t=await r.text();
-    const lines=t.trim().split('\n');
-    if(lines.length>1){
-      const p=parseFloat(lines[1].split(',')[4]);
-      if(!isNaN(p)&&p>0){
-        liveRobustaUsd=p;
-        const s='$'+Math.round(p*22.046).toLocaleString('en-US')+'/T';
-        setP('tk-rob','tk-rob2',s);setE('mkt-rob',s);
+async function fetchStooqCSV(symbol) {
+  const urls = [
+    `https://stooq.com/q/l/?s=${symbol}&f=sd2t2ohlcv&h&e=csv`,
+    `https://api.allorigins.win/raw?url=` + encodeURIComponent(`https://stooq.com/q/l/?s=${symbol}&f=sd2t2ohlcv&h&e=csv`)
+  ];
+  for (const url of urls) {
+    try {
+      const r = await fetch(url, {cache:'no-store'});
+      const t = await r.text();
+      const lines = t.trim().split('\n');
+      if (lines.length > 1) {
+        const cols = lines[1].split(',');
+        const p = parseFloat(cols[4]); // close price
+        const o = parseFloat(cols[2]); // open
+        if (!isNaN(p) && p > 0) return {price:p, open:o, change:o>0?((p-o)/o*100):0};
       }
-    }
-  } catch(e){if(!liveRobustaUsd){setP('tk-rob','tk-rob2','~$4,987/T');setE('mkt-rob','~$4,987/T');}}
+    } catch(e) {}
+  }
+  return null;
+}
+
+async function fetchRobusta() {
+  const data = await fetchStooqCSV('rc.f');
+  if (data) {
+    liveRobustaUsd = data.price;
+    const tonPrice = Math.round(data.price * 22.046);
+    const s = '$' + tonPrice.toLocaleString('en-US') + '/T';
+    setP('tk-rob','tk-rob2',s); setE('mkt-rob',s);
+    updateCoffeePrices(tonPrice, data.change);
+  } else {
+    const fallback = 4820;
+    setP('tk-rob','tk-rob2','~$4,820/T'); setE('mkt-rob','~$4,820/T');
+    updateCoffeePrices(fallback, 0);
+  }
+}
+
+async function fetchArabica() {
+  const data = await fetchStooqCSV('kc.f');
+  if (data) {
+    const s = data.price.toFixed(2) + '¢/lb';
+    const ch = (data.change >= 0 ? '+' : '') + data.change.toFixed(2) + '%';
+    setE('cp-ara', s);
+    const el = document.getElementById('cp-ara');
+    if (el) el.style.color = data.change >= 0 ? 'var(--green)' : 'var(--red)';
+  } else {
+    setE('cp-ara', '~270¢/lb');
+  }
+}
+
+function updateCoffeePrices(robustaUsdTonne, changePercent) {
+  const fx = liveUsdVnd || 25480;
+  const vnKg = Math.round(robustaUsdTonne * fx / 1000);
+  const farmGate = Math.round(vnKg * 0.90); // ~10% discount farm vs export
+  const fobUsd = Math.round(robustaUsdTonne * 1.05); // +5% FOB premium
+  const chSign = changePercent >= 0 ? '▲' : '▼';
+  const chColor = changePercent >= 0 ? '#22c55e' : '#ef4444';
+  setE('cp-rob', '$' + robustaUsdTonne.toLocaleString('en-US') + '/T');
+  setE('cp-rob-ch', (changePercent >= 0?'+':'')+changePercent.toFixed(2)+'%');
+  const robEl = document.getElementById('cp-rob-ch');
+  if(robEl) robEl.style.color = chColor;
+  setE('cp-vn', farmGate.toLocaleString('vi-VN') + ' đ/kg');
+  setE('cp-exp', '$' + fobUsd.toLocaleString('en-US') + '/T');
+  setE('cp-note', `<span style="color:${chColor}">${chSign} ${Math.abs(changePercent).toFixed(2)}% hôm nay</span> · Stooq ICE London · ${new Date().toLocaleTimeString('vi-VN',{hour:'2-digit',minute:'2-digit'})}`);
 }
 
 async function fetchFG() {
@@ -2398,9 +2517,68 @@ async function fetchFG() {
   } catch(e){}
 }
 
+// ══════════════════════════════════════════════════
+// RSS AUTO-FETCH (live news via rss2json proxy)
+// ══════════════════════════════════════════════════
+async function fetchRSSNews() {
+  const RSS_FEEDS = [
+    {url:'https://www.coindesk.com/arc/outboundfeeds/rss/',domain:'crypto',hash:'crypto',src:'coindesk',av:'💎',ac:'#14b8a6',badge:'badge-crypto',sb:'Live News'},
+    {url:'https://cointelegraph.com/rss',domain:'crypto',hash:'crypto',src:'theblock',av:'⛓️',ac:'#a855f7',badge:'badge-crypto',sb:'Live Crypto'},
+    {url:'https://www.kitco.com/rss/news.xml',domain:'gold',hash:'vang',src:'kitco',av:'🥇',ac:'#eab308',badge:'badge-gold',sb:'Kitco Live'},
+  ];
+  for (const feed of RSS_FEEDS) {
+    try {
+      const api = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url) + '&count=5';
+      const r = await fetch(api, {cache:'no-store'});
+      if (!r.ok) continue;
+      const d = await r.json();
+      if (d.status !== 'ok' || !d.items?.length) continue;
+      const newArts = d.items.slice(0,4).map((item,i) => ({
+        id: 3000 + Date.now() % 10000 + i,
+        author: d.feed.title || feed.src,
+        av: feed.av, ac: feed.ac, sb: feed.sb,
+        bc: feed.badge, domain: feed.domain,
+        time: 'Vừa cập nhật 🔴',
+        isNew: true, isHot: false, isDeep: false,
+        title: item.title?.trim() || '',
+        bullets: [(item.description||'').replace(/<[^>]*>/g,'').replace(/\s+/g,' ').trim().slice(0,220) || item.title],
+        tags: ['#Live','#AutoFetch'],
+        src: feed.src, hash: feed.hash,
+        img: item.enclosure?.link || item.thumbnail || `https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=700&q=80`,
+        url: item.link || '',
+        isRSS: true
+      })).filter(a => a.title && !allArticles.some(x=>x.title===a.title));
+      if (newArts.length) {
+        allArticles = [...newArts, ...allArticles];
+        renderArticles();
+        updateSidebarCounts();
+        const cnt = document.getElementById('feed-count');
+        if(cnt) cnt.textContent = allArticles.length + ' bài';
+      }
+    } catch(e) {}
+  }
+}
+
 async function fetchAll() {
   await Promise.allSettled([fetchCrypto(),fetchForex(),fetchRobusta(),fetchFG()]);
   await fetchGold();
+  fetchArabica(); // non-blocking
+}
+
+const CLAUDE_TIPS = [
+  {tip:'Paste doanh thu tuần vào Claude: "Phân tích data này, tìm chi nhánh underperform và đề xuất hành động cụ thể." — nhận insight trong 10 giây.', tag:'💡 Tip: Phân tích doanh thu'},
+  {tip:'Dùng Claude viết email tiếng Anh gia hạn hợp đồng với toà nhà: "Soạn email chuyên nghiệp đề nghị gia hạn 12 tháng, highlight các điểm tốt trong hợp đồng hiện tại."', tag:'📧 Tip: Email toà nhà'},
+  {tip:'Claude giúp tối ưu lịch ca: "Tôi có 3 ca/ngày, 7 nhân viên, cần cover 7h-21h với min 2 người/ca. Tạo lịch tuần tối ưu không ai quá 48h."', tag:'📅 Tip: Lịch ca làm việc'},
+  {tip:'Pricing strategy: "Giá Robusta tăng 15%, margin hiện tại 62%, giá bán latte 65k. Tôi nên tăng giá bao nhiêu để giữ margin mà không mất khách?"', tag:'💰 Tip: Chiến lược giá'},
+  {tip:'Viết JD tuyển dụng: "Soạn job description cho Barista chuỗi cà phê toà nhà văn phòng, 28-30k/h, ưu tiên nghiêm túc, biết pha espresso."', tag:'👥 Tip: Tuyển dụng'},
+  {tip:'Phân tích review: Paste 20 Google Review vào Claude → "Phân tích sentiment, tìm pattern vấn đề lặp lại, đề xuất 3 cải thiện ưu tiên."', tag:'⭐ Tip: Quản lý review'},
+];
+
+function initClaudeTips() {
+  const idx = Math.floor(Math.random() * CLAUDE_TIPS.length);
+  const t = CLAUDE_TIPS[idx];
+  setE('claude-tip', t.tip);
+  setE('claude-tip-tag', t.tag);
 }
 
 // ══════════════════════════════════════════════════
