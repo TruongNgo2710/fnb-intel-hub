@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-02T03:48:16.932192+00:00",
+  "updated": "2026-07-02T07:37:19.611686+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 22,
+      "count": 41,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 11,
+      "count": 17,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -28,15 +28,15 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 5,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -107,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 19,
     "negative": 5,
-    "neutral": 55,
-    "score": 19,
+    "neutral": 56,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -147,32 +147,32 @@
         "title": "Royal Coffee Begins Issuing IEEPA Tariff Credits As CBP Returns Duties To Importers",
         "url": "https://sprudge.com/royal-coffee-begins-issuing-ieepa-tariff-credits-as-cbp-returns-duties-to-importers-1138876.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Starbucks is ‘Actively Reassessing’ a Key Climate Pledge Amid Other Sustainability Milestones",
         "url": "https://dailycoffeenews.com/2026/07/01/starbucks-is-actively-reassessing-a-key-climate-pledge-amid-other-sustainability-milestones/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "A Podcast About Coffee Featuring Decaf, Lavender, And Lovely New Cafes",
         "url": "https://sprudge.com/a-podcast-about-coffee-featuring-decaf-lavender-and-lovely-new-cafes-1132163.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Exclusive! An Interview With Coffee-Loving U.S. Soccer Hero Joe Scally",
         "url": "https://sprudge.com/exclusive-an-interview-with-coffee-loving-u-s-soccer-hero-joe-scally-1132449.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Kawasaki Heavy to raise over $1bn via new shares, bonds for AI investment",
@@ -205,7 +205,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,9 +219,9 @@
       "signal": "➡️ Ổn định"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -233,7 +233,7 @@
     "region-sea": 17,
     "region-europe": 3,
     "region-americas": 17,
-    "region-vietnam": 16,
-    "region-global": 27
+    "region-vietnam": 15,
+    "region-global": 28
   }
 }
