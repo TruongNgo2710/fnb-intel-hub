@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-02T14:08:04.502440+00:00",
+  "updated": "2026-07-02T17:52:48.167277+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 52,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 27,
+      "count": 39,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 14,
+      "count": 15,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 14,
-      "count_24h": 10,
+      "count": 13,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -36,14 +36,7 @@
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -52,6 +45,13 @@
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -66,6 +66,13 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -78,8 +85,8 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
@@ -101,16 +108,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 3,
+    "positive": 23,
+    "negative": 2,
     "neutral": 55,
-    "score": 24,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -126,9 +133,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 15,
+    "total_articles": 14,
     "price_direction": "up",
-    "price_up_signals": 1,
+    "price_up_signals": 2,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -138,42 +145,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
+        "url": "https://vnexpress.net/cac-nuoc-thu-tien-ban-quyen-am-nhac-tu-quan-ca-phe-nha-hang-khac-viet-nam-ra-sao-5091838.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "50 phút trước"
+      },
+      {
+        "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
+        "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI",
         "url": "https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html",
         "source": "Sprudge Coffee",
-        "time": "4 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "Muvna Takes a Mammoth Step into Modular Grinding",
         "url": "https://dailycoffeenews.com/2026/07/02/muvna-takes-a-mammoth-step-into-modular-grinding/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Is This The Coolest Custom La Marzocco Linea Ever?",
-        "url": "https://sprudge.com/is-this-the-coolest-custom-la-marzocco-linea-ever-1138051.html",
-        "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Can coffee shops automate while still retaining the human touch?",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-shops-automation-vs-human-touch/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "China solar panel material JV remains dormant months after launch",
-        "url": "https://asia.nikkei.com/business/energy/china-solar-panel-material-jv-remains-dormant-months-after-launch",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Apple to launch 5 new iPhone models to gain market share amid memory crunch",
         "url": "https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch",
@@ -193,19 +194,25 @@
         "time": "0 phút trước"
       },
       {
-        "title": "India, Japan sign first defense co-development pact, boost AI, energy ties",
-        "url": "https://asia.nikkei.com/politics/international-relations/india-japan-sign-first-defense-co-development-pact-boost-ai-energy-ties",
+        "title": "Sumitomo-backed Phoenix Tailings taps Asia to strengthen US rare-earth ambitions",
+        "url": "https://asia.nikkei.com/business/markets/commodities/sumitomo-backed-phoenix-tailings-taps-asia-to-strengthen-us-rare-earth-ambitions",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "India, Japan unveil 1st defense codevelopment pact, boost AI, energy ties",
+        "url": "https://asia.nikkei.com/politics/international-relations/india-japan-unveil-1st-defense-codevelopment-pact-boost-ai-energy-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "count": 3,
+      "signal": "⬆️ Tăng (2 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -226,8 +233,8 @@
   "regional_breakdown": {
     "region-sea": 16,
     "region-europe": 3,
-    "region-americas": 16,
-    "region-vietnam": 17,
-    "region-global": 28
+    "region-americas": 18,
+    "region-vietnam": 16,
+    "region-global": 27
   }
 }
