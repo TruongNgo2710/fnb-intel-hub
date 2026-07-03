@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-03T14:12:23.555576+00:00",
+  "updated": "2026-07-03T17:30:00.737211+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 46,
+  "articles_24h": 40,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 21,
+      "count": 42,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 5,
+      "count": 19,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 5,
+      "count": 11,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -42,16 +42,16 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -70,15 +70,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -91,6 +91,12 @@
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-illy",
+      "name": "brand-illy",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -107,28 +113,24 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 20,
     "negative": 3,
-    "neutral": 55,
-    "score": 24,
+    "neutral": 57,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 41
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "claude",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 16,
+    "total_articles": 20,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -140,28 +142,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Illycaffè Taps Westrock for North American Production Push",
+        "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
         "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
+      },
+      {
+        "title": "Coffee News Recap, 3 Jul: New World Coffee Champs crowned in Brussels, arabica prices see largest gains in four years & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "5 giờ trước"
       },
       {
         "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
         "url": "https://vnexpress.net/cac-nuoc-thu-tien-ban-quyen-am-nhac-tu-quan-ca-phe-nha-hang-khac-viet-nam-ra-sao-5091838.html",
         "source": "VnExpress Kinh doanh",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
-        "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
-        "source": "Daily Coffee News",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Menu Tracker: New items from Red Lobster, Starbucks, and Wingstop",
-        "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-red-lobster-starbucks-and-wingstop",
-        "source": "Nation's Restaurant News",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -226,10 +228,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-vietnam": 18,
+    "region-vietnam": 17,
+    "region-sea": 17,
     "region-europe": 2,
-    "region-global": 27,
-    "region-americas": 17
+    "region-americas": 18,
+    "region-global": 26
   }
 }
