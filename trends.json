@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T17:30:00.737211+00:00",
+  "updated": "2026-07-03T21:12:01.132547+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 40,
@@ -7,28 +7,28 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 17,
+      "count": 41,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 19,
+      "count": 17,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
+      "count": 15,
       "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
+      "count": 10,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -70,15 +70,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -113,24 +113,28 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 3,
+    "positive": 21,
+    "negative": 2,
     "neutral": 57,
-    "score": 21,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 40
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 20,
+    "total_articles": 18,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -145,19 +149,19 @@
         "title": "Illycaffè Taps Westrock for North American Production Push",
         "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
         "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Coffee News Recap, 3 Jul: New World Coffee Champs crowned in Brussels, arabica prices see largest gains in four years & other stories",
         "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/",
         "source": "Perfect Daily Grind",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
@@ -170,26 +174,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Singapore Airlines, Vietnam Airlines add Europe flights",
-        "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-vietnam-airlines-add-europe-flights",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's push east of Taiwan tests Japan-Philippines deterrence",
-        "url": "https://asia.nikkei.com/opinion/china-s-push-east-of-taiwan-tests-japan-philippines-deterrence",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan eyes AI-powered comeback in factory robot race with China, Europe",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-ai-powered-comeback-in-factory-robot-race-with-china-europe",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan aims to ignite 'animal spirits' with $2.3tn plan",
         "url": "https://asia.nikkei.com/economy/japan-aims-to-ignite-animal-spirits-with-2.3tn-plan",
@@ -201,9 +187,27 @@
         "url": "https://asia.nikkei.com/life-arts/obituaries/hong-kong-bookseller-lam-wing-kee-once-detained-by-china-dies-in-taipei",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to launch direct express between Haneda and Narita airports",
+        "url": "https://asia.nikkei.com/business/transportation/japan-to-launch-direct-express-between-haneda-and-narita-airports",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Being true to both identity and work is a challenge, says Jain",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/being-true-to-both-identity-and-work-is-a-challenge-says-jain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -228,10 +232,10 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 17,
-    "region-sea": 17,
-    "region-europe": 2,
-    "region-americas": 18,
-    "region-global": 26
+    "region-sea": 19,
+    "region-vietnam": 15,
+    "region-americas": 19,
+    "region-global": 26,
+    "region-europe": 1
   }
 }
