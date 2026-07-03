@@ -1,43 +1,43 @@
 {
-  "updated": "2026-07-03T10:40:32.399292+00:00",
+  "updated": "2026-07-03T14:12:23.555576+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 46,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 23,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 10,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
+      "count": 15,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 7,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
@@ -121,10 +121,14 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 15,
+    "total_articles": 16,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -136,28 +140,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
+        "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
         "url": "https://vnexpress.net/cac-nuoc-thu-tien-ban-quyen-am-nhac-tu-quan-ca-phe-nha-hang-khac-viet-nam-ra-sao-5091838.html",
         "source": "VnExpress Kinh doanh",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
         "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Red Lobster, Starbucks, and Wingstop",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-red-lobster-starbucks-and-wingstop",
         "source": "Nation's Restaurant News",
-        "time": "19 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI",
-        "url": "https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "22 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -223,9 +227,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-vietnam": 19,
+    "region-vietnam": 18,
     "region-europe": 2,
-    "region-americas": 17,
-    "region-global": 26
+    "region-global": 27,
+    "region-americas": 17
   }
 }
