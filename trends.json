@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-03T03:29:18.836430+00:00",
+  "updated": "2026-07-03T07:24:53.628982+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 24,
+      "count": 39,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -114,16 +114,16 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 22,
     "negative": 3,
-    "neutral": 54,
-    "score": 25,
+    "neutral": 55,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -146,45 +146,33 @@
         "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
         "url": "https://vnexpress.net/cac-nuoc-thu-tien-ban-quyen-am-nhac-tu-quan-ca-phe-nha-hang-khac-viet-nam-ra-sao-5091838.html",
         "source": "VnExpress Kinh doanh",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
         "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Red Lobster, Starbucks, and Wingstop",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-red-lobster-starbucks-and-wingstop",
         "source": "Nation's Restaurant News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Hala Tree Coffee In Honolulu, HI",
         "url": "https://sprudge.com/build-outs-of-coffee-hala-tree-coffee-in-honolulu-hi-1026543.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "India, Japan unveil 1st defense codevelopment pact, boost AI, energy ties",
-        "url": "https://asia.nikkei.com/politics/international-relations/india-japan-unveil-1st-defense-codevelopment-pact-boost-ai-energy-ties",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Asahi Kasei to build Taiwan processing plant for AI chip material",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/asahi-kasei-to-build-taiwan-processing-plant-for-ai-chip-material",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Singapore Airlines, Vietnam Airlines add Europe flights",
         "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-vietnam-airlines-add-europe-flights",
@@ -202,9 +190,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-eyes-ai-powered-comeback-in-factory-robot-race-with-china-europe",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan aims to ignite 'animal spirits' with $2.3tn plan",
+        "url": "https://asia.nikkei.com/economy/japan-aims-to-ignite-animal-spirits-with-2.3tn-plan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hong Kong bookseller Lam Wing-kee, once detained by China, dies in Taipei",
+        "url": "https://asia.nikkei.com/life-arts/obituaries/hong-kong-bookseller-lam-wing-kee-once-detained-by-china-dies-in-taipei",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +218,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
