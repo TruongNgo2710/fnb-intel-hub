@@ -1,42 +1,42 @@
 {
-  "updated": "2026-07-04T13:39:40.610273+00:00",
+  "updated": "2026-07-04T17:10:38.966450+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 11,
+      "count": 41,
+      "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 15,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 2,
+      "count": 14,
+      "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 6,
-      "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -72,13 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -114,9 +114,9 @@
   ],
   "sentiment": {
     "positive": 21,
-    "negative": 3,
-    "neutral": 56,
-    "score": 22,
+    "negative": 2,
+    "neutral": 57,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -125,16 +125,16 @@
       "count": 39
     },
     {
-      "word": "gọi vốn",
-      "count": 3
+      "word": "claude",
+      "count": 4
     },
     {
-      "word": "claude",
+      "word": "gọi vốn",
       "count": 3
     }
   ],
   "coffee_trends": {
-    "total_articles": 16,
+    "total_articles": 15,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -149,7 +149,7 @@
         "title": "Illycaffè Taps Westrock for North American Production Push",
         "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
         "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
@@ -161,20 +161,20 @@
         "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
         "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Menu Tracker: New items from Red Lobster, Starbucks, and Wingstop",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-red-lobster-starbucks-and-wingstop",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 42,
     "top_articles": [
       {
         "title": "Being true to both identity and work is a challenge, says Jain",
@@ -207,7 +207,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
