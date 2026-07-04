@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-04T17:10:38.966450+00:00",
+  "updated": "2026-07-04T21:01:49.587142+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 12,
+      "count": 42,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -42,7 +42,7 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 3,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -59,13 +59,6 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -88,12 +81,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-illy",
       "name": "brand-illy",
       "count": 1,
@@ -102,6 +89,12 @@
     {
       "tag": "brand-bluebottle",
       "name": "brand-bluebottle",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     },
@@ -122,7 +115,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 40
     },
     {
       "word": "claude",
@@ -174,7 +167,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Being true to both identity and work is a challenge, says Jain",
@@ -195,19 +188,19 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Japan's MinebeaMitsumi to boost bearings output for AI data centers",
+        "url": "https://asia.nikkei.com/business/electronics/japan-s-minebeamitsumi-to-boost-bearings-output-for-ai-data-centers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
-        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
