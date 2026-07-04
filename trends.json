@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-04T03:22:24.655197+00:00",
+  "updated": "2026-07-04T06:51:18.093800+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 12,
+      "count": 38,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 15,
+      "count": 16,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -22,7 +22,7 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -56,8 +56,8 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 2,
-      "count_24h": 2,
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -122,7 +122,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -134,7 +134,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 16,
+    "total_articles": 17,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -149,13 +149,13 @@
         "title": "Illycaffè Taps Westrock for North American Production Push",
         "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
         "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Các nước thu tiền bản quyền âm nhạc từ quán cà phê, nhà hàng khác Việt Nam ra sao?",
@@ -174,14 +174,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 39,
     "top_articles": [
-      {
-        "title": "Japan to launch direct express between Haneda and Narita airports",
-        "url": "https://asia.nikkei.com/business/transportation/japan-to-launch-direct-express-between-haneda-and-narita-airports",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Being true to both identity and work is a challenge, says Jain",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/being-true-to-both-identity-and-work-is-a-challenge-says-jain",
@@ -205,9 +199,15 @@
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Đề xuất công ty khởi nghiệp chưa có lãi vẫn được niêm yết",
+        "url": "https://vnexpress.net/de-xuat-cong-ty-khoi-nghiep-chua-co-lai-van-duoc-niem-yet-5093242.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "4 giờ trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -232,10 +232,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 21,
-    "region-vietnam": 15,
-    "region-global": 26,
+    "region-sea": 16,
+    "region-americas": 22,
+    "region-vietnam": 14,
+    "region-global": 27,
     "region-europe": 1
   }
 }
