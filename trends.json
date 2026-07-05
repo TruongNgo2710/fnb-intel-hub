@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T03:38:50.717972+00:00",
+  "updated": "2026-07-05T07:28:53.257295+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 34,
@@ -7,16 +7,9 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 13,
+      "count": 43,
+      "count_24h": 12,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-funding",
@@ -26,9 +19,16 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 14,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -49,7 +49,7 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -97,19 +97,25 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 22,
     "negative": 2,
-    "neutral": 57,
-    "score": 24,
+    "neutral": 56,
+    "score": 25,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 41
     },
     {
       "word": "claude",
@@ -121,7 +127,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 16,
+    "total_articles": 15,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -145,15 +151,15 @@
         "time": "1 ngày trước"
       },
       {
-        "title": "Coffee News Recap, 3 Jul: New World Coffee Champs crowned in Brussels, arabica prices see largest gains in four years & other stories",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "1 ngày trước"
-      },
-      {
         "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
         "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
         "source": "Daily Coffee News",
+        "time": "2 ngày trước"
+      },
+      {
+        "title": "Menu Tracker: New items from Red Lobster, Starbucks, and Wingstop",
+        "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-red-lobster-starbucks-and-wingstop",
+        "source": "Nation's Restaurant News",
         "time": "2 ngày trước"
       }
     ],
@@ -161,14 +167,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Being true to both identity and work is a challenge, says Jain",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/being-true-to-both-identity-and-work-is-a-challenge-says-jain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan eyes language, manners training as factor in residency permits",
         "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-eyes-language-manners-training-as-factor-in-residency-permits",
@@ -192,9 +192,15 @@
         "url": "https://asia.nikkei.com/business/media-entertainment/how-sony-s-playstation-disc-phaseout-resets-gaming-value-chain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI investors shouldn't choose between Wall Street and Asia",
+        "url": "https://asia.nikkei.com/opinion/ai-investors-shouldn-t-choose-between-wall-street-and-asia",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,8 +225,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 21,
+    "region-sea": 16,
+    "region-americas": 22,
     "region-vietnam": 12,
     "region-global": 29,
     "region-europe": 1
