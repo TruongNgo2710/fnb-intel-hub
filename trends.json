@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-05T10:18:09.958910+00:00",
+  "updated": "2026-07-05T13:46:09.395416+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 12,
+      "count": 42,
+      "count_24h": 11,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 14,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -36,8 +36,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 6,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -49,7 +49,7 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -97,19 +97,25 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 2,
-    "neutral": 57,
+    "positive": 22,
+    "negative": 3,
+    "neutral": 55,
     "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 40
     },
     {
       "word": "claude",
@@ -121,7 +127,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 16,
+    "total_articles": 15,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -133,6 +139,12 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Life Is Like A Curated Selection Of Coffees, You Never Know What You’re Going To Get",
+        "url": "https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Illycaffè Taps Westrock for North American Production Push",
         "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
         "source": "Daily Coffee News",
@@ -142,13 +154,7 @@
         "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
         "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Coffee News Recap, 3 Jul: New World Coffee Champs crowned in Brussels, arabica prices see largest gains in four years & other stories",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
@@ -161,7 +167,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Japan eyes language, manners training as factor in residency permits",
@@ -194,7 +200,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,10 +225,10 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 15,
     "region-americas": 21,
-    "region-sea": 16,
     "region-europe": 2,
     "region-vietnam": 12,
-    "region-global": 29
+    "region-global": 30
   }
 }
