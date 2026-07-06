@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-06T08:25:15.398177+00:00",
+  "updated": "2026-07-06T15:39:56.618788+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -12,24 +12,24 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 16,
-      "count_24h": 3,
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 17,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
       "count": 15,
-      "count_24h": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -40,18 +40,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 3,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -108,9 +108,9 @@
   ],
   "sentiment": {
     "positive": 20,
-    "negative": 5,
-    "neutral": 55,
-    "score": 19,
+    "negative": 7,
+    "neutral": 53,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -125,13 +125,17 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "specialty",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 17,
+    "total_articles": 15,
     "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -140,54 +144,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Exploring the Rise (and Measured Drops) of Single-Dose Coffee Dispensers",
+        "url": "https://dailycoffeenews.com/2026/07/06/exploring-the-rise-and-measured-drops-of-single-dose-coffee-dispensers/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Competitors are putting emerging specialty coffee markets on the map",
         "url": "https://perfectdailygrind.com/2026/07/barista-competitors-emerging-specialty-coffee-markets/",
         "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Life Is Like A Curated Selection Of Coffees, You Never Know What You’re Going To Get",
         "url": "https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html",
         "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Illycaffè Taps Westrock for North American Production Push",
         "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
         "source": "Daily Coffee News",
-        "time": "2 ngày trước"
-      },
-      {
-        "title": "Weekly Coffee News: Tariff Credits + Growing Coffee in Sicily",
-        "url": "https://dailycoffeenews.com/2026/07/03/weekly-coffee-news-tariff-credits-growing-coffee-in-sicily/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
+        "time": "3 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "A new European security architecture is needed to end war in Ukraine",
-        "url": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan's wealth flows into Japan real estate as mainland Chinese retreat",
-        "url": "https://asia.nikkei.com/business/markets/trading-asia/taiwan-s-wealth-flows-into-japan-real-estate-as-mainland-chinese-retreat",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan AI chip startup taps Malaysia's Oppstar to gear up for production",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-ai-chip-startup-taps-malaysia-s-oppstar-to-gear-up-for-production",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's sea patrols and lawfare tighten 'all fronts' squeeze on Taiwan",
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-sea-patrols-and-lawfare-tighten-all-fronts-squeeze-on-taiwan",
@@ -199,9 +185,27 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-leading-chatbots-to-ditch-ai-personas-as-beijing-tightens-rules",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ukraine pushes civil drone drive with Japan and Taiwan",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-pushes-civil-drone-drive-with-japan-and-taiwan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,15 +225,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-europe": 4,
-    "region-americas": 16,
-    "region-vietnam": 11,
-    "region-global": 31
+    "region-sea": 20,
+    "region-vietnam": 13,
+    "region-global": 32,
+    "region-americas": 13,
+    "region-europe": 2
   }
 }
