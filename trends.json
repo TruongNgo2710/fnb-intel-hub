@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-05T21:05:07.702721+00:00",
+  "updated": "2026-07-06T03:45:35.719528+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 31,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 43,
-      "count_24h": 9,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 16,
+      "count": 14,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 5,
+      "count": 14,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -101,10 +101,10 @@
   ],
   "sentiment": {
     "positive": 20,
-    "negative": 3,
-    "neutral": 57,
-    "score": 21,
-    "label": "Tích cực"
+    "negative": 4,
+    "neutral": 56,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
@@ -121,7 +121,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 17,
+    "total_articles": 15,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -136,7 +136,7 @@
         "title": "Life Is Like A Curated Selection Of Coffees, You Never Know What You’re Going To Get",
         "url": "https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Illycaffè Taps Westrock for North American Production Push",
@@ -151,10 +151,10 @@
         "time": "2 ngày trước"
       },
       {
-        "title": "Coffee News Recap, 3 Jul: New World Coffee Champs crowned in Brussels, arabica prices see largest gains in four years & other stories",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-3-july-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "2 ngày trước"
+        "title": "Inside the 2026 Coffee Barometer, Part 1: Prices Swing, Structures Don’t",
+        "url": "https://dailycoffeenews.com/2026/07/02/inside-the-coffee-barometer-part-1-prices-swing-structures-dont/",
+        "source": "Daily Coffee News",
+        "time": "3 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -208,9 +208,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -219,10 +219,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
     "region-americas": 21,
+    "region-sea": 15,
     "region-europe": 3,
-    "region-vietnam": 11,
-    "region-global": 30
+    "region-vietnam": 12,
+    "region-global": 29
   }
 }
