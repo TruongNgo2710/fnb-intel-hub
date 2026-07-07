@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-07T18:03:47.260258+00:00",
+  "updated": "2026-07-07T21:28:36.823140+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 26,
+      "count": 43,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
+      "count": 13,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -50,28 +50,28 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -83,19 +83,15 @@
   ],
   "sentiment": {
     "positive": 23,
-    "negative": 7,
-    "neutral": 50,
-    "score": 20,
+    "negative": 8,
+    "neutral": 49,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
-    },
-    {
-      "word": "claude",
-      "count": 4
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -103,15 +99,15 @@
     },
     {
       "word": "specialty",
-      "count": 2
+      "count": 3
     },
     {
-      "word": "funding",
+      "word": "claude",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -123,35 +119,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Canadian chain D-Spot Dessert Café to open first U.S. location",
+        "url": "https://www.nrn.com/emerging-chains/canadian-chain-d-spot-dessert-caf-to-open-first-u-s-location",
+        "source": "Nation's Restaurant News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "As Brazil’s Coffee Climate Shifts, Small Farmers Seek New Ways to Survive",
         "url": "https://dailycoffeenews.com/2026/07/07/as-brazils-coffee-climate-shifts-small-farmers-seek-new-ways-to-survive/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Lekko Coffee Finds Room to Grow in New Cleveland Roastery",
         "url": "https://dailycoffeenews.com/2026/07/07/lekko-coffee-finds-room-to-grow-in-new-cleveland-roastery/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Emily Potter: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "German Coffee Trader Rehm & Co. Now Part of Sucafina Group",
-        "url": "https://dailycoffeenews.com/2026/07/07/german-coffee-trader-rehm-co-now-part-of-sucafina-group/",
-        "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
       {
         "title": "Japan's blockchain-based security tokens to open to foreign investors",
@@ -184,7 +180,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +205,10 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 16,
-    "region-americas": 20,
-    "region-sea": 16,
-    "region-global": 26,
+    "region-sea": 18,
+    "region-americas": 21,
+    "region-vietnam": 14,
+    "region-global": 25,
     "region-europe": 2
   }
 }
