@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-07T11:11:26.927480+00:00",
+  "updated": "2026-07-07T14:41:53.451052+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 54,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
+      "count": 44,
       "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 16,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 9,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -79,31 +79,19 @@
       "name": "brand-illy",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-bluebottle",
-      "name": "brand-bluebottle",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 21,
     "negative": 7,
-    "neutral": 53,
-    "score": 16,
+    "neutral": 52,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -116,10 +104,14 @@
     {
       "word": "specialty",
       "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 9,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -131,27 +123,27 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Global Coffee Awards crown the best roasters in MENA",
-        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-mena/",
-        "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "title": "Emily Potter: The Sprudge Twenty Interview",
+        "url": "https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html",
+        "source": "Sprudge Coffee",
+        "time": "39 phút trước"
       },
       {
-        "title": "Global Coffee Awards announce the best roasters in Africa",
-        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-africa/",
-        "source": "Perfect Daily Grind",
+        "title": "German Coffee Trader Rehm & Co. Now Part of Sucafina Group",
+        "url": "https://dailycoffeenews.com/2026/07/07/german-coffee-trader-rehm-co-now-part-of-sucafina-group/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "New Study Finds That Your Espresso Shots May Be Caving To Pressure",
+        "url": "https://sprudge.com/new-study-finds-that-your-espresso-shots-may-be-caving-to-pressure-1127780.html",
+        "source": "Sprudge Coffee",
         "time": "2 giờ trước"
       },
       {
         "title": "Exploring the Rise (and Measured Drops) of Single-Dose Coffee Dispensers",
         "url": "https://dailycoffeenews.com/2026/07/06/exploring-the-rise-and-measured-drops-of-single-dose-coffee-dispensers/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Competitors are putting emerging specialty coffee markets on the map",
-        "url": "https://perfectdailygrind.com/2026/07/barista-competitors-emerging-specialty-coffee-markets/",
-        "source": "Perfect Daily Grind",
         "time": "1 ngày trước"
       }
     ],
@@ -159,14 +151,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Japan weighs AI-powered disaster relief distribution",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-weighs-ai-powered-disaster-relief-distribution",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Can FIFA make Lenovo an AI heavyweight?",
         "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/can-fifa-make-lenovo-an-ai-heavyweight",
@@ -190,9 +176,15 @@
         "url": "https://asia.nikkei.com/business/finance/japan-s-blockchain-based-security-tokens-to-open-to-foreign-investors",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesia and India sign deals on supersonic, air-to-air missiles",
+        "url": "https://asia.nikkei.com/politics/defense/indonesia-and-india-sign-deals-on-supersonic-air-to-air-missiles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 16,
+    "region-sea": 16,
+    "region-americas": 17,
     "region-vietnam": 15,
     "region-global": 30,
-    "region-europe": 1
+    "region-europe": 2
   }
 }
