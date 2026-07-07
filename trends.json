@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-07T07:43:34.232179+00:00",
+  "updated": "2026-07-07T11:11:26.927480+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 54,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 22,
+      "count": 45,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 11,
+      "count": 15,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 11,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
       "tag": "topic-price",
@@ -65,14 +65,14 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-illy",
@@ -94,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 20,
     "negative": 7,
-    "neutral": 51,
-    "score": 19,
+    "neutral": 53,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -119,7 +119,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -131,48 +131,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Global Coffee Awards crown the best roasters in MENA",
+        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-mena/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Global Coffee Awards announce the best roasters in Africa",
+        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-africa/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Exploring the Rise (and Measured Drops) of Single-Dose Coffee Dispensers",
         "url": "https://dailycoffeenews.com/2026/07/06/exploring-the-rise-and-measured-drops-of-single-dose-coffee-dispensers/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Competitors are putting emerging specialty coffee markets on the map",
         "url": "https://perfectdailygrind.com/2026/07/barista-competitors-emerging-specialty-coffee-markets/",
         "source": "Perfect Daily Grind",
         "time": "1 ngày trước"
-      },
-      {
-        "title": "Life Is Like A Curated Selection Of Coffees, You Never Know What You’re Going To Get",
-        "url": "https://sprudge.com/life-is-like-a-curated-selection-of-coffees-you-never-know-what-youre-going-to-get-1141522.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Illycaffè Taps Westrock for North American Production Push",
-        "url": "https://dailycoffeenews.com/2026/07/03/illycaffe-taps-westrock-for-north-american-production-push/",
-        "source": "Daily Coffee News",
-        "time": "3 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Taiwan's biopharma sector steps into spotlight with rush of IPOs",
-        "url": "https://asia.nikkei.com/business/biotechnology/taiwan-s-biopharma-sector-steps-into-spotlight-with-rush-of-ipos",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan attracts young Indian researchers to collaborate on AI, chemistry",
-        "url": "https://asia.nikkei.com/business/science/japan-attracts-young-indian-researchers-to-collaborate-on-ai-chemistry",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan weighs AI-powered disaster relief distribution",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-weighs-ai-powered-disaster-relief-distribution",
@@ -190,9 +178,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/can-china-and-us-find-common-ground-on-ai-governance-in-geneva",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan ultra-fast maglev train project advances on key construction approval",
+        "url": "https://asia.nikkei.com/business/transportation/japan-ultra-fast-maglev-train-project-advances-on-key-construction-approval",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's blockchain-based security tokens to open to foreign investors",
+        "url": "https://asia.nikkei.com/business/finance/japan-s-blockchain-based-security-tokens-to-open-to-foreign-investors",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -206,21 +206,21 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 15,
-    "region-vietnam": 16,
-    "region-global": 29,
-    "region-europe": 2
+    "region-americas": 16,
+    "region-vietnam": 15,
+    "region-global": 30,
+    "region-europe": 1
   }
 }
