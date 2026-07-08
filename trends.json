@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-08T02:52:58.745790+00:00",
+  "updated": "2026-07-08T06:32:05.546736+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 32,
+      "count": 43,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -43,7 +43,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -59,6 +59,13 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -91,7 +98,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -118,39 +125,33 @@
         "title": "Canadian chain D-Spot Dessert Café to open first U.S. location",
         "url": "https://www.nrn.com/emerging-chains/canadian-chain-d-spot-dessert-caf-to-open-first-u-s-location",
         "source": "Nation's Restaurant News",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "As Brazil’s Coffee Climate Shifts, Small Farmers Seek New Ways to Survive",
         "url": "https://dailycoffeenews.com/2026/07/07/as-brazils-coffee-climate-shifts-small-farmers-seek-new-ways-to-survive/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Lekko Coffee Finds Room to Grow in New Cleveland Roastery",
         "url": "https://dailycoffeenews.com/2026/07/07/lekko-coffee-finds-room-to-grow-in-new-cleveland-roastery/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Emily Potter: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Assault on Japan journalist may have link to China unity law: Taiwan VP",
-        "url": "https://asia.nikkei.com/politics/international-relations/assault-on-japan-journalist-may-have-link-to-china-unity-law-taiwan-vp",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Bridgestone's airless tires hit streets of Japan after nearly 2 decades",
         "url": "https://asia.nikkei.com/business/automobiles/bridgestone-s-airless-tires-hit-streets-of-japan-after-nearly-2-decades",
@@ -174,9 +175,15 @@
         "url": "https://asia.nikkei.com/business/companies/japan-s-mufg-bank-to-tap-ai-satellite-images-for-collateral-appraisals",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Why CPUs are now at the center of the AI race",
+        "url": "https://asia.nikkei.com/business/technology/tech-asia/why-cpus-are-now-at-the-center-of-the-ai-race",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -201,8 +208,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 21,
+    "region-americas": 20,
+    "region-sea": 18,
     "region-vietnam": 16,
     "region-global": 24,
     "region-europe": 2
