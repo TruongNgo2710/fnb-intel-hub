@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-07T21:28:36.823140+00:00",
+  "updated": "2026-07-08T02:52:58.745790+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 33,
+      "count": 44,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 14,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 9,
       "count_24h": 9,
       "trend": "hot"
     },
@@ -29,14 +29,14 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -82,23 +82,19 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 8,
-    "neutral": 49,
-    "score": 19,
+    "positive": 25,
+    "negative": 9,
+    "neutral": 46,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "gọi vốn",
-      "count": 3
-    },
-    {
-      "word": "specialty",
       "count": 3
     },
     {
@@ -107,10 +103,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "stable",
+    "total_articles": 9,
+    "price_direction": "up",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -122,45 +118,33 @@
         "title": "Canadian chain D-Spot Dessert Café to open first U.S. location",
         "url": "https://www.nrn.com/emerging-chains/canadian-chain-d-spot-dessert-caf-to-open-first-u-s-location",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "As Brazil’s Coffee Climate Shifts, Small Farmers Seek New Ways to Survive",
         "url": "https://dailycoffeenews.com/2026/07/07/as-brazils-coffee-climate-shifts-small-farmers-seek-new-ways-to-survive/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Lekko Coffee Finds Room to Grow in New Cleveland Roastery",
         "url": "https://dailycoffeenews.com/2026/07/07/lekko-coffee-finds-room-to-grow-in-new-cleveland-roastery/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Emily Potter: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/emily-potter-the-sprudge-twenty-interview-1128140.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Japan's blockchain-based security tokens to open to foreign investors",
-        "url": "https://asia.nikkei.com/business/finance/japan-s-blockchain-based-security-tokens-to-open-to-foreign-investors",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Indonesia and India sign deals on supersonic, air-to-air missiles",
-        "url": "https://asia.nikkei.com/politics/defense/indonesia-and-india-sign-deals-on-supersonic-air-to-air-missiles",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Assault on Japan journalist may have link to China unity law: Taiwan VP",
         "url": "https://asia.nikkei.com/politics/international-relations/assault-on-japan-journalist-may-have-link-to-china-unity-law-taiwan-vp",
@@ -178,9 +162,21 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/kioxia-of-today-wouldn-t-exist-under-toshiba-bain-dealmaker-says",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Spent fuel emerges as weak point in Japan's nuclear renaissance",
+        "url": "https://asia.nikkei.com/business/energy/spent-fuel-emerges-as-weak-point-in-japan-s-nuclear-renaissance",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's MUFG Bank to tap AI, satellite images for collateral appraisals",
+        "url": "https://asia.nikkei.com/business/companies/japan-s-mufg-bank-to-tap-ai-satellite-images-for-collateral-appraisals",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,10 +201,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
+    "region-sea": 17,
     "region-americas": 21,
-    "region-vietnam": 14,
-    "region-global": 25,
+    "region-vietnam": 16,
+    "region-global": 24,
     "region-europe": 2
   }
 }
