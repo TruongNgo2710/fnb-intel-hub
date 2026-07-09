@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-09T03:30:35.916065+00:00",
+  "updated": "2026-07-09T07:50:45.565037+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 29,
+      "count": 41,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 14,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -35,7 +35,7 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 5,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -47,15 +47,22 @@
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -88,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 9,
+    "positive": 20,
+    "negative": 8,
     "neutral": 52,
-    "score": 12,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 39
     },
     {
       "word": "chatgpt",
@@ -128,39 +135,33 @@
         "title": "Craveworthy Brands is so sure guests will love the food, it's giving bites for free",
         "url": "https://www.nrn.com/fast-casual/craveworthy-brands-is-so-sure-guests-will-love-the-food-if-they-try-it-14-brands-are-giving-bites-for-free",
         "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Coffee Generates €84.4 Billion in Direct Value Across the EU, Report Says",
         "url": "https://dailycoffeenews.com/2026/07/08/coffee-generates-e84-4-billion-in-direct-value-across-the-eu-report-says/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Mathematical Model Offers Insight for Dialing In Espresso",
         "url": "https://dailycoffeenews.com/2026/07/08/mathematical-model-offers-insight-for-dialing-in-espresso/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Backyard Beans Expands Retail Footprint With Launch In The GIANT Company Stores Across Four States",
         "url": "https://sprudge.com/backyard-beans-expands-retail-footprint-with-launch-in-the-giant-company-stores-across-four-states-1159672.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan's Itochu and Daikin to recover aluminum from air conditioners",
-        "url": "https://asia.nikkei.com/business/markets/commodities/japan-s-itochu-and-daikin-to-recover-aluminum-from-air-conditioners",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan offshore wind projects face inflation headwinds",
         "url": "https://asia.nikkei.com/business/energy/taiwan-offshore-wind-projects-face-inflation-headwinds",
@@ -180,13 +181,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "Thai court greenlights government's $12bn emergency borrowing",
+        "url": "https://asia.nikkei.com/politics/thai-court-greenlights-government-s-12bn-emergency-borrowing",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "South Korea delivery drivers lose legal fight for bargaining rights",
+        "url": "https://asia.nikkei.com/economy/south-korea-delivery-drivers-lose-legal-fight-for-bargaining-rights",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,9 +219,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-europe": 3,
+    "region-europe": 4,
     "region-americas": 20,
-    "region-vietnam": 13,
+    "region-vietnam": 12,
     "region-global": 28
   }
 }
