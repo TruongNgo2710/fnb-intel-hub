@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-10T10:59:01.661040+00:00",
+  "updated": "2026-07-10T14:33:01.139225+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 76,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 39,
+      "count": 42,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 18,
+      "count": 19,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 9,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -50,7 +50,7 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -82,14 +82,20 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-kingcoffee",
+      "name": "brand-kingcoffee",
+      "count": 2,
+      "trend": "up"
+    },
+    {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
@@ -104,7 +110,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -115,15 +121,19 @@
       "count": 3
     },
     {
+      "word": "king coffee",
+      "count": 2
+    },
+    {
       "word": "claude",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -132,35 +142,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Weekly Coffee News: The Hello Operator Tour + Uganda Auction Milestone",
+        "url": "https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "New Study Finds Drinking Coffee Protects Against Liver Disease, Cancer, And Death",
+        "url": "https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Coffee News Recap, 10 Jul: Global Coffee Awards announce Africa and MENA’s best roasters, NCA pushes to exempt instant coffee from Brazil tariffs & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "The San Franciscan Roaster Company Enters New Chapter Under New Ownership And Leadership",
         "url": "https://sprudge.com/the-san-franciscan-roaster-company-enters-new-chapter-under-new-ownership-and-leadership-1161928.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
-      },
-      {
-        "title": "World Coffee Innovation Summit Returning to London in October",
-        "url": "https://dailycoffeenews.com/2026/07/09/world-coffee-innovation-summit-returning-to-london-in-october/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Hafiz Mangalji: The Sprudge Twenty Interview",
-        "url": "https://sprudge.com/hafiz-mangalji-the-sprudge-twenty-interview-1133997.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "NCA Makes New Push for Instant Coffee Tariff Exemption Amid Brazil Talks",
-        "url": "https://dailycoffeenews.com/2026/07/09/nca-makes-new-push-for-instant-coffee-tariff-exemption-amid-brazil-talks/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Japan's Taisei, Fanuc develop AI warehouse that doubles space efficiency",
@@ -193,7 +203,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,14 +223,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
+    "region-americas": 14,
     "region-sea": 16,
-    "region-americas": 15,
-    "region-vietnam": 16,
+    "region-vietnam": 17,
     "region-global": 33
   }
 }
