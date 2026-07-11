@@ -1,28 +1,35 @@
 {
-  "updated": "2026-07-11T17:02:20.605076+00:00",
+  "updated": "2026-07-11T20:53:44.110749+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 44,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 16,
+      "count": 43,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 21,
-      "count_24h": 12,
+      "count": 20,
+      "count_24h": 10,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 8,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -33,25 +40,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -63,13 +63,6 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -99,19 +92,25 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-kingcoffee",
+      "name": "brand-kingcoffee",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "negative": 6,
-    "neutral": 51,
-    "score": 21,
+    "neutral": 50,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -127,16 +126,22 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 4,
-    "price_direction": "stable",
+    "total_articles": 8,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "The Dog Days Of Coffee Are Here",
+        "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
+        "source": "Sprudge Coffee",
+        "time": "8 giờ trước"
       },
       {
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
@@ -157,18 +162,12 @@
         "time": "1 ngày trước"
       }
     ],
-    "consumer_demand": "moderate",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "consumer_demand": "high",
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "China steps up maritime push against Philippines, Japan, with eye on Taiwan",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-steps-up-maritime-push-against-philippines-japan-with-eye-on-taiwan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's Nexchip has global ambitions as legacy chips thrive in AI's shadow",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-nexchip-has-global-ambitions-as-legacy-chips-thrive-in-ai-s-shadow",
@@ -178,6 +177,12 @@
       {
         "title": "Lords of the flies: Thailand's edible insect innovators",
         "url": "https://asia.nikkei.com/life-arts/life/lords-of-the-flies-thailand-s-edible-insect-innovators",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Companies in Japan pay workers bonuses to spearhead AI use",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/companies-in-japan-pay-workers-bonuses-to-spearhead-ai-use",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -194,7 +199,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,9 +224,9 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 17,
     "region-sea": 16,
-    "region-americas": 16,
     "region-vietnam": 18,
-    "region-global": 30
+    "region-global": 29
   }
 }
