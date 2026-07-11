@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-11T02:49:26.364843+00:00",
+  "updated": "2026-07-11T06:17:24.618934+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
+      "count": 45,
       "count_24h": 24,
       "trend": "hot"
     },
@@ -29,14 +29,7 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 3,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -47,10 +40,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 3,
       "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -89,12 +89,6 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-illy",
       "name": "brand-illy",
       "count": 1,
@@ -114,16 +108,16 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 21,
     "negative": 5,
-    "neutral": 52,
-    "score": 22,
-    "label": "Tích cực"
+    "neutral": 54,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -154,32 +148,32 @@
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
         "url": "https://dailycoffeenews.com/2026/07/10/chinese-court-expands-ruling-on-slayer-espresso-knockoffs/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Burger King, Jack in the Box, and Dunkin’",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-burger-king-jack-in-the-box-and-dunkin-",
         "source": "Nation's Restaurant News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Weekly Coffee News: The Hello Operator Tour + Uganda Auction Milestone",
         "url": "https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "New Study Finds Drinking Coffee Protects Against Liver Disease, Cancer, And Death",
         "url": "https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 46,
     "top_articles": [
       {
         "title": "Japan's JAPEX aims to nearly quadruple US oil, gas output by 2035",
@@ -212,7 +206,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -237,9 +231,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 19,
-    "region-sea": 15,
-    "region-vietnam": 16,
-    "region-global": 30
+    "region-sea": 16,
+    "region-americas": 18,
+    "region-vietnam": 15,
+    "region-global": 31
   }
 }
