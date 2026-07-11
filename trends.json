@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-11T09:41:37.599336+00:00",
+  "updated": "2026-07-11T13:25:22.142514+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 49,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 24,
+      "count": 46,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 5,
+      "count": 19,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -43,15 +43,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-delivery",
@@ -73,13 +66,20 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 10,
+      "count": 11,
       "trend": "hot"
     },
     {
@@ -99,44 +99,38 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 23,
     "negative": 6,
-    "neutral": 52,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 51,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 46
     },
     {
       "word": "gọi vốn",
       "count": 3
     },
     {
-      "word": "acquisition",
-      "count": 2
+      "word": "chatgpt",
+      "count": 3
     },
     {
-      "word": "chatgpt",
+      "word": "acquisition",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
-    "price_direction": "stable",
+    "total_articles": 5,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -148,32 +142,32 @@
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
         "url": "https://dailycoffeenews.com/2026/07/10/chinese-court-expands-ruling-on-slayer-espresso-knockoffs/",
         "source": "Daily Coffee News",
-        "time": "19 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Burger King, Jack in the Box, and Dunkin’",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-burger-king-jack-in-the-box-and-dunkin-",
         "source": "Nation's Restaurant News",
-        "time": "19 giờ trước"
+        "time": "23 giờ trước"
       },
       {
         "title": "Weekly Coffee News: The Hello Operator Tour + Uganda Auction Milestone",
         "url": "https://dailycoffeenews.com/2026/07/10/weekly-coffee-news-the-hello-operator-tour-uganda-auction-milestone/",
         "source": "Daily Coffee News",
-        "time": "20 giờ trước"
+        "time": "1 ngày trước"
       },
       {
-        "title": "New Study Finds Drinking Coffee Protects Against Liver Disease, Cancer, And Death",
-        "url": "https://sprudge.com/new-study-finds-drinking-coffee-protects-against-liver-disease-cancer-and-death-1138799.html",
-        "source": "Sprudge Coffee",
-        "time": "21 giờ trước"
+        "title": "Coffee News Recap, 10 Jul: Global Coffee Awards announce Africa and MENA’s best roasters, NCA pushes to exempt instant coffee from Brazil tariffs & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-10-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Japan's JAPEX aims to nearly quadruple US oil, gas output by 2035",
@@ -206,7 +200,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
