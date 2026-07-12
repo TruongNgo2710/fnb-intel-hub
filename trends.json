@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-12T06:37:02.039762+00:00",
+  "updated": "2026-07-12T09:54:42.087395+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
+      "count": 44,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
+      "count": 18,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 8,
       "count_24h": 2,
       "trend": "up"
     },
@@ -117,7 +117,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -126,17 +126,13 @@
     {
       "word": "chatgpt",
       "count": 3
-    },
-    {
-      "word": "acquisition",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "stable",
+    "total_articles": 8,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -148,7 +144,7 @@
         "title": "The Dog Days Of Coffee Are Here",
         "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
@@ -170,10 +166,10 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "Lords of the flies: Thailand's edible insect innovators",
@@ -206,7 +202,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -231,9 +227,9 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 18,
     "region-americas": 16,
-    "region-sea": 17,
     "region-vietnam": 15,
-    "region-global": 32
+    "region-global": 31
   }
 }
