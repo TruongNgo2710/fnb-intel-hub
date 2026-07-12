@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-12T02:57:31.432580+00:00",
+  "updated": "2026-07-12T06:37:02.039762+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 8,
+      "count": 45,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 19,
-      "count_24h": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -52,6 +52,13 @@
       "count": 2,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
@@ -101,16 +108,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
-    "negative": 7,
-    "neutral": 49,
+    "positive": 23,
+    "negative": 6,
+    "neutral": 51,
     "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -126,10 +133,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
-    "price_direction": "down",
+    "total_articles": 7,
+    "price_direction": "stable",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -141,7 +148,7 @@
         "title": "The Dog Days Of Coffee Are Here",
         "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
@@ -163,17 +170,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "China's Nexchip has global ambitions as legacy chips thrive in AI's shadow",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-nexchip-has-global-ambitions-as-legacy-chips-thrive-in-ai-s-shadow",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Lords of the flies: Thailand's edible insect innovators",
         "url": "https://asia.nikkei.com/life-arts/life/lords-of-the-flies-thailand-s-edible-insect-innovators",
@@ -183,6 +184,12 @@
       {
         "title": "Honda, other Japan companies in pay workers to spearhead AI use",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "World AI Conference, South Korea monetary policy, China economic data",
+        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -199,7 +206,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,9 +231,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
     "region-americas": 16,
-    "region-vietnam": 16,
-    "region-global": 31
+    "region-sea": 17,
+    "region-vietnam": 15,
+    "region-global": 32
   }
 }
