@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-11T20:53:44.110749+00:00",
+  "updated": "2026-07-12T02:57:31.432580+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 39,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 12,
+      "count": 44,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
+      "count": 19,
       "count_24h": 10,
       "trend": "hot"
     },
@@ -102,15 +102,15 @@
   ],
   "sentiment": {
     "positive": 24,
-    "negative": 6,
-    "neutral": 50,
-    "score": 22,
+    "negative": 7,
+    "neutral": 49,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -141,7 +141,7 @@
         "title": "The Dog Days Of Coffee Are Here",
         "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
@@ -166,7 +166,7 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "China's Nexchip has global ambitions as legacy chips thrive in AI's shadow",
@@ -181,8 +181,8 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Companies in Japan pay workers bonuses to spearhead AI use",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/companies-in-japan-pay-workers-bonuses-to-spearhead-ai-use",
+        "title": "Honda, other Japan companies in pay workers to spearhead AI use",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-in-pay-workers-to-spearhead-ai-use",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -199,7 +199,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,9 +224,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 17,
-    "region-sea": 16,
-    "region-vietnam": 18,
-    "region-global": 29
+    "region-sea": 17,
+    "region-americas": 16,
+    "region-vietnam": 16,
+    "region-global": 31
   }
 }
