@@ -1,54 +1,54 @@
 {
-  "updated": "2026-07-13T14:40:29.096537+00:00",
+  "updated": "2026-07-13T17:58:44.238002+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 40,
+  "articles_24h": 49,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 45,
-      "count_24h": 15,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 5,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 3,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 2,
       "count_24h": 1,
       "trend": "up"
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -107,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
+    "positive": 23,
     "negative": 5,
-    "neutral": 51,
-    "score": 24,
+    "neutral": 52,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -125,8 +125,8 @@
   ],
   "coffee_trends": {
     "total_articles": 11,
-    "price_direction": "stable",
-    "price_up_signals": 1,
+    "price_direction": "down",
+    "price_up_signals": 0,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -136,42 +136,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Build-Outs Of Coffee: Coffee Equipment Pros In Spicewood, TX",
+        "url": "https://sprudge.com/build-outs-of-coffee-coffee-equipment-pros-in-spicewood-tx-1077197.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Palm Oil, Cocoa, Coffee… Who’s Going to Tend to Tomorrow’s Large Tropical Plantations?",
+        "url": "https://dailycoffeenews.com/2026/07/13/palm-oil-cocoa-coffee-whos-going-to-tend-to-tomorrows-large-tropical-plantations/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "In Vancouver, BC, Hiyori Coffee Finds Its Moment in the Sun",
         "url": "https://dailycoffeenews.com/2026/07/13/in-vancouver-bc-hiyori-coffee-finds-its-moment-in-the-sun/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Why the batch brew vs pour over debate can’t be settled",
         "url": "https://perfectdailygrind.com/2026/07/batch-brew-vs-pour-over-coffee/",
         "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Nhiều hàng hóa tiếp tục tăng giá trong tháng 7",
-        "url": "https://vnexpress.net/nhieu-hang-hoa-tiep-tuc-tang-gia-trong-thang-7-5096430.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "The Dog Days Of Coffee Are Here",
-        "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
-        "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "World AI Conference, South Korea monetary policy, China economic data",
-        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thailand's oldest bank turns to virtual banking for growth",
         "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-s-oldest-bank-turns-to-virtual-banking-for-growth",
@@ -195,15 +189,21 @@
         "url": "https://asia.nikkei.com/politics/johor-landslide-win-boosts-malaysia-s-bn-raising-pressure-on-anwar",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "MUFG claims Japan market cap crown for 1st time ever",
+        "url": "https://asia.nikkei.com/business/markets/equities/mufg-claims-japan-market-cap-crown-for-1st-time-ever",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -224,7 +224,7 @@
   "regional_breakdown": {
     "region-sea": 20,
     "region-vietnam": 14,
-    "region-global": 30,
-    "region-americas": 16
+    "region-global": 28,
+    "region-americas": 18
   }
 }
