@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-12T20:54:24.641274+00:00",
+  "updated": "2026-07-13T02:58:48.544709+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 8,
+      "count": 46,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 5,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -47,6 +47,13 @@
       "trend": "up"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
@@ -59,13 +66,6 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 22,
     "negative": 7,
-    "neutral": 52,
-    "score": 18,
+    "neutral": 51,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -137,7 +137,7 @@
         "title": "Nhiều hàng hóa tiếp tục tăng giá trong tháng 7",
         "url": "https://vnexpress.net/nhieu-hang-hoa-tiep-tuc-tang-gia-trong-thang-7-5096430.html",
         "source": "VnExpress Kinh doanh",
-        "time": "11 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "The Dog Days Of Coffee Are Here",
@@ -162,14 +162,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Lords of the flies: Thailand's edible insect innovators",
-        "url": "https://asia.nikkei.com/life-arts/life/lords-of-the-flies-thailand-s-edible-insect-innovators",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Honda, other Japan companies pay workers to spearhead AI use",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-pay-workers-to-spearhead-ai-use",
@@ -183,19 +177,25 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "Thailand's oldest bank turns to virtual banking for growth",
+        "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-s-oldest-bank-turns-to-virtual-banking-for-growth",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Filipino workers locked in bitter labor dispute with Taiwanese manufacturer",
+        "url": "https://asia.nikkei.com/economy/filipino-workers-locked-in-bitter-labor-dispute-with-taiwanese-manufacturer",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indian companies look to Chinese LLMs as AI costs bite",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,8 +220,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
     "region-americas": 14,
+    "region-sea": 19,
     "region-vietnam": 14,
     "region-global": 33
   }
