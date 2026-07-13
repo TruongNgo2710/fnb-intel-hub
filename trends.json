@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-13T11:16:18.893486+00:00",
+  "updated": "2026-07-13T14:40:29.096537+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 40,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 11,
+      "count": 45,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 12,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 11,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-price",
@@ -35,9 +35,16 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -54,13 +61,6 @@
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 1,
@@ -72,14 +72,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 11,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
@@ -116,19 +116,15 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 45
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "chatgpt",
-      "count": 3
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -140,10 +136,16 @@
         "time": "0 phút trước"
       },
       {
+        "title": "In Vancouver, BC, Hiyori Coffee Finds Its Moment in the Sun",
+        "url": "https://dailycoffeenews.com/2026/07/13/in-vancouver-bc-hiyori-coffee-finds-its-moment-in-the-sun/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Why the batch brew vs pour over debate can’t be settled",
         "url": "https://perfectdailygrind.com/2026/07/batch-brew-vs-pour-over-coffee/",
         "source": "Perfect Daily Grind",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Nhiều hàng hóa tiếp tục tăng giá trong tháng 7",
@@ -155,12 +157,6 @@
         "title": "The Dog Days Of Coffee Are Here",
         "url": "https://sprudge.com/the-dog-days-of-coffee-are-here-1161962.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Chinese Court Expands Ruling on Slayer Espresso Knockoffs",
-        "url": "https://dailycoffeenews.com/2026/07/10/chinese-court-expands-ruling-on-slayer-espresso-knockoffs/",
-        "source": "Daily Coffee News",
         "time": "2 ngày trước"
       }
     ],
@@ -168,7 +164,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 45,
     "top_articles": [
       {
         "title": "World AI Conference, South Korea monetary policy, China economic data",
@@ -201,7 +197,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -227,8 +223,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-vietnam": 13,
-    "region-global": 34,
-    "region-americas": 13
+    "region-vietnam": 14,
+    "region-global": 30,
+    "region-americas": 16
   }
 }
