@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-13T02:58:48.544709+00:00",
+  "updated": "2026-07-13T06:57:12.747004+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 10,
+      "count": 44,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 8,
+      "count": 16,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -82,6 +82,12 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-illy",
       "name": "brand-illy",
       "count": 1,
@@ -101,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 7,
-    "neutral": 51,
-    "score": 19,
-    "label": "Trung tính"
+    "positive": 24,
+    "negative": 6,
+    "neutral": 50,
+    "score": 22,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -137,7 +143,7 @@
         "title": "Nhiều hàng hóa tiếp tục tăng giá trong tháng 7",
         "url": "https://vnexpress.net/nhieu-hang-hoa-tiep-tuc-tang-gia-trong-thang-7-5096430.html",
         "source": "VnExpress Kinh doanh",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "The Dog Days Of Coffee Are Here",
@@ -162,14 +168,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Honda, other Japan companies pay workers to spearhead AI use",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-pay-workers-to-spearhead-ai-use",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "World AI Conference, South Korea monetary policy, China economic data",
         "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data",
@@ -193,9 +193,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,9 +226,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 14,
-    "region-sea": 19,
-    "region-vietnam": 14,
-    "region-global": 33
+    "region-sea": 20,
+    "region-vietnam": 15,
+    "region-global": 32,
+    "region-americas": 13
   }
 }
