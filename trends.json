@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:02:34.091112+00:00",
+  "updated": "2026-07-14T13:50:19.156121+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 59,
@@ -15,27 +15,27 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 13,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 7,
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 5,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -56,9 +56,9 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -96,9 +96,9 @@
   ],
   "sentiment": {
     "positive": 23,
-    "negative": 6,
-    "neutral": 51,
-    "score": 21,
+    "negative": 5,
+    "neutral": 52,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -112,10 +112,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "stable",
+    "total_articles": 12,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -124,32 +124,32 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Global Coffee Awards crown the best roasters in Asia",
-        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-asia/",
-        "source": "Perfect Daily Grind",
+        "title": "Field Study Coffee Introduces Reservation-Only Service in Brooklyn",
+        "url": "https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/",
+        "source": "Daily Coffee News",
+        "time": "41 phút trước"
+      },
+      {
+        "title": "Functional Instant Coffee Seller Reformed Gets $22 Million Round",
+        "url": "https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/",
+        "source": "Daily Coffee News",
+        "time": "53 phút trước"
+      },
+      {
+        "title": "Get Down At The London Brew Up Later This Month",
+        "url": "https://sprudge.com/get-down-at-the-london-brew-up-later-this-month-1178339.html",
+        "source": "Sprudge Coffee",
         "time": "1 giờ trước"
       },
       {
-        "title": "Meet 12 rising coffee chains poised to challenge the giants",
-        "url": "https://www.nrn.com/emerging-chains/meet-12-rising-coffee-chains-poised-to-challenge-the-giants",
-        "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "The Pour-Over Goes Vacuum-Insulated With Shelbru’s New June Brewer",
-        "url": "https://sprudge.com/the-pour-over-goes-vacuum-insulated-with-shelbrus-new-june-brewer-1178260.html",
-        "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Coffee Equipment Pros In Spicewood, TX",
-        "url": "https://sprudge.com/build-outs-of-coffee-coffee-equipment-pros-in-spicewood-tx-1077197.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
+        "title": "Global Coffee Awards crown the best roasters in Asia",
+        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-asia/",
+        "source": "Perfect Daily Grind",
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
     "total_articles": 51,
@@ -212,7 +212,8 @@
   "regional_breakdown": {
     "region-sea": 19,
     "region-vietnam": 15,
-    "region-global": 29,
-    "region-americas": 17
+    "region-global": 30,
+    "region-europe": 1,
+    "region-americas": 15
   }
 }
