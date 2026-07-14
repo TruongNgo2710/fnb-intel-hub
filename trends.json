@@ -1,49 +1,49 @@
 {
-  "updated": "2026-07-14T13:50:19.156121+00:00",
+  "updated": "2026-07-14T17:19:10.610215+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 51,
-      "count_24h": 35,
+      "count": 50,
+      "count_24h": 40,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
+      "count": 17,
       "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 9,
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 6,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -57,8 +57,8 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -72,8 +72,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
@@ -86,25 +92,19 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-illy",
-      "name": "brand-illy",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 22,
     "negative": 5,
-    "neutral": 52,
-    "score": 22,
+    "neutral": 53,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 50
+      "count": 49
     },
     {
       "word": "gọi vốn",
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -124,28 +124,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Inside the 2026 Coffee Barometer, Part 2: What Companies Are Not Saying",
+        "url": "https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "In Washington, D.C., Coffee Meets Fine Dining At Jônt",
+        "url": "https://sprudge.com/in-washington-d-c-coffee-meets-fine-dining-at-jont-1070997.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Field Study Coffee Introduces Reservation-Only Service in Brooklyn",
         "url": "https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/",
         "source": "Daily Coffee News",
-        "time": "41 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Functional Instant Coffee Seller Reformed Gets $22 Million Round",
         "url": "https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/",
         "source": "Daily Coffee News",
-        "time": "53 phút trước"
-      },
-      {
-        "title": "Get Down At The London Brew Up Later This Month",
-        "url": "https://sprudge.com/get-down-at-the-london-brew-up-later-this-month-1178339.html",
-        "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Global Coffee Awards crown the best roasters in Asia",
-        "url": "https://perfectdailygrind.com/2026/07/global-coffee-awards-best-roasters-asia/",
-        "source": "Perfect Daily Grind",
-        "time": "5 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -155,24 +155,6 @@
     "total_articles": 51,
     "top_articles": [
       {
-        "title": "Japan enacts social media law requiring flagging of AI content in elections",
-        "url": "https://asia.nikkei.com/politics/japan-enacts-social-media-law-requiring-flagging-of-ai-content-in-elections",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's soaring AI stocks push smaller firms out of Topix index",
-        "url": "https://asia.nikkei.com/business/markets/equities/japan-s-soaring-ai-stocks-push-smaller-firms-out-of-topix-index",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan voice actor fights clones with AI of his own",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-voice-actor-fights-clones-with-ai-of-his-own",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "AI-driven 'chipflation' puts chill on electronics purchases",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-driven-chipflation-puts-chill-on-electronics-purchases",
         "source": "Nikkei Asia",
@@ -181,6 +163,24 @@
       {
         "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
         "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's No. 2 chipmaker UMC starts photonic chip production in Singapore",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-no.-2-chipmaker-umc-starts-photonic-chip-production-in-singapore",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam's biggest municipality plans airport links in push for investment",
+        "url": "https://asia.nikkei.com/economy/vietnam-s-biggest-municipality-plans-airport-links-in-push-for-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Why AI's next chapter belongs to CPUs",
+        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-ai-s-next-chapter-belongs-to-cpus",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -211,9 +211,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-vietnam": 15,
+    "region-vietnam": 14,
     "region-global": 30,
-    "region-europe": 1,
-    "region-americas": 15
+    "region-americas": 16,
+    "region-europe": 1
   }
 }
