@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-14T17:19:10.610215+00:00",
+  "updated": "2026-07-14T21:04:20.110497+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 50,
+      "count": 46,
       "count_24h": 40,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 14,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 8,
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 6,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -72,8 +72,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-kfc",
@@ -86,25 +92,19 @@
       "name": "brand-ucc",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 22,
-    "negative": 5,
-    "neutral": 53,
-    "score": 21,
+    "negative": 3,
+    "neutral": 55,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 8,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -127,65 +127,65 @@
         "title": "Inside the 2026 Coffee Barometer, Part 2: What Companies Are Not Saying",
         "url": "https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "In Washington, D.C., Coffee Meets Fine Dining At Jônt",
         "url": "https://sprudge.com/in-washington-d-c-coffee-meets-fine-dining-at-jont-1070997.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Field Study Coffee Introduces Reservation-Only Service in Brooklyn",
         "url": "https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Functional Instant Coffee Seller Reformed Gets $22 Million Round",
         "url": "https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "AI-driven 'chipflation' puts chill on electronics purchases",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-driven-chipflation-puts-chill-on-electronics-purchases",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
-        "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan's No. 2 chipmaker UMC starts photonic chip production in Singapore",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-no.-2-chipmaker-umc-starts-photonic-chip-production-in-singapore",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Vietnam's biggest municipality plans airport links in push for investment",
-        "url": "https://asia.nikkei.com/economy/vietnam-s-biggest-municipality-plans-airport-links-in-push-for-investment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Why AI's next chapter belongs to CPUs",
         "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-ai-s-next-chapter-belongs-to-cpus",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Indian film trailer reignites debate over use of pellet guns in Kashmir",
+        "url": "https://asia.nikkei.com/politics/indian-film-trailer-reignites-debate-over-use-of-pellet-guns-in-kashmir",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China's trade expands on AI boom, offsetting weak sectors",
+        "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank's Son says AI boom will require $5tn in annual investment",
+        "url": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Huawei aims for 20% smartphone growth despite memory crunch: sources",
+        "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-aims-for-20-smartphone-growth-despite-memory-crunch-sources",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +211,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-vietnam": 14,
-    "region-global": 30,
     "region-americas": 16,
+    "region-vietnam": 13,
+    "region-global": 31,
     "region-europe": 1
   }
 }
