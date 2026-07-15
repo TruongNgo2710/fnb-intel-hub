@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-15T10:06:48.653000+00:00",
+  "updated": "2026-07-15T13:48:56.108012+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 75,
+  "articles_24h": 77,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 40,
+      "count": 42,
+      "count_24h": 41,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 12,
+      "count": 15,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 7,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -84,13 +84,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     }
   ],
@@ -104,7 +98,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -112,11 +106,11 @@
     },
     {
       "word": "chatgpt",
-      "count": 3
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -128,28 +122,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Vixxo Launches Café Solutions Platform Pairing Techs with Cafe Operators",
+        "url": "https://dailycoffeenews.com/2026/07/15/vixxo-launches-cafe-solutions-platform-pairing-techs-with-cafe-operators/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "America’s Next Hotbed For Coffee Production Is… Florida?",
+        "url": "https://sprudge.com/americas-next-hotbed-for-coffee-production-is-florida-1180016.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "What are coffee shops looking for in an espresso machine?",
         "url": "https://perfectdailygrind.com/2026/07/what-do-coffee-shops-want-in-espresso-machines/",
         "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Inside the 2026 Coffee Barometer, Part 2: What Companies Are Not Saying",
         "url": "https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/",
         "source": "Daily Coffee News",
-        "time": "19 giờ trước"
-      },
-      {
-        "title": "In Washington, D.C., Coffee Meets Fine Dining At Jônt",
-        "url": "https://sprudge.com/in-washington-d-c-coffee-meets-fine-dining-at-jont-1070997.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Field Study Coffee Introduces Reservation-Only Service in Brooklyn",
-        "url": "https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -216,8 +210,8 @@
   "regional_breakdown": {
     "region-sea": 16,
     "region-europe": 3,
-    "region-vietnam": 18,
+    "region-vietnam": 16,
     "region-americas": 13,
-    "region-global": 30
+    "region-global": 32
   }
 }
