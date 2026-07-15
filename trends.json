@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-15T17:21:52.115205+00:00",
+  "updated": "2026-07-15T21:04:28.966682+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 64,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
+      "count": 46,
       "count_24h": 39,
       "trend": "hot"
     },
@@ -15,41 +15,41 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 14,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 6,
-      "trend": "hot"
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
@@ -72,18 +72,18 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
       "count": 2,
       "trend": "up"
     },
@@ -96,15 +96,15 @@
   ],
   "sentiment": {
     "positive": 23,
-    "negative": 6,
-    "neutral": 51,
-    "score": 21,
-    "label": "Tích cực"
+    "negative": 7,
+    "neutral": 50,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -116,7 +116,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -131,39 +131,33 @@
         "title": "Review: Coffee Sustainability Research is Growing but Fragmented",
         "url": "https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Nandan Coffee In Bangalore, India",
         "url": "https://sprudge.com/build-outs-of-coffee-nandan-coffee-in-bangalore-india-1074602.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Industry-Backed Study Says Coffee Pulp Extract May Lower Cholesterol",
         "url": "https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Vixxo Launches Café Solutions Platform Pairing Techs with Cafe Operators",
         "url": "https://dailycoffeenews.com/2026/07/15/vixxo-launches-cafe-solutions-platform-pairing-techs-with-cafe-operators/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Indian capital promotes EVs to tackle severe air pollution",
-        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/indian-capital-promotes-evs-to-tackle-severe-air-pollution",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Australia unveils AI standards to shape roll out of technology",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-unveils-ai-standards-to-shape-roll-out-of-technology",
@@ -187,9 +181,15 @@
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-orders-dozens-of-sea-drones-to-fend-off-china-s-maritime-squeeze",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan power companies to build or bolster 30 substations to meet AI demand",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-power-companies-to-build-or-bolster-30-substations-to-meet-ai-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,10 +214,9 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 2,
-    "region-vietnam": 16,
-    "region-sea": 17,
-    "region-americas": 14,
-    "region-global": 31
+    "region-sea": 20,
+    "region-americas": 13,
+    "region-vietnam": 15,
+    "region-global": 32
   }
 }
