@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-15T02:38:17.524537+00:00",
+  "updated": "2026-07-15T06:18:57.466973+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 75,
+  "articles_24h": 74,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 41,
+      "count": 43,
+      "count_24h": 39,
       "trend": "hot"
     },
     {
@@ -21,15 +21,29 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 5,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -37,20 +51,6 @@
       "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -76,14 +76,14 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 1,
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
     },
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 23,
     "negative": 3,
-    "neutral": 57,
-    "score": 21,
+    "neutral": 54,
+    "score": 25,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -116,7 +116,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -131,51 +131,33 @@
         "title": "Inside the 2026 Coffee Barometer, Part 2: What Companies Are Not Saying",
         "url": "https://dailycoffeenews.com/2026/07/14/inside-the-2026-coffee-barometer-part-2-what-companies-are-not-saying/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "In Washington, D.C., Coffee Meets Fine Dining At Jônt",
         "url": "https://sprudge.com/in-washington-d-c-coffee-meets-fine-dining-at-jont-1070997.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Field Study Coffee Introduces Reservation-Only Service in Brooklyn",
         "url": "https://dailycoffeenews.com/2026/07/14/field-study-coffee-introduces-reservation-only-service-in-brooklyn/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Functional Instant Coffee Seller Reformed Gets $22 Million Round",
         "url": "https://dailycoffeenews.com/2026/07/14/functional-instant-coffee-seller-reformed-gets-22-million-round/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Nvidia, Mitsubishi Heavy eye cooperation on AI data center cooling and power",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-mitsubishi-heavy-eye-cooperation-on-ai-data-center-cooling-and-power",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SBI to enable 24-hour on-chain trading for Japan stock fund with Singapore partner",
-        "url": "https://asia.nikkei.com/business/markets/equities/sbi-to-enable-24-hour-on-chain-trading-for-japan-stock-fund-with-singapore-partner",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "CXMT to raise $8.5bn in largest Chinese chip IPO",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-to-raise-8.5bn-in-largest-chinese-chip-ipo",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan ruling party weighs lifting US potato ban as trade bargaining chip",
         "url": "https://asia.nikkei.com/economy/trade/japan-ruling-party-weighs-lifting-us-potato-ban-as-trade-bargaining-chip",
@@ -187,9 +169,27 @@
         "url": "https://asia.nikkei.com/business/business-asia/from-tvs-to-ai-japan-s-old-electronics-giants-tune-into-digital-world",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan companies use AI to make AI servers",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-companies-use-ai-to-make-ai-servers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesia container terminal opens with Japan's support",
+        "url": "https://asia.nikkei.com/business/transportation/indonesia-container-terminal-opens-with-japan-s-support",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indian capital promotes EVs to tackle severe air pollution",
+        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/indian-capital-promotes-evs-to-tackle-severe-air-pollution",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,10 +214,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
     "region-americas": 14,
+    "region-sea": 15,
     "region-europe": 3,
-    "region-vietnam": 15,
+    "region-vietnam": 16,
     "region-global": 32
   }
 }
