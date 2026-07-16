@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-16T10:12:56.617963+00:00",
+  "updated": "2026-07-16T13:58:03.958785+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 35,
+      "count": 47,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 15,
+      "count": 19,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 8,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -42,20 +42,20 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-qsr",
       "label": "#QSR",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -78,7 +78,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -89,10 +89,10 @@
     }
   ],
   "sentiment": {
-    "positive": 28,
+    "positive": 27,
     "negative": 5,
-    "neutral": 47,
-    "score": 29,
+    "neutral": 48,
+    "score": 28,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -110,7 +110,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -122,35 +122,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The La Marzocco Linea Micra Gets A Wavy Custom Modification",
+        "url": "https://sprudge.com/the-la-marzocco-linea-micra-gets-a-wavy-custom-modification-1178532.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Giá cà phê tăng mạnh, nông dân tiếc vì bán sớm",
         "url": "https://vnexpress.net/gia-ca-phe-tang-manh-nong-dan-tiec-vi-ban-som-5097772.html",
         "source": "VnExpress Kinh doanh",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Is becoming a roaster really the right step for baristas?",
         "url": "https://perfectdailygrind.com/2026/07/barista-to-coffee-roaster-career-progression/",
         "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Review: Coffee Sustainability Research is Growing but Fragmented",
         "url": "https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/",
         "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Nandan Coffee In Bangalore, India",
-        "url": "https://sprudge.com/build-outs-of-coffee-nandan-coffee-in-bangalore-india-1074602.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 50,
     "top_articles": [
       {
         "title": "Nvidia partners with Toyota's Woven City on physical AI tech",
@@ -183,7 +183,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,7 +210,8 @@
   "regional_breakdown": {
     "region-sea": 18,
     "region-vietnam": 19,
-    "region-americas": 11,
-    "region-global": 32
+    "region-americas": 9,
+    "region-global": 33,
+    "region-europe": 1
   }
 }
