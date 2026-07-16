@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-16T06:22:55.804982+00:00",
+  "updated": "2026-07-16T10:12:56.617963+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 34,
+      "count": 46,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
@@ -21,20 +21,20 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 9,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 7,
       "count_24h": 7,
       "trend": "hot"
@@ -43,7 +43,7 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 6,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 26,
+    "positive": 28,
     "negative": 5,
-    "neutral": 49,
-    "score": 26,
+    "neutral": 47,
+    "score": 29,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -110,10 +110,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "stable",
+    "total_articles": 9,
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -125,51 +125,33 @@
         "title": "Giá cà phê tăng mạnh, nông dân tiếc vì bán sớm",
         "url": "https://vnexpress.net/gia-ca-phe-tang-manh-nong-dan-tiec-vi-ban-som-5097772.html",
         "source": "VnExpress Kinh doanh",
-        "time": "20 phút trước"
+        "time": "4 giờ trước"
+      },
+      {
+        "title": "Is becoming a roaster really the right step for baristas?",
+        "url": "https://perfectdailygrind.com/2026/07/barista-to-coffee-roaster-career-progression/",
+        "source": "Perfect Daily Grind",
+        "time": "4 giờ trước"
       },
       {
         "title": "Review: Coffee Sustainability Research is Growing but Fragmented",
         "url": "https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Nandan Coffee In Bangalore, India",
         "url": "https://sprudge.com/build-outs-of-coffee-nandan-coffee-in-bangalore-india-1074602.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Industry-Backed Study Says Coffee Pulp Extract May Lower Cholesterol",
-        "url": "https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/",
-        "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
     "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan drone stocks soar as investors look beyond AI, traditional defense",
-        "url": "https://asia.nikkei.com/business/technology/japan-drone-stocks-soar-as-investors-look-beyond-ai-traditional-defense",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan eyes local AI as digital 'bulwark' against Chinese influence",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-eyes-local-ai-as-digital-bulwark-against-chinese-influence",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Nvidia partners with Toyota's Woven City on physical AI tech",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-partners-with-toyota-s-woven-city-on-physical-ai-tech",
@@ -179,6 +161,24 @@
       {
         "title": "South Korean central bank raises rates as economy shows strength",
         "url": "https://asia.nikkei.com/economy/south-korean-central-bank-raises-rates-as-economy-shows-strength",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "As the AI rally loses steam, how resilient are Japanese stocks?",
+        "url": "https://asia.nikkei.com/business/markets/as-the-ai-rally-loses-steam-how-resilient-are-japanese-stocks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam's rapid growth can benefit Thailand, Deputy PM Sihasak says",
+        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/vietnam-s-rapid-growth-can-benefit-thailand-deputy-pm-sihasak-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Sony chairman says human relations still shine in Asia despite AI's advance",
+        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/sony-chairman-says-human-relations-still-shine-in-asia-despite-ai-s-advance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -208,9 +208,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 18,
     "region-vietnam": 19,
-    "region-global": 32,
-    "region-americas": 10
+    "region-americas": 11,
+    "region-global": 32
   }
 }
