@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-16T13:58:03.958785+00:00",
+  "updated": "2026-07-16T17:21:16.098084+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 32,
+      "count": 46,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
+      "count": 18,
       "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
+      "count": 13,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -35,29 +35,29 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 4,
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -72,13 +72,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 27,
-    "negative": 5,
+    "positive": 26,
+    "negative": 6,
     "neutral": 48,
-    "score": 28,
+    "score": 25,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -106,11 +106,19 @@
     },
     {
       "word": "chatgpt",
+      "count": 3
+    },
+    {
+      "word": "wine",
+      "count": 2
+    },
+    {
+      "word": "supply chain",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 13,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -122,48 +130,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The La Marzocco Linea Micra Gets A Wavy Custom Modification",
-        "url": "https://sprudge.com/the-la-marzocco-linea-micra-gets-a-wavy-custom-modification-1178532.html",
-        "source": "Sprudge Coffee",
+        "title": "Houston’s Della Coffee Pours Another One in Richmond, Texas",
+        "url": "https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/",
+        "source": "Daily Coffee News",
         "time": "1 giờ trước"
       },
       {
-        "title": "Giá cà phê tăng mạnh, nông dân tiếc vì bán sớm",
-        "url": "https://vnexpress.net/gia-ca-phe-tang-manh-nong-dan-tiec-vi-ban-som-5097772.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "7 giờ trước"
-      },
-      {
-        "title": "Is becoming a roaster really the right step for baristas?",
-        "url": "https://perfectdailygrind.com/2026/07/barista-to-coffee-roaster-career-progression/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Review: Coffee Sustainability Research is Growing but Fragmented",
-        "url": "https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/",
+        "title": "European Commission Adds Soluble Coffee to EUDR Product List",
+        "url": "https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/",
         "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Build-Outs Of Coffee: The Wild Fox In San Francisco, CA",
+        "url": "https://sprudge.com/build-outs-of-coffee-the-wild-fox-in-san-francisco-ca-1159764.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "The La Marzocco Linea Micra Gets A Wavy Custom Modification",
+        "url": "https://sprudge.com/the-la-marzocco-linea-micra-gets-a-wavy-custom-modification-1178532.html",
+        "source": "Sprudge Coffee",
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Nvidia partners with Toyota's Woven City on physical AI tech",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-partners-with-toyota-s-woven-city-on-physical-ai-tech",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "South Korean central bank raises rates as economy shows strength",
-        "url": "https://asia.nikkei.com/economy/south-korean-central-bank-raises-rates-as-economy-shows-strength",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "As the AI rally loses steam, how resilient are Japanese stocks?",
         "url": "https://asia.nikkei.com/business/markets/as-the-ai-rally-loses-steam-how-resilient-are-japanese-stocks",
@@ -181,9 +177,21 @@
         "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/sony-chairman-says-human-relations-still-shine-in-asia-despite-ai-s-advance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Experts fear 'great democratic depression' as China gains ground globally",
+        "url": "https://asia.nikkei.com/politics/experts-fear-great-democratic-depression-as-china-gains-ground-globally",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "TSMC plans further $100bn US investment to feed AI demand",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-plans-further-100bn-us-investment-to-feed-ai-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,9 +217,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-vietnam": 19,
-    "region-americas": 9,
-    "region-global": 33,
-    "region-europe": 1
+    "region-vietnam": 18,
+    "region-americas": 10,
+    "region-global": 32,
+    "region-europe": 2
   }
 }
