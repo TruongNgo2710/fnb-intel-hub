@@ -1,21 +1,28 @@
 {
-  "updated": "2026-07-16T02:46:25.445536+00:00",
+  "updated": "2026-07-16T06:22:55.804982+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
+      "count": 45,
       "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 18,
       "count_24h": 15,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -26,37 +33,30 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 6,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 6,
       "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -86,25 +86,19 @@
       "name": "brand-arabica",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 6,
-    "neutral": 51,
-    "score": 21,
+    "positive": 26,
+    "negative": 5,
+    "neutral": 49,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -116,9 +110,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
-    "price_direction": "down",
-    "price_up_signals": 0,
+    "total_articles": 7,
+    "price_direction": "stable",
+    "price_up_signals": 1,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -128,74 +122,74 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Giá cà phê tăng mạnh, nông dân tiếc vì bán sớm",
+        "url": "https://vnexpress.net/gia-ca-phe-tang-manh-nong-dan-tiec-vi-ban-som-5097772.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "20 phút trước"
+      },
+      {
         "title": "Review: Coffee Sustainability Research is Growing but Fragmented",
         "url": "https://dailycoffeenews.com/2026/07/15/review-coffee-sustainability-research-is-growing-but-fragmented/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Nandan Coffee In Bangalore, India",
         "url": "https://sprudge.com/build-outs-of-coffee-nandan-coffee-in-bangalore-india-1074602.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Industry-Backed Study Says Coffee Pulp Extract May Lower Cholesterol",
         "url": "https://dailycoffeenews.com/2026/07/15/industry-backed-study-says-coffee-pulp-extract-may-lower-cholesterol/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Vixxo Launches Café Solutions Platform Pairing Techs with Cafe Operators",
-        "url": "https://dailycoffeenews.com/2026/07/15/vixxo-launches-cafe-solutions-platform-pairing-techs-with-cafe-operators/",
-        "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
       {
-        "title": "Taiwan orders dozens of sea drones to fend off China's maritime squeeze",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-orders-dozens-of-sea-drones-to-fend-off-china-s-maritime-squeeze",
+        "title": "Nvidia, Kawasaki Heavy to build robot-equipped AI shipyard in Japan",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan power companies to build or bolster 30 substations to meet AI demand",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-power-companies-to-build-or-bolster-30-substations-to-meet-ai-demand",
+        "title": "Japan drone stocks soar as investors look beyond AI, traditional defense",
+        "url": "https://asia.nikkei.com/business/technology/japan-drone-stocks-soar-as-investors-look-beyond-ai-traditional-defense",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Nvidia cashes in on sovereign AI, setting sights on Japan for latest tie-up",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-cashes-in-on-sovereign-ai-setting-sights-on-japan-for-latest-tie-up",
+        "title": "Taiwan eyes local AI as digital 'bulwark' against Chinese influence",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-eyes-local-ai-as-digital-bulwark-against-chinese-influence",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China's small businesses struggle to raise prices as inventory piles up",
-        "url": "https://asia.nikkei.com/economy/china-s-small-businesses-struggle-to-raise-prices-as-inventory-piles-up",
+        "title": "Nvidia partners with Toyota's Woven City on physical AI tech",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-partners-with-toyota-s-woven-city-on-physical-ai-tech",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Affordable alternatives to Nvidia servers crop up for Japan AI players",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/affordable-alternatives-to-nvidia-servers-crop-up-for-japan-ai-players",
+        "title": "South Korean central bank raises rates as economy shows strength",
+        "url": "https://asia.nikkei.com/economy/south-korean-central-bank-raises-rates-as-economy-shows-strength",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -214,9 +208,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 16,
+    "region-sea": 19,
+    "region-vietnam": 19,
     "region-global": 32,
-    "region-americas": 12
+    "region-americas": 10
   }
 }
