@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-16T17:21:16.098084+00:00",
+  "updated": "2026-07-16T21:03:38.030182+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 33,
+      "count": 45,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
@@ -21,22 +21,22 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 9,
+      "count": 12,
       "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 9,
       "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -72,13 +72,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 26,
-    "negative": 6,
+    "positive": 25,
+    "negative": 7,
     "neutral": 48,
-    "score": 25,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -106,7 +106,7 @@
     },
     {
       "word": "chatgpt",
-      "count": 3
+      "count": 2
     },
     {
       "word": "wine",
@@ -118,10 +118,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
-    "price_direction": "down",
+    "total_articles": 12,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -130,68 +130,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "How Black Rock Coffee Bar plans to stand out in crowded beverage category",
+        "url": "https://www.nrn.com/quick-service/how-black-rock-coffee-bar-plans-to-stand-out-in-crowded-beverage-category",
+        "source": "Nation's Restaurant News",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Houston’s Della Coffee Pours Another One in Richmond, Texas",
         "url": "https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "European Commission Adds Soluble Coffee to EUDR Product List",
         "url": "https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: The Wild Fox In San Francisco, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-the-wild-fox-in-san-francisco-ca-1159764.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "The La Marzocco Linea Micra Gets A Wavy Custom Modification",
-        "url": "https://sprudge.com/the-la-marzocco-linea-micra-gets-a-wavy-custom-modification-1178532.html",
-        "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "As the AI rally loses steam, how resilient are Japanese stocks?",
-        "url": "https://asia.nikkei.com/business/markets/as-the-ai-rally-loses-steam-how-resilient-are-japanese-stocks",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Vietnam's rapid growth can benefit Thailand, Deputy PM Sihasak says",
-        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/vietnam-s-rapid-growth-can-benefit-thailand-deputy-pm-sihasak-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Sony chairman says human relations still shine in Asia despite AI's advance",
-        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/sony-chairman-says-human-relations-still-shine-in-asia-despite-ai-s-advance",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Experts fear 'great democratic depression' as China gains ground globally",
-        "url": "https://asia.nikkei.com/politics/experts-fear-great-democratic-depression-as-china-gains-ground-globally",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "TSMC plans further $100bn US investment to feed AI demand",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-plans-further-100bn-us-investment-to-feed-ai-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Huawei aims for growth, Malaysia moves into batteries",
+        "url": "https://asia.nikkei.com/techasia/huawei-aims-for-growth-malaysia-moves-into-batteries",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI could transform ASEAN manufacturing, executives say",
+        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/ai-could-transform-asean-manufacturing-executives-say",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "7-Eleven owner Seven & i set for big investment in Poland's top store chain",
+        "url": "https://asia.nikkei.com/business/business-deals/7-eleven-owner-seven-i-set-for-big-investment-in-poland-s-top-store-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia cashes in on sovereign AI, setting sights on Japan for latest tie-up",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-cashes-in-on-sovereign-ai-setting-sights-on-japan-for-latest-tie-up",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,9 +216,9 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 13,
     "region-sea": 18,
-    "region-vietnam": 18,
-    "region-americas": 10,
+    "region-vietnam": 15,
     "region-global": 32,
     "region-europe": 2
   }
