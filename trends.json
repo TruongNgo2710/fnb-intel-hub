@@ -1,28 +1,21 @@
 {
-  "updated": "2026-07-17T17:16:23.742098+00:00",
+  "updated": "2026-07-17T20:59:53.377938+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 51,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 21,
+      "count": 43,
+      "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 9,
+      "count": 15,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -33,32 +26,39 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 5,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -72,49 +72,47 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 7,
-    "neutral": 50,
-    "score": 20,
+    "positive": 21,
+    "negative": 6,
+    "neutral": 53,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 4
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     },
     {
       "word": "chatgpt",
@@ -137,39 +135,33 @@
         "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-domino-s-starbucks-and-kfc",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "FDA Eyes Caffeine Labeling as a 2026 Priority",
         "url": "https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Weekly Coffee News: CQI in Brazil + Another Coffee Festival",
         "url": "https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Some Green Coffee Importers Are Now Issuing Tariff Refunds",
         "url": "https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Japan plans to raise threshold for special shareholder meetings",
-        "url": "https://asia.nikkei.com/business/markets/equities/japan-plans-to-raise-threshold-for-special-shareholder-meetings",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japanese stocks plunge as AI deleverage sends Kioxia down 16%",
         "url": "https://asia.nikkei.com/business/markets/japanese-stocks-plunge-as-ai-deleverage-sends-kioxia-down-16",
@@ -193,9 +185,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-gains-on-anthropic-openai-with-new-low-cost-model",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Rapidus partners with Cadence on AI agent chip design tools",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-partners-with-cadence-on-ai-agent-chip-design-tools",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,10 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 18,
-    "region-vietnam": 17,
-    "region-global": 26,
+    "region-sea": 19,
+    "region-americas": 19,
+    "region-vietnam": 16,
+    "region-global": 24,
     "region-europe": 2
   }
 }
