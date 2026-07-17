@@ -1,42 +1,42 @@
 {
-  "updated": "2026-07-16T21:03:38.030182+00:00",
+  "updated": "2026-07-17T02:48:56.793091+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 31,
+      "count": 42,
+      "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 14,
+      "count": 16,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 8,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 7,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -54,15 +54,15 @@
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -98,7 +98,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -111,14 +111,10 @@
     {
       "word": "wine",
       "count": 2
-    },
-    {
-      "word": "supply chain",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -133,45 +129,33 @@
         "title": "How Black Rock Coffee Bar plans to stand out in crowded beverage category",
         "url": "https://www.nrn.com/quick-service/how-black-rock-coffee-bar-plans-to-stand-out-in-crowded-beverage-category",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Houston’s Della Coffee Pours Another One in Richmond, Texas",
         "url": "https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "European Commission Adds Soluble Coffee to EUDR Product List",
         "url": "https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: The Wild Fox In San Francisco, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-the-wild-fox-in-san-francisco-ca-1159764.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "TSMC plans further $100bn US investment to feed AI demand",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-plans-further-100bn-us-investment-to-feed-ai-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Huawei aims for growth, Malaysia moves into batteries",
-        "url": "https://asia.nikkei.com/techasia/huawei-aims-for-growth-malaysia-moves-into-batteries",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI could transform ASEAN manufacturing, executives say",
         "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/ai-could-transform-asean-manufacturing-executives-say",
@@ -189,9 +173,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-cashes-in-on-sovereign-ai-setting-sights-on-japan-for-latest-tie-up",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan plans to raise threshold for special shareholder meetings",
+        "url": "https://asia.nikkei.com/business/markets/equities/japan-plans-to-raise-threshold-for-special-shareholder-meetings",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,10 +212,10 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 17,
     "region-americas": 13,
-    "region-sea": 18,
-    "region-vietnam": 15,
-    "region-global": 32,
+    "region-vietnam": 17,
+    "region-global": 31,
     "region-europe": 2
   }
 }
