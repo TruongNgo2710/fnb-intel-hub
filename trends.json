@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-17T02:48:56.793091+00:00",
+  "updated": "2026-07-17T06:20:56.095634+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 26,
+      "count": 43,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 12,
+      "count": 15,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
+      "count": 12,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -82,6 +82,12 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-arabica",
       "name": "brand-arabica",
       "count": 1,
@@ -90,15 +96,15 @@
   ],
   "sentiment": {
     "positive": 25,
-    "negative": 7,
-    "neutral": 48,
-    "score": 22,
+    "negative": 6,
+    "neutral": 49,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -111,10 +117,14 @@
     {
       "word": "wine",
       "count": 2
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -129,45 +139,33 @@
         "title": "How Black Rock Coffee Bar plans to stand out in crowded beverage category",
         "url": "https://www.nrn.com/quick-service/how-black-rock-coffee-bar-plans-to-stand-out-in-crowded-beverage-category",
         "source": "Nation's Restaurant News",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Houston’s Della Coffee Pours Another One in Richmond, Texas",
         "url": "https://dailycoffeenews.com/2026/07/16/houstons-della-coffee-pours-another-one-in-richmond-texas/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "European Commission Adds Soluble Coffee to EUDR Product List",
         "url": "https://dailycoffeenews.com/2026/07/16/european-commission-adds-soluble-coffee-to-eudr-product-list/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: The Wild Fox In San Francisco, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-the-wild-fox-in-san-francisco-ca-1159764.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "AI could transform ASEAN manufacturing, executives say",
-        "url": "https://asia.nikkei.com/spotlight/nikkei-asia-forum/nikkei-asia-forum-apac-2026/ai-could-transform-asean-manufacturing-executives-say",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "7-Eleven owner Seven & i set for big investment in Poland's top store chain",
-        "url": "https://asia.nikkei.com/business/business-deals/7-eleven-owner-seven-i-set-for-big-investment-in-poland-s-top-store-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Nvidia cashes in on sovereign AI, setting sights on Japan for latest tie-up",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-cashes-in-on-sovereign-ai-setting-sights-on-japan-for-latest-tie-up",
@@ -185,9 +183,21 @@
         "url": "https://asia.nikkei.com/business/markets/equities/japan-plans-to-raise-threshold-for-special-shareholder-meetings",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Xi dabbles in 'AI diplomacy' at Shanghai forum with Thai, Cambodian PMs",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/xi-dabbles-in-ai-diplomacy-at-shanghai-forum-with-thai-cambodian-pms",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Kioxia dives 16% as AI stocks face deleveraging",
+        "url": "https://asia.nikkei.com/business/markets/kioxia-dives-16-as-ai-stocks-face-deleveraging",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,8 +224,8 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-americas": 13,
-    "region-vietnam": 17,
-    "region-global": 31,
+    "region-vietnam": 16,
+    "region-global": 32,
     "region-europe": 2
   }
 }
