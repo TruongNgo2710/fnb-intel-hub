@@ -1,56 +1,56 @@
 {
-  "updated": "2026-07-17T20:59:53.377938+00:00",
+  "updated": "2026-07-18T02:40:01.271437+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 53,
+  "articles_24h": 51,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 26,
+      "count": 44,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 14,
       "count_24h": 11,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 12,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 8,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 9,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 6,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 6,
+    "positive": 18,
+    "negative": 9,
     "neutral": 53,
-    "score": 19,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -135,45 +135,33 @@
         "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-domino-s-starbucks-and-kfc",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "FDA Eyes Caffeine Labeling as a 2026 Priority",
         "url": "https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Weekly Coffee News: CQI in Brazil + Another Coffee Festival",
         "url": "https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Some Green Coffee Importers Are Now Issuing Tariff Refunds",
         "url": "https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Japanese stocks plunge as AI deleverage sends Kioxia down 16%",
-        "url": "https://asia.nikkei.com/business/markets/japanese-stocks-plunge-as-ai-deleverage-sends-kioxia-down-16",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "India launches first hydrogen train amid rail modernization drive",
-        "url": "https://asia.nikkei.com/business/transportation/india-launches-first-hydrogen-train-amid-rail-modernization-drive",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Xi dabbles in 'AI diplomacy' at Shanghai forum with Thai, Cambodian PMs",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/xi-dabbles-in-ai-diplomacy-at-shanghai-forum-with-thai-cambodian-pms",
@@ -191,9 +179,21 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-partners-with-cadence-on-ai-agent-chip-design-tools",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China-US container rates hit 2-year high ahead of tariff changes",
+        "url": "https://asia.nikkei.com/business/transportation/china-us-container-rates-hit-2-year-high-ahead-of-tariff-changes",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan chemical maker to double capacity for material in AI server supply chain",
+        "url": "https://asia.nikkei.com/business/materials/japan-chemical-maker-to-double-capacity-for-material-in-ai-server-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 46 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -218,10 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 19,
-    "region-vietnam": 16,
-    "region-global": 24,
+    "region-sea": 20,
+    "region-vietnam": 13,
+    "region-global": 27,
+    "region-americas": 18,
     "region-europe": 2
   }
 }
