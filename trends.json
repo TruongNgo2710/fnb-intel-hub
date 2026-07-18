@@ -1,28 +1,21 @@
 {
-  "updated": "2026-07-18T17:02:10.869044+00:00",
+  "updated": "2026-07-18T20:54:04.977807+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 41,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 19,
+      "count": 45,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 13,
-      "count_24h": 8,
+      "count": 14,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -31,6 +24,13 @@
       "count": 11,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 7,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
@@ -57,8 +57,8 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -72,13 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -90,6 +84,12 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 2,
       "trend": "up"
     }
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -160,14 +160,8 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "China's Moonshot AI gains on Anthropic, OpenAI with new low-cost model",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-gains-on-anthropic-openai-with-new-low-cost-model",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Rapidus partners with Cadence on AI agent chip design tools",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-partners-with-cadence-on-ai-agent-chip-design-tools",
@@ -191,9 +185,15 @@
         "url": "https://asia.nikkei.com/politics/international-relations/philippines-denounces-ai-video-from-china-state-media-as-racist",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia, Big Tech stocks tumble as Chinese AI model stokes competitive fears",
+        "url": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 46 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,8 +219,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-vietnam": 14,
-    "region-global": 27,
+    "region-vietnam": 13,
+    "region-global": 28,
     "region-americas": 17,
     "region-europe": 2
   }
