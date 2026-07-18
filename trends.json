@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-18T06:09:07.932303+00:00",
+  "updated": "2026-07-18T09:30:06.338593+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 54,
+  "articles_24h": 52,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 26,
+      "count": 44,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 12,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -29,14 +29,14 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 10,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -50,8 +50,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -121,9 +121,9 @@
   ],
   "coffee_trends": {
     "total_articles": 11,
-    "price_direction": "down",
+    "price_direction": "stable",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -135,32 +135,32 @@
         "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-domino-s-starbucks-and-kfc",
         "source": "Nation's Restaurant News",
-        "time": "16 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "FDA Eyes Caffeine Labeling as a 2026 Priority",
         "url": "https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Weekly Coffee News: CQI in Brazil + Another Coffee Festival",
         "url": "https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "20 giờ trước"
       },
       {
-        "title": "Coffee News Recap, 17 Jul: Global Coffee Awards crown the best roasters in Asia, instant coffee will be included in EUDR & other stories",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-17-jul-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "18 giờ trước"
+        "title": "Some Green Coffee Importers Are Now Issuing Tariff Refunds",
+        "url": "https://sprudge.com/some-green-coffee-importers-are-now-issuing-tariff-refunds-1181963.html",
+        "source": "Sprudge Coffee",
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
       {
         "title": "China's Moonshot AI gains on Anthropic, OpenAI with new low-cost model",
@@ -193,7 +193,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 46 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 45 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -220,8 +220,8 @@
   "regional_breakdown": {
     "region-sea": 20,
     "region-vietnam": 14,
-    "region-global": 26,
+    "region-global": 27,
     "region-americas": 17,
-    "region-europe": 3
+    "region-europe": 2
   }
 }
