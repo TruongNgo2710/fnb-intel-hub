@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-19T02:54:53.116611+00:00",
+  "updated": "2026-07-19T06:33:45.304342+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 32,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 13,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -29,29 +29,29 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
+      "count": 9,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 5,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -76,15 +76,15 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -96,9 +96,9 @@
   ],
   "sentiment": {
     "positive": 19,
-    "negative": 9,
-    "neutral": 52,
-    "score": 12,
+    "negative": 8,
+    "neutral": 53,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -163,12 +163,6 @@
     "total_articles": 46,
     "top_articles": [
       {
-        "title": "China-US container rates hit 2-year high ahead of tariff changes",
-        "url": "https://asia.nikkei.com/business/transportation/china-us-container-rates-hit-2-year-high-ahead-of-tariff-changes",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Japan chemical maker to double capacity for material in AI server supply chain",
         "url": "https://asia.nikkei.com/business/materials/japan-chemical-maker-to-double-capacity-for-material-in-ai-server-supply-chain",
         "source": "Nikkei Asia",
@@ -189,6 +183,12 @@
       {
         "title": "Narita Airport bus tours offer close encounters with aircraft",
         "url": "https://asia.nikkei.com/business/travel-leisure/narita-airport-bus-tours-offer-close-encounters-with-aircraft",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI can help predict the next pandemic",
+        "url": "https://asia.nikkei.com/opinion/ai-can-help-predict-the-next-pandemic",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
