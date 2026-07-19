@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-18T20:54:04.977807+00:00",
+  "updated": "2026-07-19T02:54:53.116611+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 15,
+      "count": 44,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -29,14 +29,14 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -90,15 +90,15 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 19,
     "negative": 9,
-    "neutral": 53,
-    "score": 11,
+    "neutral": 52,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -111,11 +111,11 @@
       "count": 3
     },
     {
-      "word": "supply chain",
-      "count": 2
+      "word": "chatgpt",
+      "count": 3
     },
     {
-      "word": "chatgpt",
+      "word": "supply chain",
       "count": 2
     }
   ],
@@ -160,14 +160,8 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Japan's Rapidus partners with Cadence on AI agent chip design tools",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-partners-with-cadence-on-ai-agent-chip-design-tools",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China-US container rates hit 2-year high ahead of tariff changes",
         "url": "https://asia.nikkei.com/business/transportation/china-us-container-rates-hit-2-year-high-ahead-of-tariff-changes",
@@ -191,9 +185,15 @@
         "url": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Narita Airport bus tours offer close encounters with aircraft",
+        "url": "https://asia.nikkei.com/business/travel-leisure/narita-airport-bus-tours-offer-close-encounters-with-aircraft",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
