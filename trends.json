@@ -1,21 +1,14 @@
 {
-  "updated": "2026-07-19T13:22:59.478685+00:00",
+  "updated": "2026-07-19T17:01:54.272664+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 43,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 5,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -26,10 +19,17 @@
       "trend": "up"
     },
     {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 12,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 5,
+      "count": 9,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -86,19 +86,13 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 8,
+    "positive": 20,
+    "negative": 7,
     "neutral": 53,
-    "score": 14,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -113,10 +107,6 @@
     {
       "word": "chatgpt",
       "count": 3
-    },
-    {
-      "word": "supply chain",
-      "count": 2
     }
   ],
   "coffee_trends": {
@@ -135,13 +125,13 @@
         "title": "The Only Three-Hour Odyssey I’m Interested In Is My Morning Caffeine High",
         "url": "https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-domino-s-starbucks-and-kfc",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "FDA Eyes Caffeine Labeling as a 2026 Priority",
@@ -163,12 +153,6 @@
     "total_articles": 45,
     "top_articles": [
       {
-        "title": "Japan chemical maker to double capacity for material in AI server supply chain",
-        "url": "https://asia.nikkei.com/business/materials/japan-chemical-maker-to-double-capacity-for-material-in-ai-server-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Philippines denounces AI video from China state media as racist",
         "url": "https://asia.nikkei.com/politics/international-relations/philippines-denounces-ai-video-from-china-state-media-as-racist",
         "source": "Nikkei Asia",
@@ -189,6 +173,12 @@
       {
         "title": "AI can help predict the next pandemic",
         "url": "https://asia.nikkei.com/opinion/ai-can-help-predict-the-next-pandemic",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Cairo's ambitious monorail reaches for China scale but lacks commuters",
+        "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
