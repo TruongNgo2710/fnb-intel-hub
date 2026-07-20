@@ -1,57 +1,50 @@
 {
-  "updated": "2026-07-20T18:07:44.713529+00:00",
+  "updated": "2026-07-20T21:15:36.035334+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 56,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 21,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 9,
+      "count": 43,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 7,
+      "count": 14,
+      "count_24h": 10,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 13,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -65,6 +58,13 @@
       "label": "#Brunch",
       "count": 2,
       "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -86,31 +86,19 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 25,
+    "positive": 27,
     "negative": 4,
-    "neutral": 51,
-    "score": 26,
+    "neutral": 49,
+    "score": 29,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -118,7 +106,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -133,45 +121,33 @@
         "title": "Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong)",
         "url": "https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html",
         "source": "Sprudge Coffee",
-        "time": "46 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "AHA Says This Many Cups of Coffee Per Day is Safe for Most Adults",
         "url": "https://dailycoffeenews.com/2026/07/20/aha-says-this-many-cups-of-coffee-per-day-is-safe-for-most-adults/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO",
         "url": "https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Dynamic Coffee Steadies Focus on Producers at New Pittsburgh Shop",
         "url": "https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Mitsubishi aims to make green aviation fuel with Archer Daniels Midland",
-        "url": "https://asia.nikkei.com/business/energy/mitsubishi-aims-to-make-green-aviation-fuel-with-archer-daniels-midland",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "The world needs a SHIELD against the next global shock",
-        "url": "https://asia.nikkei.com/opinion/the-world-needs-a-shield-against-the-next-global-shock",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's chocoZAP gym chain bulks up in Hong Kong to lift Asian growth",
         "url": "https://asia.nikkei.com/business/companies/japan-s-chocozap-gym-chain-bulks-up-in-hong-kong-to-lift-asian-growth",
@@ -189,9 +165,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-halts-subscriptions-for-kimi-k3-after-users-surge",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to make new push to set global standards as it trails in AI, chips",
+        "url": "https://asia.nikkei.com/business/technology/japan-to-make-new-push-to-set-global-standards-as-it-trails-in-ai-chips",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,8 +205,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-americas": 17,
-    "region-vietnam": 17,
-    "region-global": 26
+    "region-americas": 15,
+    "region-vietnam": 18,
+    "region-global": 27
   }
 }
