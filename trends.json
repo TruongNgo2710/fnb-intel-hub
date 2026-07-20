@@ -1,14 +1,21 @@
 {
-  "updated": "2026-07-20T14:11:54.339055+00:00",
+  "updated": "2026-07-20T18:07:44.713529+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 44,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 16,
+      "count": 41,
+      "count_24h": 21,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 14,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -19,39 +26,32 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 3,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
+      "count": 6,
       "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -76,14 +76,20 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
+      "tag": "brand-kingcoffee",
+      "name": "brand-kingcoffee",
+      "count": 1,
       "trend": "up"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
       "count": 1,
       "trend": "up"
     },
@@ -95,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
+    "positive": 25,
     "negative": 4,
-    "neutral": 52,
-    "score": 25,
+    "neutral": 51,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -112,9 +118,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "up",
-    "price_up_signals": 1,
+    "price_up_signals": 2,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -124,48 +130,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong)",
+        "url": "https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html",
+        "source": "Sprudge Coffee",
+        "time": "46 phút trước"
+      },
+      {
+        "title": "AHA Says This Many Cups of Coffee Per Day is Safe for Most Adults",
+        "url": "https://dailycoffeenews.com/2026/07/20/aha-says-this-many-cups-of-coffee-per-day-is-safe-for-most-adults/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO",
         "url": "https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html",
         "source": "Sprudge Coffee",
-        "time": "8 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Dynamic Coffee Steadies Focus on Producers at New Pittsburgh Shop",
         "url": "https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "The Only Three-Hour Odyssey I’m Interested In Is My Morning Caffeine High",
-        "url": "https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
-        "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-domino-s-starbucks-and-kfc",
-        "source": "Nation's Restaurant News",
-        "time": "3 ngày trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "AI can help predict the next pandemic",
-        "url": "https://asia.nikkei.com/opinion/ai-can-help-predict-the-next-pandemic",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Cairo's ambitious monorail reaches for China scale but lacks commuters",
-        "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Mitsubishi aims to make green aviation fuel with Archer Daniels Midland",
         "url": "https://asia.nikkei.com/business/energy/mitsubishi-aims-to-make-green-aviation-fuel-with-archer-daniels-midland",
@@ -183,9 +177,21 @@
         "url": "https://asia.nikkei.com/business/companies/japan-s-chocozap-gym-chain-bulks-up-in-hong-kong-to-lift-asian-growth",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan alleges ex-TSMC staff stole chip secrets to sell to China",
+        "url": "https://asia.nikkei.com/business/technology/taiwan-alleges-ex-tsmc-staff-stole-chip-secrets-to-sell-to-china",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China's Moonshot AI halts subscriptions for Kimi K3 after users surge",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-halts-subscriptions-for-kimi-k3-after-users-surge",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +216,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 19,
-    "region-global": 26,
-    "region-americas": 14
+    "region-sea": 20,
+    "region-americas": 17,
+    "region-vietnam": 17,
+    "region-global": 26
   }
 }
