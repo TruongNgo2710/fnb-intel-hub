@@ -1,43 +1,50 @@
 {
-  "updated": "2026-07-20T06:50:49.328052+00:00",
+  "updated": "2026-07-20T10:56:32.726502+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 39,
+  "articles_24h": 42,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 3,
+      "count": 41,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
+      "count": 8,
       "count_24h": 5,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -45,13 +52,6 @@
       "count": 3,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -72,13 +72,19 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
       "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -89,31 +95,27 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "negative": 4,
-    "neutral": 53,
-    "score": 24,
+    "neutral": 52,
+    "score": 25,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "specialty",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 7,
     "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_up_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -122,16 +124,10 @@
         "time": "0 phút trước"
       },
       {
-        "title": "What exactly is “ultrasonic espresso”?",
-        "url": "https://perfectdailygrind.com/2026/07/what-is-ultrasonic-espresso/",
-        "source": "Perfect Daily Grind",
-        "time": "1 giờ trước"
-      },
-      {
         "title": "The Only Three-Hour Odyssey I’m Interested In Is My Morning Caffeine High",
         "url": "https://sprudge.com/the-only-three-hour-odyssey-im-interested-in-is-my-morning-caffeine-high-1187195.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Domino’s, Starbucks, and KFC",
@@ -144,13 +140,19 @@
         "url": "https://dailycoffeenews.com/2026/07/17/fda-eyes-caffeine-labeling-as-a-2026-priority/",
         "source": "Daily Coffee News",
         "time": "2 ngày trước"
+      },
+      {
+        "title": "Weekly Coffee News: CQI in Brazil + Another Coffee Festival",
+        "url": "https://dailycoffeenews.com/2026/07/17/weekly-coffee-news-cqi-in-brazil-another-coffee-festival/",
+        "source": "Daily Coffee News",
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "AI can help predict the next pandemic",
@@ -177,13 +179,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "Japan's chocoZAP gym chain bulks up in Hong Kong to lift Asian growth",
+        "url": "https://asia.nikkei.com/business/companies/japan-s-chocozap-gym-chain-bulks-up-in-hong-kong-to-lift-asian-growth",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -208,10 +210,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 16,
-    "region-europe": 2,
-    "region-global": 28,
-    "region-americas": 14
+    "region-sea": 21,
+    "region-vietnam": 18,
+    "region-americas": 14,
+    "region-global": 27
   }
 }
