@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-21T17:24:27.504288+00:00",
+  "updated": "2026-07-21T21:14:20.561792+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 34,
+      "count": 47,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
@@ -19,46 +19,46 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 8,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 6,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 5,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -72,13 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 25,
-    "negative": 5,
-    "neutral": 50,
-    "score": 25,
-    "label": "Tích cực"
+    "positive": 22,
+    "negative": 6,
+    "neutral": 52,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -106,10 +106,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -121,45 +121,33 @@
         "title": "Study Links Filter Coffee to Lower Blood Sugar via the Gut",
         "url": "https://dailycoffeenews.com/2026/07/21/study-links-filter-coffee-to-lower-blood-sugar-via-the-gut/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "At Brooklyn’s Hyunah Coffee Club, Enthusiasts Get Off The Internet And Into The Lab",
         "url": "https://sprudge.com/at-brooklyns-hyunah-coffee-club-enthusiasts-get-off-the-internet-and-into-the-lab-1192849.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "From Taiwan, the Orbiter OB-1 Pro Joins the Small Roaster Sphere",
         "url": "https://dailycoffeenews.com/2026/07/21/from-taiwan-the-orbiter-ob-1-pro-joins-the-small-roaster-sphere/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Beyond Traceability: Why Producers Need Institutional Capacity for EUDR Compliance",
         "url": "https://dailycoffeenews.com/2026/07/21/beyond-traceability-why-producers-need-institutional-capacity-for-eudr-compliance/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "German travel app Omio raises $10m from Japan-Singapore fund",
-        "url": "https://asia.nikkei.com/business/travel-leisure/german-travel-app-omio-raises-10m-from-japan-singapore-fund",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Takaichi's new economic blueprint for Japan: 4 things to know",
-        "url": "https://asia.nikkei.com/politics/takaichi-s-new-economic-blueprint-for-japan-4-things-to-know",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Exclusive: TSMC to raise chipmaking prices by up to 10% from 2027",
         "url": "https://asia.nikkei.com/business/technology/exclusive-tsmc-to-raise-chipmaking-prices-by-up-to-10-from-2027",
@@ -177,15 +165,27 @@
         "url": "https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/ai-offers-new-path-for-asia-s-manufacturers-from-evs-to-humanoids",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Mainland publishers raise profile at Hong Kong Book Fair",
+        "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/mainland-publishers-raise-profile-at-hong-kong-book-fair",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chinese parts makers aim to break open Japan's close-knit auto industry",
+        "url": "https://asia.nikkei.com/business/automobiles/chinese-parts-makers-aim-to-break-open-japan-s-close-knit-auto-industry",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -204,10 +204,10 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 2,
-    "region-sea": 20,
-    "region-vietnam": 17,
-    "region-global": 24,
-    "region-americas": 17
+    "region-sea": 21,
+    "region-vietnam": 12,
+    "region-global": 27,
+    "region-americas": 19,
+    "region-europe": 1
   }
 }
