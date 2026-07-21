@@ -1,43 +1,50 @@
 {
-  "updated": "2026-07-21T06:32:03.838193+00:00",
+  "updated": "2026-07-21T10:28:53.333528+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 31,
+      "count": 51,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 12,
+      "count": 17,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 13,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 7,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -47,10 +54,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -59,20 +66,13 @@
       "count": 2,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 28,
+    "positive": 22,
     "negative": 4,
-    "neutral": 48,
-    "score": 30,
+    "neutral": 54,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 51
     },
     {
       "word": "gọi vốn",
@@ -114,7 +114,7 @@
   "coffee_trends": {
     "total_articles": 7,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -124,48 +124,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Lâm Đồng sắp có nhà máy chế biến nông sản hơn 500 tỷ",
+        "url": "https://vnexpress.net/lam-dong-sap-co-nha-may-che-bien-nong-san-hon-500-ty-5099871.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong)",
         "url": "https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "AHA Says This Many Cups of Coffee Per Day is Safe for Most Adults",
         "url": "https://dailycoffeenews.com/2026/07/20/aha-says-this-many-cups-of-coffee-per-day-is-safe-for-most-adults/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO",
         "url": "https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Dynamic Coffee Steadies Focus on Producers at New Pittsburgh Shop",
-        "url": "https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/",
-        "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 54,
     "top_articles": [
-      {
-        "title": "Japan to make new push to set global standards as it trails in AI, chips",
-        "url": "https://asia.nikkei.com/business/technology/japan-to-make-new-push-to-set-global-standards-as-it-trails-in-ai-chips",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japanese self-driving truck venture T2 raises $30m",
         "url": "https://asia.nikkei.com/business/startups/japanese-self-driving-truck-venture-t2-raises-30m",
@@ -183,15 +171,27 @@
         "url": "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's Moonshot AI plans Hong Kong IPO as Kimi K3 shocks Silicon Valley",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-plans-hong-kong-ipo-as-kimi-k3-shocks-silicon-valley",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "German travel app Omio raises $10m from Japan-Singapore fund",
+        "url": "https://asia.nikkei.com/business/travel-leisure/german-travel-app-omio-raises-10m-from-japan-singapore-fund",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 54 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "wheat": {
       "direction": "unknown",
@@ -211,9 +211,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 13,
     "region-europe": 1,
-    "region-vietnam": 19,
-    "region-global": 29
+    "region-vietnam": 14,
+    "region-americas": 17,
+    "region-global": 30
   }
 }
