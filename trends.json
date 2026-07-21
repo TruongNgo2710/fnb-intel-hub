@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21T02:51:44.569368+00:00",
+  "updated": "2026-07-21T06:32:03.838193+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -15,20 +15,20 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 11,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 13,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 6,
+      "count": 7,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -36,7 +36,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "sentiment": {
-    "positive": 30,
-    "negative": 3,
-    "neutral": 47,
-    "score": 34,
+    "positive": 28,
+    "negative": 4,
+    "neutral": 48,
+    "score": 30,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -112,9 +112,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
+    "total_articles": 7,
     "price_direction": "up",
-    "price_up_signals": 1,
+    "price_up_signals": 2,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -127,51 +127,33 @@
         "title": "Rejoice! Pope Leo Loves Drinking Coffee (And He Likes It Strong)",
         "url": "https://sprudge.com/rejoice-pope-leo-loves-drinking-coffee-and-he-likes-it-strong-1186669.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "AHA Says This Many Cups of Coffee Per Day is Safe for Most Adults",
         "url": "https://dailycoffeenews.com/2026/07/20/aha-says-this-many-cups-of-coffee-per-day-is-safe-for-most-adults/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Blue Sparrow Coffee In Denver, CO",
         "url": "https://sprudge.com/build-outs-of-coffee-blue-sparrow-coffee-in-denver-co-1101814.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Dynamic Coffee Steadies Focus on Producers at New Pittsburgh Shop",
         "url": "https://dailycoffeenews.com/2026/07/20/dynamic-coffee-steadies-focus-on-producers-at-new-pittsburgh-shop/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Japan's chocoZAP gym chain bulks up in Hong Kong to lift Asian growth",
-        "url": "https://asia.nikkei.com/business/companies/japan-s-chocozap-gym-chain-bulks-up-in-hong-kong-to-lift-asian-growth",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan alleges ex-TSMC staff stole chip secrets to sell to China",
-        "url": "https://asia.nikkei.com/business/technology/taiwan-alleges-ex-tsmc-staff-stole-chip-secrets-to-sell-to-china",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's Moonshot AI halts subscriptions for Kimi K3 after users surge",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-moonshot-ai-halts-subscriptions-for-kimi-k3-after-users-surge",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan to make new push to set global standards as it trails in AI, chips",
         "url": "https://asia.nikkei.com/business/technology/japan-to-make-new-push-to-set-global-standards-as-it-trails-in-ai-chips",
@@ -181,6 +163,24 @@
       {
         "title": "Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding",
         "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japanese self-driving truck venture T2 raises $30m",
+        "url": "https://asia.nikkei.com/business/startups/japanese-self-driving-truck-venture-t2-raises-30m",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Cool Japan Fund faces uncertain future after falling deeper into the red",
+        "url": "https://asia.nikkei.com/business/media-entertainment/cool-japan-fund-faces-uncertain-future-after-falling-deeper-into-the-red",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Game giant Nexon's shares drop despite success of ARC Raiders",
+        "url": "https://asia.nikkei.com/business/media-entertainment/game-giant-nexon-s-shares-drop-despite-success-of-arc-raiders",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -210,8 +210,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 12,
+    "region-sea": 18,
+    "region-americas": 13,
     "region-europe": 1,
     "region-vietnam": 19,
     "region-global": 29
