@@ -1,42 +1,42 @@
 {
-  "updated": "2026-07-22T14:02:10.576878+00:00",
+  "updated": "2026-07-22T17:24:25.367576+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 65,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 34,
+      "count": 43,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 14,
       "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 9,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 7,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -70,14 +70,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 5,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
     },
@@ -88,6 +88,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-passio",
       "name": "brand-passio",
       "count": 1,
@@ -95,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 4,
-    "neutral": 54,
-    "score": 22,
+    "positive": 20,
+    "negative": 3,
+    "neutral": 57,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -120,10 +126,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "down",
+    "total_articles": 10,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -132,42 +138,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Build-Outs Of Coffee: SPRO Coffee Lab In San Francisco, CA",
+        "url": "https://sprudge.com/build-outs-of-coffee-spro-coffee-lab-in-san-francisco-ca-1161900.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Three Questions with Deandra Gauci of Coffee&strangers in Malta",
         "url": "https://dailycoffeenews.com/2026/07/22/three-questions-with-deandra-gauci-of-coffeestrangers-in-malta/",
         "source": "Daily Coffee News",
-        "time": "42 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "A Second Camellia Coffee Roasters Cafe Blooms in Northern California",
         "url": "https://dailycoffeenews.com/2026/07/22/a-second-camellia-coffee-roasters-cafe-blooms-in-northern-california/",
         "source": "Daily Coffee News",
-        "time": "58 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "In Goa, Unseen Combines Boutique Lodging With Full On Coffee Nerdery",
         "url": "https://sprudge.com/in-goa-unseen-combines-boutique-lodging-with-full-on-coffee-nerdery-1214653.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "The push for novel varieties is bringing overlooked coffees back into the spotlight",
-        "url": "https://perfectdailygrind.com/2026/07/new-coffee-varieties-species-competitions/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Nvidia and Wistron to build Blackwell AI servers in Texas",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-and-wistron-to-build-blackwell-ai-servers-in-texas",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Trump's renewed outreach to Kim raises prospects of new talks",
         "url": "https://asia.nikkei.com/spotlight/comment/trump-s-renewed-outreach-to-kim-raises-prospects-of-new-talks",
@@ -191,9 +191,15 @@
         "url": "https://asia.nikkei.com/opinion/diplomacy-shifts-faster-than-clean-energy-supply-chains-can-be-built",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan to push advanced robotics on distinct path from China: tech czar",
+        "url": "https://asia.nikkei.com/business/technology/taiwan-to-push-advanced-robotics-on-distinct-path-from-china-tech-czar",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,8 +226,8 @@
   "regional_breakdown": {
     "region-sea": 20,
     "region-europe": 2,
-    "region-vietnam": 15,
-    "region-global": 28,
-    "region-americas": 15
+    "region-vietnam": 13,
+    "region-americas": 16,
+    "region-global": 29
   }
 }
