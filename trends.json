@@ -1,42 +1,42 @@
 {
-  "updated": "2026-07-22T02:49:34.006381+00:00",
+  "updated": "2026-07-22T06:33:02.717993+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 33,
+      "count": 43,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 11,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -47,10 +47,17 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -59,32 +66,25 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 5,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -95,27 +95,35 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 6,
-    "neutral": 52,
+    "positive": 20,
+    "negative": 4,
+    "neutral": 56,
     "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 43
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "acquisition",
+      "count": 2
+    },
+    {
+      "word": "ucc",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "down",
-    "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_up_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -124,48 +132,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The push for novel varieties is bringing overlooked coffees back into the spotlight",
+        "url": "https://perfectdailygrind.com/2026/07/new-coffee-varieties-species-competitions/",
+        "source": "Perfect Daily Grind",
+        "time": "36 phút trước"
+      },
+      {
         "title": "Study Links Filter Coffee to Lower Blood Sugar via the Gut",
         "url": "https://dailycoffeenews.com/2026/07/21/study-links-filter-coffee-to-lower-blood-sugar-via-the-gut/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "At Brooklyn’s Hyunah Coffee Club, Enthusiasts Get Off The Internet And Into The Lab",
         "url": "https://sprudge.com/at-brooklyns-hyunah-coffee-club-enthusiasts-get-off-the-internet-and-into-the-lab-1192849.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "From Taiwan, the Orbiter OB-1 Pro Joins the Small Roaster Sphere",
         "url": "https://dailycoffeenews.com/2026/07/21/from-taiwan-the-orbiter-ob-1-pro-joins-the-small-roaster-sphere/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Beyond Traceability: Why Producers Need Institutional Capacity for EUDR Compliance",
-        "url": "https://dailycoffeenews.com/2026/07/21/beyond-traceability-why-producers-need-institutional-capacity-for-eudr-compliance/",
-        "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Chinese parts makers aim to break open Japan's close-knit auto industry",
-        "url": "https://asia.nikkei.com/business/automobiles/chinese-parts-makers-aim-to-break-open-japan-s-close-knit-auto-industry",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan eyes next homegrown passenger aircraft 3 years after SpaceJet's end",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-eyes-next-homegrown-passenger-aircraft-3-years-after-spacejet-s-end",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Narita Airport aims to become East Asia cargo hub with streamline measures",
         "url": "https://asia.nikkei.com/business/transportation/narita-airport-aims-to-become-east-asia-cargo-hub-with-streamline-measures",
@@ -183,9 +179,21 @@
         "url": "https://asia.nikkei.com/business/technology/tech-asia/inside-taiwan-s-most-ambitious-space-mission-yet",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia and Wistron to build Blackwell AI servers in Texas",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-and-wistron-to-build-blackwell-ai-servers-in-texas",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Trump's renewed outreach to Kim raises prospects of new talks",
+        "url": "https://asia.nikkei.com/spotlight/comment/trump-s-renewed-outreach-to-kim-raises-prospects-of-new-talks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,10 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
+    "region-sea": 19,
     "region-europe": 2,
-    "region-vietnam": 13,
-    "region-global": 27,
-    "region-americas": 18
+    "region-vietnam": 15,
+    "region-global": 28,
+    "region-americas": 16
   }
 }
