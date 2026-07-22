@@ -1,55 +1,48 @@
 {
-  "updated": "2026-07-22T06:33:02.717993+00:00",
+  "updated": "2026-07-22T10:28:50.366800+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 65,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 32,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 13,
+      "count": 45,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 6,
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 12,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
@@ -63,6 +56,13 @@
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -86,33 +86,23 @@
       "name": "brand-ucc",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 23,
     "negative": 4,
-    "neutral": 56,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 53,
+    "score": 24,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 45
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "acquisition",
-      "count": 2
     },
     {
       "word": "ucc",
@@ -120,10 +110,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 6,
     "price_direction": "down",
-    "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_up_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -132,42 +122,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The push for novel varieties is bringing overlooked coffees back into the spotlight",
-        "url": "https://perfectdailygrind.com/2026/07/new-coffee-varieties-species-competitions/",
-        "source": "Perfect Daily Grind",
-        "time": "36 phút trước"
-      },
-      {
         "title": "Study Links Filter Coffee to Lower Blood Sugar via the Gut",
         "url": "https://dailycoffeenews.com/2026/07/21/study-links-filter-coffee-to-lower-blood-sugar-via-the-gut/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "At Brooklyn’s Hyunah Coffee Club, Enthusiasts Get Off The Internet And Into The Lab",
         "url": "https://sprudge.com/at-brooklyns-hyunah-coffee-club-enthusiasts-get-off-the-internet-and-into-the-lab-1192849.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "From Taiwan, the Orbiter OB-1 Pro Joins the Small Roaster Sphere",
         "url": "https://dailycoffeenews.com/2026/07/21/from-taiwan-the-orbiter-ob-1-pro-joins-the-small-roaster-sphere/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
+      },
+      {
+        "title": "Beyond Traceability: Why Producers Need Institutional Capacity for EUDR Compliance",
+        "url": "https://dailycoffeenews.com/2026/07/21/beyond-traceability-why-producers-need-institutional-capacity-for-eudr-compliance/",
+        "source": "Daily Coffee News",
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Narita Airport aims to become East Asia cargo hub with streamline measures",
-        "url": "https://asia.nikkei.com/business/transportation/narita-airport-aims-to-become-east-asia-cargo-hub-with-streamline-measures",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan proposes WTO end unanimity rule for certain multiparty deals",
         "url": "https://asia.nikkei.com/politics/international-relations/japan-proposes-wto-end-unanimity-rule-for-certain-multiparty-deals",
@@ -191,9 +175,15 @@
         "url": "https://asia.nikkei.com/spotlight/comment/trump-s-renewed-outreach-to-kim-raises-prospects-of-new-talks",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Yen falls to 39-year low of 163 per dollar on Iran tensions, Takaichi plan",
+        "url": "https://asia.nikkei.com/business/markets/currencies/yen-falls-to-39-year-low-of-163-per-dollar-on-iran-tensions-takaichi-plan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,10 +208,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 20,
     "region-europe": 2,
-    "region-vietnam": 15,
-    "region-global": 28,
-    "region-americas": 16
+    "region-vietnam": 16,
+    "region-americas": 16,
+    "region-global": 26
   }
 }
