@@ -1,42 +1,42 @@
 {
-  "updated": "2026-07-22T17:24:25.367576+00:00",
+  "updated": "2026-07-22T21:13:08.905540+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 32,
+      "count": 44,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 13,
+      "count": 17,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -49,16 +49,16 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 1,
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -70,15 +70,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 5,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -101,20 +101,28 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 3,
-    "neutral": 57,
-    "score": 21,
-    "label": "Tích cực"
+    "positive": 18,
+    "negative": 2,
+    "neutral": 60,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
+    },
+    {
+      "word": "funding",
+      "count": 3
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     },
     {
       "word": "specialty",
@@ -126,7 +134,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -138,28 +146,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "EUDR Provides Massive Challenge to the Vital Honduras Coffee Sector",
+        "url": "https://dailycoffeenews.com/2026/07/22/eudr-provides-massive-challenge-to-the-vital-honduras-coffee-sector/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: SPRO Coffee Lab In San Francisco, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-spro-coffee-lab-in-san-francisco-ca-1161900.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Three Questions with Deandra Gauci of Coffee&strangers in Malta",
         "url": "https://dailycoffeenews.com/2026/07/22/three-questions-with-deandra-gauci-of-coffeestrangers-in-malta/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "A Second Camellia Coffee Roasters Cafe Blooms in Northern California",
         "url": "https://dailycoffeenews.com/2026/07/22/a-second-camellia-coffee-roasters-cafe-blooms-in-northern-california/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "In Goa, Unseen Combines Boutique Lodging With Full On Coffee Nerdery",
-        "url": "https://sprudge.com/in-goa-unseen-combines-boutique-lodging-with-full-on-coffee-nerdery-1214653.html",
-        "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -169,24 +177,6 @@
     "total_articles": 46,
     "top_articles": [
       {
-        "title": "Trump's renewed outreach to Kim raises prospects of new talks",
-        "url": "https://asia.nikkei.com/spotlight/comment/trump-s-renewed-outreach-to-kim-raises-prospects-of-new-talks",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Yen falls to 39-year low of 163 per dollar on Iran tensions, Takaichi plan",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-falls-to-39-year-low-of-163-per-dollar-on-iran-tensions-takaichi-plan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's Unitree says 'GPT moment' for robots remains years away",
-        "url": "https://asia.nikkei.com/spotlight/nikkei-forum/global-digital-summit/global-digital-summit-2026/china-s-unitree-says-gpt-moment-for-robots-remains-years-away",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Diplomacy shifts faster than clean energy supply chains can be built",
         "url": "https://asia.nikkei.com/opinion/diplomacy-shifts-faster-than-clean-energy-supply-chains-can-be-built",
         "source": "Nikkei Asia",
@@ -195,6 +185,24 @@
       {
         "title": "Taiwan to push advanced robotics on distinct path from China: tech czar",
         "url": "https://asia.nikkei.com/business/technology/taiwan-to-push-advanced-robotics-on-distinct-path-from-china-tech-czar",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Philippines protests South China Sea AI video to China's Wang Yi",
+        "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-protests-south-china-sea-ai-video-to-china-s-wang-yi",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to stick with goodwill accounting rule, remaining global outlier",
+        "url": "https://asia.nikkei.com/business/finance/japan-to-stick-with-goodwill-accounting-rule-remaining-global-outlier",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI-driven soaring memory costs force carmakers to weigh price hikes",
+        "url": "https://asia.nikkei.com/business/automobiles/ai-driven-soaring-memory-costs-force-carmakers-to-weigh-price-hikes",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -225,9 +233,9 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-europe": 2,
     "region-vietnam": 13,
+    "region-global": 30,
     "region-americas": 16,
-    "region-global": 29
+    "region-europe": 1
   }
 }
