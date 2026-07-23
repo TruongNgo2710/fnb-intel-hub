@@ -1,55 +1,55 @@
 {
-  "updated": "2026-07-23T14:06:54.245290+00:00",
+  "updated": "2026-07-23T17:26:21.862082+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 28,
+      "count": 44,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 5,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 10,
       "count_24h": 9,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 9,
+      "count": 8,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -65,48 +65,46 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-passio",
-      "name": "brand-passio",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 25,
-    "negative": 2,
+    "positive": 24,
+    "negative": 3,
     "neutral": 53,
-    "score": 29,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 44
     },
     {
       "word": "gọi vốn",
+      "count": 3
+    },
+    {
+      "word": "funding",
       "count": 3
     },
     {
@@ -114,16 +112,16 @@
       "count": 2
     },
     {
-      "word": "funding",
+      "word": "chatgpt",
       "count": 2
     },
     {
-      "word": "specialty",
+      "word": "cold brew",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -135,48 +133,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Can Regenerative Coffee Farming Deliver Living Incomes? It Depends, Analysis Shows",
+        "url": "https://dailycoffeenews.com/2026/07/23/can-regenerative-coffee-farming-deliver-living-incomes-it-depends-analysis-shows/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Meet the emerging coffee chains that could outpace the giants",
+        "url": "https://www.nrn.com/emerging-chains/meet-the-emerging-coffee-chains-that-could-outpace-the-giants",
+        "source": "Nation's Restaurant News",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Ready To Drink: ‘Berserker Mode’ Nitro Cold Brew Cans From Horror Rock Heroes GWAR",
         "url": "https://sprudge.com/ready-to-drink-berserker-mode-nitro-cold-brew-cans-from-horror-rock-heroes-gwar-1098882.html",
         "source": "Sprudge Coffee",
-        "time": "4 phút trước"
+        "time": "3 giờ trước"
       },
       {
-        "title": "La Marzocco’s Ice Cream Social Goes To Cleveland",
-        "url": "https://sprudge.com/la-marzoccos-ice-cream-social-goes-to-cleveland-1222006.html",
-        "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Why hospitality is one of the hardest parts of running a coffee shop",
-        "url": "https://perfectdailygrind.com/2026/07/why-hospitality-is-hard-in-coffee-shops/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "EUDR Provides Massive Challenge to the Vital Honduras Coffee Sector",
-        "url": "https://dailycoffeenews.com/2026/07/22/eudr-provides-massive-challenge-to-the-vital-honduras-coffee-sector/",
+        "title": "Bootstrapping BrootLegg Extracts Launches High-Pressure Cold Brew Production",
+        "url": "https://dailycoffeenews.com/2026/07/23/bootstrapping-brootlegg-extracts-launches-high-pressure-cold-brew-production/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Philippines protests South China Sea AI video to China's Wang Yi",
-        "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-protests-south-china-sea-ai-video-to-china-s-wang-yi",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Elon Musk touts Tesla's AI6 as the world's best edge AI chip",
-        "url": "https://asia.nikkei.com/business/automobiles/elon-musk-touts-tesla-s-ai6-as-the-world-s-best-edge-ai-chip",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "South Korea logs modest growth even as AI chip boom powers exports",
         "url": "https://asia.nikkei.com/economy/south-korea-logs-modest-growth-even-as-ai-chip-boom-powers-exports",
@@ -194,9 +180,21 @@
         "url": "https://asia.nikkei.com/business/markets/commodities/australian-tungsten-miner-gets-billionaire-backing-as-prices-soar",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thai firms pivot to defense as government pushes local procurement",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/thai-firms-pivot-to-defense-as-government-pushes-local-procurement",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's AI play and Taiwan's space ambitions",
+        "url": "https://asia.nikkei.com/techasia/japan-s-ai-play-and-taiwan-s-space-ambitions",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -223,8 +221,8 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-europe": 3,
-    "region-americas": 15,
-    "region-vietnam": 14,
-    "region-global": 31
+    "region-americas": 20,
+    "region-vietnam": 12,
+    "region-global": 28
   }
 }
