@@ -1,42 +1,35 @@
 {
-  "updated": "2026-07-24T13:50:18.497766+00:00",
+  "updated": "2026-07-24T17:41:25.533589+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 31,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 10,
+      "count": 43,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 10,
       "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -47,10 +40,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -61,8 +61,8 @@
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -72,13 +72,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -89,32 +89,28 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 1,
+    "positive": 20,
+    "negative": 3,
     "neutral": 57,
-    "score": 26,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 43
+    },
+    {
+      "word": "claude",
+      "count": 4
+    },
+    {
+      "word": "chatgpt",
+      "count": 4
     },
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "chatgpt",
-      "count": 3
-    },
-    {
-      "word": "claude",
-      "count": 2
-    },
-    {
-      "word": "funding",
-      "count": 2
     },
     {
       "word": "cold brew",
@@ -122,10 +118,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "up",
+    "total_articles": 10,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -134,45 +130,57 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Filter Coffee Vs. Instant: Which Helps You Age Better?",
+        "url": "https://sprudge.com/filter-coffee-vs-instant-which-helps-you-age-better-1219429.html",
+        "source": "Sprudge Coffee",
+        "time": "11 phút trước"
+      },
+      {
+        "title": "Get the Most Out of Your DCN Advertising Campaign",
+        "url": "https://dailycoffeenews.com/2026/07/24/get-the-most-out-of-your-dcn-advertising-campaign/",
+        "source": "Daily Coffee News",
+        "time": "42 phút trước"
+      },
+      {
+        "title": "This is How You Get Coffee Shoppers to Follow Through on Ethical Purchasing",
+        "url": "https://dailycoffeenews.com/2026/07/24/this-is-how-you-get-coffee-shoppers-to-follow-through-on-ethical-purchasing/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Weekly Coffee News: New IWCA Chapters + Plastic in Retail Agreement",
         "url": "https://dailycoffeenews.com/2026/07/24/weekly-coffee-news-new-iwca-chapters-plastic-in-retail-agreement/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Can Regenerative Coffee Farming Deliver Living Incomes? It Depends, Analysis Shows",
-        "url": "https://dailycoffeenews.com/2026/07/23/can-regenerative-coffee-farming-deliver-living-incomes-it-depends-analysis-shows/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Meet the emerging coffee chains that could outpace the giants",
-        "url": "https://www.nrn.com/emerging-chains/meet-the-emerging-coffee-chains-that-could-outpace-the-giants",
-        "source": "Nation's Restaurant News",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Ready To Drink: ‘Berserker Mode’ Nitro Cold Brew Cans From Horror Rock Heroes GWAR",
-        "url": "https://sprudge.com/ready-to-drink-berserker-mode-nitro-cold-brew-cans-from-horror-rock-heroes-gwar-1098882.html",
-        "source": "Sprudge Coffee",
-        "time": "23 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 47,
     "top_articles": [
       {
-        "title": "BYD takes aim at Malaysia's luxury EV segment",
-        "url": "https://asia.nikkei.com/business/automobiles/byd-takes-aim-at-malaysia-s-luxury-ev-segment",
+        "title": "Vietnam tech giant FPT aims to tap Thai demand for AI",
+        "url": "https://asia.nikkei.com/business/technology/vietnam-tech-giant-fpt-aims-to-tap-thai-demand-for-ai",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Vietnam tech giant FPT aims to tap Thai demand for AI",
-        "url": "https://asia.nikkei.com/business/technology/vietnam-tech-giant-fpt-aims-to-tap-thai-demand-for-ai",
+        "title": "Mitsubishi Motors to pour $470m into Thailand for electrified vehicles",
+        "url": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-to-pour-470m-into-thailand-for-electrified-vehicles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan-Italy-UK fighter jet spurs interest from 10-plus countries at air show",
+        "url": "https://asia.nikkei.com/politics/defense/japan-italy-uk-fighter-jet-spurs-interest-from-10-plus-countries-at-air-show",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hitachi to use AI agents for entire systems development process",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-to-use-ai-agents-for-entire-systems-development-process",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -181,21 +189,9 @@
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-        "source": "TechCrunch AI",
-        "time": "13 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,10 +216,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 14,
+    "region-sea": 17,
+    "region-vietnam": 13,
     "region-europe": 2,
     "region-global": 29,
-    "region-americas": 17
+    "region-americas": 19
   }
 }
