@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-25T17:02:36.530116+00:00",
+  "updated": "2026-07-25T20:56:30.221041+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 39,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 50,
-      "count_24h": 16,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -40,18 +40,18 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -90,9 +90,9 @@
   ],
   "sentiment": {
     "positive": 19,
-    "negative": 4,
-    "neutral": 57,
-    "score": 19,
+    "negative": 3,
+    "neutral": 58,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -135,7 +135,7 @@
         "title": "Filter Coffee Vs. Instant: Which Helps You Age Better?",
         "url": "https://sprudge.com/filter-coffee-vs-instant-which-helps-you-age-better-1219429.html",
         "source": "Sprudge Coffee",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Get the Most Out of Your DCN Advertising Campaign",
@@ -157,18 +157,6 @@
     "total_articles": 52,
     "top_articles": [
       {
-        "title": "Japan-Italy-UK fighter jet spurs interest from 10-plus countries at air show",
-        "url": "https://asia.nikkei.com/politics/defense/japan-italy-uk-fighter-jet-spurs-interest-from-10-plus-countries-at-air-show",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Hitachi to use AI agents for entire systems development process",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-to-use-ai-agents-for-entire-systems-development-process",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "In China's 'microdrama' boom, AI moviemakers chase 2 minutes of fame",
         "url": "https://asia.nikkei.com/spotlight/big-in-asia/in-china-s-microdrama-boom-ai-moviemakers-chase-2-minutes-of-fame",
         "source": "Nikkei Asia",
@@ -183,6 +171,18 @@
       {
         "title": "7-Eleven owner Seven & i drops plan to invest in Poland's top retailer",
         "url": "https://asia.nikkei.com/business/business-deals/7-eleven-owner-seven-i-drops-plan-to-invest-in-poland-s-top-retailer",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Bain reaps Japan record-setting $17bn from Kioxia stake sale",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/bain-reaps-japan-record-setting-17bn-from-kioxia-stake-sale",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Samsung, SK and Nvidia join $700bn US-Korea AI push",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/samsung-sk-and-nvidia-join-700bn-us-korea-ai-push",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -212,8 +212,7 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 1,
-    "region-sea": 17,
+    "region-sea": 18,
     "region-americas": 22,
     "region-vietnam": 11,
     "region-global": 29
