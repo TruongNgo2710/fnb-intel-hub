@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-26T02:57:51.132405+00:00",
+  "updated": "2026-07-26T06:40:25.776985+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 32,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -14,14 +14,14 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
+      "count": 10,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 9,
       "count_24h": 2,
       "trend": "up"
     },
@@ -35,7 +35,7 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
+      "count": 4,
       "count_24h": 2,
       "trend": "up"
     },
@@ -83,10 +83,10 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 22,
     "negative": 4,
-    "neutral": 55,
-    "score": 21,
+    "neutral": 54,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -108,9 +108,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
-    "price_direction": "down",
-    "price_up_signals": 0,
+    "total_articles": 9,
+    "price_direction": "stable",
+    "price_up_signals": 1,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -145,7 +145,7 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 53,
@@ -208,7 +208,7 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-americas": 21,
-    "region-vietnam": 13,
-    "region-global": 29
+    "region-vietnam": 12,
+    "region-global": 30
   }
 }
