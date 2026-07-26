@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T20:56:30.221041+00:00",
+  "updated": "2026-07-26T02:57:51.132405+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 33,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 50,
+      "count": 51,
       "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -28,16 +28,9 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-supply",
@@ -45,6 +38,13 @@
       "count": 3,
       "count_24h": 2,
       "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
@@ -80,25 +80,19 @@
       "name": "Claude/Anthropic",
       "count": 6,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 3,
-    "neutral": 58,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 21,
+    "negative": 4,
+    "neutral": 55,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 50
+      "count": 51
     },
     {
       "word": "claude",
@@ -154,7 +148,7 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 53,
     "top_articles": [
       {
         "title": "In China's 'microdrama' boom, AI moviemakers chase 2 minutes of fame",
@@ -187,7 +181,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,9 +206,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 22,
-    "region-vietnam": 11,
+    "region-sea": 17,
+    "region-americas": 21,
+    "region-vietnam": 13,
     "region-global": 29
   }
 }
