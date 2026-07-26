@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-26T17:05:29.620378+00:00",
+  "updated": "2026-07-26T21:01:26.730510+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 51,
-      "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 3,
+      "count": 50,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -83,16 +83,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
+    "positive": 22,
+    "negative": 7,
+    "neutral": 51,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 51
+      "count": 50
     },
     {
       "word": "claude",
@@ -108,7 +108,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -129,17 +129,17 @@
         "title": "You Need Coffee, But Also, Coffee Needs You",
         "url": "https://sprudge.com/you-need-coffee-but-also-coffee-needs-you-1223213.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Filter Coffee Vs. Instant: Which Helps You Age Better?",
         "url": "https://sprudge.com/filter-coffee-vs-instant-which-helps-you-age-better-1219429.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
-        "title": "Get the Most Out of Your DCN Advertising Campaign",
-        "url": "https://dailycoffeenews.com/2026/07/24/get-the-most-out-of-your-dcn-advertising-campaign/",
+        "title": "This is How You Get Coffee Shoppers to Follow Through on Ethical Purchasing",
+        "url": "https://dailycoffeenews.com/2026/07/24/this-is-how-you-get-coffee-shoppers-to-follow-through-on-ethical-purchasing/",
         "source": "Daily Coffee News",
         "time": "2 ngày trước"
       }
@@ -148,14 +148,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Thai military digs in along Cambodian border as peace remains elusive",
-        "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/thai-military-digs-in-along-cambodian-border-as-peace-remains-elusive",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "7-Eleven owner Seven & i drops plan to invest in Poland's top retailer",
         "url": "https://asia.nikkei.com/business/business-deals/7-eleven-owner-seven-i-drops-plan-to-invest-in-poland-s-top-retailer",
@@ -179,9 +173,15 @@
         "url": "https://asia.nikkei.com/opinion/burnham-s-britain-will-take-its-china-cues-from-washington",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "In Focus: Thai military builds Cambodia border wall",
+        "url": "https://asia.nikkei.com/photos/in-focus-thai-military-builds-cambodia-border-wall",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,8 +207,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 19,
-    "region-vietnam": 13,
-    "region-global": 31
+    "region-americas": 18,
+    "region-vietnam": 15,
+    "region-global": 30
   }
 }
