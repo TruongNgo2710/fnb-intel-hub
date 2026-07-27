@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-27T17:46:02.538496+00:00",
+  "updated": "2026-07-27T21:14:51.774260+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 51,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 24,
+      "count": 44,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 6,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 9,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -42,16 +42,16 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 4,
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -82,10 +82,10 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 14,
     "negative": 7,
-    "neutral": 56,
-    "score": 12,
+    "neutral": 59,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -99,13 +99,13 @@
     },
     {
       "word": "claude",
-      "count": 2
+      "count": 3
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "stable",
-    "price_up_signals": 1,
+    "total_articles": 9,
+    "price_direction": "down",
+    "price_up_signals": 0,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -118,32 +118,32 @@
         "title": "Build-Outs Of Coffee: 107 Roasters & Cafe In Amarillo, TX",
         "url": "https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Seattle Seahawks Wide Receiver Cooper Kupp: The Sprudge Interview",
         "url": "https://sprudge.com/seattle-seahawks-wide-receiver-cooper-kupp-the-sprudge-interview-1222001.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Spent Coffee Grounds as Biochar Could Treat Toxic Gas",
         "url": "https://dailycoffeenews.com/2026/07/27/spent-coffee-grounds-as-biochar-could-treat-toxic-gas/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Session Room Brings Equipment, Training and Coffee Together in Portland",
         "url": "https://dailycoffeenews.com/2026/07/27/session-room-brings-equipment-training-and-coffee-together-in-portland/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 46,
     "top_articles": [
       {
         "title": "Beijing-backed Taiwan unification film shelved before release",
@@ -176,7 +176,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -185,9 +185,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "sugar": {
       "direction": "unknown",
@@ -201,9 +201,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 16,
-    "region-vietnam": 13,
-    "region-global": 33
+    "region-sea": 19,
+    "region-americas": 19,
+    "region-vietnam": 11,
+    "region-global": 31
   }
 }
