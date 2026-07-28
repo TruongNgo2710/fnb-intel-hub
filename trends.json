@@ -1,41 +1,41 @@
 {
-  "updated": "2026-07-28T14:12:28.811948+00:00",
+  "updated": "2026-07-28T17:39:03.946896+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 32,
+      "count": 39,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -49,8 +49,15 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -69,10 +76,16 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
+      "trend": "up"
+    },
+    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
@@ -88,20 +101,24 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 17,
     "negative": 4,
-    "neutral": 58,
-    "score": 18,
+    "neutral": 59,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 38
     },
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "specialty",
+      "count": 2
     }
   ],
   "coffee_trends": {
@@ -117,68 +134,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "KFC’s Kwench beverage lineup debuts in Canada",
+        "url": "https://www.nrn.com/quick-service/kfc-s-kwench-beverage-lineup-debuts-in-canada",
+        "source": "Nation's Restaurant News",
+        "time": "32 phút trước"
+      },
+      {
         "title": "Edrey Vega: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html",
         "source": "Sprudge Coffee",
-        "time": "9 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "Monolith Coffee is Building Something Different in Los Angeles",
         "url": "https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Mundo Novo Launches Pro Model for Automated Pourovers",
         "url": "https://dailycoffeenews.com/2026/07/28/mundo-novo-launches-pro-model-for-automated-pourovers/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Can table service be the differentiator that coffee shops need?",
-        "url": "https://perfectdailygrind.com/2026/07/coffee-shops-table-service/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Collaborate with Chinese EV makers or suffer, Thai auto firm CEO warns",
-        "url": "https://asia.nikkei.com/spotlight/asean-money/collaborate-with-chinese-ev-makers-or-suffer-thai-auto-firm-ceo-warns",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japanese university startups develop AI robot arms for delicate tasks",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japanese-university-startups-develop-ai-robot-arms-for-delicate-tasks",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Takaichi's $2.3tn plan draws mixed response from Japan businesses",
-        "url": "https://asia.nikkei.com/politics/takaichi-s-2.3tn-plan-draws-mixed-response-from-japan-businesses",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "For Philippine women in Taiwan's tech factories, motherhood is 'impossible'",
-        "url": "https://asia.nikkei.com/spotlight/society/for-philippine-women-in-taiwan-s-tech-factories-motherhood-is-impossible",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan's space industry prepares for lift-off",
         "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/taiwan-s-space-industry-prepares-for-lift-off",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI chip boom shifts bottleneck to advanced packaging, says AT&S CEO",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/ai-chip-boom-shifts-bottleneck-to-advanced-packaging-says-at-s-ceo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hong Kong retailers hit as customers 'head north' to cheaper Shenzhen",
+        "url": "https://asia.nikkei.com/business/retail/hong-kong-retailers-hit-as-customers-head-north-to-cheaper-shenzhen",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China rejects 'overcapacity' claims in sweeping rebuttal against US, EU",
+        "url": "https://asia.nikkei.com/economy/trade-war/china-rejects-overcapacity-claims-in-sweeping-rebuttal-against-us-eu",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,10 +220,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
+    "region-sea": 17,
     "region-europe": 2,
-    "region-americas": 15,
+    "region-americas": 23,
     "region-vietnam": 12,
-    "region-global": 33
+    "region-global": 26
   }
 }
