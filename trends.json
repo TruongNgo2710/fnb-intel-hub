@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T10:39:40.025643+00:00",
+  "updated": "2026-07-28T14:12:28.811948+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 63,
@@ -8,28 +8,35 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 43,
-      "count_24h": 31,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 10,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -40,17 +47,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -63,14 +63,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
     },
@@ -88,10 +88,10 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 3,
-    "neutral": 61,
-    "score": 16,
+    "positive": 18,
+    "negative": 4,
+    "neutral": 58,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -105,7 +105,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -117,28 +117,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Edrey Vega: The Sprudge Twenty Interview",
+        "url": "https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html",
+        "source": "Sprudge Coffee",
+        "time": "9 phút trước"
+      },
+      {
+        "title": "Monolith Coffee is Building Something Different in Los Angeles",
+        "url": "https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Mundo Novo Launches Pro Model for Automated Pourovers",
+        "url": "https://dailycoffeenews.com/2026/07/28/mundo-novo-launches-pro-model-for-automated-pourovers/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Can table service be the differentiator that coffee shops need?",
         "url": "https://perfectdailygrind.com/2026/07/coffee-shops-table-service/",
         "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: 107 Roasters & Cafe In Amarillo, TX",
-        "url": "https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Seattle Seahawks Wide Receiver Cooper Kupp: The Sprudge Interview",
-        "url": "https://sprudge.com/seattle-seahawks-wide-receiver-cooper-kupp-the-sprudge-interview-1222001.html",
-        "source": "Sprudge Coffee",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Spent Coffee Grounds as Biochar Could Treat Toxic Gas",
-        "url": "https://dailycoffeenews.com/2026/07/27/spent-coffee-grounds-as-biochar-could-treat-toxic-gas/",
-        "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -203,10 +203,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 18,
     "region-europe": 2,
-    "region-vietnam": 13,
     "region-americas": 15,
-    "region-global": 31
+    "region-vietnam": 12,
+    "region-global": 33
   }
 }
