@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-28T06:30:14.801192+00:00",
+  "updated": "2026-07-28T10:39:40.025643+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
+      "count": 43,
       "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -65,14 +65,20 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 4,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
@@ -82,23 +88,19 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 5,
+    "positive": 16,
+    "negative": 3,
     "neutral": 61,
-    "score": 11,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 42
     },
     {
       "word": "gọi vốn",
-      "count": 3
-    },
-    {
-      "word": "claude",
       "count": 3
     }
   ],
@@ -118,51 +120,33 @@
         "title": "Can table service be the differentiator that coffee shops need?",
         "url": "https://perfectdailygrind.com/2026/07/coffee-shops-table-service/",
         "source": "Perfect Daily Grind",
-        "time": "49 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: 107 Roasters & Cafe In Amarillo, TX",
         "url": "https://sprudge.com/build-outs-of-coffee-107-roasters-cafe-in-amarillo-tx-1028506.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Seattle Seahawks Wide Receiver Cooper Kupp: The Sprudge Interview",
         "url": "https://sprudge.com/seattle-seahawks-wide-receiver-cooper-kupp-the-sprudge-interview-1222001.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Spent Coffee Grounds as Biochar Could Treat Toxic Gas",
         "url": "https://dailycoffeenews.com/2026/07/27/spent-coffee-grounds-as-biochar-could-treat-toxic-gas/",
         "source": "Daily Coffee News",
-        "time": "19 giờ trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "CATL thrives while China's EV makers squeezed by supply chain, weak market",
-        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/catl-thrives-while-china-s-ev-makers-squeezed-by-supply-chain-weak-market",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Ukraine, Russia Black Sea attacks push wheat prices to 2-year high",
-        "url": "https://asia.nikkei.com/business/markets/commodities/ukraine-russia-black-sea-attacks-push-wheat-prices-to-2-year-high",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan's pivot away from China offers a lesson for democracies",
-        "url": "https://asia.nikkei.com/opinion/taiwan-s-pivot-away-from-china-offers-a-lesson-for-democracies",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Collaborate with Chinese EV makers or suffer, Thai auto firm CEO warns",
         "url": "https://asia.nikkei.com/spotlight/asean-money/collaborate-with-chinese-ev-makers-or-suffer-thai-auto-firm-ceo-warns",
@@ -174,9 +158,27 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japanese-university-startups-develop-ai-robot-arms-for-delicate-tasks",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi's $2.3tn plan draws mixed response from Japan businesses",
+        "url": "https://asia.nikkei.com/politics/takaichi-s-2.3tn-plan-draws-mixed-response-from-japan-businesses",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "For Philippine women in Taiwan's tech factories, motherhood is 'impossible'",
+        "url": "https://asia.nikkei.com/spotlight/society/for-philippine-women-in-taiwan-s-tech-factories-motherhood-is-impossible",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's space industry prepares for lift-off",
+        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/taiwan-s-space-industry-prepares-for-lift-off",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -185,9 +187,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
       "direction": "unknown",
@@ -201,9 +203,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 12,
-    "region-global": 32,
-    "region-americas": 16
+    "region-sea": 19,
+    "region-europe": 2,
+    "region-vietnam": 13,
+    "region-americas": 15,
+    "region-global": 31
   }
 }
