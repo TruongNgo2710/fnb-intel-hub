@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T21:12:01.486032+00:00",
+  "updated": "2026-07-29T02:48:09.658814+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 60,
@@ -14,8 +14,8 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 11,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -28,7 +28,7 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 6,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -42,15 +42,15 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -72,14 +72,14 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-kfc",
@@ -115,10 +115,14 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "acquisition",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 6,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -133,25 +137,25 @@
         "title": "KFC’s Kwench beverage lineup debuts in Canada",
         "url": "https://www.nrn.com/quick-service/kfc-s-kwench-beverage-lineup-debuts-in-canada",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Edrey Vega: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Monolith Coffee is Building Something Different in Los Angeles",
         "url": "https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Mundo Novo Launches Pro Model for Automated Pourovers",
         "url": "https://dailycoffeenews.com/2026/07/28/mundo-novo-launches-pro-model-for-automated-pourovers/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -160,12 +164,6 @@
   "ai_trends": {
     "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Hong Kong retailers hit as customers 'head north' to cheaper Shenzhen",
-        "url": "https://asia.nikkei.com/business/retail/hong-kong-retailers-hit-as-customers-head-north-to-cheaper-shenzhen",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China rejects 'overcapacity' claims in sweeping rebuttal against US, EU",
         "url": "https://asia.nikkei.com/economy/trade-war/china-rejects-overcapacity-claims-in-sweeping-rebuttal-against-us-eu",
@@ -181,6 +179,12 @@
       {
         "title": "Japan's Seven Bank to provide retailers with consumer financial services",
         "url": "https://asia.nikkei.com/business/companies/japan-s-seven-bank-to-provide-retailers-with-consumer-financial-services",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi's falling approval ratings fuel interest rate concerns",
+        "url": "https://asia.nikkei.com/politics/takaichi-s-falling-approval-ratings-fuel-interest-rate-concerns",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -219,7 +223,7 @@
     "region-sea": 17,
     "region-europe": 2,
     "region-americas": 24,
-    "region-vietnam": 12,
-    "region-global": 25
+    "region-vietnam": 13,
+    "region-global": 24
   }
 }
