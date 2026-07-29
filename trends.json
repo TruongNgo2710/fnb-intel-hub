@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-29T02:48:09.658814+00:00",
+  "updated": "2026-07-29T06:34:48.086215+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
-      "count_24h": 23,
+      "count": 35,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 13,
+      "count": 16,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -29,27 +29,27 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 6,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 5,
       "count_24h": 4,
       "trend": "hot"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 21,
     "negative": 6,
-    "neutral": 55,
-    "score": 16,
+    "neutral": 53,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 35
+      "count": 34
     },
     {
       "word": "gọi vốn",
@@ -137,45 +137,33 @@
         "title": "KFC’s Kwench beverage lineup debuts in Canada",
         "url": "https://www.nrn.com/quick-service/kfc-s-kwench-beverage-lineup-debuts-in-canada",
         "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Edrey Vega: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/edrey-vega-the-sprudge-twenty-interview-1127603.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Monolith Coffee is Building Something Different in Los Angeles",
         "url": "https://dailycoffeenews.com/2026/07/28/monolith-coffee-is-building-something-different-in-los-angeles/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Mundo Novo Launches Pro Model for Automated Pourovers",
         "url": "https://dailycoffeenews.com/2026/07/28/mundo-novo-launches-pro-model-for-automated-pourovers/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "China rejects 'overcapacity' claims in sweeping rebuttal against US, EU",
-        "url": "https://asia.nikkei.com/economy/trade-war/china-rejects-overcapacity-claims-in-sweeping-rebuttal-against-us-eu",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-1bn-bet-on-naver-pumps-cash-into-ai-infrastructure-buildout",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Seven Bank to provide retailers with consumer financial services",
         "url": "https://asia.nikkei.com/business/companies/japan-s-seven-bank-to-provide-retailers-with-consumer-financial-services",
@@ -189,13 +177,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Iran war and AI demand help drive revenue at Rio Tinto, Woodside",
+        "url": "https://asia.nikkei.com/business/markets/commodities/iran-war-and-ai-demand-help-drive-revenue-at-rio-tinto-woodside",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China's BAIC Motor flags loss as Mercedes-Benz joint venture skids",
+        "url": "https://asia.nikkei.com/business/automobiles/china-s-baic-motor-flags-loss-as-mercedes-benz-joint-venture-skids",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
         "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,9 +220,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 18,
+    "region-americas": 23,
     "region-europe": 2,
-    "region-americas": 24,
     "region-vietnam": 13,
     "region-global": 24
   }
