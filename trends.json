@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-30T02:33:39.477455+00:00",
+  "updated": "2026-07-30T06:32:12.167048+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 31,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 19,
-      "count_24h": 15,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 9,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -42,16 +42,16 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -108,11 +108,11 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 24,
     "negative": 6,
-    "neutral": 52,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 50,
+    "score": 22,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -122,13 +122,17 @@
     {
       "word": "gọi vốn",
       "count": 3
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "down",
+    "total_articles": 9,
+    "price_direction": "stable",
     "price_up_signals": 2,
-    "price_down_signals": 3,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -140,51 +144,33 @@
         "title": "Starbucks stock soars as company’s sales accelerate",
         "url": "https://www.nrn.com/quick-service/starbucks-stock-soars-as-company-s-sales-accelerate",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "In Seoul, These Record Shop Cafes Carry On a Heritage Of Sound",
         "url": "https://sprudge.com/in-seoul-these-record-shop-cafes-carry-on-a-heritage-of-sound-1130918.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "You Need To See Officine Fratelli Bambi’s Newest Process, The Fiammata Technique",
         "url": "https://sprudge.com/you-need-to-see-officine-fratelli-bambis-newest-process-the-fiammata-technique-1232313.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "EUDR is Accelerating Farm Modernization, But Threats to Smallholders Remain",
         "url": "https://dailycoffeenews.com/2026/07/29/eudr-is-accelerating-farm-modernization-but-threats-to-smallholders-remain/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 3 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Panasonic plans 4-fold boost to India air conditioner production",
-        "url": "https://asia.nikkei.com/business/companies/panasonic-plans-4-fold-boost-to-india-air-conditioner-production",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Nipro plans mobile dialysis training for rural India",
-        "url": "https://asia.nikkei.com/business/health-care/japan-s-nipro-plans-mobile-dialysis-training-for-rural-india",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI boom seen bringing short-term inflation pain, little GDP gain in US",
-        "url": "https://asia.nikkei.com/economy/ai-boom-seen-bringing-short-term-inflation-pain-little-gdp-gain-in-us",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "SoftBank, NTT eye cross-industry platform for AI, data sharing in Japan",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-ntt-eye-cross-industry-platform-for-ai-data-sharing-in-japan",
@@ -194,6 +180,24 @@
       {
         "title": "Thailand's bid to revive southern peace talks suffers setback",
         "url": "https://asia.nikkei.com/politics/international-relations/thailand-s-bid-to-revive-southern-peace-talks-suffers-setback",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "BPO firm Teleperformance to open 1st Vietnam site as AI changes outsourcing",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/bpo-firm-teleperformance-to-open-1st-vietnam-site-as-ai-changes-outsourcing",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Exclusive: SpaceX moves to keep Chinese nationals, parts out of supply chain",
+        "url": "https://asia.nikkei.com/business/technology/exclusive-spacex-moves-to-keep-chinese-nationals-parts-out-of-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Trade deficits for Japan, Philippines widen amid AI boom and Iran war",
+        "url": "https://asia.nikkei.com/economy/trade/trade-deficits-for-japan-philippines-widen-amid-ai-boom-and-iran-war",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -217,16 +221,16 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
-      "direction": "down",
-      "count": 2,
-      "signal": "⬇️ Giảm (1 tín hiệu)"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 20,
+    "region-americas": 19,
+    "region-sea": 17,
     "region-europe": 2,
-    "region-vietnam": 15,
-    "region-global": 27
+    "region-vietnam": 14,
+    "region-global": 28
   }
 }
