@@ -1,28 +1,28 @@
 {
-  "updated": "2026-07-30T21:14:03.567254+00:00",
+  "updated": "2026-07-31T02:58:51.001767+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 37,
+      "count": 47,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 22,
-      "count_24h": 18,
+      "count": 19,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 14,
-      "count_24h": 12,
+      "count": 11,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -33,24 +33,24 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -72,13 +72,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -95,20 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 7,
-    "neutral": 52,
+    "positive": 20,
+    "negative": 6,
+    "neutral": 54,
     "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
-    },
-    {
-      "word": "supply chain",
-      "count": 3
+      "count": 47
     },
     {
       "word": "funding",
@@ -117,10 +113,6 @@
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "inflation",
-      "count": 2
     }
   ],
   "coffee_trends": {
@@ -139,65 +131,65 @@
         "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
         "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Coffee Doesn’t Taste Like Caffeine, Thank Goodness (and Roasting)",
         "url": "https://dailycoffeenews.com/2026/07/30/coffee-doesnt-taste-like-caffeine-thank-goodness-and-roasting/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Level Up Returns To Minneapolis For A Weekend Of Immersive Learning",
         "url": "https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Pre-batched espresso is divisive, but there’s space for it",
         "url": "https://perfectdailygrind.com/2026/07/pre-batched-espresso-divides-specialty-coffee/",
         "source": "Perfect Daily Grind",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Takaichi bets on historic food tax cut to ease Japan inflation pain",
-        "url": "https://asia.nikkei.com/politics/takaichi-bets-on-historic-food-tax-cut-to-ease-japan-inflation-pain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Microsoft ponders open-weight AI as China models gain ground",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-ponders-open-weight-ai-as-china-models-gain-ground",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Quake damage at Japan auto parts maker ripples through massive supply chain",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/quake-damage-at-japan-auto-parts-maker-ripples-through-massive-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Global M&A deals reach record $2.8tn in 1st half amid fight for AI lead",
-        "url": "https://asia.nikkei.com/business/business-trends/global-m-a-deals-reach-record-2.8tn-in-1st-half-amid-fight-for-ai-lead",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's plan to cut food sales tax raises $30bn funding question",
         "url": "https://asia.nikkei.com/politics/japan-s-plan-to-cut-food-sales-tax-raises-30bn-funding-question",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Hitachi and Toshiba ship new bullet trains to Taiwan after years of talks",
+        "url": "https://asia.nikkei.com/business/transportation/hitachi-and-toshiba-ship-new-bullet-trains-to-taiwan-after-years-of-talks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thai rice, Indian sugarcane show signs of early El Nino impact",
+        "url": "https://asia.nikkei.com/business/agriculture/thai-rice-indian-sugarcane-show-signs-of-early-el-nino-impact",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan needs quota debate to raise women's representation in politics",
+        "url": "https://asia.nikkei.com/opinion/japan-needs-quota-debate-to-raise-women-s-representation-in-politics",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Samsung trading unit and Erex plan Japan biomass power plant for AI demand",
+        "url": "https://asia.nikkei.com/business/energy/samsung-trading-unit-and-erex-plan-japan-biomass-power-plant-for-ai-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -222,9 +214,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
     "region-americas": 16,
-    "region-vietnam": 13,
+    "region-sea": 17,
+    "region-vietnam": 12,
     "region-global": 33,
     "region-europe": 2
   }
