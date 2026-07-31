@@ -1,21 +1,21 @@
 {
-  "updated": "2026-07-31T10:43:32.614669+00:00",
+  "updated": "2026-07-31T14:13:05.914900+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 33,
+      "count": 50,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 13,
+      "count": 18,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
@@ -28,29 +28,29 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 4,
-      "trend": "hot"
+      "count": 8,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -72,19 +72,19 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
-    "negative": 6,
-    "neutral": 50,
-    "score": 22,
-    "label": "Tích cực"
+    "positive": 21,
+    "negative": 5,
+    "neutral": 54,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 50
     },
     {
       "word": "gọi vốn",
@@ -116,7 +116,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -128,27 +128,27 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
+        "url": "https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
         "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Coffee Doesn’t Taste Like Caffeine, Thank Goodness (and Roasting)",
         "url": "https://dailycoffeenews.com/2026/07/30/coffee-doesnt-taste-like-caffeine-thank-goodness-and-roasting/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Level Up Returns To Minneapolis For A Weekend Of Immersive Learning",
         "url": "https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html",
         "source": "Sprudge Coffee",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Starbucks stock soars as company’s sales accelerate",
-        "url": "https://www.nrn.com/quick-service/starbucks-stock-soars-as-company-s-sales-accelerate",
-        "source": "Nation's Restaurant News",
         "time": "1 ngày trước"
       }
     ],
@@ -156,7 +156,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 52,
     "top_articles": [
       {
         "title": "Editor's Choice: For Asia in particular, the dot-com bubble and AI boom are different",
@@ -177,19 +177,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Yen pares intervention gains as Asian tech shares surge",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-pares-intervention-gains-as-asian-tech-shares-surge",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Takaichi's plan to cut sales tax on food threatens Japan's future",
         "url": "https://asia.nikkei.com/opinion/the-nikkei-view/takaichi-s-plan-to-cut-sales-tax-on-food-threatens-japan-s-future",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "DeepSeek releases beta version of V4 models as AI price war heats up",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,10 +214,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 14,
+    "region-sea": 18,
+    "region-americas": 13,
     "region-vietnam": 14,
-    "region-global": 32,
+    "region-global": 34,
     "region-europe": 1
   }
 }
