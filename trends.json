@@ -1,34 +1,34 @@
 {
-  "updated": "2026-07-31T06:47:31.426104+00:00",
+  "updated": "2026-07-31T10:43:32.614669+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 31,
+      "count": 47,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 14,
+      "count": 17,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -49,7 +49,7 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
+      "count": 3,
       "count_24h": 1,
       "trend": "up"
     },
@@ -84,7 +84,7 @@
     {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -96,15 +96,15 @@
   ],
   "sentiment": {
     "positive": 24,
-    "negative": 5,
-    "neutral": 51,
-    "score": 24,
+    "negative": 6,
+    "neutral": 50,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -116,7 +116,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -131,24 +131,24 @@
         "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
         "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Coffee Doesn’t Taste Like Caffeine, Thank Goodness (and Roasting)",
         "url": "https://dailycoffeenews.com/2026/07/30/coffee-doesnt-taste-like-caffeine-thank-goodness-and-roasting/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Level Up Returns To Minneapolis For A Weekend Of Immersive Learning",
         "url": "https://sprudge.com/level-up-returns-to-minneapolis-for-a-weekend-of-immersive-learning-1234662.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
-        "title": "Pre-batched espresso is divisive, but there’s space for it",
-        "url": "https://perfectdailygrind.com/2026/07/pre-batched-espresso-divides-specialty-coffee/",
-        "source": "Perfect Daily Grind",
+        "title": "Starbucks stock soars as company’s sales accelerate",
+        "url": "https://www.nrn.com/quick-service/starbucks-stock-soars-as-company-s-sales-accelerate",
+        "source": "Nation's Restaurant News",
         "time": "1 ngày trước"
       }
     ],
@@ -156,40 +156,40 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "Japan needs quota debate to raise women's representation in politics",
-        "url": "https://asia.nikkei.com/opinion/japan-needs-quota-debate-to-raise-women-s-representation-in-politics",
+        "title": "Editor's Choice: For Asia in particular, the dot-com bubble and AI boom are different",
+        "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-for-asia-in-particular-the-dot-com-bubble-and-ai-boom-are-different",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Samsung trading unit and Erex plan Japan biomass power plant for AI demand",
-        "url": "https://asia.nikkei.com/business/energy/samsung-trading-unit-and-erex-plan-japan-biomass-power-plant-for-ai-demand",
+        "title": "Taiwan GDP grows nearly 13% in Q2, supercharged by AI and US ties",
+        "url": "https://asia.nikkei.com/economy/taiwan-gdp-grows-nearly-13-in-q2-supercharged-by-ai-and-us-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Yen gives back intervention gains as Asian tech shares surge",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-gives-back-intervention-gains-as-asian-tech-shares-surge",
+        "title": "Itochu to invest $1.9bn in Tokyo Century's aircraft leasing unit",
+        "url": "https://asia.nikkei.com/business/transportation/itochu-to-invest-1.9bn-in-tokyo-century-s-aircraft-leasing-unit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Sony raises full-year forecast as quarterly profit jumps 32%",
-        "url": "https://asia.nikkei.com/business/technology/sony-raises-full-year-forecast-as-quarterly-profit-jumps-32",
+        "title": "Yen pares intervention gains as Asian tech shares surge",
+        "url": "https://asia.nikkei.com/business/markets/currencies/yen-pares-intervention-gains-as-asian-tech-shares-surge",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "Takaichi's plan to cut sales tax on food threatens Japan's future",
+        "url": "https://asia.nikkei.com/opinion/the-nikkei-view/takaichi-s-plan-to-cut-sales-tax-on-food-threatens-japan-s-future",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,10 +214,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 16,
-    "region-americas": 12,
-    "region-global": 33,
+    "region-sea": 19,
+    "region-americas": 14,
+    "region-vietnam": 14,
+    "region-global": 32,
     "region-europe": 1
   }
 }
