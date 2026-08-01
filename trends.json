@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-01T17:04:49.355541+00:00",
+  "updated": "2026-08-01T20:56:45.117195+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 41,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 50,
-      "count_24h": 20,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 6,
+      "count": 12,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -47,13 +47,6 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
@@ -64,6 +57,13 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     }
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 8,
       "trend": "hot"
     },
     {
@@ -88,6 +88,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
       "count": 1,
@@ -95,11 +101,11 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 23,
     "negative": 6,
-    "neutral": 52,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 51,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -113,8 +119,8 @@
   ],
   "coffee_trends": {
     "total_articles": 7,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "price_direction": "up",
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -127,7 +133,7 @@
         "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
         "url": "https://sprudge.com/ask-not-what-you-can-do-for-gear-ask-what-gear-can-do-for-you-1243526.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
@@ -142,30 +148,18 @@
         "time": "1 ngày trước"
       },
       {
-        "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
-        "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
+        "title": "Coffee News Recap, 31 Jul: US specialty coffee consumption holds at record 47%, concerns over El Niño drive arabica futures higher & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 53,
     "top_articles": [
-      {
-        "title": "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
-        "url": "https://asia.nikkei.com/business/energy/india-s-fuel-retailers-lose-nearly-2bn-shielding-customers-from-energy-shock",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Vietnam's Vingroup broadens empire with rail, energy expansion",
-        "url": "https://asia.nikkei.com/business/companies/vietnam-s-vingroup-broadens-empire-with-rail-energy-expansion",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Canada's Couche-Tard to buy top Polish convenience store chain",
         "url": "https://asia.nikkei.com/business/business-deals/canada-s-couche-tard-to-buy-top-polish-convenience-store-chain",
@@ -181,6 +175,18 @@
       {
         "title": "Four US tech giants bled $95bn in cash in Q2 on soaring AI investments",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/four-us-tech-giants-bled-95bn-in-cash-in-q2-on-soaring-ai-investments",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Memory makers flush with $90bn cash flow on AI gold rush",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-makers-flush-with-90bn-cash-flow-on-ai-gold-rush",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "LDP revolt grows in Japan over Takaichi plan to cut food tax to 1%",
+        "url": "https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -210,10 +216,10 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 19,
     "region-sea": 16,
-    "region-vietnam": 13,
-    "region-americas": 16,
     "region-europe": 2,
-    "region-global": 33
+    "region-vietnam": 12,
+    "region-global": 31
   }
 }
