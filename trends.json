@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:58:05.830866+00:00",
+  "updated": "2026-08-01T06:32:52.214391+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 55,
@@ -19,17 +19,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 4,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "negative": 6,
-    "neutral": 51,
-    "score": 21,
+    "neutral": 50,
+    "score": 22,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -109,14 +109,10 @@
     {
       "word": "gọi vốn",
       "count": 3
-    },
-    {
-      "word": "specialty",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -131,19 +127,19 @@
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
         "url": "https://www.nrn.com/restaurant-finance/starbucks-keeps-its-u-s-growth-measured-as-it-rethinks-development",
         "source": "Nation's Restaurant News",
-        "time": "10 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
         "url": "https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Coffee News Recap, 31 Jul: US specialty coffee consumption holds at record 47%, concerns over El Niño drive arabica futures higher & other stories",
         "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/",
         "source": "Perfect Daily Grind",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
@@ -215,9 +211,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-vietnam": 12,
+    "region-vietnam": 13,
     "region-americas": 17,
     "region-europe": 2,
-    "region-global": 33
+    "region-global": 32
   }
 }
