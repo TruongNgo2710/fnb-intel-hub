@@ -1,48 +1,48 @@
 {
-  "updated": "2026-07-31T21:08:14.917703+00:00",
+  "updated": "2026-08-01T02:58:05.830866+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 53,
-      "count_24h": 34,
+      "count": 52,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 5,
+      "count": 14,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 3,
+      "count": 8,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 4,
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -84,8 +84,8 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-kfc",
@@ -95,30 +95,30 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 8,
+    "positive": 23,
+    "negative": 6,
     "neutral": 51,
-    "score": 16,
-    "label": "Trung tính"
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 53
+      "count": 52
     },
     {
       "word": "gọi vốn",
       "count": 3
     },
     {
-      "word": "inflation",
+      "word": "specialty",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "total_articles": 8,
+    "price_direction": "up",
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -131,51 +131,33 @@
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
         "url": "https://www.nrn.com/restaurant-finance/starbucks-keeps-its-u-s-growth-measured-as-it-rethinks-development",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
         "url": "https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
+      },
+      {
+        "title": "Coffee News Recap, 31 Jul: US specialty coffee consumption holds at record 47%, concerns over El Niño drive arabica futures higher & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "17 giờ trước"
       },
       {
         "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
         "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
         "source": "Daily Coffee News",
         "time": "1 ngày trước"
-      },
-      {
-        "title": "Coffee Doesn’t Taste Like Caffeine, Thank Goodness (and Roasting)",
-        "url": "https://dailycoffeenews.com/2026/07/30/coffee-doesnt-taste-like-caffeine-thank-goodness-and-roasting/",
-        "source": "Daily Coffee News",
-        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 55,
+    "total_articles": 54,
     "top_articles": [
-      {
-        "title": "Takaichi's plan to cut sales tax on food threatens Japan's future",
-        "url": "https://asia.nikkei.com/opinion/the-nikkei-view/takaichi-s-plan-to-cut-sales-tax-on-food-threatens-japan-s-future",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "DeepSeek releases beta version of V4 models as AI price war heats up",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Sony raises full-year forecast as quarterly profit jumps 32%",
-        "url": "https://asia.nikkei.com/business/technology/sony-raises-full-year-forecast-as-quarterly-profit-jumps-32",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Yen pares intervention gains as Asian tech shares surge",
         "url": "https://asia.nikkei.com/business/markets/currencies/yen-pares-intervention-gains-as-asian-tech-shares-surge",
@@ -187,9 +169,27 @@
         "url": "https://asia.nikkei.com/business/energy/india-s-fuel-retailers-lose-nearly-2bn-shielding-customers-from-energy-shock",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam's Vingroup broadens empire with rail, energy expansion",
+        "url": "https://asia.nikkei.com/business/companies/vietnam-s-vingroup-broadens-empire-with-rail-energy-expansion",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Canada's Couche-Tard to buy top Polish convenience store chain",
+        "url": "https://asia.nikkei.com/business/business-deals/canada-s-couche-tard-to-buy-top-polish-convenience-store-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US wants Japan's top tech companies in AI-powered Genesis Mission: official",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/us-wants-japan-s-top-tech-companies-in-ai-powered-genesis-mission-official",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 55 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 54 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,9 +215,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-vietnam": 13,
-    "region-americas": 18,
-    "region-global": 32,
-    "region-europe": 1
+    "region-vietnam": 12,
+    "region-americas": 17,
+    "region-europe": 2,
+    "region-global": 33
   }
 }
