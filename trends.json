@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-02T02:56:55.220742+00:00",
+  "updated": "2026-08-02T06:36:18.302100+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 13,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
@@ -19,18 +19,18 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 7,
       "count_24h": 2,
       "trend": "up"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 4,
-      "trend": "hot"
     },
     {
       "tag": "topic-macro",
@@ -101,11 +101,11 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 24,
     "negative": 6,
-    "neutral": 52,
-    "score": 20,
-    "label": "Trung tính"
+    "neutral": 50,
+    "score": 22,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -119,8 +119,8 @@
   ],
   "coffee_trends": {
     "total_articles": 7,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "price_direction": "up",
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -133,7 +133,7 @@
         "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
         "url": "https://sprudge.com/ask-not-what-you-can-do-for-gear-ask-what-gear-can-do-for-you-1243526.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
@@ -148,24 +148,18 @@
         "time": "1 ngày trước"
       },
       {
-        "title": "Pinup Coffee Takes Off with Standalone Cafe in Virginia Beach",
-        "url": "https://dailycoffeenews.com/2026/07/30/pinup-coffee-takes-off-with-standalone-cafe-in-virginia-beach/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
+        "title": "Coffee News Recap, 31 Jul: US specialty coffee consumption holds at record 47%, concerns over El Niño drive arabica futures higher & other stories",
+        "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Memory makers flush with $90bn cash flow on AI gold rush",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-makers-flush-with-90bn-cash-flow-on-ai-gold-rush",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "LDP revolt grows in Japan over Takaichi plan to cut food tax to 1%",
         "url": "https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1",
@@ -187,6 +181,12 @@
       {
         "title": "Modi opens Vizag airport as India's south seeks Southeast Asian travelers",
         "url": "https://asia.nikkei.com/business/transportation/modi-opens-vizag-airport-as-india-s-south-seeks-southeast-asian-travelers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asia's AI boom runs into a power wall",
+        "url": "https://asia.nikkei.com/opinion/asia-s-ai-boom-runs-into-a-power-wall",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -217,9 +217,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 16,
+    "region-americas": 17,
     "region-europe": 2,
     "region-vietnam": 12,
-    "region-global": 32
+    "region-global": 31
   }
 }
