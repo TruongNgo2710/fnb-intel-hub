@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:36:18.302100+00:00",
+  "updated": "2026-08-02T10:01:20.098027+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 34,
@@ -102,9 +102,9 @@
   ],
   "sentiment": {
     "positive": 24,
-    "negative": 6,
-    "neutral": 50,
-    "score": 22,
+    "negative": 5,
+    "neutral": 51,
+    "score": 24,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -133,7 +133,7 @@
         "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
         "url": "https://sprudge.com/ask-not-what-you-can-do-for-gear-ask-what-gear-can-do-for-you-1243526.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
@@ -151,7 +151,7 @@
         "title": "Coffee News Recap, 31 Jul: US specialty coffee consumption holds at record 47%, concerns over El Niño drive arabica futures higher & other stories",
         "url": "https://perfectdailygrind.com/2026/07/coffee-news-recap-31-july-2026/",
         "source": "Perfect Daily Grind",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -160,12 +160,6 @@
   "ai_trends": {
     "total_articles": 50,
     "top_articles": [
-      {
-        "title": "LDP revolt grows in Japan over Takaichi plan to cut food tax to 1%",
-        "url": "https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Living between two worlds on Taiwan's Matsu Islands",
         "url": "https://asia.nikkei.com/life-arts/life/living-between-two-worlds-on-taiwan-s-matsu-islands",
@@ -187,6 +181,12 @@
       {
         "title": "Asia's AI boom runs into a power wall",
         "url": "https://asia.nikkei.com/opinion/asia-s-ai-boom-runs-into-a-power-wall",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Trump's diplomacy is nudging Thailand toward China",
+        "url": "https://asia.nikkei.com/spotlight/comment/trump-s-diplomacy-is-nudging-thailand-toward-china",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -216,8 +216,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 17,
+    "region-americas": 18,
+    "region-sea": 17,
     "region-europe": 2,
     "region-vietnam": 12,
     "region-global": 31
