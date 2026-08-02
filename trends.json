@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-02T13:26:41.638444+00:00",
+  "updated": "2026-08-02T17:03:30.875628+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -15,8 +15,15 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 8,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-price",
@@ -26,32 +33,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
+      "count": 5,
       "count_24h": 0,
       "trend": "stable"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
+      "count": 3,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -63,6 +56,13 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -101,11 +101,11 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 6,
-    "neutral": 51,
-    "score": 21,
-    "label": "Tích cực"
+    "positive": 21,
+    "negative": 5,
+    "neutral": 54,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
@@ -118,9 +118,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "total_articles": 8,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -133,7 +133,7 @@
         "title": "An August Collection Of Coffees Just In Time For… What Month Is It Now?",
         "url": "https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
@@ -145,7 +145,7 @@
         "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
         "url": "https://www.nrn.com/restaurant-finance/starbucks-keeps-its-u-s-growth-measured-as-it-rethinks-development",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
@@ -155,7 +155,7 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 49,
@@ -216,10 +216,10 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 16,
+    "region-europe": 2,
     "region-americas": 18,
-    "region-sea": 17,
-    "region-europe": 1,
-    "region-vietnam": 12,
-    "region-global": 32
+    "region-vietnam": 11,
+    "region-global": 33
   }
 }
