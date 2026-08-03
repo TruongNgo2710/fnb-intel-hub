@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-03T11:27:13.796254+00:00",
+  "updated": "2026-08-03T14:44:04.923939+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 42,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 15,
+      "count": 45,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 6,
+      "count": 17,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
+      "count": 3,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -43,15 +43,15 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 9,
       "trend": "hot"
     },
     {
@@ -84,33 +84,27 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 20,
+    "negative": 3,
+    "neutral": 57,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -118,10 +112,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
-    "price_direction": "stable",
+    "total_articles": 10,
+    "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -130,42 +124,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "An August Collection Of Coffees Just In Time For… What Month Is It Now?",
-        "url": "https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html",
+        "title": "Build-Outs Of Coffee: Demitasse In Santa Monica, CA",
+        "url": "https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html",
         "source": "Sprudge Coffee",
-        "time": "23 giờ trước"
+        "time": "41 phút trước"
       },
       {
-        "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
-        "url": "https://sprudge.com/ask-not-what-you-can-do-for-gear-ask-what-gear-can-do-for-you-1243526.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Starbucks keeps its U.S. growth measured as it rethinks development",
-        "url": "https://www.nrn.com/restaurant-finance/starbucks-keeps-its-u-s-growth-measured-as-it-rethinks-development",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
-      },
-      {
-        "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
-        "url": "https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/",
+        "title": "Korean Researchers Turn Wet Coffee Grounds Into Biochar in 90 Seconds",
+        "url": "https://dailycoffeenews.com/2026/08/03/korean-researchers-turn-wet-coffee-grounds-into-biochar-in-90-seconds/",
         "source": "Daily Coffee News",
-        "time": "2 ngày trước"
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Climate Pressures Bring New Attention to Excelsa Coffee",
+        "url": "https://dailycoffeenews.com/2026/08/03/climate-pressures-bring-new-attention-to-excelsa-coffee/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "This Much Coffee Per Day Linked to Reduced Depression and Anxiety",
+        "url": "https://dailycoffeenews.com/2026/08/03/this-much-coffee-per-day-linked-to-reduced-depression-and-anxiety/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Anutin's Indonesia visit, Japanese carmaker earnings, Taiwan drills",
-        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "NTT, Toyota lead record year for Japan capex with AI, factory investments",
         "url": "https://asia.nikkei.com/business/business-trends/ntt-toyota-lead-record-year-for-japan-capex-with-ai-factory-investments",
@@ -189,15 +177,21 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Alibaba's new Qwen AI model falls short of 'second only to Fable 5' claim",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-s-new-qwen-ai-model-falls-short-of-second-only-to-fable-5-claim",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "down",
+      "count": 1,
+      "signal": "⬇️ Giảm (1 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -216,9 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 15,
+    "region-sea": 19,
+    "region-americas": 12,
+    "region-europe": 2,
     "region-vietnam": 13,
-    "region-global": 32
+    "region-global": 34
   }
 }
