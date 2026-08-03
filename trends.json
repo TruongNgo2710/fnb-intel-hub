@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T07:31:00.835586+00:00",
+  "updated": "2026-08-03T11:27:13.796254+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 36,
@@ -8,29 +8,29 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 14,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 12,
+      "count": 19,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 6,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -102,9 +102,9 @@
   ],
   "sentiment": {
     "positive": 21,
-    "negative": 7,
-    "neutral": 52,
-    "score": 18,
+    "negative": 5,
+    "neutral": 54,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -118,9 +118,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "total_articles": 6,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -130,16 +130,10 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Why medium-sized coffee shops are struggling the most",
-        "url": "https://perfectdailygrind.com/2026/08/medium-sized-coffee-shops-struggles/",
-        "source": "Perfect Daily Grind",
-        "time": "1 giờ trước"
-      },
-      {
         "title": "An August Collection Of Coffees Just In Time For… What Month Is It Now?",
         "url": "https://sprudge.com/an-august-collection-of-coffees-just-in-time-for-what-month-is-it-now-1243520.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "23 giờ trước"
       },
       {
         "title": "Ask Not What You Can Do For Gear, Ask What Gear Can Do For You",
@@ -152,20 +146,20 @@
         "url": "https://www.nrn.com/restaurant-finance/starbucks-keeps-its-u-s-growth-measured-as-it-rethinks-development",
         "source": "Nation's Restaurant News",
         "time": "2 ngày trước"
+      },
+      {
+        "title": "Weekly Coffee News: Ants and Borers + Regulating Health Claims",
+        "url": "https://dailycoffeenews.com/2026/07/31/weekly-coffee-news-ants-and-borers-regulating-health-claims/",
+        "source": "Daily Coffee News",
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Trump's diplomacy is nudging Thailand toward China",
-        "url": "https://asia.nikkei.com/spotlight/comment/trump-s-diplomacy-is-nudging-thailand-toward-china",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Anutin's Indonesia visit, Japanese carmaker earnings, Taiwan drills",
         "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/anutin-s-indonesia-visit-japanese-carmaker-earnings-taiwan-drills",
@@ -187,6 +181,12 @@
       {
         "title": "Japan won't hesitate to act again after joint yen intervention with US: Katayama",
         "url": "https://asia.nikkei.com/business/markets/currencies/japan-won-t-hesitate-to-act-again-after-joint-yen-intervention-with-us-katayama",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan security chief says China's 'hybrid warfare' tests whole region",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-security-chief-says-china-s-hybrid-warfare-tests-whole-region",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
