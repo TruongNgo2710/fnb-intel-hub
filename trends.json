@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-04T14:20:18.304223+00:00",
+  "updated": "2026-08-04T17:52:24.280465+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 29,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 13,
+      "count": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 12,
-      "count_24h": 4,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 7,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -47,10 +47,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -61,31 +61,25 @@
       "trend": "up"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -101,6 +95,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 1,
@@ -108,10 +108,10 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 8,
-    "neutral": 49,
-    "score": 19,
+    "positive": 18,
+    "negative": 7,
+    "neutral": 55,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -120,22 +120,22 @@
       "count": 47
     },
     {
-      "word": "ucc",
-      "count": 4
+      "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "delivery",
+      "count": 2
     },
     {
       "word": "chatgpt",
-      "count": 3
-    },
-    {
-      "word": "gọi vốn",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 12,
-    "price_direction": "down",
-    "price_up_signals": 0,
+    "price_direction": "stable",
+    "price_up_signals": 1,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -145,42 +145,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The American Heart Association Says Five Cups Of Coffee A Day Is Fine",
-        "url": "https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html",
-        "source": "Sprudge Coffee",
+        "title": "Fairtrade International Raises Price Minimums Again",
+        "url": "https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/",
+        "source": "Daily Coffee News",
         "time": "2 giờ trước"
       },
       {
-        "title": "Why local brands are more successful than chains in coffee-producing countries",
-        "url": "https://perfectdailygrind.com/2026/08/local-brands-coffee-producing-countries/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Starbucks to bring back Pumpkin Spice Latte on Aug. 25",
-        "url": "https://www.nrn.com/fast-casual/starbucks-to-bring-back-pumpkin-spice-latte-on-aug-25",
+        "title": "First Watch reports higher sales, raises outlook after solid Q2",
+        "url": "https://www.nrn.com/casual-dining/first-watch-reports-higher-sales-raises-outlook-after-solid-q2",
         "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Demitasse In Santa Monica, CA",
-        "url": "https://sprudge.com/build-outs-of-coffee-demitasse-in-santa-monica-ca-1159742.html",
+        "title": "Study: Bird-Friendly Coffee Landscapes Need Forest Alongside Shade",
+        "url": "https://dailycoffeenews.com/2026/08/04/study-bird-friendly-coffee-landscapes-need-forest-alongside-shade/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "The American Heart Association Says Five Cups Of Coffee A Day Is Fine",
+        "url": "https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Laundromat demand draws washer makers to Thailand, Philippines",
-        "url": "https://asia.nikkei.com/business/business-trends/laundromat-demand-draws-washer-makers-to-thailand-philippines",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's 'silver economy' draws Japan nursing care equipment retailers",
         "url": "https://asia.nikkei.com/business/retail/china-s-silver-economy-draws-japan-nursing-care-equipment-retailers",
@@ -202,6 +196,12 @@
       {
         "title": "Grab raises guidance as strong ride-hailing demand lifts Q2 profit",
         "url": "https://asia.nikkei.com/business/technology/grab-raises-guidance-as-strong-ride-hailing-demand-lifts-q2-profit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan braces for annual Han Kuang anti-invasion drills with new twists",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-braces-for-annual-han-kuang-anti-invasion-drills-with-new-twists",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -231,10 +231,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 12,
-    "region-americas": 13,
-    "region-global": 32,
+    "region-sea": 20,
+    "region-americas": 18,
+    "region-vietnam": 11,
+    "region-global": 29,
     "region-europe": 2
   }
 }
