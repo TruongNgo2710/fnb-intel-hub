@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-04T17:52:24.280465+00:00",
+  "updated": "2026-08-04T21:19:11.022456+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 69,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 34,
+      "count": 46,
+      "count_24h": 39,
       "trend": "hot"
     },
     {
@@ -21,22 +21,22 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 6,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -54,13 +54,6 @@
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
@@ -73,31 +66,32 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -105,19 +99,25 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 7,
-    "neutral": 55,
-    "score": 14,
-    "label": "Trung tính"
+    "positive": 26,
+    "negative": 6,
+    "neutral": 48,
+    "score": 25,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -129,6 +129,10 @@
     },
     {
       "word": "chatgpt",
+      "count": 2
+    },
+    {
+      "word": "ucc",
       "count": 2
     }
   ],
@@ -145,27 +149,27 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Ivan Solis Of Recuerdos Cafe: The Sprudge Twenty Interview",
+        "url": "https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Beyond Brand Launches Around Übermilk and Plus X Platform",
+        "url": "https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
+      },
+      {
         "title": "Fairtrade International Raises Price Minimums Again",
         "url": "https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "First Watch reports higher sales, raises outlook after solid Q2",
         "url": "https://www.nrn.com/casual-dining/first-watch-reports-higher-sales-raises-outlook-after-solid-q2",
         "source": "Nation's Restaurant News",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Study: Bird-Friendly Coffee Landscapes Need Forest Alongside Shade",
-        "url": "https://dailycoffeenews.com/2026/08/04/study-bird-friendly-coffee-landscapes-need-forest-alongside-shade/",
-        "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "The American Heart Association Says Five Cups Of Coffee A Day Is Fine",
-        "url": "https://sprudge.com/the-american-heart-association-says-five-cups-of-coffee-a-day-is-fine-1232466.html",
-        "source": "Sprudge Coffee",
         "time": "5 giờ trước"
       }
     ],
@@ -173,26 +177,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "China's 'silver economy' draws Japan nursing care equipment retailers",
-        "url": "https://asia.nikkei.com/business/retail/china-s-silver-economy-draws-japan-nursing-care-equipment-retailers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Pakistan fails to curb Imran Khan's clout after 3 years in jail",
-        "url": "https://asia.nikkei.com/politics/pakistan-fails-to-curb-imran-khan-s-clout-after-3-years-in-jail",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SpaceX's pursuit of a China-free supply chain",
-        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/spacex-s-pursuit-of-a-china-free-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Grab raises guidance as strong ride-hailing demand lifts Q2 profit",
         "url": "https://asia.nikkei.com/business/technology/grab-raises-guidance-as-strong-ride-hailing-demand-lifts-q2-profit",
@@ -204,9 +190,27 @@
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-braces-for-annual-han-kuang-anti-invasion-drills-with-new-twists",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Toyota raises full-year net profit forecast, helped by weak yen",
+        "url": "https://asia.nikkei.com/business/automobiles/toyota-raises-full-year-net-profit-forecast-helped-by-weak-yen",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan warns Russia-North Korea axis raises regional security threat",
+        "url": "https://asia.nikkei.com/politics/defense/japan-warns-russia-north-korea-axis-raises-regional-security-threat",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US imports more Asian goods during first half amid tariff uncertainty",
+        "url": "https://asia.nikkei.com/economy/trade/us-imports-more-asian-goods-during-first-half-amid-tariff-uncertainty",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -226,15 +230,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 18,
+    "region-sea": 18,
+    "region-americas": 19,
     "region-vietnam": 11,
-    "region-global": 29,
-    "region-europe": 2
+    "region-global": 31,
+    "region-europe": 1
   }
 }
