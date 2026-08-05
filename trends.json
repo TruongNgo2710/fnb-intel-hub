@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-05T06:32:09.086439+00:00",
+  "updated": "2026-08-05T10:39:05.577320+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 35,
+      "count": 40,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 16,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
+      "count": 17,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 9,
       "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -89,12 +89,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 1,
@@ -105,19 +99,25 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 29,
-    "negative": 7,
-    "neutral": 44,
+    "positive": 28,
+    "negative": 6,
+    "neutral": 46,
     "score": 28,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -130,14 +130,10 @@
     {
       "word": "chatgpt",
       "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -152,45 +148,33 @@
         "title": "Ivan Solis Of Recuerdos Cafe: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Beyond Brand Launches Around Übermilk and Plus X Platform",
         "url": "https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Fairtrade International Raises Price Minimums Again",
         "url": "https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "First Watch reports higher sales, raises outlook after solid Q2",
         "url": "https://www.nrn.com/casual-dining/first-watch-reports-higher-sales-raises-outlook-after-solid-q2",
         "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Japan weighs use of Palantir, Anduril AI systems for defense forces",
-        "url": "https://asia.nikkei.com/politics/defense/japan-weighs-use-of-palantir-anduril-ai-systems-for-defense-forces",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan banks raise rates for large deposits, eyeing property sale proceeds",
-        "url": "https://asia.nikkei.com/business/finance/japan-banks-raise-rates-for-large-deposits-eyeing-property-sale-proceeds",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/furukawa-electric-to-spend-635m-in-japan-us-brazil-india-amid-ai-boom",
@@ -208,9 +192,21 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/us-intervened-to-contain-asia-currency-risks-bessent-says",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m",
+        "url": "https://asia.nikkei.com/business/business-deals/bain-capital-to-buy-taiwan-originated-gong-cha-chain-for-over-635m",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takeda aims for dengue vaccine inclusion in India's shots program",
+        "url": "https://asia.nikkei.com/business/health-care/takeda-aims-for-dengue-vaccine-inclusion-in-india-s-shots-program",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -235,10 +231,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 18,
+    "region-sea": 17,
+    "region-americas": 19,
     "region-europe": 2,
-    "region-vietnam": 14,
-    "region-global": 28
+    "region-vietnam": 13,
+    "region-global": 29
   }
 }
