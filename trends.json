@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-04T21:19:11.022456+00:00",
+  "updated": "2026-08-05T02:42:04.185751+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 46,
-      "count_24h": 39,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
@@ -22,14 +22,14 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -89,12 +89,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 1,
@@ -105,13 +99,19 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 26,
-    "negative": 6,
-    "neutral": 48,
-    "score": 25,
+    "negative": 5,
+    "neutral": 49,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -129,10 +129,6 @@
     },
     {
       "word": "chatgpt",
-      "count": 2
-    },
-    {
-      "word": "ucc",
       "count": 2
     }
   ],
@@ -152,45 +148,33 @@
         "title": "Ivan Solis Of Recuerdos Cafe: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Beyond Brand Launches Around Übermilk and Plus X Platform",
         "url": "https://dailycoffeenews.com/2026/08/04/beyond-brand-launches-around-ubermilk-and-plus-x-platform/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Fairtrade International Raises Price Minimums Again",
         "url": "https://dailycoffeenews.com/2026/08/04/fairtrade-international-raises-price-minimums-again/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "First Watch reports higher sales, raises outlook after solid Q2",
         "url": "https://www.nrn.com/casual-dining/first-watch-reports-higher-sales-raises-outlook-after-solid-q2",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Grab raises guidance as strong ride-hailing demand lifts Q2 profit",
-        "url": "https://asia.nikkei.com/business/technology/grab-raises-guidance-as-strong-ride-hailing-demand-lifts-q2-profit",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan braces for annual Han Kuang anti-invasion drills with new twists",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-braces-for-annual-han-kuang-anti-invasion-drills-with-new-twists",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Toyota raises full-year net profit forecast, helped by weak yen",
         "url": "https://asia.nikkei.com/business/automobiles/toyota-raises-full-year-net-profit-forecast-helped-by-weak-yen",
@@ -208,9 +192,21 @@
         "url": "https://asia.nikkei.com/economy/trade/us-imports-more-asian-goods-during-first-half-amid-tariff-uncertainty",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank builds out AI sphere with stake in 7-Eleven owner",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-builds-out-ai-sphere-with-stake-in-7-eleven-owner",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan weighs use of Palantir, Anduril AI systems for defense forces",
+        "url": "https://asia.nikkei.com/politics/defense/japan-weighs-use-of-palantir-anduril-ai-systems-for-defense-forces",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -235,10 +231,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
+    "region-sea": 17,
     "region-americas": 19,
+    "region-europe": 2,
     "region-vietnam": 11,
-    "region-global": 31,
-    "region-europe": 1
+    "region-global": 31
   }
 }
