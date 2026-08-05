@@ -1,43 +1,36 @@
 {
-  "updated": "2026-08-05T14:14:16.186418+00:00",
+  "updated": "2026-08-05T17:42:11.186274+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 33,
+      "count": 43,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 14,
+      "count": 14,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 6,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -47,25 +40,25 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -77,56 +70,46 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 2,
       "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 28,
-    "negative": 5,
-    "neutral": 47,
-    "score": 29,
+    "positive": 23,
+    "negative": 6,
+    "neutral": 51,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 43
     },
     {
       "word": "gọi vốn",
-      "count": 2
-    },
-    {
-      "word": "delivery",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 10,
-    "price_direction": "stable",
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -135,54 +118,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
+        "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
         "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
         "source": "Sprudge Coffee",
-        "time": "11 phút trước"
+        "time": "3 giờ trước"
       },
       {
         "title": "June Arrived This Summer as a Dual-Wall Insulated Pourover Brewer",
         "url": "https://dailycoffeenews.com/2026/08/05/june-arrived-this-summer-as-a-dual-wall-insulated-pourover-brewer/",
         "source": "Daily Coffee News",
-        "time": "51 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Coffee Borer Beetles Are Making Homes For The Ants That Hunt Them",
         "url": "https://sprudge.com/coffee-borer-beetles-are-making-homes-for-the-ants-that-hunt-them-1251142.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Ivan Solis Of Recuerdos Cafe: The Sprudge Twenty Interview",
-        "url": "https://sprudge.com/ivan-solis-of-recuerdos-cafe-the-sprudge-twenty-interview-1250780.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Furukawa Electric to spend $635m in Japan, US, Brazil, India amid AI boom",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/furukawa-electric-to-spend-635m-in-japan-us-brazil-india-amid-ai-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Daikin posts higher profit on AC sales driven by European heat waves",
-        "url": "https://asia.nikkei.com/business/companies/daikin-posts-higher-profit-on-ac-sales-driven-by-european-heat-waves",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "US intervened to contain Asia currency risks, Bessent says",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/us-intervened-to-contain-asia-currency-risks-bessent-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m",
         "url": "https://asia.nikkei.com/business/business-deals/bain-capital-to-buy-taiwan-originated-gong-cha-chain-for-over-635m",
@@ -194,9 +159,27 @@
         "url": "https://asia.nikkei.com/business/health-care/takeda-aims-for-dengue-vaccine-inclusion-in-india-s-shots-program",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Myanmar's Min Aung Hlaing to visit Thailand on quest for legitimacy",
+        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-s-min-aung-hlaing-to-visit-thailand-on-quest-for-legitimacy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Toyota aims for 2027 global output of 10.5m vehicles on hybrid demand",
+        "url": "https://asia.nikkei.com/business/automobiles/toyota-aims-for-2027-global-output-of-10.5m-vehicles-on-hybrid-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI-designed fashion gives boost to Japan apparel giant World",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-designed-fashion-gives-boost-to-japan-apparel-giant-world",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +193,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
@@ -221,10 +204,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 20,
     "region-sea": 17,
+    "region-americas": 19,
+    "region-vietnam": 11,
     "region-europe": 1,
-    "region-global": 29,
-    "region-vietnam": 13
+    "region-global": 32
   }
 }
