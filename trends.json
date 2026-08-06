@@ -1,34 +1,34 @@
 {
-  "updated": "2026-08-06T02:43:32.502588+00:00",
+  "updated": "2026-08-06T06:34:29.628530+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 70,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 35,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 11,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
       "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 8,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -88,9 +88,9 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 6,
-    "neutral": 53,
+    "positive": 20,
+    "negative": 5,
+    "neutral": 55,
     "score": 19,
     "label": "Trung tính"
   },
@@ -105,7 +105,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 8,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -120,25 +120,25 @@
         "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
         "url": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
         "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
         "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "June Arrived This Summer as a Dual-Wall Insulated Pourover Brewer",
         "url": "https://dailycoffeenews.com/2026/08/05/june-arrived-this-summer-as-a-dual-wall-insulated-pourover-brewer/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -147,18 +147,6 @@
   "ai_trends": {
     "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Toyota aims for 2027 global output of 10.5m vehicles on hybrid demand",
-        "url": "https://asia.nikkei.com/business/automobiles/toyota-aims-for-2027-global-output-of-10.5m-vehicles-on-hybrid-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI-designed fashion gives boost to Japan apparel giant World",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-designed-fashion-gives-boost-to-japan-apparel-giant-world",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting",
         "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-shows-signs-of-worry-ahead-of-beidaihe-meeting",
@@ -175,6 +163,18 @@
         "title": "For Taiwan's tech suppliers, space economy could be next growth spark",
         "url": "https://asia.nikkei.com/business/technology/for-taiwan-s-tech-suppliers-space-economy-could-be-next-growth-spark",
         "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Amundi says AI remains a long-term bet despite sell-off",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
+        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
+        "source": "CafeBiz Startup",
         "time": "0 phút trước"
       }
     ],
@@ -203,10 +203,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 17,
-    "region-vietnam": 14,
-    "region-global": 29,
+    "region-sea": 19,
+    "region-americas": 16,
+    "region-vietnam": 13,
+    "region-global": 30,
     "region-europe": 2
   }
 }
