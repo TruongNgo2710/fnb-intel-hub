@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-06T10:43:32.265488+00:00",
+  "updated": "2026-08-06T14:15:14.000374+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 69,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 35,
+      "count": 44,
+      "count_24h": 39,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "count": 13,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
+      "count": 5,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -63,8 +63,8 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 3,
       "trend": "hot"
     },
@@ -75,9 +75,15 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -88,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 23,
+    "negative": 6,
+    "neutral": 51,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -117,42 +123,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Spokane Coffee Shops Open Doors To Those Impacted By Wildfires",
+        "url": "https://sprudge.com/spokane-coffee-shops-open-doors-to-those-impacted-by-wildfires-1253730.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
         "url": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
         "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
         "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
         "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "June Arrived This Summer as a Dual-Wall Insulated Pourover Brewer",
-        "url": "https://dailycoffeenews.com/2026/08/05/june-arrived-this-summer-as-a-dual-wall-insulated-pourover-brewer/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting",
-        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-shows-signs-of-worry-ahead-of-beidaihe-meeting",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan to air new TV drama episodes in Thailand in overseas content push",
         "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-air-new-tv-drama-episodes-in-thailand-in-overseas-content-push",
@@ -176,9 +176,15 @@
         "url": "https://asia.nikkei.com/business/softbank/softbank-quarterly-profit-falls-18-despite-big-intel-gains",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI becomes bigger headache than tariffs for China camera maker Insta360",
+        "url": "https://asia.nikkei.com/business/china-tech/ai-becomes-bigger-headache-than-tariffs-for-china-camera-maker-insta360",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -204,9 +210,9 @@
   },
   "regional_breakdown": {
     "region-sea": 21,
-    "region-vietnam": 11,
-    "region-americas": 17,
+    "region-vietnam": 13,
     "region-global": 29,
+    "region-americas": 15,
     "region-europe": 2
   }
 }
