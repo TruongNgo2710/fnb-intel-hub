@@ -1,57 +1,57 @@
 {
-  "updated": "2026-08-05T21:13:32.202891+00:00",
+  "updated": "2026-08-06T02:43:32.502588+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 33,
+      "count": 42,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
+      "count": 11,
       "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -75,29 +75,29 @@
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 5,
-    "neutral": 55,
+    "positive": 21,
+    "negative": 6,
+    "neutral": 53,
     "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -105,7 +105,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -120,32 +120,32 @@
         "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
         "url": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
         "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
         "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "June Arrived This Summer as a Dual-Wall Insulated Pourover Brewer",
         "url": "https://dailycoffeenews.com/2026/08/05/june-arrived-this-summer-as-a-dual-wall-insulated-pourover-brewer/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Toyota aims for 2027 global output of 10.5m vehicles on hybrid demand",
@@ -172,13 +172,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "For Taiwan's tech suppliers, space economy could be next growth spark",
+        "url": "https://asia.nikkei.com/business/technology/for-taiwan-s-tech-suppliers-space-economy-could-be-next-growth-spark",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -198,15 +198,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 18,
-    "region-vietnam": 12,
-    "region-global": 30,
+    "region-americas": 17,
+    "region-vietnam": 14,
+    "region-global": 29,
     "region-europe": 2
   }
 }
