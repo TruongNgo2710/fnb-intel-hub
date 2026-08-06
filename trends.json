@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T06:34:29.628530+00:00",
+  "updated": "2026-08-06T10:43:32.265488+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 66,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 33,
+      "count": 43,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
@@ -19,37 +19,37 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 5,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -69,6 +69,12 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 2,
+      "trend": "up"
+    },
+    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 2,
@@ -79,25 +85,19 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 21,
     "negative": 5,
-    "neutral": 55,
-    "score": 19,
+    "neutral": 54,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -105,7 +105,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -120,32 +120,32 @@
         "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
         "url": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
         "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
         "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "June Arrived This Summer as a Dual-Wall Insulated Pourover Brewer",
         "url": "https://dailycoffeenews.com/2026/08/05/june-arrived-this-summer-as-a-dual-wall-insulated-pourover-brewer/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "Analysis: Xi Jinping shows signs of worry ahead of Beidaihe meeting",
@@ -172,13 +172,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Chủ tịch ERIC Capital Nguyễn Thúc Khoa: Tăng doanh thu 200-300% không khó, nhưng CEO rất dễ đánh mất trục giá trị nếu ra quyết định chỉ để “chứng minh mình”",
-        "url": "https://cafebiz.vn/chu-tich-eric-capital-nguyen-thuc-khoa-tang-doanh-thu-200-300-khong-kho-nhung-ceo-rat-de-danh-mat-truc-gia-tri-neu-ra-quyet-dinh-chi-de-chung-minh-minh-176251107085636162.chn",
-        "source": "CafeBiz Startup",
+        "title": "SoftBank quarterly profit falls 18% despite big Intel gains",
+        "url": "https://asia.nikkei.com/business/softbank/softbank-quarterly-profit-falls-18-despite-big-intel-gains",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,10 +203,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 16,
-    "region-vietnam": 13,
-    "region-global": 30,
+    "region-sea": 21,
+    "region-vietnam": 11,
+    "region-americas": 17,
+    "region-global": 29,
     "region-europe": 2
   }
 }
