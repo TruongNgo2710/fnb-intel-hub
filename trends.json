@@ -1,57 +1,57 @@
 {
-  "updated": "2026-08-06T14:15:14.000374+00:00",
+  "updated": "2026-08-07T00:55:25.505672+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 39,
+      "count": 47,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 11,
+      "count": 15,
+      "count_24h": 13,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 7,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -63,27 +63,21 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 6,
+      "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 1,
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 2,
       "trend": "up"
     },
     {
@@ -94,19 +88,31 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 21,
     "negative": 6,
-    "neutral": 51,
-    "score": 21,
-    "label": "Tích cực"
+    "neutral": 53,
+    "score": 19,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 47
+    },
+    {
+      "word": "chatgpt",
+      "count": 3
     },
     {
       "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "ucc",
+      "count": 2
+    },
+    {
+      "word": "specialty",
       "count": 2
     }
   ],
@@ -114,7 +120,7 @@
     "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -123,54 +129,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Dutch Bros Pursues Dozens of Recently Closed Salad and Go Sites",
+        "url": "https://dailycoffeenews.com/2026/08/06/dutch-bros-pursues-dozens-of-recently-closed-salad-and-go-sites/",
+        "source": "Daily Coffee News",
+        "time": "9 giờ trước"
+      },
+      {
+        "title": "Two Fold Doubles Down on Quality in Tampa",
+        "url": "https://dailycoffeenews.com/2026/08/06/two-fold-doubles-down-on-quality-in-tampa/",
+        "source": "Daily Coffee News",
+        "time": "10 giờ trước"
+      },
+      {
         "title": "Spokane Coffee Shops Open Doors To Those Impacted By Wildfires",
         "url": "https://sprudge.com/spokane-coffee-shops-open-doors-to-those-impacted-by-wildfires-1253730.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "12 giờ trước"
       },
       {
-        "title": "Italian Study Says Espresso and Moka Pot May Reduce This Liver Disease",
-        "url": "https://dailycoffeenews.com/2026/08/05/italian-study-says-espresso-and-moka-pot-may-reduce-this-liver-disease/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Professional Education Event Level Up to Rise Again in Minneapolis",
-        "url": "https://dailycoffeenews.com/2026/08/05/professional-education-event-level-up-to-rise-again-in-minneapolis/",
-        "source": "Daily Coffee News",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Onyx At The Preserve In Bentonville, AR",
-        "url": "https://sprudge.com/build-outs-of-coffee-onyx-at-the-preserve-in-bentonville-ar-1215178.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "title": "From edgy to elegant: How “cool” in specialty coffee is maturing",
+        "url": "https://perfectdailygrind.com/2026/08/cool-in-specialty-coffee-maturing/",
+        "source": "Perfect Daily Grind",
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Japan to air new TV drama episodes in Thailand in overseas content push",
-        "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-air-new-tv-drama-episodes-in-thailand-in-overseas-content-push",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "For Taiwan's tech suppliers, space economy could be next growth spark",
-        "url": "https://asia.nikkei.com/business/technology/for-taiwan-s-tech-suppliers-space-economy-could-be-next-growth-spark",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Amundi says AI remains a long-term bet despite sell-off",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "SoftBank quarterly profit falls 18% despite big Intel gains",
         "url": "https://asia.nikkei.com/business/softbank/softbank-quarterly-profit-falls-18-despite-big-intel-gains",
@@ -182,9 +170,27 @@
         "url": "https://asia.nikkei.com/business/china-tech/ai-becomes-bigger-headache-than-tariffs-for-china-camera-maker-insta360",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand throws Myanmar's Min Aung Hlaing a diplomatic lifeline",
+        "url": "https://asia.nikkei.com/politics/international-relations/thailand-throws-myanmar-s-min-aung-hlaing-a-diplomatic-lifeline",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Lufthansa breaks ground on Philippine maintenance site for widebody planes",
+        "url": "https://asia.nikkei.com/business/transportation/lufthansa-breaks-ground-on-philippine-maintenance-site-for-widebody-planes",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi's tax cut plan exposes fault line with US over fiscal policy",
+        "url": "https://asia.nikkei.com/politics/takaichi-s-tax-cut-plan-exposes-fault-line-with-us-over-fiscal-policy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +215,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 13,
-    "region-global": 29,
-    "region-americas": 15,
+    "region-sea": 17,
+    "region-americas": 18,
+    "region-vietnam": 15,
+    "region-global": 28,
     "region-europe": 2
   }
 }
