@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-09T12:55:53.009283+00:00",
+  "updated": "2026-08-09T16:40:15.586742+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 9,
+      "count": 45,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 12,
       "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
-      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -57,6 +57,13 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 3,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -101,16 +108,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 17,
     "negative": 6,
-    "neutral": 56,
-    "score": 15,
+    "neutral": 57,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "word": "chatgpt",
@@ -126,7 +133,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -147,26 +154,26 @@
         "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
         "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
         "source": "TechCrunch AI",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Menu Tracker: New items from Arby’s, Culver’s, and Starbucks",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-arby-s-culver-s-and-starbucks",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Weekly Coffee News: Peruvian Harvest Guide + Florida Roaster Expands",
         "url": "https://dailycoffeenews.com/2026/08/07/weekly-coffee-news-peruvian-harvest-guide-florida-roaster-expands/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 51,
     "top_articles": [
       {
         "title": "China's kids turn to AI-powered tutors over summer break",
@@ -199,7 +206,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,9 +231,9 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 23,
     "region-sea": 17,
-    "region-americas": 24,
-    "region-vietnam": 11,
-    "region-global": 28
+    "region-vietnam": 13,
+    "region-global": 27
   }
 }
