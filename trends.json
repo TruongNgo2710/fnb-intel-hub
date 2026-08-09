@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T08:46:53.267880+00:00",
+  "updated": "2026-08-09T12:55:53.009283+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 33,
@@ -7,22 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
+      "count": 46,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 5,
+      "count": 13,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -31,6 +24,13 @@
       "count": 8,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 5,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 10,
       "trend": "hot"
     },
     {
@@ -101,20 +101,20 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 7,
-    "neutral": 54,
+    "positive": 18,
+    "negative": 6,
+    "neutral": 56,
     "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 46
     },
     {
       "word": "chatgpt",
-      "count": 3
+      "count": 4
     },
     {
       "word": "wine",
@@ -166,7 +166,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 52,
     "top_articles": [
       {
         "title": "China's kids turn to AI-powered tutors over summer break",
@@ -199,7 +199,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -226,7 +226,7 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-americas": 24,
-    "region-vietnam": 14,
-    "region-global": 25
+    "region-vietnam": 11,
+    "region-global": 28
   }
 }
