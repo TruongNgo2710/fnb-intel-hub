@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-10T01:57:27.843443+00:00",
+  "updated": "2026-08-10T05:30:21.197317+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 15,
+      "count": 46,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -22,20 +22,20 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 6,
       "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 6,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -102,16 +102,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 5,
+    "positive": 18,
+    "negative": 6,
     "neutral": 56,
-    "score": 18,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 45
     },
     {
       "word": "chatgpt",
@@ -131,7 +131,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
+    "total_articles": 6,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -171,20 +171,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "China's kids turn to AI-powered tutors over summer break",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-kids-turn-to-ai-powered-tutors-over-summer-break",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Cambodia deep-water port cashes in on Thai border closure",
-        "url": "https://asia.nikkei.com/business/transportation/cambodia-deep-water-port-cashes-in-on-thai-border-closure",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Hong Kong-based rice ball chain prepares supplies for US push",
         "url": "https://asia.nikkei.com/business/food-beverage/hong-kong-based-rice-ball-chain-prepares-supplies-for-us-push",
@@ -202,9 +190,21 @@
         "url": "https://asia.nikkei.com/politics/ukraine-war/ukrainian-evangelists-help-win-support-of-maga-followers-in-us",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to integrate cybersecurity into air-defense radar, fighter jets",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-to-integrate-cybersecurity-into-air-defense-radar-fighter-jets",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China's 'national team' battles AI stock rollercoaster",
+        "url": "https://asia.nikkei.com/business/markets/trading-asia/china-s-national-team-battles-ai-stock-rollercoaster",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -229,8 +229,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 21,
+    "region-americas": 22,
+    "region-sea": 16,
     "region-europe": 2,
     "region-vietnam": 15,
     "region-global": 25
