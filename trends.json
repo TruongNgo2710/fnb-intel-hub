@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-10T09:26:53.319576+00:00",
+  "updated": "2026-08-10T13:13:48.206708+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 12,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 7,
+      "count": 13,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -35,14 +35,14 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
+      "count": 5,
       "count_24h": 0,
       "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 4,
       "count_24h": 1,
       "trend": "up"
     },
@@ -79,7 +79,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 10,
+      "count": 9,
       "trend": "hot"
     },
     {
@@ -102,11 +102,11 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 6,
-    "neutral": 55,
-    "score": 16,
-    "label": "Trung tính"
+    "positive": 22,
+    "negative": 5,
+    "neutral": 53,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -127,7 +127,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -137,6 +137,12 @@
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Matcha is everywhere – but what does Japan think?",
+        "url": "https://perfectdailygrind.com/2026/08/matcha-is-everywhere-japan/",
+        "source": "Perfect Daily Grind",
+        "time": "7 giờ trước"
       },
       {
         "title": "Menu innovation drives new occasions, higher checks at El Pollo Loco",
@@ -155,19 +161,13 @@
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-arby-s-culver-s-and-starbucks",
         "source": "Nation's Restaurant News",
         "time": "2 ngày trước"
-      },
-      {
-        "title": "Weekly Coffee News: Peruvian Harvest Guide + Florida Roaster Expands",
-        "url": "https://dailycoffeenews.com/2026/08/07/weekly-coffee-news-peruvian-harvest-guide-florida-roaster-expands/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
       {
         "title": "Ukrainian evangelists help win support of MAGA followers in US",
@@ -200,7 +200,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,7 +215,7 @@
     },
     "sugar": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     },
     "dairy": {
@@ -228,7 +228,7 @@
     "region-sea": 16,
     "region-americas": 22,
     "region-europe": 2,
-    "region-vietnam": 14,
-    "region-global": 26
+    "region-vietnam": 15,
+    "region-global": 25
   }
 }
