@@ -1,42 +1,42 @@
 {
-  "updated": "2026-08-11T17:00:49.663018+00:00",
+  "updated": "2026-08-11T20:48:13.586569+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 26,
+      "count": 33,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 8,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 4,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -63,15 +63,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 6,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 7,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 3,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -88,28 +88,32 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 7,
+    "positive": 17,
+    "negative": 8,
     "neutral": 55,
-    "score": 14,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 33
     },
     {
-      "word": "claude",
+      "word": "chatgpt",
       "count": 3
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -121,48 +125,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Haraz Coffee wins NRN’s Coffee Showdown",
+        "url": "https://www.nrn.com/emerging-chains/haraz-coffee-wins-nrn-s-coffee-showdown",
+        "source": "Nation's Restaurant News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Best of Hawai‘i Names 2026 Winners, Plans 2027 Auction",
         "url": "https://dailycoffeenews.com/2026/08/11/best-of-hawaii-names-2026-winners-plans-2027-auction/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Goodboybob Doubles Cafe Footprint with Openings in New York and LA",
         "url": "https://dailycoffeenews.com/2026/08/11/goodboybob-doubles-cafe-footprint-with-openings-in-new-york-and-la/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "6 giờ trước"
       },
       {
-        "title": "How technology is evolving for smaller roasters",
-        "url": "https://perfectdailygrind.com/2026/08/how-technology-is-evolving-for-smaller-roasters/",
-        "source": "Perfect Daily Grind",
-        "time": "10 giờ trước"
-      },
-      {
-        "title": "Eight Arrested in Fun Coffee Fraud Investigation",
-        "url": "https://dailycoffeenews.com/2026/08/10/eight-arrested-in-fun-coffee-fraud-investigation/",
-        "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "title": "Build-Outs Of Coffee: Milk Brew In Pasadena, CA",
+        "url": "https://sprudge.com/build-outs-of-coffee-milk-brew-in-pasadena-ca-1219092.html",
+        "source": "Sprudge Coffee",
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 36,
     "top_articles": [
-      {
-        "title": "Buffett-backed Japan trading houses soar, but will it last in AI era?",
-        "url": "https://asia.nikkei.com/business/companies/buffett-backed-japan-trading-houses-soar-but-will-it-last-in-ai-era",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan Inc.'s quarterly profit jumps 70% on weak yen and AI spending",
-        "url": "https://asia.nikkei.com/business/business-trends/japan-inc.-s-quarterly-profit-jumps-70-on-weak-yen-and-ai-spending",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's CEOs see less direct access to Takaichi than previous PMs",
         "url": "https://asia.nikkei.com/politics/japan-s-ceos-see-less-direct-access-to-takaichi-than-previous-pms",
@@ -180,9 +172,21 @@
         "url": "https://asia.nikkei.com/economy/singapore-records-5.9-q2-gdp-growth-raises-full-year-forecast",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Compal bets on expansion in Taiwan, Vietnam and US for AI servers",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/compal-bets-on-expansion-in-taiwan-vietnam-and-us-for-ai-servers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Moonshot AI's CEO turned down Apple and built Chinese rival to Anthropic",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/moonshot-ai-s-ceo-turned-down-apple-and-built-chinese-rival-to-anthropic",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 36 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -202,7 +206,7 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
