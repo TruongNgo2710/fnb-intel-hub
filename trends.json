@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-11T13:11:03.858991+00:00",
+  "updated": "2026-08-11T17:00:49.663018+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
+      "count": 39,
       "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 6,
-      "count_24h": 4,
+      "count": 12,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 5,
+      "count": 6,
       "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -43,22 +43,15 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-supply",
@@ -70,16 +63,22 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 6,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
@@ -89,16 +88,16 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 8,
-    "neutral": 56,
-    "score": 10,
+    "positive": 18,
+    "negative": 7,
+    "neutral": 55,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 38
     },
     {
       "word": "claude",
@@ -110,9 +109,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 5,
-    "price_direction": "stable",
-    "price_up_signals": 1,
+    "total_articles": 8,
+    "price_direction": "down",
+    "price_up_signals": 0,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -122,48 +121,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Best of Hawai‘i Names 2026 Winners, Plans 2027 Auction",
+        "url": "https://dailycoffeenews.com/2026/08/11/best-of-hawaii-names-2026-winners-plans-2027-auction/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Goodboybob Doubles Cafe Footprint with Openings in New York and LA",
+        "url": "https://dailycoffeenews.com/2026/08/11/goodboybob-doubles-cafe-footprint-with-openings-in-new-york-and-la/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "How technology is evolving for smaller roasters",
+        "url": "https://perfectdailygrind.com/2026/08/how-technology-is-evolving-for-smaller-roasters/",
+        "source": "Perfect Daily Grind",
+        "time": "10 giờ trước"
+      },
+      {
         "title": "Eight Arrested in Fun Coffee Fraud Investigation",
         "url": "https://dailycoffeenews.com/2026/08/10/eight-arrested-in-fun-coffee-fraud-investigation/",
         "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Development Stage to Explore Coffee ‘Beyond the Cup’ in Oakland",
-        "url": "https://dailycoffeenews.com/2026/08/10/development-stage-to-explore-coffee-beyond-the-cup-in-oakland/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "La Marzocco Launches Sistema for Monitoring Fleets of Espresso Machines",
-        "url": "https://dailycoffeenews.com/2026/08/10/la-marzocco-launches-sistema-for-monitoring-fleets-of-espresso-machines/",
-        "source": "Daily Coffee News",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Menu innovation drives new occasions, higher checks at El Pollo Loco",
-        "url": "https://www.nrn.com/quick-service/menu-innovation-drives-new-occasions-higher-checks-at-el-pollo-loco",
-        "source": "Nation's Restaurant News",
-        "time": "3 ngày trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan aims to ease startup fundraising with looser lending rules",
-        "url": "https://asia.nikkei.com/business/startups/japan-aims-to-ease-startup-fundraising-with-looser-lending-rules",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI agents are the only employees at Japan tech group NEC's new department",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-agents-are-the-only-employees-at-japan-tech-group-nec-s-new-department",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Buffett-backed Japan trading houses soar, but will it last in AI era?",
         "url": "https://asia.nikkei.com/business/companies/buffett-backed-japan-trading-houses-soar-but-will-it-last-in-ai-era",
@@ -181,9 +168,21 @@
         "url": "https://asia.nikkei.com/politics/japan-s-ceos-see-less-direct-access-to-takaichi-than-previous-pms",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Singapore, Thailand attract luxury yachts as Middle East risks rise",
+        "url": "https://asia.nikkei.com/spotlight/asean-money/singapore-thailand-attract-luxury-yachts-as-middle-east-risks-rise",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Singapore records 5.9% Q2 GDP growth, raises full-year forecast",
+        "url": "https://asia.nikkei.com/economy/singapore-records-5.9-q2-gdp-growth-raises-full-year-forecast",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,8 +209,8 @@
   "regional_breakdown": {
     "region-sea": 20,
     "region-vietnam": 15,
-    "region-global": 24,
-    "region-americas": 20,
+    "region-global": 27,
+    "region-americas": 17,
     "region-europe": 1
   }
 }
