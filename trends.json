@@ -1,61 +1,61 @@
 {
-  "updated": "2026-08-12T17:00:12.390531+00:00",
+  "updated": "2026-08-12T20:48:47.171746+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 40,
+      "count": 50,
+      "count_24h": 42,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 15,
+      "count": 19,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 9,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
-      "count_24h": 4,
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 6,
-    "neutral": 56,
-    "score": 15,
+    "positive": 21,
+    "negative": 7,
+    "neutral": 52,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 50
     },
     {
       "word": "chatgpt",
@@ -107,10 +107,14 @@
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -122,35 +126,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The Crown Announces Third Annual “Development Stage” – A Multi-Day Coffee Symposium",
+        "url": "https://sprudge.com/the-crown-announces-third-annual-development-stage-a-multi-day-coffee-symposium-1265816.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Coffee and Sleep May Not Be the Nightmare Pairing We Think",
         "url": "https://dailycoffeenews.com/2026/08/12/coffee-and-sleep-may-not-be-the-nightmare-pairing-we-think/",
         "source": "Daily Coffee News",
-        "time": "40 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
         "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html",
         "source": "Sprudge Coffee",
-        "time": "43 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Damage Assessments Underway in Colombia Following Deadly Earthquake",
         "url": "https://dailycoffeenews.com/2026/08/12/damage-assessments-underway-in-colombia-following-deadly-earthquake/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "The Deadline To Submit Your Cafe For The 2026 Build-Outs Of Coffee Is August 17th",
-        "url": "https://sprudge.com/the-deadline-to-submit-your-cafe-for-the-2026-build-outs-of-coffee-is-august-17th-1265169.html",
-        "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 53,
     "top_articles": [
       {
         "title": "Thailand's $3 government bonds attract retail investors",
@@ -183,7 +187,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,14 +207,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 21,
-    "region-global": 30,
-    "region-vietnam": 10
+    "region-americas": 18,
+    "region-vietnam": 12,
+    "region-global": 31
   }
 }
