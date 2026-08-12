@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:40:32.315134+00:00",
+  "updated": "2026-08-12T09:15:16.871453+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 65,
@@ -7,30 +7,30 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 32,
-      "count_24h": 26,
+      "count": 36,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
+      "count": 12,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -43,19 +43,12 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -88,16 +81,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 16,
     "negative": 8,
-    "neutral": 53,
-    "score": 14,
+    "neutral": 56,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 32
+      "count": 36
     },
     {
       "word": "chatgpt",
@@ -113,7 +106,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -128,39 +121,33 @@
         "title": "What is “Strong” Coffee? It May Depend on Cultural Context",
         "url": "https://dailycoffeenews.com/2026/08/11/what-is-strong-coffee-it-may-depend-on-cultural-context/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Haraz Coffee wins NRN’s Coffee Showdown",
         "url": "https://www.nrn.com/emerging-chains/haraz-coffee-wins-nrn-s-coffee-showdown",
         "source": "Nation's Restaurant News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Best of Hawai‘i Names 2026 Winners, Plans 2027 Auction",
         "url": "https://dailycoffeenews.com/2026/08/11/best-of-hawaii-names-2026-winners-plans-2027-auction/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Goodboybob Doubles Cafe Footprint with Openings in New York and LA",
         "url": "https://dailycoffeenews.com/2026/08/11/goodboybob-doubles-cafe-footprint-with-openings-in-new-york-and-la/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 36,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "Singapore records 5.9% Q2 GDP growth, raises full-year forecast",
-        "url": "https://asia.nikkei.com/economy/singapore-records-5.9-q2-gdp-growth-raises-full-year-forecast",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Compal bets on expansion in Taiwan, Vietnam and US for AI servers",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/compal-bets-on-expansion-in-taiwan-vietnam-and-us-for-ai-servers",
@@ -180,13 +167,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Global carmakers replicate China strategy to gain foothold in India",
+        "url": "https://asia.nikkei.com/business/automobiles/global-carmakers-replicate-china-strategy-to-gain-foothold-in-india",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Through the Lens: Thailand school shooting leaves 9 dead, including gunman",
+        "url": "https://asia.nikkei.com/photos/through-the-lens-thailand-school-shooting-leaves-9-dead-including-gunman",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 36 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 40 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +204,9 @@
     }
   },
   "regional_breakdown": {
+    "region-vietnam": 17,
     "region-sea": 20,
-    "region-vietnam": 15,
-    "region-global": 27,
+    "region-global": 25,
     "region-americas": 17,
     "region-europe": 1
   }
