@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-13T02:08:03.042527+00:00",
+  "updated": "2026-08-13T05:43:13.390242+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 64,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 50,
+      "count": 48,
       "count_24h": 38,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 17,
+      "count": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 7,
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -30,6 +30,13 @@
       "label": "#GiáNguyênLiệu",
       "count": 7,
       "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -42,13 +49,6 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 4,
       "trend": "hot"
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 7,
+    "positive": 21,
+    "negative": 6,
     "neutral": 53,
-    "score": 16,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 50
+      "count": 48
     },
     {
       "word": "chatgpt",
@@ -114,7 +114,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -129,45 +129,33 @@
         "title": "The Crown Announces Third Annual “Development Stage” – A Multi-Day Coffee Symposium",
         "url": "https://sprudge.com/the-crown-announces-third-annual-development-stage-a-multi-day-coffee-symposium-1265816.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Coffee and Sleep May Not Be the Nightmare Pairing We Think",
         "url": "https://dailycoffeenews.com/2026/08/12/coffee-and-sleep-may-not-be-the-nightmare-pairing-we-think/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
         "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Damage Assessments Underway in Colombia Following Deadly Earthquake",
         "url": "https://dailycoffeenews.com/2026/08/12/damage-assessments-underway-in-colombia-following-deadly-earthquake/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Tata Sons chairman to step down after IPO disagreements, business woes",
-        "url": "https://asia.nikkei.com/business/companies/tata-sons-chairman-to-step-down-after-ipo-disagreements-business-woes",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Key Nvidia supplier Foxconn downplays rising competition in AI servers",
-        "url": "https://asia.nikkei.com/business/technology/key-nvidia-supplier-foxconn-downplays-rising-competition-in-ai-servers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Tencent Q2 results beat estimates on robust AI-enhanced advertising",
         "url": "https://asia.nikkei.com/business/technology/tencent-q2-results-beat-estimates-on-robust-ai-enhanced-advertising",
@@ -185,9 +173,21 @@
         "url": "https://asia.nikkei.com/business/energy/china-s-solar-panel-production-cuts-fail-to-reverse-price-slump",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's C919 makes 1st international flight in challenge to Boeing, Airbus",
+        "url": "https://asia.nikkei.com/business/transportation/china-s-c919-makes-1st-international-flight-in-challenge-to-boeing-airbus",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan margin trading doubles in 6 months, lifted by pricey AI stocks",
+        "url": "https://asia.nikkei.com/business/markets/equities/japan-margin-trading-doubles-in-6-months-lifted-by-pricey-ai-stocks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,8 +213,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 18,
-    "region-vietnam": 12,
+    "region-americas": 17,
+    "region-vietnam": 13,
     "region-global": 31
   }
 }
