@@ -1,57 +1,64 @@
 {
-  "updated": "2026-08-13T13:16:31.099434+00:00",
+  "updated": "2026-08-13T16:59:44.108027+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 52,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 32,
+      "count": 48,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 15,
+      "count": 18,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 5,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 5,
       "count_24h": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -61,8 +68,8 @@
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -72,44 +79,48 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
-    "label": "Trung tính"
+    "negative": 2,
+    "neutral": 57,
+    "score": 24,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
-    },
-    {
-      "word": "chatgpt",
-      "count": 4
+      "count": 48
     },
     {
       "word": "gọi vốn",
       "count": 2
     },
     {
+      "word": "ucc",
+      "count": 2
+    },
+    {
       "word": "funding",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
       "count": 2
     }
   ],
@@ -117,8 +128,14 @@
     "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
+      {
+        "title": "Japan's Komeda's Coffee to open first Bangkok store in Southeast Asia push",
+        "url": "https://asia.nikkei.com/business/food-beverage/japan-s-komeda-s-coffee-to-open-first-bangkok-store-in-southeast-asia-push",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
@@ -126,53 +143,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Groundswell Brings Fine Coffees to Chicago’s Fine Arts Building",
+        "url": "https://dailycoffeenews.com/2026/08/13/groundswell-brings-fine-coffees-to-chicagos-fine-arts-building/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "What to upgrade first in your home coffee setup",
         "url": "https://perfectdailygrind.com/2026/08/what-to-upgrade-first-home-coffee-setup/",
         "source": "Perfect Daily Grind",
-        "time": "7 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "The Crown Announces Third Annual “Development Stage” – A Multi-Day Coffee Symposium",
         "url": "https://sprudge.com/the-crown-announces-third-annual-development-stage-a-multi-day-coffee-symposium-1265816.html",
         "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Coffee and Sleep May Not Be the Nightmare Pairing We Think",
-        "url": "https://dailycoffeenews.com/2026/08/12/coffee-and-sleep-may-not-be-the-nightmare-pairing-we-think/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
-        "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-1265734.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "China's C919 makes 1st international flight in challenge to Boeing, Airbus",
-        "url": "https://asia.nikkei.com/business/transportation/china-s-c919-makes-1st-international-flight-in-challenge-to-boeing-airbus",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan margin trading doubles in 6 months, lifted by pricey AI stocks",
-        "url": "https://asia.nikkei.com/business/markets/equities/japan-margin-trading-doubles-in-6-months-lifted-by-pricey-ai-stocks",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Takaichi's populist tax cut draws pushback from ruling party",
-        "url": "https://asia.nikkei.com/politics/takaichi-s-populist-tax-cut-draws-pushback-from-ruling-party",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
+        "title": "Chili’s, Taco Bell, Chick-fil-A",
+        "url": "https://www.nrn.com/casual-dining/chili-s-taco-bell-chick-fil-a",
+        "source": "Nation's Restaurant News",
+        "time": "-183 phút trước"
       },
       {
         "title": "Japan dividends heading to record high on chip, AI gains",
@@ -185,9 +184,21 @@
         "url": "https://asia.nikkei.com/business/companies/the-next-tata-sons-chair-the-5-challenges-ahead",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "TSMC and Sony team up, China's AI stocks swing",
+        "url": "https://asia.nikkei.com/techasia/tsmc-and-sony-team-up-china-s-ai-stocks-swing",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesia's new capital Nusantara awes tourists but faces uncertain future",
+        "url": "https://asia.nikkei.com/politics/indonesia-s-new-capital-nusantara-awes-tourists-but-faces-uncertain-future",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,9 +223,9 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 16,
     "region-sea": 20,
     "region-vietnam": 12,
-    "region-americas": 16,
     "region-global": 32
   }
 }
