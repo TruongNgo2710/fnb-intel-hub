@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-14T02:06:13.084373+00:00",
+  "updated": "2026-08-14T05:40:39.464577+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 55,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 50,
-      "count_24h": 31,
+      "count": 52,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
@@ -28,16 +28,16 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 9,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 7,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
@@ -57,13 +57,6 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -96,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 19,
     "negative": 3,
-    "neutral": 59,
-    "score": 19,
+    "neutral": 58,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 50
+      "count": 52
     },
     {
       "word": "gọi vốn",
@@ -131,12 +124,6 @@
     "price_down_signals": 2,
     "top_articles": [
       {
-        "title": "Japan's Komeda's Coffee to open first Bangkok store in Southeast Asia push",
-        "url": "https://asia.nikkei.com/business/food-beverage/japan-s-komeda-s-coffee-to-open-first-bangkok-store-in-southeast-asia-push",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
@@ -146,33 +133,33 @@
         "title": "Coffee Design: OPBeans From Portland Coffee Roasters",
         "url": "https://sprudge.com/coffee-design-opbeans-from-portland-coffee-roasters-1265279.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Go Get Em Tiger Appoints David Yardley As Chief Executive Officer",
         "url": "https://sprudge.com/go-get-em-tiger-appoints-david-yardley-as-chief-executive-officer-1266442.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "IDH Launches Regenerative Coffee Investment Platform",
         "url": "https://dailycoffeenews.com/2026/08/13/idh-launches-regenerative-coffee-investment-platform/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "12 giờ trước"
+      },
+      {
+        "title": "Are You The Best Opener In The Coffee Game? A New Competition From Mazzer Wants You To Prove It",
+        "url": "https://sprudge.com/are-you-the-best-opener-in-the-coffee-game-a-new-competition-from-mazzer-wants-you-to-prove-it-1265275.html",
+        "source": "Sprudge Coffee",
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 54,
     "top_articles": [
-      {
-        "title": "Indonesia's new capital Nusantara awes tourists but faces uncertain future",
-        "url": "https://asia.nikkei.com/politics/indonesia-s-new-capital-nusantara-awes-tourists-but-faces-uncertain-future",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's top IT firms aim to switch to AI-led development by 2030",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-top-it-firms-aim-to-switch-to-ai-led-development-by-2030",
@@ -196,9 +183,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-deploy-stronger-ai-safeguards-as-model-capabilities-advance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Kioxia-linked leveraged ETFs await US approval",
+        "url": "https://asia.nikkei.com/business/markets/equities/kioxia-linked-leveraged-etfs-await-us-approval",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 54 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -223,9 +216,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 17,
-    "region-vietnam": 9,
+    "region-sea": 17,
+    "region-americas": 16,
+    "region-vietnam": 11,
     "region-global": 35,
     "region-europe": 1
   }
