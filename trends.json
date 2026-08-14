@@ -1,64 +1,64 @@
 {
-  "updated": "2026-08-14T09:10:52.540648+00:00",
+  "updated": "2026-08-14T13:11:23.962264+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 30,
+      "count": 48,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 10,
+      "count": 15,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
+      "count": 13,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 10,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 7,
-      "count_24h": 4,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 3,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 3,
-    "neutral": 57,
-    "score": 21,
-    "label": "Tích cực"
+    "positive": 19,
+    "negative": 5,
+    "neutral": 56,
+    "score": 18,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 48
     },
     {
       "word": "ucc",
@@ -111,17 +111,13 @@
     {
       "word": "supply chain",
       "count": 2
-    },
-    {
-      "word": "funding",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 13,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -130,42 +126,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "A Magnitude 7.4 Earthquake In Colombia Has Halted Most Coffee Exports",
+        "url": "https://sprudge.com/a-magnitude-7-4-earthquake-in-colombia-has-halted-most-coffee-exports-1265752.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Weekly Coffee News: Pesticide Policy Brief + UK Chain with U.S. Plans",
+        "url": "https://dailycoffeenews.com/2026/08/14/weekly-coffee-news-pesticide-policy-brief-uk-chain-with-u-s-plans/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Coffee News Recap, 14 Aug: Earthquake disrupts Colombia’s coffee sector, new EU sustainable packaging rules enter into force & other stories",
+        "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-14-august-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Coffee Design: OPBeans From Portland Coffee Roasters",
         "url": "https://sprudge.com/coffee-design-opbeans-from-portland-coffee-roasters-1265279.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "Go Get Em Tiger Appoints David Yardley As Chief Executive Officer",
-        "url": "https://sprudge.com/go-get-em-tiger-appoints-david-yardley-as-chief-executive-officer-1266442.html",
-        "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "IDH Launches Regenerative Coffee Investment Platform",
-        "url": "https://dailycoffeenews.com/2026/08/13/idh-launches-regenerative-coffee-investment-platform/",
-        "source": "Daily Coffee News",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "Are You The Best Opener In The Coffee Game? A New Competition From Mazzer Wants You To Prove It",
-        "url": "https://sprudge.com/are-you-the-best-opener-in-the-coffee-game-a-new-competition-from-mazzer-wants-you-to-prove-it-1265275.html",
-        "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Japan to deploy stronger AI safeguards as model capabilities advance",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-deploy-stronger-ai-safeguards-as-model-capabilities-advance",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Kioxia-linked leveraged ETFs await US approval",
         "url": "https://asia.nikkei.com/business/markets/equities/kioxia-linked-leveraged-etfs-await-us-approval",
@@ -189,9 +179,15 @@
         "url": "https://asia.nikkei.com/spotlight/trump-administration/us-claims-china-led-great-transshipment-scam-costs-it-billions",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's SMIC says AI 'spillover effects' boosting peripheral chip prices",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/china-s-smic-says-ai-spillover-effects-boosting-peripheral-chip-prices",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,10 +212,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 16,
-    "region-vietnam": 11,
-    "region-global": 35,
-    "region-europe": 1
+    "region-americas": 17,
+    "region-sea": 16,
+    "region-vietnam": 13,
+    "region-global": 31,
+    "region-europe": 3
   }
 }
