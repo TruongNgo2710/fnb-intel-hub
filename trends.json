@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-16T12:43:19.493043+00:00",
+  "updated": "2026-08-16T16:29:00.159648+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 8,
+      "count": 36,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -86,25 +86,19 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 10,
-    "negative": 9,
-    "neutral": 61,
+    "positive": 9,
+    "negative": 8,
+    "neutral": 63,
     "score": 1,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 36
     },
     {
       "word": "supply chain",
@@ -135,7 +129,7 @@
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "40 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
@@ -153,21 +147,15 @@
         "title": "Pack Katisomsakul of Newbery Street Coffee Roasters: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/pack-katisomsakul-of-newbery-street-coffee-roasters-the-sprudge-twenty-interview-1134060.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 40,
+    "total_articles": 39,
     "top_articles": [
-      {
-        "title": "Japan's Dentsu to shed 30% of overseas units as AI upends playing field",
-        "url": "https://asia.nikkei.com/business/companies/japan-s-dentsu-to-shed-30-of-overseas-units-as-ai-upends-playing-field",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan rail jumps to growth track with new Japan bullet train cars",
         "url": "https://asia.nikkei.com/business/transportation/taiwan-rail-jumps-to-growth-track-with-new-japan-bullet-train-cars",
@@ -187,13 +175,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "source": "TechCrunch AI",
-        "time": "15 giờ trước"
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+        "source": "The Verge AI",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Rogue AI aren’t science fiction anymore",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "source": "The Verge AI",
+        "time": "4 giờ trước"
       }
     ],
-    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,8 +212,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 15,
+    "region-sea": 19,
+    "region-americas": 16,
     "region-vietnam": 13,
     "region-global": 29,
     "region-europe": 3
