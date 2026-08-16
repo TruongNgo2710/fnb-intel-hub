@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-16T01:25:26.060985+00:00",
+  "updated": "2026-08-16T04:39:12.888815+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
+      "count": 39,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 8,
+      "count": 15,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 13,
-      "count_24h": 7,
+      "count": 12,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -35,8 +35,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 12,
+    "positive": 11,
     "negative": 9,
-    "neutral": 59,
-    "score": 4,
+    "neutral": 60,
+    "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 39
     },
     {
       "word": "supply chain",
@@ -135,7 +135,7 @@
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
         "url": "https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Peru’s Specialty Coffee Sector Enters A New Era, Says New Harvest Guide",
@@ -160,7 +160,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 42,
     "top_articles": [
       {
         "title": "China's Z.ai launches model it says rivals Anthropic's Mythos",
@@ -193,7 +193,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 43 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 42 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -218,10 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-vietnam": 13,
+    "region-sea": 20,
     "region-americas": 15,
-    "region-global": 30,
+    "region-vietnam": 13,
+    "region-global": 29,
     "region-europe": 3
   }
 }
