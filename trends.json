@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-16T16:29:00.159648+00:00",
+  "updated": "2026-08-16T20:25:51.814281+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
-      "count_24h": 9,
+      "count": 35,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 16,
       "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 12,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
+      "count": 11,
       "count_24h": 4,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 10,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -56,7 +56,7 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
+      "count": 1,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -78,8 +78,8 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
@@ -90,15 +90,15 @@
   ],
   "sentiment": {
     "positive": 9,
-    "negative": 8,
-    "neutral": 63,
-    "score": 1,
+    "negative": 9,
+    "neutral": 62,
+    "score": 0,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 35
     },
     {
       "word": "supply chain",
@@ -114,7 +114,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -129,7 +129,7 @@
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
@@ -141,7 +141,7 @@
         "title": "Peru’s Specialty Coffee Sector Enters A New Era, Says New Harvest Guide",
         "url": "https://sprudge.com/perus-specialty-coffee-sector-enters-a-new-era-says-new-harvest-guide-1267722.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Pack Katisomsakul of Newbery Street Coffee Roasters: The Sprudge Twenty Interview",
@@ -154,7 +154,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 38,
     "top_articles": [
       {
         "title": "Taiwan rail jumps to growth track with new Japan bullet train cars",
@@ -175,19 +175,19 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "source": "TechCrunch AI",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
         "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
         "source": "The Verge AI",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Rogue AI aren’t science fiction anymore",
-        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-        "source": "The Verge AI",
-        "time": "4 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
-    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 38 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,9 +213,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 16,
-    "region-vietnam": 13,
-    "region-global": 29,
-    "region-europe": 3
+    "region-americas": 15,
+    "region-vietnam": 14,
+    "region-global": 30,
+    "region-europe": 2
   }
 }
