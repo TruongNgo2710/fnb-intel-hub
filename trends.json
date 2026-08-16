@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-15T20:25:26.713767+00:00",
+  "updated": "2026-08-16T01:25:26.060985+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 8,
+      "count": 40,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 9,
+      "count": 14,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -35,21 +35,21 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 8,
-      "count_24h": 3,
+      "count": 9,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 10,
-    "neutral": 56,
-    "score": 5,
+    "positive": 12,
+    "negative": 9,
+    "neutral": 59,
+    "score": 4,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 40
     },
     {
       "word": "supply chain",
@@ -121,9 +121,9 @@
   ],
   "coffee_trends": {
     "total_articles": 12,
-    "price_direction": "down",
+    "price_direction": "stable",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -135,7 +135,7 @@
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
         "url": "https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Peru’s Specialty Coffee Sector Enters A New Era, Says New Harvest Guide",
@@ -157,17 +157,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 43,
     "top_articles": [
-      {
-        "title": "VC firm with ties to Siri to launch Japan fund for AI, space startups",
-        "url": "https://asia.nikkei.com/business/technology/vc-firm-with-ties-to-siri-to-launch-japan-fund-for-ai-space-startups",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's Z.ai launches model it says rivals Anthropic's Mythos",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-z.ai-launches-model-it-says-rivals-anthropic-s-mythos",
@@ -183,6 +177,12 @@
       {
         "title": "Taiwan rail jumps to growth track with new Japan bullet train cars",
         "url": "https://asia.nikkei.com/business/transportation/taiwan-rail-jumps-to-growth-track-with-new-japan-bullet-train-cars",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi keeps friends close as China ratchets up diplomatic pressure",
+        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-keeps-friends-close-as-china-ratchets-up-diplomatic-pressure",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -218,10 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 12,
-    "region-global": 31,
+    "region-sea": 19,
+    "region-vietnam": 13,
     "region-americas": 15,
-    "region-europe": 2
+    "region-global": 30,
+    "region-europe": 3
   }
 }
