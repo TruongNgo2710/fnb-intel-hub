@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-17T08:47:23.359087+00:00",
+  "updated": "2026-08-17T12:48:40.860465+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 40,
+  "articles_24h": 41,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -14,22 +14,22 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 9,
+      "count": 17,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 9,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -42,8 +42,8 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -78,7 +78,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -111,12 +111,16 @@
       "count": 2
     },
     {
+      "word": "claude",
+      "count": 2
+    },
+    {
       "word": "acquisition",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 11,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -131,25 +135,25 @@
         "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
         "url": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
         "source": "VnExpress Kinh doanh",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "How can cafés increase their ticket value per order?",
         "url": "https://perfectdailygrind.com/2026/08/how-cafes-increase-ticket-value-per-order/",
         "source": "Perfect Daily Grind",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
         "url": "https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -215,9 +219,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 13,
-    "region-vietnam": 14,
-    "region-global": 32,
-    "region-europe": 2
+    "region-americas": 12,
+    "region-vietnam": 16,
+    "region-europe": 3,
+    "region-global": 30
   }
 }
