@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-17T04:45:06.828562+00:00",
+  "updated": "2026-08-17T08:47:23.359087+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 40,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 13,
+      "count": 40,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 15,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 12,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 10,
-      "count_24h": 3,
+      "count": 9,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 4,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -56,7 +56,7 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -82,6 +82,12 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
@@ -89,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 9,
-    "negative": 7,
-    "neutral": 64,
-    "score": 2,
+    "positive": 12,
+    "negative": 6,
+    "neutral": 62,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -107,16 +113,12 @@
     {
       "word": "acquisition",
       "count": 2
-    },
-    {
-      "word": "supply chain",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
-    "price_direction": "stable",
-    "price_up_signals": 0,
+    "total_articles": 13,
+    "price_direction": "up",
+    "price_up_signals": 2,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -126,42 +128,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
+        "url": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "How can cafés increase their ticket value per order?",
+        "url": "https://perfectdailygrind.com/2026/08/how-cafes-increase-ticket-value-per-order/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
         "url": "https://sprudge.com/the-green-room-your-source-for-coffee-importers-sourcing-coffees-at-source-1267417.html",
         "source": "Sprudge Coffee",
         "time": "1 ngày trước"
-      },
-      {
-        "title": "Peru’s Specialty Coffee Sector Enters A New Era, Says New Harvest Guide",
-        "url": "https://sprudge.com/perus-specialty-coffee-sector-enters-a-new-era-says-new-harvest-guide-1267722.html",
-        "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
-      },
-      {
-        "title": "Pack Katisomsakul of Newbery Street Coffee Roasters: The Sprudge Twenty Interview",
-        "url": "https://sprudge.com/pack-katisomsakul-of-newbery-street-coffee-roasters-the-sprudge-twenty-interview-1134060.html",
-        "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Japan's Takaichi keeps friends close as China ups diplomatic pressure",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-keeps-friends-close-as-china-ups-diplomatic-pressure",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "'A new Plaza Accord?' Japan's battle against yen bears enters new phase",
         "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
@@ -185,9 +181,15 @@
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-rakuten-to-partner-with-german-ai-defense-drone-startup",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand Q2 GDP growth slows to 1.9% on energy, travel woes",
+        "url": "https://asia.nikkei.com/economy/thailand-q2-gdp-growth-slows-to-1.9-on-energy-travel-woes",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,8 +214,8 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 13,
     "region-sea": 19,
+    "region-americas": 13,
     "region-vietnam": 14,
     "region-global": 32,
     "region-europe": 2
