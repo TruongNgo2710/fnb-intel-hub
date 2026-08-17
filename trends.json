@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-17T01:22:16.804800+00:00",
+  "updated": "2026-08-17T04:45:06.828562+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 39,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 11,
+      "count": 39,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -19,31 +19,31 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 11,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 5,
+      "count": 10,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 11,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
       "count": 10,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 7,
-      "count_24h": 6,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 10,
-    "negative": 8,
-    "neutral": 62,
+    "positive": 9,
+    "negative": 7,
+    "neutral": 64,
     "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -114,7 +114,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -129,7 +129,7 @@
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
@@ -154,14 +154,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 40,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Taiwan rail jumps to growth track with new Japan bullet train cars",
-        "url": "https://asia.nikkei.com/business/transportation/taiwan-rail-jumps-to-growth-track-with-new-japan-bullet-train-cars",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Takaichi keeps friends close as China ups diplomatic pressure",
         "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-keeps-friends-close-as-china-ups-diplomatic-pressure",
@@ -181,13 +175,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Thailand-Cambodia border tensions reshape public discourse",
+        "url": "https://asia.nikkei.com/politics/thailand-cambodia-border-tensions-reshape-public-discourse",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Rakuten to partner with German AI defense drone startup",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-rakuten-to-partner-with-german-ai-defense-drone-startup",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,10 +212,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
     "region-americas": 13,
-    "region-vietnam": 15,
-    "region-global": 31,
+    "region-sea": 19,
+    "region-vietnam": 14,
+    "region-global": 32,
     "region-europe": 2
   }
 }
