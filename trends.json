@@ -1,49 +1,49 @@
 {
-  "updated": "2026-08-16T20:25:51.814281+00:00",
+  "updated": "2026-08-17T01:22:16.804800+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 35,
-      "count_24h": 8,
+      "count": 37,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 7,
+      "count": 17,
+      "count_24h": 9,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 11,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 12,
+      "count": 11,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 10,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -89,20 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 9,
-    "negative": 9,
+    "positive": 10,
+    "negative": 8,
     "neutral": 62,
-    "score": 0,
+    "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 35
-    },
-    {
-      "word": "supply chain",
-      "count": 3
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -111,10 +107,14 @@
     {
       "word": "acquisition",
       "count": 2
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -129,7 +129,7 @@
         "title": "Hot Coffees Comin’ In Hot!",
         "url": "https://sprudge.com/hot-coffees-comin-in-hot-1266539.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "The Green Room: Your Source For Coffee Importers Sourcing Coffees At Source",
@@ -154,7 +154,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 38,
+    "total_articles": 40,
     "top_articles": [
       {
         "title": "Taiwan rail jumps to growth track with new Japan bullet train cars",
@@ -163,8 +163,20 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Takaichi keeps friends close as China ratchets up diplomatic pressure",
-        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-keeps-friends-close-as-china-ratchets-up-diplomatic-pressure",
+        "title": "Japan's Takaichi keeps friends close as China ups diplomatic pressure",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-keeps-friends-close-as-china-ups-diplomatic-pressure",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "'A new Plaza Accord?' Japan's battle against yen bears enters new phase",
+        "url": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China shock looms for robotics as physical AI race heats up: think tank",
+        "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -173,21 +185,9 @@
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "source": "TechCrunch AI",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-        "source": "The Verge AI",
-        "time": "5 giờ trước"
       }
     ],
-    "insight": "🤖 38 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,9 +213,9 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 15,
-    "region-vietnam": 14,
-    "region-global": 30,
+    "region-americas": 13,
+    "region-vietnam": 15,
+    "region-global": 31,
     "region-europe": 2
   }
 }
