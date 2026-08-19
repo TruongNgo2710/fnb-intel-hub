@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-19T04:40:27.976045+00:00",
+  "updated": "2026-08-19T08:41:11.199259+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 29,
+      "count": 42,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 10,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -36,22 +36,22 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -102,16 +102,16 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 27,
     "negative": 2,
-    "neutral": 55,
-    "score": 26,
+    "neutral": 51,
+    "score": 31,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "specialty",
@@ -139,42 +139,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "How currency fluctuations influence coffee sourcing",
+        "url": "https://perfectdailygrind.com/2026/08/currency-fluctuations-coffee-sourcing/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Roast Summit Returns to Portland in 2026",
         "url": "https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Round K Comes Full Circle at Renovated New York Cafe",
         "url": "https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: The Back Room In Tirana, Albania",
         "url": "https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "Would You Drink A Cream Cheese Everything Bagel Latte?",
-        "url": "https://sprudge.com/would-you-drink-a-cream-cheese-everything-bagel-latte-1274223.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Takaichi's BOJ appointments in 2027 loom over pace of rate hikes",
-        "url": "https://asia.nikkei.com/economy/bank-of-japan/takaichi-s-boj-appointments-in-2027-loom-over-pace-of-rate-hikes",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan middle class loses spending power despite years of pay raises",
         "url": "https://asia.nikkei.com/economy/japan-middle-class-loses-spending-power-despite-years-of-pay-raises",
@@ -198,9 +192,15 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-chip-startup-targets-ai-boom-as-industry-focus-turns-to-materials",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand hosts Myanmar military chief, deepening bilateral ties",
+        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/thailand-hosts-myanmar-military-chief-deepening-bilateral-ties",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,10 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 23,
-    "region-europe": 1,
-    "region-vietnam": 10,
-    "region-global": 29
+    "region-sea": 19,
+    "region-americas": 21,
+    "region-vietnam": 12,
+    "region-global": 28
   }
 }
