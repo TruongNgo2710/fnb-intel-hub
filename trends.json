@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-19T16:35:12.190626+00:00",
+  "updated": "2026-08-19T20:31:41.137081+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 30,
+      "count": 44,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 13,
+      "count": 16,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 10,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -29,20 +29,20 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -54,37 +54,31 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-stumptown",
-      "name": "brand-stumptown",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -95,32 +89,32 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 3,
+    "positive": 21,
+    "negative": 4,
     "neutral": 55,
-    "score": 24,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 43
     },
     {
-      "word": "specialty",
-      "count": 4
+      "word": "ucc",
+      "count": 2
     },
     {
       "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "chatgpt",
+      "word": "specialty",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 2,
@@ -132,54 +126,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "What We Touch with Our Hands May Affect What We Taste in the Cup",
+        "url": "https://dailycoffeenews.com/2026/08/19/what-we-touch-with-our-hands-may-affect-what-we-taste-in-the-cup/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Dunkin’ unveils its fall menu, headlined by Alix’s Earle-Y Riser Meal",
         "url": "https://www.nrn.com/quick-service/dunkin-unveils-its-fall-menu-headlined-by-alix-s-earle-y-riser-meal",
         "source": "Nation's Restaurant News",
-        "time": "39 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "UCC Launches Regenerative Coffee Pilot in Vietnam",
         "url": "https://dailycoffeenews.com/2026/08/19/ucc-launches-regenerative-coffee-pilot-in-vietnam/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "The Left Hook Coffee Comes Out Swinging in Raleigh",
         "url": "https://dailycoffeenews.com/2026/08/19/the-left-hook-coffee-comes-out-swinging-in-raleigh/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "The New Brew Watch Is Inspired By Milk Pouring Into Coffee",
-        "url": "https://sprudge.com/the-new-brew-watch-is-inspired-by-milk-pouring-into-coffee-1274374.html",
-        "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Japan chip startup targets AI boom as industry focus turns to materials",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-chip-startup-targets-ai-boom-as-industry-focus-turns-to-materials",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Thailand hosts Myanmar military chief, deepening bilateral ties",
-        "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/thailand-hosts-myanmar-military-chief-deepening-bilateral-ties",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan bond yields spike on Takaichi budget fears, worries over US view",
-        "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-yields-spike-on-takaichi-budget-fears-worries-over-us-view",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "From theme parks to airports, Japan tackles brutal summer heat",
         "url": "https://asia.nikkei.com/business/companies/from-theme-parks-to-airports-japan-tackles-brutal-summer-heat",
@@ -191,9 +167,27 @@
         "url": "https://asia.nikkei.com/business/markets/ipo/unitree-shares-soar-in-humanoid-maker-s-landmark-shanghai-ipo",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's robot bodies and AI brains take center stage at Beijing expos",
+        "url": "https://asia.nikkei.com/business/technology/china-s-robot-bodies-and-ai-brains-take-center-stage-at-beijing-expos",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI-related trades push Japan stock volatility to 18-year high",
+        "url": "https://asia.nikkei.com/business/markets/equities/ai-related-trades-push-japan-stock-volatility-to-18-year-high",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Daikin lifts production efficiency for AC control boards in India",
+        "url": "https://asia.nikkei.com/business/electronics/daikin-lifts-production-efficiency-for-ac-control-boards-in-india",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,9 +201,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "up",
+      "count": 2,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "dairy": {
       "direction": "stable",
@@ -218,10 +212,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 18,
-    "region-vietnam": 13,
-    "region-global": 28,
+    "region-sea": 19,
+    "region-vietnam": 14,
+    "region-global": 27,
+    "region-americas": 19,
     "region-europe": 1
   }
 }
