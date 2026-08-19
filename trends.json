@@ -1,48 +1,41 @@
 {
-  "updated": "2026-08-19T08:41:11.199259+00:00",
+  "updated": "2026-08-19T12:52:10.908014+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
+      "count": 41,
       "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 11,
+      "count": 15,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 9,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 4,
+      "count": 9,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 6,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 7,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -50,8 +43,15 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -79,7 +79,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -102,16 +102,16 @@
     }
   ],
   "sentiment": {
-    "positive": 27,
-    "negative": 2,
-    "neutral": 51,
-    "score": 31,
+    "positive": 24,
+    "negative": 3,
+    "neutral": 53,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
     },
     {
       "word": "specialty",
@@ -127,7 +127,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -139,54 +139,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The New Brew Watch Is Inspired By Milk Pouring Into Coffee",
+        "url": "https://sprudge.com/the-new-brew-watch-is-inspired-by-milk-pouring-into-coffee-1274374.html",
+        "source": "Sprudge Coffee",
+        "time": "49 phút trước"
+      },
+      {
         "title": "How currency fluctuations influence coffee sourcing",
         "url": "https://perfectdailygrind.com/2026/08/currency-fluctuations-coffee-sourcing/",
         "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Roast Summit Returns to Portland in 2026",
         "url": "https://dailycoffeenews.com/2026/08/18/roast-summit-returns-to-portland-in-2026/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Round K Comes Full Circle at Renovated New York Cafe",
         "url": "https://dailycoffeenews.com/2026/08/18/round-k-comes-full-circle-at-renovated-new-york-cafe/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: The Back Room In Tirana, Albania",
-        "url": "https://sprudge.com/build-outs-of-coffee-the-back-room-in-tirana-albania-1232238.html",
-        "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Japan middle class loses spending power despite years of pay raises",
-        "url": "https://asia.nikkei.com/economy/japan-middle-class-loses-spending-power-despite-years-of-pay-raises",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Hong Kong population up 20,000 on influx from mainland China",
-        "url": "https://asia.nikkei.com/economy/demography/hong-kong-population-up-20-000-on-influx-from-mainland-china",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Why open-weight AI is the new frontier in the US-China tech race",
-        "url": "https://asia.nikkei.com/business/technology/tech-asia/why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan chip startup targets AI boom as industry focus turns to materials",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-chip-startup-targets-ai-boom-as-industry-focus-turns-to-materials",
@@ -198,9 +180,27 @@
         "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/thailand-hosts-myanmar-military-chief-deepening-bilateral-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan bond yields spike on Takaichi budget fears, worries over US view",
+        "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-yields-spike-on-takaichi-budget-fears-worries-over-us-view",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "From theme parks to airports, Japan tackles brutal summer heat",
+        "url": "https://asia.nikkei.com/business/companies/from-theme-parks-to-airports-japan-tackles-brutal-summer-heat",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Unitree shares soar in humanoid maker's landmark Shanghai IPO",
+        "url": "https://asia.nikkei.com/business/markets/ipo/unitree-shares-soar-in-humanoid-maker-s-landmark-shanghai-ipo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,20 +214,21 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
+    "region-americas": 19,
     "region-sea": 19,
-    "region-americas": 21,
-    "region-vietnam": 12,
-    "region-global": 28
+    "region-vietnam": 13,
+    "region-global": 28,
+    "region-europe": 1
   }
 }
