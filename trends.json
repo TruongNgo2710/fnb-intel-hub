@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T20:31:58.097669+00:00",
+  "updated": "2026-08-21T01:25:36.358727+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 61,
@@ -8,20 +8,20 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 31,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 13,
+      "count": 16,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -29,22 +29,22 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 7,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 6,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -59,33 +59,26 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 11,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-kingcoffee",
@@ -95,11 +88,11 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
-    "negative": 5,
-    "neutral": 54,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 24,
+    "negative": 6,
+    "neutral": 50,
+    "score": 22,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -107,7 +100,7 @@
       "count": 43
     },
     {
-      "word": "ucc",
+      "word": "chatgpt",
       "count": 3
     },
     {
@@ -115,12 +108,12 @@
       "count": 2
     },
     {
-      "word": "chatgpt",
+      "word": "ucc",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -135,51 +128,33 @@
         "title": "Filigree Coffee, Others Coffee, And Equator Coffees On The Coffee Sprudgecast",
         "url": "https://sprudge.com/filigree-coffee-others-coffee-and-equator-coffees-on-the-coffee-sprudgecast-1277162.html",
         "source": "Sprudge Coffee",
-        "time": "25 phút trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "13-Year Study Gives More Good News to the Livers of Coffee Drinkers",
         "url": "https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Turning Coffee Waste Into Syngas And Biochar, A Ecological Double Whammy",
         "url": "https://sprudge.com/turning-coffee-waste-into-syngas-and-biochar-a-ecological-double-whammy-1275294.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "7 Brew’s latest growth is coming to the grocery aisle",
         "url": "https://www.nrn.com/beverage-trends/7-brew-s-latest-growth-is-coming-in-the-grocery-aisle",
         "source": "Nation's Restaurant News",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "California Pizza Kitchen announces major expansion of vending machine program",
-        "url": "https://www.nrn.com/casual-dining/california-pizza-kitchen-announces-major-expansion-of-vending-machine-program",
-        "source": "Nation's Restaurant News",
-        "time": "-1021 phút trước"
-      },
-      {
-        "title": "Exclusive: China slows exports of key optical, aerospace metals to Taiwan",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-china-slows-exports-of-key-optical-aerospace-metals-to-taiwan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Google's China shift and the battle over AI models",
-        "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Alibaba AI outlays dent profit despite best revenue growth in years",
         "url": "https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years",
@@ -191,9 +166,27 @@
         "url": "https://asia.nikkei.com/politics/japan-s-takaichi-eyes-september-cabinet-shuffle-to-cement-power-base",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan left behind by US and China in AI era patent race",
+        "url": "https://asia.nikkei.com/business/technology/japan-left-behind-by-us-and-china-in-ai-era-patent-race",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan weighs tax benefits for retail buyers of government bonds",
+        "url": "https://asia.nikkei.com/business/markets/bonds/japan-weighs-tax-benefits-for-retail-buyers-of-government-bonds",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Foreign ownership of Japan stocks hits new record on AI boom",
+        "url": "https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,9 +200,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "up",
-      "count": 2,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -218,10 +211,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 21,
-    "region-sea": 14,
-    "region-vietnam": 13,
-    "region-europe": 2,
-    "region-global": 30
+    "region-europe": 1,
+    "region-sea": 16,
+    "region-americas": 20,
+    "region-vietnam": 11,
+    "region-global": 32
   }
 }
