@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-21T12:52:40.565188+00:00",
+  "updated": "2026-08-21T16:37:59.683536+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 56,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 28,
+      "count": 42,
+      "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
+      "count": 15,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
       "count": 9,
       "count_24h": 7,
       "trend": "hot"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 3,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
       "count_24h": 2,
       "trend": "up"
     },
@@ -43,13 +43,6 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -58,6 +51,13 @@
       "label": "#Wine&Beer",
       "count": 2,
       "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -72,19 +72,25 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 11,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -95,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
+    "positive": 20,
     "negative": 6,
-    "neutral": 52,
-    "score": 20,
+    "neutral": 54,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 41
     },
     {
       "word": "chatgpt",
@@ -120,10 +126,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "down",
+    "total_articles": 9,
+    "price_direction": "stable",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -135,45 +141,33 @@
         "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
         "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
         "source": "Perfect Daily Grind",
-        "time": "22 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires",
         "url": "https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/",
         "source": "Daily Coffee News",
-        "time": "40 phút trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Filigree Coffee, Others Coffee, And Equator Coffees On The Coffee Sprudgecast",
         "url": "https://sprudge.com/filigree-coffee-others-coffee-and-equator-coffees-on-the-coffee-sprudgecast-1277162.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "13-Year Study Gives More Good News to the Livers of Coffee Drinkers",
         "url": "https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Japan weighs tax benefits for retail buyers of government bonds",
-        "url": "https://asia.nikkei.com/business/markets/bonds/japan-weighs-tax-benefits-for-retail-buyers-of-government-bonds",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Foreign ownership of Japan stocks hits new record on AI boom",
-        "url": "https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI cuts costs for Southeast Asia-based scammers",
         "url": "https://asia.nikkei.com/spotlight/society/crime/ai-cuts-costs-for-southeast-asia-based-scammers",
@@ -191,9 +185,21 @@
         "url": "https://asia.nikkei.com/politics/defense/asia-pacific-left-without-us-aircraft-carrier-after-middle-east-deployment",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China rejects Rubio's accusation it wrongfully detained US academic",
+        "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rejects-rubio-s-accusation-it-wrongfully-detained-us-academic",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,7 +226,7 @@
   "regional_breakdown": {
     "region-sea": 18,
     "region-vietnam": 12,
-    "region-americas": 17,
-    "region-global": 33
+    "region-americas": 19,
+    "region-global": 31
   }
 }
