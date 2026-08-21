@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-21T16:37:59.683536+00:00",
+  "updated": "2026-08-21T20:29:22.374236+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 48,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 26,
+      "count_24h": 20,
       "trend": "hot"
     },
     {
@@ -19,23 +19,30 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 7,
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 12,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
@@ -43,13 +50,6 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -57,7 +57,7 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -72,25 +72,25 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
       "trend": "up"
     },
     {
@@ -126,7 +126,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -138,48 +138,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Starbucks sold a lot of Unicorn drinks last weekend",
+        "url": "https://www.nrn.com/quick-service/starbucks-sold-a-lot-of-unicorn-drinks-last-weekend",
+        "source": "Nation's Restaurant News",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Blank Street Coffee makes its West Coast debut in Los Angeles",
+        "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
+        "source": "Nation's Restaurant News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "What Is The True Water Cost Of A Cup Of Coffee?",
+        "url": "https://sprudge.com/what-is-the-true-water-cost-of-a-cup-of-coffee-1276145.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
         "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
         "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires",
-        "url": "https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/",
-        "source": "Daily Coffee News",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Filigree Coffee, Others Coffee, And Equator Coffees On The Coffee Sprudgecast",
-        "url": "https://sprudge.com/filigree-coffee-others-coffee-and-equator-coffees-on-the-coffee-sprudgecast-1277162.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "13-Year Study Gives More Good News to the Livers of Coffee Drinkers",
-        "url": "https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "AI cuts costs for Southeast Asia-based scammers",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/ai-cuts-costs-for-southeast-asia-based-scammers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Turkish Airlines aims to add 15%-20% Asia flights, eyes China and Australia",
-        "url": "https://asia.nikkei.com/business/transportation/turkish-airlines-aims-to-add-15-20-asia-flights-eyes-china-and-australia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Asia-Pacific left without US aircraft carrier after Middle East deployment",
         "url": "https://asia.nikkei.com/politics/defense/asia-pacific-left-without-us-aircraft-carrier-after-middle-east-deployment",
@@ -197,9 +185,21 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
+        "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan muted on Putin's disputed-islands visit as US intentions remain murky",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-muted-on-putin-s-disputed-islands-visit-as-us-intentions-remain-murky",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,8 +225,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-vietnam": 12,
-    "region-americas": 19,
-    "region-global": 31
+    "region-americas": 22,
+    "region-vietnam": 10,
+    "region-global": 30
   }
 }
