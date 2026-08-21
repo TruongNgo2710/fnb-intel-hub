@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-21T08:44:05.927574+00:00",
+  "updated": "2026-08-21T12:52:40.565188+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 31,
+      "count": 44,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
@@ -21,8 +21,8 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -33,18 +33,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 3,
       "count_24h": 2,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -56,15 +56,15 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
+    "positive": 22,
     "negative": 6,
-    "neutral": 50,
-    "score": 22,
-    "label": "Tích cực"
+    "neutral": 52,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "chatgpt",
@@ -120,7 +120,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -132,35 +132,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
+        "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "22 phút trước"
+      },
+      {
+        "title": "Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires",
+        "url": "https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/",
+        "source": "Daily Coffee News",
+        "time": "40 phút trước"
+      },
+      {
         "title": "Filigree Coffee, Others Coffee, And Equator Coffees On The Coffee Sprudgecast",
         "url": "https://sprudge.com/filigree-coffee-others-coffee-and-equator-coffees-on-the-coffee-sprudgecast-1277162.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "13-Year Study Gives More Good News to the Livers of Coffee Drinkers",
         "url": "https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Turning Coffee Waste Into Syngas And Biochar, A Ecological Double Whammy",
-        "url": "https://sprudge.com/turning-coffee-waste-into-syngas-and-biochar-a-ecological-double-whammy-1275294.html",
-        "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "7 Brew’s latest growth is coming to the grocery aisle",
-        "url": "https://www.nrn.com/beverage-trends/7-brew-s-latest-growth-is-coming-in-the-grocery-aisle",
-        "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
       {
         "title": "Japan weighs tax benefits for retail buyers of government bonds",
@@ -193,7 +193,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 13,
-    "region-americas": 18,
-    "region-global": 32
+    "region-sea": 18,
+    "region-vietnam": 12,
+    "region-americas": 17,
+    "region-global": 33
   }
 }
