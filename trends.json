@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T01:25:36.358727+00:00",
+  "updated": "2026-08-21T04:41:31.512567+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 61,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 32,
+      "count": 45,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 12,
+      "count": 17,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -35,8 +35,8 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -56,6 +56,13 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -88,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
+    "positive": 23,
     "negative": 6,
-    "neutral": 50,
-    "score": 22,
+    "neutral": 51,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "word": "chatgpt",
@@ -128,39 +135,33 @@
         "title": "Filigree Coffee, Others Coffee, And Equator Coffees On The Coffee Sprudgecast",
         "url": "https://sprudge.com/filigree-coffee-others-coffee-and-equator-coffees-on-the-coffee-sprudgecast-1277162.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "13-Year Study Gives More Good News to the Livers of Coffee Drinkers",
         "url": "https://dailycoffeenews.com/2026/08/20/13-year-study-gives-more-good-news-to-the-livers-of-coffee-drinkers/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Turning Coffee Waste Into Syngas And Biochar, A Ecological Double Whammy",
         "url": "https://sprudge.com/turning-coffee-waste-into-syngas-and-biochar-a-ecological-double-whammy-1275294.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "7 Brew’s latest growth is coming to the grocery aisle",
         "url": "https://www.nrn.com/beverage-trends/7-brew-s-latest-growth-is-coming-in-the-grocery-aisle",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Alibaba AI outlays dent profit despite best revenue growth in years",
-        "url": "https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Takaichi eyes September cabinet shuffle to cement power base",
         "url": "https://asia.nikkei.com/politics/japan-s-takaichi-eyes-september-cabinet-shuffle-to-cement-power-base",
@@ -184,9 +185,15 @@
         "url": "https://asia.nikkei.com/business/markets/equities/foreign-ownership-of-japan-stocks-hits-new-record-on-ai-boom",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI cuts costs for Southeast Asia-based scammers",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/ai-cuts-costs-for-southeast-asia-based-scammers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,10 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 1,
     "region-sea": 16,
     "region-americas": 20,
-    "region-vietnam": 11,
+    "region-vietnam": 12,
     "region-global": 32
   }
 }
