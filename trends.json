@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-21T20:29:22.374236+00:00",
+  "updated": "2026-08-22T01:19:53.682757+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 48,
+  "articles_24h": 46,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 20,
+      "count_24h": 18,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 10,
+      "count": 13,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -29,7 +29,7 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -50,8 +50,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -63,8 +63,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     }
   ],
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 19,
     "negative": 6,
-    "neutral": 54,
-    "score": 18,
+    "neutral": 55,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 40
     },
     {
       "word": "chatgpt",
@@ -118,6 +118,10 @@
     },
     {
       "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "claude",
       "count": 2
     },
     {
@@ -141,25 +145,25 @@
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
         "url": "https://www.nrn.com/quick-service/starbucks-sold-a-lot-of-unicorn-drinks-last-weekend",
         "source": "Nation's Restaurant News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Blank Street Coffee makes its West Coast debut in Los Angeles",
         "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "What Is The True Water Cost Of A Cup Of Coffee?",
         "url": "https://sprudge.com/what-is-the-true-water-cost-of-a-cup-of-coffee-1276145.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
         "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
         "source": "Perfect Daily Grind",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -168,12 +172,6 @@
   "ai_trends": {
     "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Asia-Pacific left without US aircraft carrier after Middle East deployment",
-        "url": "https://asia.nikkei.com/politics/defense/asia-pacific-left-without-us-aircraft-carrier-after-middle-east-deployment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China rejects Rubio's accusation it wrongfully detained US academic",
         "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rejects-rubio-s-accusation-it-wrongfully-detained-us-academic",
@@ -197,6 +195,12 @@
         "url": "https://asia.nikkei.com/politics/international-relations/japan-muted-on-putin-s-disputed-islands-visit-as-us-intentions-remain-murky",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
     "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
@@ -213,9 +217,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
@@ -225,8 +229,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 22,
+    "region-americas": 21,
     "region-vietnam": 10,
-    "region-global": 30
+    "region-global": 31
   }
 }
