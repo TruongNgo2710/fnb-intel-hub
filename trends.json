@@ -1,34 +1,34 @@
 {
-  "updated": "2026-08-22T04:36:44.201701+00:00",
+  "updated": "2026-08-22T08:33:52.839472+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 46,
+  "articles_24h": 48,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 19,
+      "count": 44,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 8,
+      "count": 15,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 9,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -88,14 +88,14 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
+      "tag": "brand-kingcoffee",
+      "name": "brand-kingcoffee",
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
@@ -110,7 +110,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "chatgpt",
@@ -123,14 +123,10 @@
     {
       "word": "claude",
       "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -145,32 +141,32 @@
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
         "url": "https://www.nrn.com/quick-service/starbucks-sold-a-lot-of-unicorn-drinks-last-weekend",
         "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Blank Street Coffee makes its West Coast debut in Los Angeles",
         "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
         "source": "Nation's Restaurant News",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "What Is The True Water Cost Of A Cup Of Coffee?",
         "url": "https://sprudge.com/what-is-the-true-water-cost-of-a-cup-of-coffee-1276145.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
         "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
         "source": "Perfect Daily Grind",
-        "time": "16 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "China rejects Rubio's accusation it wrongfully detained US academic",
@@ -203,7 +199,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -230,8 +226,8 @@
   "regional_breakdown": {
     "region-americas": 21,
     "region-sea": 17,
-    "region-vietnam": 10,
+    "region-vietnam": 11,
     "region-europe": 1,
-    "region-global": 31
+    "region-global": 30
   }
 }
