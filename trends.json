@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-22T12:43:17.997026+00:00",
+  "updated": "2026-08-22T16:28:28.304928+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 45,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 19,
+      "count": 45,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 10,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -29,20 +29,13 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 3,
       "count_24h": 1,
       "trend": "up"
     },
@@ -54,6 +47,13 @@
       "trend": "stable"
     },
     {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
@@ -63,7 +63,7 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     }
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 6,
-    "neutral": 55,
-    "score": 16,
+    "positive": 17,
+    "negative": 7,
+    "neutral": 56,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "chatgpt",
@@ -126,7 +126,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -141,24 +141,24 @@
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
         "url": "https://www.nrn.com/quick-service/starbucks-sold-a-lot-of-unicorn-drinks-last-weekend",
         "source": "Nation's Restaurant News",
-        "time": "17 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Blank Street Coffee makes its West Coast debut in Los Angeles",
         "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
         "source": "Nation's Restaurant News",
-        "time": "19 giờ trước"
+        "time": "23 giờ trước"
       },
       {
         "title": "What Is The True Water Cost Of A Cup Of Coffee?",
         "url": "https://sprudge.com/what-is-the-true-water-cost-of-a-cup-of-coffee-1276145.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "23 giờ trước"
       },
       {
-        "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
-        "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
-        "source": "Perfect Daily Grind",
+        "title": "Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires",
+        "url": "https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/",
+        "source": "Daily Coffee News",
         "time": "1 ngày trước"
       }
     ],
@@ -166,7 +166,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 49,
     "top_articles": [
       {
         "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
@@ -199,7 +199,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,10 +224,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
+    "region-sea": 17,
     "region-americas": 20,
-    "region-vietnam": 11,
+    "region-vietnam": 10,
     "region-europe": 1,
-    "region-global": 30
+    "region-global": 32
   }
 }
