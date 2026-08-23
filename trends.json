@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-23T01:26:57.488236+00:00",
+  "updated": "2026-08-23T04:40:46.680829+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 13,
+      "count": 45,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 10,
       "count_24h": 1,
       "trend": "up"
     },
@@ -40,16 +40,16 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 3,
       "count_24h": 0,
       "trend": "stable"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 14,
     "negative": 7,
-    "neutral": 58,
-    "score": 10,
+    "neutral": 59,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -122,7 +122,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -162,20 +162,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
-        "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan muted on Putin's disputed-islands visit as US intentions remain murky",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-muted-on-putin-s-disputed-islands-visit-as-us-intentions-remain-murky",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thailand, Asia's gun ownership leader, cracks down after deadly shootings",
         "url": "https://asia.nikkei.com/spotlight/society/crime/thailand-asia-s-gun-ownership-leader-cracks-down-after-deadly-shootings",
@@ -193,9 +181,21 @@
         "url": "https://asia.nikkei.com/business/markets/commodities/global-oil-inventories-on-the-decline-again-amid-hormuz-stalemate",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Footloose in Baku: East meets West in Azerbaijan's capital",
+        "url": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-baku-east-meets-west-in-azerbaijan-s-capital",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's security council quietly steps up as architect of China strategy",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,10 +220,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 21,
-    "region-vietnam": 10,
+    "region-sea": 18,
+    "region-vietnam": 12,
     "region-europe": 1,
-    "region-global": 31
+    "region-americas": 20,
+    "region-global": 29
   }
 }
