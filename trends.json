@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-22T20:26:36.186830+00:00",
+  "updated": "2026-08-23T01:26:57.488236+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 15,
+      "count": 47,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 8,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 11,
       "count_24h": 1,
       "trend": "up"
     },
@@ -40,16 +40,16 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 3,
       "count_24h": 0,
       "trend": "stable"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -63,7 +63,7 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     }
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 15,
     "negative": 7,
-    "neutral": 55,
-    "score": 14,
+    "neutral": 58,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -122,7 +122,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -152,9 +152,9 @@
         "time": "1 ngày trước"
       },
       {
-        "title": "Weekly Coffee News: Leadership Changes + Big Show in Buenos Aires",
-        "url": "https://dailycoffeenews.com/2026/08/21/weekly-coffee-news-leadership-changes-big-show-in-buenos-aires/",
-        "source": "Daily Coffee News",
+        "title": "Coffee News Recap, 21 Aug: Global Coffee Awards Europe set for October, Colombian coffee exports partially resume through Buenaventura port & other stories",
+        "url": "https://perfectdailygrind.com/2026/08/coffee-news-recap-21-august-2026/",
+        "source": "Perfect Daily Grind",
         "time": "1 ngày trước"
       }
     ],
@@ -162,14 +162,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
         "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
@@ -193,9 +187,15 @@
         "url": "https://asia.nikkei.com/business/travel-leisure/refurbished-ueno-station-paints-itself-as-tokyo-art-hub",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Global oil inventories on the decline again amid Hormuz stalemate",
+        "url": "https://asia.nikkei.com/business/markets/commodities/global-oil-inventories-on-the-decline-again-amid-hormuz-stalemate",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,9 +220,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
+    "region-sea": 17,
     "region-americas": 21,
-    "region-vietnam": 11,
+    "region-vietnam": 10,
     "region-europe": 1,
     "region-global": 31
   }
