@@ -1,28 +1,21 @@
 {
-  "updated": "2026-08-23T20:26:41.958675+00:00",
+  "updated": "2026-08-24T01:24:48.225160+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 12,
+      "count": 44,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 18,
       "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -31,6 +24,13 @@
       "count": 11,
       "count_24h": 2,
       "trend": "up"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -47,13 +47,6 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
@@ -63,6 +56,13 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 2,
       "count_24h": 1,
       "trend": "up"
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
+    "positive": 15,
     "negative": 5,
-    "neutral": 62,
-    "score": 10,
+    "neutral": 60,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -133,7 +133,7 @@
         "title": "A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions",
         "url": "https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
@@ -158,7 +158,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Thailand, Asia's gun ownership leader, cracks down after deadly shootings",
@@ -191,7 +191,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,8 +216,7 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-europe": 1,
+    "region-sea": 18,
     "region-americas": 17,
     "region-vietnam": 15,
     "region-global": 30
