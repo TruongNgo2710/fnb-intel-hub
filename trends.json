@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-24T01:24:48.225160+00:00",
+  "updated": "2026-08-24T04:49:04.093778+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 13,
+      "count": 40,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 11,
+      "count": 16,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -42,9 +42,9 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 5,
+    "positive": 16,
+    "negative": 4,
     "neutral": 60,
-    "score": 12,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -133,7 +133,7 @@
         "title": "A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions",
         "url": "https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
@@ -158,26 +158,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Thailand, Asia's gun ownership leader, cracks down after deadly shootings",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/thailand-asia-s-gun-ownership-leader-cracks-down-after-deadly-shootings",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Refurbished Ueno Station paints itself as Tokyo art hub",
-        "url": "https://asia.nikkei.com/business/travel-leisure/refurbished-ueno-station-paints-itself-as-tokyo-art-hub",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Global oil inventories on the decline again amid Hormuz stalemate",
-        "url": "https://asia.nikkei.com/business/markets/commodities/global-oil-inventories-on-the-decline-again-amid-hormuz-stalemate",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Footloose in Baku: East meets West in Azerbaijan's capital",
         "url": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-baku-east-meets-west-in-azerbaijan-s-capital",
@@ -189,9 +171,27 @@
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Manila airport aims to shed 'world's worst' label with upgrades",
+        "url": "https://asia.nikkei.com/business/transportation/manila-airport-aims-to-shed-world-s-worst-label-with-upgrades",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand, Singapore exchanges seek tech listings as AI booms",
+        "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,8 +217,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 17,
-    "region-vietnam": 15,
+    "region-americas": 18,
+    "region-vietnam": 14,
     "region-global": 30
   }
 }
