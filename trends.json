@@ -1,61 +1,68 @@
 {
-  "updated": "2026-08-24T12:55:55.353237+00:00",
+  "updated": "2026-08-24T16:40:55.342200+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 48,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 9,
+      "count": 41,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 12,
+      "count": 21,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 13,
+      "count_24h": 6,
+      "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 7,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
-      "count_24h": 1,
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -69,41 +76,35 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 4,
-    "neutral": 59,
-    "score": 16,
+    "positive": 15,
+    "negative": 3,
+    "neutral": 62,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -111,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 14,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -123,35 +124,35 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Hurricane Lala Devastates Coffee Farms On Ka’u",
-        "url": "https://sprudge.com/hurricane-lala-devastates-coffee-farms-on-kau-1277238.html",
+        "title": "The Rise of Yemeni Coffeehouses in Dearborn and Beyond",
+        "url": "https://dailycoffeenews.com/2026/08/24/the-rise-of-yemeni-coffeehouses-in-dearborn-and-beyond/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Study: Sleep Loss Scrambles Social Memory; Caffeine May Help",
+        "url": "https://dailycoffeenews.com/2026/08/24/study-sleep-loss-scrambles-social-memory-caffeine-may-help/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "The Sprudge Guide To Coffee In Warsaw, Poland",
+        "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-warsaw-poland-1133769.html",
         "source": "Sprudge Coffee",
-        "time": "52 phút trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions",
-        "url": "https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Starbucks sold a lot of Unicorn drinks last weekend",
-        "url": "https://www.nrn.com/quick-service/starbucks-sold-a-lot-of-unicorn-drinks-last-weekend",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
-      },
-      {
-        "title": "Blank Street Coffee makes its West Coast debut in Los Angeles",
-        "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
+        "title": "Oklahoma’s She Brews Opens Larger Cafe Supporting Women After Incarceration",
+        "url": "https://dailycoffeenews.com/2026/08/24/oklahomas-she-brews-opens-larger-cafe-supporting-women-after-incarceration/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
@@ -184,7 +185,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,9 +210,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-vietnam": 17,
-    "region-global": 31,
-    "region-americas": 16
+    "region-vietnam": 16,
+    "region-sea": 17,
+    "region-global": 32,
+    "region-americas": 15
   }
 }
