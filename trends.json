@@ -1,36 +1,36 @@
 {
-  "updated": "2026-08-24T08:52:09.320843+00:00",
+  "updated": "2026-08-24T12:55:55.353237+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 10,
+      "count": 38,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 6,
+      "count": 20,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 11,
       "count_24h": 2,
       "trend": "up"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -56,13 +56,6 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -110,7 +103,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 36
     },
     {
       "word": "gọi vốn",
@@ -118,7 +111,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -130,10 +123,16 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Hurricane Lala Devastates Coffee Farms On Ka’u",
+        "url": "https://sprudge.com/hurricane-lala-devastates-coffee-farms-on-kau-1277238.html",
+        "source": "Sprudge Coffee",
+        "time": "52 phút trước"
+      },
+      {
         "title": "A Twenty Coffee Blend Anyone? The Sprudge Roaster’s Village Has Component Suggestions",
         "url": "https://sprudge.com/a-twenty-coffee-blend-anyone-the-sprudge-roasters-village-has-component-suggestions-1278365.html",
         "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Starbucks sold a lot of Unicorn drinks last weekend",
@@ -146,32 +145,14 @@
         "url": "https://www.nrn.com/emerging-chains/blank-street-coffee-makes-its-west-coast-debut-in-los-angeles",
         "source": "Nation's Restaurant News",
         "time": "2 ngày trước"
-      },
-      {
-        "title": "What Is The True Water Cost Of A Cup Of Coffee?",
-        "url": "https://sprudge.com/what-is-the-true-water-cost-of-a-cup-of-coffee-1276145.html",
-        "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Taiwan's security council quietly steps up as architect of China strategy",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Manila airport aims to shed 'world's worst' label with upgrades",
-        "url": "https://asia.nikkei.com/business/transportation/manila-airport-aims-to-shed-world-s-worst-label-with-upgrades",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
         "url": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan",
@@ -189,9 +170,21 @@
         "url": "https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "India's hydropower push raises natural disaster fears in Kashmir",
+        "url": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China refiner Sinopec foresees headwinds easing despite Iran uncertainty",
+        "url": "https://asia.nikkei.com/business/markets/commodities/china-refiner-sinopec-foresees-headwinds-easing-despite-iran-uncertainty",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,9 +209,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 16,
     "region-vietnam": 17,
-    "region-global": 30,
+    "region-global": 31,
     "region-americas": 16
   }
 }
