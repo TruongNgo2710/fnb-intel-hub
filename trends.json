@@ -1,55 +1,48 @@
 {
-  "updated": "2026-08-25T12:52:22.986551+00:00",
+  "updated": "2026-08-25T16:41:17.335120+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 54,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 43,
-      "count_24h": 28,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 13,
+      "count": 18,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 8,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -57,6 +50,13 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -72,39 +72,45 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 7,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 14,
-    "negative": 4,
-    "neutral": 62,
-    "score": 12,
+    "negative": 3,
+    "neutral": 63,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -112,7 +118,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -124,42 +130,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Barista Brawl: A New Cooperative Trading Card Game About Pulling Bar Shifts",
-        "url": "https://sprudge.com/barista-brawl-a-new-cooperative-trading-card-game-about-pulling-bar-shifts-1282865.html",
+        "title": "Buffalo Wild Wings names Ahmed Awadallah COO",
+        "url": "https://www.nrn.com/casual-dining/buffalo-wild-wings-names-ahmed-awadallah-coo",
+        "source": "Nation's Restaurant News",
+        "time": "50 phút trước"
+      },
+      {
+        "title": "Blank Street Raises $105 Million, Expands to LA",
+        "url": "https://dailycoffeenews.com/2026/08/25/blank-street-raises-105-million-expands-to-la/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Build-Outs Of Coffee: Workshop Cafe & Academy In London, UK",
+        "url": "https://sprudge.com/build-outs-of-coffee-workshop-cafe-academy-in-london-uk-1219117.html",
         "source": "Sprudge Coffee",
-        "time": "49 phút trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Can cold foam help raise café margins?",
-        "url": "https://perfectdailygrind.com/2026/08/cold-foam-coffee-raise-margins/",
-        "source": "Perfect Daily Grind",
-        "time": "7 giờ trước"
-      },
-      {
-        "title": "The Rise of Yemeni Coffeehouses in Dearborn and Beyond",
-        "url": "https://dailycoffeenews.com/2026/08/24/the-rise-of-yemeni-coffeehouses-in-dearborn-and-beyond/",
+        "title": "Sanctuary Coffee Roasting Opens a Refuge for Tasting in Fresno County",
+        "url": "https://dailycoffeenews.com/2026/08/25/sanctuary-coffee-roasting-opens-a-refuge-for-tasting-in-fresno-county/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
-      },
-      {
-        "title": "Study: Sleep Loss Scrambles Social Memory; Caffeine May Help",
-        "url": "https://dailycoffeenews.com/2026/08/24/study-sleep-loss-scrambles-social-memory-caffeine-may-help/",
-        "source": "Daily Coffee News",
-        "time": "22 giờ trước"
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Sony to offer drivers cute AI agent for self-driving age",
-        "url": "https://asia.nikkei.com/business/automobiles/sony-to-offer-drivers-cute-ai-agent-for-self-driving-age",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Australian venture capital firm Blackbird raises $752m from Asian investors",
         "url": "https://asia.nikkei.com/business/startups/australian-venture-capital-firm-blackbird-raises-752m-from-asian-investors",
@@ -183,9 +183,15 @@
         "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-denounces-economic-wars-as-us-starts-campaign-to-cut-off-iran",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to support oil pipelines that bypass Strait of Hormuz",
+        "url": "https://asia.nikkei.com/business/energy/japan-to-support-oil-pipelines-that-bypass-strait-of-hormuz",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +216,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 17,
+    "region-sea": 18,
+    "region-americas": 18,
     "region-vietnam": 13,
-    "region-global": 31
+    "region-global": 30,
+    "region-europe": 1
   }
 }
