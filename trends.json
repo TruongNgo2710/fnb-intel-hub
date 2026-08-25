@@ -1,34 +1,34 @@
 {
-  "updated": "2026-08-25T04:42:28.926202+00:00",
+  "updated": "2026-08-25T08:45:50.870722+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 55,
+  "articles_24h": 52,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 23,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 14,
+      "count": 16,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 11,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 9,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -54,18 +54,18 @@
       "trend": "up"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -78,8 +78,8 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-claude",
@@ -96,9 +96,9 @@
   ],
   "sentiment": {
     "positive": 13,
-    "negative": 3,
-    "neutral": 64,
-    "score": 12,
+    "negative": 5,
+    "neutral": 62,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -124,28 +124,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Can cold foam help raise café margins?",
+        "url": "https://perfectdailygrind.com/2026/08/cold-foam-coffee-raise-margins/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "The Rise of Yemeni Coffeehouses in Dearborn and Beyond",
         "url": "https://dailycoffeenews.com/2026/08/24/the-rise-of-yemeni-coffeehouses-in-dearborn-and-beyond/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Study: Sleep Loss Scrambles Social Memory; Caffeine May Help",
         "url": "https://dailycoffeenews.com/2026/08/24/study-sleep-loss-scrambles-social-memory-caffeine-may-help/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "The Sprudge Guide To Coffee In Warsaw, Poland",
         "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-warsaw-poland-1133769.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "Oklahoma’s She Brews Opens Larger Cafe Supporting Women After Incarceration",
-        "url": "https://dailycoffeenews.com/2026/08/24/oklahomas-she-brews-opens-larger-cafe-supporting-women-after-incarceration/",
-        "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -154,18 +154,6 @@
   "ai_trends": {
     "total_articles": 45,
     "top_articles": [
-      {
-        "title": "China refiner Sinopec foresees headwinds easing despite Iran uncertainty",
-        "url": "https://asia.nikkei.com/business/markets/commodities/china-refiner-sinopec-foresees-headwinds-easing-despite-iran-uncertainty",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan to tap AI to speed up materials development 10-fold",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Sony to offer drivers cute AI agent for self-driving age",
         "url": "https://asia.nikkei.com/business/automobiles/sony-to-offer-drivers-cute-ai-agent-for-self-driving-age",
@@ -181,6 +169,18 @@
       {
         "title": "Exclusive: TSMC supplier Nichias to build key chipmaking 'tubes' in Taiwan",
         "url": "https://asia.nikkei.com/business/technology/exclusive-tsmc-supplier-nichias-to-build-key-chipmaking-tubes-in-taiwan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US scrutiny deters some Chinese tariff refund claims as others cash in",
+        "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-scrutiny-deters-some-chinese-tariff-refund-claims-as-others-cash-in",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China denounces 'economic wars' as US starts campaign to cut off Iran",
+        "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-denounces-economic-wars-as-us-starts-campaign-to-cut-off-iran",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -211,8 +211,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-vietnam": 14,
-    "region-global": 29,
-    "region-americas": 18
+    "region-americas": 20,
+    "region-vietnam": 11,
+    "region-global": 30
   }
 }
