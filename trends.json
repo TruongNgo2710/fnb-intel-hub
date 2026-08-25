@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-25T08:45:50.870722+00:00",
+  "updated": "2026-08-25T12:52:22.986551+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 22,
+      "count": 43,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
+      "count": 15,
       "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -29,14 +29,14 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 8,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -72,14 +72,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-claude",
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
-    "negative": 5,
+    "positive": 14,
+    "negative": 4,
     "neutral": 62,
-    "score": 10,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 13,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -124,35 +124,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Barista Brawl: A New Cooperative Trading Card Game About Pulling Bar Shifts",
+        "url": "https://sprudge.com/barista-brawl-a-new-cooperative-trading-card-game-about-pulling-bar-shifts-1282865.html",
+        "source": "Sprudge Coffee",
+        "time": "49 phút trước"
+      },
+      {
         "title": "Can cold foam help raise café margins?",
         "url": "https://perfectdailygrind.com/2026/08/cold-foam-coffee-raise-margins/",
         "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "The Rise of Yemeni Coffeehouses in Dearborn and Beyond",
         "url": "https://dailycoffeenews.com/2026/08/24/the-rise-of-yemeni-coffeehouses-in-dearborn-and-beyond/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Study: Sleep Loss Scrambles Social Memory; Caffeine May Help",
         "url": "https://dailycoffeenews.com/2026/08/24/study-sleep-loss-scrambles-social-memory-caffeine-may-help/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
-      },
-      {
-        "title": "The Sprudge Guide To Coffee In Warsaw, Poland",
-        "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-warsaw-poland-1133769.html",
-        "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "22 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Sony to offer drivers cute AI agent for self-driving age",
@@ -185,7 +185,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,8 +211,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 20,
-    "region-vietnam": 11,
-    "region-global": 30
+    "region-americas": 17,
+    "region-vietnam": 13,
+    "region-global": 31
   }
 }
