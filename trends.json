@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:32:33.598624+00:00",
+  "updated": "2026-08-26T01:25:11.959860+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 56,
@@ -7,43 +7,43 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 25,
+      "count": 39,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 12,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 8,
+      "count": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 10,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -72,14 +72,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-claude",
@@ -92,25 +92,19 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 16,
-    "negative": 4,
-    "neutral": 60,
-    "score": 15,
+    "negative": 3,
+    "neutral": 61,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -118,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -133,45 +127,33 @@
         "title": "Social Forestry in Indonesia Seeks Room for Coffee and Conservation",
         "url": "https://dailycoffeenews.com/2026/08/25/social-forestry-in-indonesia-seeks-room-for-coffee-and-conservation/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Buffalo Wild Wings names Ahmed Awadallah COO",
         "url": "https://www.nrn.com/casual-dining/buffalo-wild-wings-names-ahmed-awadallah-coo",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Blank Street Raises $105 Million, Expands to LA",
         "url": "https://dailycoffeenews.com/2026/08/25/blank-street-raises-105-million-expands-to-la/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Workshop Cafe & Academy In London, UK",
         "url": "https://sprudge.com/build-outs-of-coffee-workshop-cafe-academy-in-london-uk-1219117.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "China denounces 'economic wars' as US starts campaign to cut off Iran",
-        "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-denounces-economic-wars-as-us-starts-campaign-to-cut-off-iran",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan to support oil pipelines that bypass Strait of Hormuz",
-        "url": "https://asia.nikkei.com/business/energy/japan-to-support-oil-pipelines-that-bypass-strait-of-hormuz",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thailand auto recovery gathers pace as July sales jump 20%",
         "url": "https://asia.nikkei.com/business/automobiles/thailand-auto-recovery-gathers-pace-as-july-sales-jump-20",
@@ -189,9 +171,21 @@
         "url": "https://asia.nikkei.com/business/technology/japan-s-daikin-scales-up-in-mexico-with-new-plant-for-data-center-cooling",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to trial real-time stock, bond settlements with blockchain tech",
+        "url": "https://asia.nikkei.com/business/finance/japan-to-trial-real-time-stock-bond-settlements-with-blockchain-tech",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Is China's fairy-tale cosmetics brand Flower Knows a K-beauty rival?",
+        "url": "https://asia.nikkei.com/business/consumer/is-china-s-fairy-tale-cosmetics-brand-flower-knows-a-k-beauty-rival",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,8 +210,8 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 21,
-    "region-sea": 19,
+    "region-sea": 20,
+    "region-americas": 20,
     "region-vietnam": 13,
     "region-global": 26,
     "region-europe": 1
