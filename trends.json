@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-26T04:43:20.876277+00:00",
+  "updated": "2026-08-26T08:47:22.667976+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 55,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 38,
-      "count_24h": 22,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 12,
+      "count": 19,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 7,
+      "count": 13,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -49,9 +49,9 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 14,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -124,28 +124,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Is Gesha losing its grip on coffee competitions?",
+        "url": "https://perfectdailygrind.com/2026/08/gesha-coffee-competitions-auctions/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Social Forestry in Indonesia Seeks Room for Coffee and Conservation",
         "url": "https://dailycoffeenews.com/2026/08/25/social-forestry-in-indonesia-seeks-room-for-coffee-and-conservation/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Buffalo Wild Wings names Ahmed Awadallah COO",
         "url": "https://www.nrn.com/casual-dining/buffalo-wild-wings-names-ahmed-awadallah-coo",
         "source": "Nation's Restaurant News",
-        "time": "12 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Blank Street Raises $105 Million, Expands to LA",
         "url": "https://dailycoffeenews.com/2026/08/25/blank-street-raises-105-million-expands-to-la/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Workshop Cafe & Academy In London, UK",
-        "url": "https://sprudge.com/build-outs-of-coffee-workshop-cafe-academy-in-london-uk-1219117.html",
-        "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -155,18 +155,6 @@
     "total_articles": 42,
     "top_articles": [
       {
-        "title": "Japan's Daikin scales up in Mexico with new plant for data center cooling",
-        "url": "https://asia.nikkei.com/business/technology/japan-s-daikin-scales-up-in-mexico-with-new-plant-for-data-center-cooling",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan to trial real-time stock, bond settlements with blockchain tech",
-        "url": "https://asia.nikkei.com/business/finance/japan-to-trial-real-time-stock-bond-settlements-with-blockchain-tech",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Is China's fairy-tale cosmetics brand Flower Knows a K-beauty rival?",
         "url": "https://asia.nikkei.com/business/consumer/is-china-s-fairy-tale-cosmetics-brand-flower-knows-a-k-beauty-rival",
         "source": "Nikkei Asia",
@@ -175,6 +163,18 @@
       {
         "title": "How Honda pit AI agents against each other to cut development times",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/how-honda-pit-ai-agents-against-each-other-to-cut-development-times",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan drone strategy caught in legislature's budget battles",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-drone-strategy-caught-in-legislature-s-budget-battles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Google, OpenAI, Meta, TikTok team up with Japan to fight scams",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-openai-meta-tiktok-team-up-with-japan-to-fight-scams",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -210,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 20,
-    "region-sea": 19,
+    "region-sea": 20,
     "region-europe": 2,
     "region-vietnam": 12,
-    "region-global": 27
+    "region-global": 27,
+    "region-americas": 19
   }
 }
