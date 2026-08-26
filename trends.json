@@ -1,55 +1,55 @@
 {
-  "updated": "2026-08-26T16:51:04.927408+00:00",
+  "updated": "2026-08-26T22:52:27.203172+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 64,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 26,
+      "count": 39,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
+      "count": 19,
       "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 8,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 6,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -77,7 +77,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -88,16 +88,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
-    "negative": 1,
-    "neutral": 66,
-    "score": 15,
+    "positive": 12,
+    "negative": 3,
+    "neutral": 65,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 39
     },
     {
       "word": "funding",
@@ -109,7 +109,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -124,39 +124,33 @@
         "title": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
         "url": "https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "High-Scoring Microlots Head to Best of Congo Cooperatives Auction",
         "url": "https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "A Glass Of Coffee: Glassblowing Steps Into The Coffee Spotlight",
         "url": "https://sprudge.com/a-glass-of-coffee-glassblowing-steps-into-the-coffee-spotlight-1061277.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Florida-Grown Coffee Gets Its First Serious Field Test",
         "url": "https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 38,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Taiwan drone strategy caught in legislature's budget battles",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-drone-strategy-caught-in-legislature-s-budget-battles",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Google, OpenAI, Meta, TikTok team up with Japan to fight scams",
         "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-openai-meta-tiktok-team-up-with-japan-to-fight-scams",
@@ -180,9 +174,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/komatsu-to-triple-size-of-us-maintenance-hub-amid-ai-copper-rush",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan pushes banks to broaden cybersecurity oversight as AI risks grow",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-pushes-banks-to-broaden-cybersecurity-oversight-as-ai-risks-grow",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 38 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,10 +207,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-europe": 2,
+    "region-sea": 17,
     "region-americas": 20,
-    "region-vietnam": 13,
-    "region-global": 27
+    "region-europe": 2,
+    "region-vietnam": 11,
+    "region-global": 30
   }
 }
