@@ -1,35 +1,35 @@
 {
-  "updated": "2026-08-26T22:52:27.203172+00:00",
+  "updated": "2026-08-27T08:06:57.447361+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 31,
+      "count": 37,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 19,
-      "count_24h": 15,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -42,14 +42,14 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -77,7 +77,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
@@ -89,15 +89,19 @@
   ],
   "sentiment": {
     "positive": 12,
-    "negative": 3,
-    "neutral": 65,
-    "score": 11,
+    "negative": 9,
+    "neutral": 59,
+    "score": 4,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 37
+    },
+    {
+      "word": "inflation",
+      "count": 3
     },
     {
       "word": "funding",
@@ -109,7 +113,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -121,68 +125,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Why the protein coffee boom won’t last",
+        "url": "https://perfectdailygrind.com/2026/08/protein-coffee-boom-wont-last/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
         "url": "https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "High-Scoring Microlots Head to Best of Congo Cooperatives Auction",
         "url": "https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "A Glass Of Coffee: Glassblowing Steps Into The Coffee Spotlight",
         "url": "https://sprudge.com/a-glass-of-coffee-glassblowing-steps-into-the-coffee-spotlight-1061277.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Florida-Grown Coffee Gets Its First Serious Field Test",
-        "url": "https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/",
-        "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 39,
     "top_articles": [
       {
-        "title": "Google, OpenAI, Meta, TikTok team up with Japan to fight scams",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-openai-meta-tiktok-team-up-with-japan-to-fight-scams",
+        "title": "Thailand's southern insurgency erupts with renewed fury",
+        "url": "https://asia.nikkei.com/politics/thailand-s-southern-insurgency-erupts-with-renewed-fury",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Backlash presents biggest hurdle to data centers: AirTrunk boss",
-        "url": "https://asia.nikkei.com/business/technology/backlash-presents-biggest-hurdle-to-data-centers-airtrunk-boss",
+        "title": "Powertech eyes world's first panel-level packaging for AI chips in 2027",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/powertech-eyes-world-s-first-panel-level-packaging-for-ai-chips-in-2027",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Sanctioned Japanese ICC chief urges PM Takaichi to stand up to US",
-        "url": "https://asia.nikkei.com/politics/international-relations/sanctioned-japanese-icc-chief-urges-pm-takaichi-to-stand-up-to-us2",
+        "title": "Malaysian ex-PM Ismail Sabri charged with failing to declare assets",
+        "url": "https://asia.nikkei.com/spotlight/society/malaysian-ex-pm-ismail-sabri-charged-with-failing-to-declare-assets",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Komatsu to triple size of US maintenance hub amid AI copper rush",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/komatsu-to-triple-size-of-us-maintenance-hub-amid-ai-copper-rush",
+        "title": "Japan-Taiwan bonds and a tariff refund boost",
+        "url": "https://asia.nikkei.com/techasia/japan-taiwan-bonds-and-a-tariff-refund-boost",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan pushes banks to broaden cybersecurity oversight as AI risks grow",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-pushes-banks-to-broaden-cybersecurity-oversight-as-ai-risks-grow",
-        "source": "Nikkei Asia",
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -207,10 +211,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 20,
+    "region-sea": 18,
+    "region-americas": 18,
     "region-europe": 2,
-    "region-vietnam": 11,
+    "region-vietnam": 12,
     "region-global": 30
   }
 }
