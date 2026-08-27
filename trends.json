@@ -1,61 +1,75 @@
 {
-  "updated": "2026-08-27T08:06:57.447361+00:00",
+  "updated": "2026-08-27T21:57:42.327543+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
+      "count": 42,
       "count_24h": 28,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 13,
+      "count_24h": 11,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 12,
       "count_24h": 10,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -65,24 +79,24 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 3,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
@@ -97,15 +111,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
-    },
-    {
-      "word": "inflation",
-      "count": 3
-    },
-    {
-      "word": "funding",
-      "count": 3
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -113,7 +119,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -125,68 +131,68 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Why the protein coffee boom won’t last",
-        "url": "https://perfectdailygrind.com/2026/08/protein-coffee-boom-wont-last/",
-        "source": "Perfect Daily Grind",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Coffee Futures Fund Seeks Independent Cafe Owners for Second Cohort",
-        "url": "https://dailycoffeenews.com/2026/08/26/coffee-futures-fund-seeks-independent-cafe-owners-for-second-cohort/",
-        "source": "Daily Coffee News",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "High-Scoring Microlots Head to Best of Congo Cooperatives Auction",
-        "url": "https://dailycoffeenews.com/2026/08/26/high-scoring-microlots-head-to-best-of-congo-cooperatives-auction/",
-        "source": "Daily Coffee News",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "A Glass Of Coffee: Glassblowing Steps Into The Coffee Spotlight",
-        "url": "https://sprudge.com/a-glass-of-coffee-glassblowing-steps-into-the-coffee-spotlight-1061277.html",
+        "title": "NY-Based Colombian Coffee Roaster Devoción Partners With Colombia’s FNC To Support Coffee Growers After The August Earthquake",
+        "url": "https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-partners-with-colombias-fnc-to-support-coffee-growers-after-the-august-earthquake-1291723.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Coffee Design: Joe Coffee Company’s Call Time By Jordan Fisher",
+        "url": "https://sprudge.com/coffee-design-joe-coffee-companys-call-time-by-jordan-fisher-1278712.html",
+        "source": "Sprudge Coffee",
+        "time": "4 giờ trước"
+      },
+      {
+        "title": "Mokas Continues Kansas City-Area Expansion with 9-Unit Deal",
+        "url": "https://dailycoffeenews.com/2026/08/27/mokas-continues-kansas-city-area-expansion-with-9-unit-deal/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
+      },
+      {
+        "title": "Pennsylvania Coffee Shop Latest to Close Following ICE Detention",
+        "url": "https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/",
+        "source": "Daily Coffee News",
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 44,
     "top_articles": [
       {
-        "title": "Thailand's southern insurgency erupts with renewed fury",
-        "url": "https://asia.nikkei.com/politics/thailand-s-southern-insurgency-erupts-with-renewed-fury",
+        "title": "Taiwan opposition blocks Lai's special drone budget, passes alternative",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-opposition-blocks-lai-s-special-drone-budget-passes-alternative",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Powertech eyes world's first panel-level packaging for AI chips in 2027",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/powertech-eyes-world-s-first-panel-level-packaging-for-ai-chips-in-2027",
+        "title": "Fujitsu, US drone maker General Atomics to team on UAV maintenance in Japan",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/fujitsu-us-drone-maker-general-atomics-to-team-on-uav-maintenance-in-japan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Malaysian ex-PM Ismail Sabri charged with failing to declare assets",
-        "url": "https://asia.nikkei.com/spotlight/society/malaysian-ex-pm-ismail-sabri-charged-with-failing-to-declare-assets",
+        "title": "Japan's top banks regain access to Anthropic's Mythos AI after US freeze",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-top-banks-regain-access-to-anthropic-s-mythos-ai-after-us-freeze",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan-Taiwan bonds and a tariff refund boost",
-        "url": "https://asia.nikkei.com/techasia/japan-taiwan-bonds-and-a-tariff-refund-boost",
+        "title": "Japan's SBI to take stake in Indonesian digital broker Ajaib in crypto push",
+        "url": "https://asia.nikkei.com/business/business-deals/japan-s-sbi-to-take-stake-in-indonesian-digital-broker-ajaib-in-crypto-push",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "China's policy toward Japan remains unchanged, CCP official says",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-s-policy-toward-japan-remains-unchanged-ccp-official-says",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 44 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -211,10 +217,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 18,
-    "region-europe": 2,
-    "region-vietnam": 12,
-    "region-global": 30
+    "region-sea": 17,
+    "region-americas": 20,
+    "region-vietnam": 9,
+    "region-global": 34
   }
 }
