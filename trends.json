@@ -1,54 +1,61 @@
 {
-  "updated": "2026-08-28T10:10:34.626319+00:00",
+  "updated": "2026-08-28T21:50:23.200166+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 49,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 26,
+      "count": 38,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 10,
+      "count": 15,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
+      "count": 13,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 12,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
@@ -57,8 +64,8 @@
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -72,50 +79,54 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 11,
-    "negative": 8,
-    "neutral": 61,
+    "positive": 13,
+    "negative": 10,
+    "neutral": 57,
     "score": 4,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 38
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "acquisition",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 13,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 2,
+    "price_down_signals": 3,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -124,51 +135,51 @@
         "time": "0 phút trước"
       },
       {
-        "title": "NY-Based Colombian Coffee Roaster Devoción Partners With Colombia’s FNC To Support Coffee Growers After The August Earthquake",
-        "url": "https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-partners-with-colombias-fnc-to-support-coffee-growers-after-the-august-earthquake-1291723.html",
-        "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Coffee Design: Joe Coffee Company’s Call Time By Jordan Fisher",
-        "url": "https://sprudge.com/coffee-design-joe-coffee-companys-call-time-by-jordan-fisher-1278712.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Mokas Continues Kansas City-Area Expansion with 9-Unit Deal",
-        "url": "https://dailycoffeenews.com/2026/08/27/mokas-continues-kansas-city-area-expansion-with-9-unit-deal/",
+        "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
+        "url": "https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "6 giờ trước"
       },
       {
-        "title": "Pennsylvania Coffee Shop Latest to Close Following ICE Detention",
-        "url": "https://dailycoffeenews.com/2026/08/27/pennsylvania-coffee-shop-latest-to-close-following-ice-detention/",
+        "title": "Hawaii Coffee Farms Face Long Recovery After Hurricane Lala",
+        "url": "https://dailycoffeenews.com/2026/08/28/hawaii-coffee-farms-face-long-recovery-after-hurricane-lala/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "7 giờ trước"
+      },
+      {
+        "title": "Summer Of Build Outs Continues On The Coffee Sprudgecast",
+        "url": "https://sprudge.com/summer-of-build-outs-continues-on-the-coffee-sprudgecast-1282886.html",
+        "source": "Sprudge Coffee",
+        "time": "7 giờ trước"
+      },
+      {
+        "title": "Coffee Futures Fund Is Now Accepting Applications For The 2027 Cohort",
+        "url": "https://sprudge.com/coffee-futures-fund-is-now-accepting-applications-for-the-2027-cohort-1288293.html",
+        "source": "Sprudge Coffee",
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 39,
     "top_articles": [
       {
-        "title": "Japan's SBI to take stake in Indonesian digital broker Ajaib in crypto push",
-        "url": "https://asia.nikkei.com/business/business-deals/japan-s-sbi-to-take-stake-in-indonesian-digital-broker-ajaib-in-crypto-push",
+        "title": "Sumitomo aims for world's largest leased fleet of 2,000-plus planes",
+        "url": "https://asia.nikkei.com/business/transportation/sumitomo-aims-for-world-s-largest-leased-fleet-of-2-000-plus-planes",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China's policy toward Japan remains unchanged, CCP official says",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-s-policy-toward-japan-remains-unchanged-ccp-official-says",
+        "title": "Japan's diversified trading houses 'suited' for uncertain times: Itochu chief",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-diversified-trading-houses-suited-for-uncertain-times-itochu-chief2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan should not raid its forex reserves for Takaichi's food tax cut",
-        "url": "https://asia.nikkei.com/spotlight/comment/japan-should-not-raid-its-forex-reserves-for-takaichi-s-food-tax-cut",
+        "title": "'Dairyland' Wisconsin hopes to ride protein boom into Asia",
+        "url": "https://asia.nikkei.com/business/food-beverage/dairyland-wisconsin-hopes-to-ride-protein-boom-into-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -179,13 +190,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-        "source": "The Verge AI",
-        "time": "6 giờ trước"
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "source": "TechCrunch AI",
+        "time": "1 giờ trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,14 +216,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 17,
-    "region-vietnam": 11,
-    "region-global": 34
+    "region-sea": 17,
+    "region-americas": 21,
+    "region-europe": 1,
+    "region-vietnam": 9,
+    "region-global": 32
   }
 }
