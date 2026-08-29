@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-29T19:17:59.328250+00:00",
+  "updated": "2026-08-29T22:29:49.504828+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 12,
+      "count": 40,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 8,
+      "count": 14,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -103,15 +103,15 @@
   ],
   "sentiment": {
     "positive": 14,
-    "negative": 9,
-    "neutral": 57,
-    "score": 6,
+    "negative": 8,
+    "neutral": 58,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -122,7 +122,7 @@
     "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 3,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Brewing inequality: the unseen cost of Sri Lanka's Ceylon Tea",
@@ -140,7 +140,7 @@
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
         "url": "https://sprudge.com/lord-gear-me-strength-to-not-buy-all-this-hot-coffee-gear-1294302.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
@@ -156,10 +156,10 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 40,
     "top_articles": [
       {
         "title": "Sumitomo aims for world's largest leased fleet of 2,000-plus planes",
@@ -180,19 +180,19 @@
         "time": "0 phút trước"
       },
       {
+        "title": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-robots-and-drones-to-assist-in-fukushima-nuclear-plant-cleanup",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-        "source": "TechCrunch AI",
-        "time": "35 phút trước"
       }
     ],
-    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -201,9 +201,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "sugar": {
       "direction": "unknown",
@@ -218,8 +218,8 @@
   },
   "regional_breakdown": {
     "region-americas": 20,
-    "region-sea": 19,
+    "region-sea": 20,
     "region-vietnam": 11,
-    "region-global": 30
+    "region-global": 29
   }
 }
