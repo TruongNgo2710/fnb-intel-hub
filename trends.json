@@ -1,34 +1,34 @@
 {
-  "updated": "2026-08-29T13:42:47.901357+00:00",
+  "updated": "2026-08-29T19:17:59.328250+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 46,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 14,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 14,
-      "count_24h": 6,
+      "count": 39,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 9,
+      "count": 15,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 12,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 13,
+      "count": 11,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -36,13 +36,13 @@
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
@@ -57,8 +57,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-delivery",
@@ -77,14 +77,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 8,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 6,
       "trend": "hot"
     },
@@ -102,16 +102,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
-    "negative": 10,
+    "positive": 14,
+    "negative": 9,
     "neutral": 57,
-    "score": 4,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -119,7 +119,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 3,
@@ -140,26 +140,26 @@
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
         "url": "https://sprudge.com/lord-gear-me-strength-to-not-buy-all-this-hot-coffee-gear-1294302.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
         "url": "https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/",
         "source": "Daily Coffee News",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Hawaii Coffee Farms Face Long Recovery After Hurricane Lala",
         "url": "https://dailycoffeenews.com/2026/08/28/hawaii-coffee-farms-face-long-recovery-after-hurricane-lala/",
         "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 38,
+    "total_articles": 39,
     "top_articles": [
       {
         "title": "Sumitomo aims for world's largest leased fleet of 2,000-plus planes",
@@ -186,13 +186,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Nvidia’s AI advantage is moving beyond the GPU",
-        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
         "source": "TechCrunch AI",
-        "time": "42 phút trước"
+        "time": "35 phút trước"
       }
     ],
-    "insight": "🤖 38 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,9 +217,9 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 20,
     "region-sea": 19,
-    "region-americas": 19,
     "region-vietnam": 11,
-    "region-global": 31
+    "region-global": 30
   }
 }
