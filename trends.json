@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T13:40:25.842300+00:00",
+  "updated": "2026-08-30T19:08:53.713706+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 31,
@@ -7,28 +7,28 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 4,
+      "count": 41,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 6,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 13,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
+      "count": 10,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -102,27 +102,31 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 9,
-    "neutral": 57,
+    "positive": 13,
+    "negative": 8,
+    "neutral": 59,
     "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 15,
+    "total_articles": 13,
     "price_direction": "down",
     "price_up_signals": 0,
-    "price_down_signals": 3,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Brewing inequality: the unseen cost of Sri Lanka's Ceylon Tea",
@@ -146,7 +150,7 @@
         "title": "Perk & Recs: A Curated Selection Of Coffees From The Sprudge Roaster’s Village",
         "url": "https://sprudge.com/perk-recs-a-curated-selection-of-coffees-from-the-sprudge-roasters-village-1294296.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
@@ -156,17 +160,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
     "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan's diversified trading houses 'suited' for uncertain times: Itochu chief",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-diversified-trading-houses-suited-for-uncertain-times-itochu-chief2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "'Dairyland' Wisconsin hopes to ride protein boom into Asia",
         "url": "https://asia.nikkei.com/business/food-beverage/dairyland-wisconsin-hopes-to-ride-protein-boom-into-asia",
@@ -188,6 +186,12 @@
       {
         "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
         "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan PM Takaichi's approval rating climbs 4 points to 62% in Nikkei poll",
+        "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-climbs-4-points-to-62-in-nikkei-poll",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -218,8 +222,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-americas": 20,
+    "region-americas": 19,
     "region-vietnam": 9,
-    "region-global": 31
+    "region-global": 32
   }
 }
