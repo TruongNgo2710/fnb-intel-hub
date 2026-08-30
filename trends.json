@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-30T19:08:53.713706+00:00",
+  "updated": "2026-08-30T22:30:44.556345+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 31,
+  "articles_24h": 32,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 8,
+      "count": 39,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 4,
+      "count": 12,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -54,6 +54,13 @@
       "trend": "stable"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
@@ -66,13 +73,6 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -102,16 +102,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
+    "positive": 12,
     "negative": 8,
-    "neutral": 59,
-    "score": 6,
+    "neutral": 60,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -150,7 +150,7 @@
         "title": "Perk & Recs: A Curated Selection Of Coffees From The Sprudge Roaster’s Village",
         "url": "https://sprudge.com/perk-recs-a-curated-selection-of-coffees-from-the-sprudge-roasters-village-1294296.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
@@ -163,14 +163,8 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "'Dairyland' Wisconsin hopes to ride protein boom into Asia",
-        "url": "https://asia.nikkei.com/business/food-beverage/dairyland-wisconsin-hopes-to-ride-protein-boom-into-asia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-robots-and-drones-to-assist-in-fukushima-nuclear-plant-cleanup",
@@ -194,9 +188,15 @@
         "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-climbs-4-points-to-62-in-nikkei-poll",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,14 +216,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 20,
     "region-americas": 19,
-    "region-vietnam": 9,
-    "region-global": 32
+    "region-vietnam": 10,
+    "region-global": 31
   }
 }
