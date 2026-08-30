@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-30T04:15:41.185132+00:00",
+  "updated": "2026-08-30T13:40:25.842300+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 31,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 6,
+      "count": 42,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 14,
+      "count": 15,
       "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 14,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -111,7 +111,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -119,7 +119,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 15,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 3,
@@ -143,15 +143,15 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Perk & Recs: A Curated Selection Of Coffees From The Sprudge Roaster’s Village",
+        "url": "https://sprudge.com/perk-recs-a-curated-selection-of-coffees-from-the-sprudge-roasters-village-1294296.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
         "url": "https://sprudge.com/lord-gear-me-strength-to-not-buy-all-this-hot-coffee-gear-1294302.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
-        "url": "https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/",
-        "source": "Daily Coffee News",
         "time": "1 ngày trước"
       }
     ],
@@ -159,14 +159,8 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Sumitomo aims for world's largest leased fleet of 2,000-plus planes",
-        "url": "https://asia.nikkei.com/business/transportation/sumitomo-aims-for-world-s-largest-leased-fleet-of-2-000-plus-planes",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's diversified trading houses 'suited' for uncertain times: Itochu chief",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-diversified-trading-houses-suited-for-uncertain-times-itochu-chief2",
@@ -186,13 +180,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Shanghai Cooperation Organization summit, Semicon Taiwan, Shein listing",
+        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/shanghai-cooperation-organization-summit-semicon-taiwan-shein-listing",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
+        "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,9 +217,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 10,
-    "region-americas": 19,
-    "region-global": 30
+    "region-sea": 20,
+    "region-americas": 20,
+    "region-vietnam": 9,
+    "region-global": 31
   }
 }
