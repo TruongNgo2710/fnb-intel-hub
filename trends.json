@@ -1,64 +1,64 @@
 {
-  "updated": "2026-08-31T04:21:11.202115+00:00",
+  "updated": "2026-08-31T15:58:07.386315+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 43,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 9,
+      "count": 37,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 14,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
+      "count": 12,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 7,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-delivery",
@@ -79,13 +79,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 8,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -93,25 +93,19 @@
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 10,
-    "negative": 8,
+    "positive": 14,
+    "negative": 4,
     "neutral": 62,
-    "score": 2,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -123,17 +117,11 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 3,
     "top_articles": [
-      {
-        "title": "Tokyo brewer challenges sake's fixation on famous water",
-        "url": "https://asia.nikkei.com/business/food-beverage/tokyo-brewer-challenges-sake-s-fixation-on-famous-water",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
@@ -141,21 +129,27 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Caffeine May Change How the Brain Sleeps, Not Just How Long",
+        "url": "https://dailycoffeenews.com/2026/08/31/caffeine-may-change-how-the-brain-sleeps-not-just-how-long/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "17-Year-Old Launches Pink Pour Coffee Trailer in New Mexico",
+        "url": "https://dailycoffeenews.com/2026/08/31/17-year-old-launches-pink-pour-coffee-trailer-in-new-mexico/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Perk & Recs: A Curated Selection Of Coffees From The Sprudge Roaster’s Village",
         "url": "https://sprudge.com/perk-recs-a-curated-selection-of-coffees-from-the-sprudge-roasters-village-1294296.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Lord Gear Me Strength To Not Buy All This Hot Coffee Gear",
         "url": "https://sprudge.com/lord-gear-me-strength-to-not-buy-all-this-hot-coffee-gear-1294302.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Weekly Coffee News: US AeroPress Champion + Coffee 101 with the Howells",
-        "url": "https://dailycoffeenews.com/2026/08/28/weekly-coffee-news-us-aeropress-champion-coffee-101-with-the-howells/",
-        "source": "Daily Coffee News",
         "time": "2 ngày trước"
       }
     ],
@@ -163,40 +157,40 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-robots-and-drones-to-assist-in-fukushima-nuclear-plant-cleanup",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Shanghai Cooperation Organization summit, Semicon Taiwan, Shein listing",
-        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/shanghai-cooperation-organization-summit-semicon-taiwan-shein-listing",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Learning about war via Minecraft: Bringing the Great Tokyo Air Raid to life",
-        "url": "https://asia.nikkei.com/spotlight/society/learning-about-war-via-minecraft-bringing-the-great-tokyo-air-raid-to-life",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan PM Takaichi's approval rating climbs 4 points to 62% in Nikkei poll",
-        "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-climbs-4-points-to-62-in-nikkei-poll",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's House Foods weighs sale of CoCo Ichibanya curry chain operator",
         "url": "https://asia.nikkei.com/business/business-deals/japan-s-house-foods-weighs-sale-of-coco-ichibanya-curry-chain-operator",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thai hotels, restaurants warn proposed visitor levy will deter backpackers",
+        "url": "https://asia.nikkei.com/economy/thai-hotels-restaurants-warn-proposed-visitor-levy-will-deter-backpackers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "South Korea court gives Unification Church leader jail sentence for bribery",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/south-korea-court-gives-unification-church-leader-jail-sentence-for-bribery",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "MUFG teams up with BlackRock to raise overseas funds for Japan M&A",
+        "url": "https://asia.nikkei.com/business/finance/mufg-teams-up-with-blackrock-to-raise-overseas-funds-for-japan-m-a",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's NTT Data teams with US company on AI for enterprise cybersecurity",
+        "url": "https://asia.nikkei.com/business/business-deals/japan-s-ntt-data-teams-with-us-company-on-ai-for-enterprise-cybersecurity",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,9 +199,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
       "direction": "unknown",
@@ -221,9 +215,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 18,
-    "region-vietnam": 11,
-    "region-global": 31
+    "region-sea": 18,
+    "region-vietnam": 12,
+    "region-europe": 2,
+    "region-americas": 20,
+    "region-global": 28
   }
 }
