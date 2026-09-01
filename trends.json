@@ -1,41 +1,41 @@
 {
-  "updated": "2026-08-31T21:24:08.119589+00:00",
+  "updated": "2026-09-01T04:06:03.509046+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 36,
-      "count_24h": 21,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
+      "count": 16,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 8,
+      "count": 11,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -43,15 +43,15 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -70,16 +70,16 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
@@ -89,11 +89,11 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 20,
     "negative": 3,
-    "neutral": 59,
-    "score": 19,
-    "label": "Trung tính"
+    "neutral": 57,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -114,10 +114,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 7,
     "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 4,
+    "price_down_signals": 3,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -129,48 +129,54 @@
         "title": "Pumpkin Spice Latte season is off to a huge start at Starbucks",
         "url": "https://www.nrn.com/beverage-trends/pumpkin-spice-latte-season-is-off-to-a-huge-start-at-starbucks",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Graffeo Is Giving Away Their Ferrari With An Espresso Machine In The Engine",
         "url": "https://sprudge.com/graffeo-is-giving-away-their-ferrari-with-an-espresso-machine-in-the-engine-1294606.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Caffeine May Change How the Brain Sleeps, Not Just How Long",
         "url": "https://dailycoffeenews.com/2026/08/31/caffeine-may-change-how-the-brain-sleeps-not-just-how-long/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "17-Year-Old Launches Pink Pour Coffee Trailer in New Mexico",
         "url": "https://dailycoffeenews.com/2026/08/31/17-year-old-launches-pink-pour-coffee-trailer-in-new-mexico/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (4 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
     "total_articles": 39,
     "top_articles": [
       {
-        "title": "MUFG teams up with BlackRock to raise overseas funds for Japan M&A",
-        "url": "https://asia.nikkei.com/business/finance/mufg-teams-up-with-blackrock-to-raise-overseas-funds-for-japan-m-a",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's NTT Data teams with US company on AI for enterprise cybersecurity",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-ntt-data-teams-with-us-company-on-ai-for-enterprise-cybersecurity2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Sony chip unit to team with Saudi Aramco on plant maintenance AI",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/sony-chip-unit-to-team-with-saudi-aramco-on-plant-maintenance-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Sushiro bets on affordable sushi as Japan restaurant chains expand in US",
+        "url": "https://asia.nikkei.com/business/food-beverage/sushiro-bets-on-affordable-sushi-as-japan-restaurant-chains-expand-in-us",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Baidu's Hong Kong listing upgrade opens path to mainland capital",
+        "url": "https://asia.nikkei.com/business/markets/equities/baidu-s-hong-kong-listing-upgrade-opens-path-to-mainland-capital",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Fast-fashion retailer Shein's shares dive 10% after subdued Hong Kong IPO",
+        "url": "https://asia.nikkei.com/business/markets/ipo/fast-fashion-retailer-shein-s-shares-dive-10-after-subdued-hong-kong-ipo",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
@@ -179,12 +185,6 @@
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "source": "TechCrunch AI",
-        "time": "1 giờ trước"
       }
     ],
     "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
@@ -213,9 +213,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 25,
-    "region-vietnam": 11,
-    "region-global": 23,
+    "region-americas": 21,
+    "region-vietnam": 16,
+    "region-global": 22,
     "region-europe": 3
   }
 }
