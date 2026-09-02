@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-02T03:28:02.671064+00:00",
+  "updated": "2026-09-02T08:33:16.850564+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 38,
-      "count_24h": 31,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
@@ -21,14 +21,14 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 9,
       "count_24h": 8,
       "trend": "hot"
     },
@@ -92,19 +92,13 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 24,
+    "positive": 25,
     "negative": 3,
-    "neutral": 53,
-    "score": 26,
+    "neutral": 52,
+    "score": 28,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -113,11 +107,11 @@
       "count": 38
     },
     {
-      "word": "gọi vốn",
-      "count": 2
+      "word": "specialty",
+      "count": 3
     },
     {
-      "word": "specialty",
+      "word": "gọi vốn",
       "count": 2
     },
     {
@@ -126,10 +120,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
-    "price_direction": "stable",
+    "total_articles": 12,
+    "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -138,48 +132,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "How filter coffee became specialty’s favourite drink",
+        "url": "https://perfectdailygrind.com/2026/09/how-filter-coffee-became-specialty-favourite/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "On The Menu: Iced Lemon Creme Latte At Swadesi Cafe",
         "url": "https://sprudge.com/on-the-menu-iced-lemon-creme-latte-at-swadesi-cafe-1265284.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "MiiR Expands Beyond Drinkware With Its First Collection Of Handcrafted Ceramics",
         "url": "https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Cartel Roasting Co. Partners With Little Bear Coffee For “Blends With Friends” Initiative",
         "url": "https://sprudge.com/cartel-roasting-co-partners-with-little-bear-coffee-for-blends-with-friends-initiative-1306732.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
-      },
-      {
-        "title": "7 Brew is paying $143M for 73 closed Salad and Go sites",
-        "url": "https://www.nrn.com/mergers-acquisitions/7-brew-is-paying-143m-for-73-closed-salad-and-go-sites",
-        "source": "Nation's Restaurant News",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 42,
     "top_articles": [
-      {
-        "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
-        "url": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "What do 3% yields mean for Japan's businesses, Takaichi's spending plans?",
-        "url": "https://asia.nikkei.com/economy/what-do-3-yields-mean-for-japan-s-businesses-takaichi-s-spending-plans",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan airports to deploy AI, drones to stop breakdowns as inbound travel soars",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-airports-to-deploy-ai-drones-to-stop-breakdowns-as-inbound-travel-soars",
@@ -187,16 +169,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China threatens boycott of South Korean art exhibition over Taiwan",
+        "url": "https://asia.nikkei.com/politics/international-relations/china-threatens-boycott-of-south-korean-art-exhibition-over-taiwan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Mitsubishi Motors revives Pajero SUV; first sales set for Thailand",
+        "url": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-revives-pajero-suv-first-sales-set-for-thailand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
-      },
-      {
-        "title": "Hyundai sẽ có SUV địa hình đấu Ford Bronco",
-        "url": "https://vnexpress.net/hyundai-se-co-suv-dia-hinh-dau-ford-bronco-5115343.html",
-        "source": "VnExpress Thị trường",
-        "time": "4 giờ trước"
       }
     ],
     "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
@@ -224,9 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 18,
-    "region-vietnam": 13,
+    "region-sea": 18,
+    "region-americas": 16,
+    "region-vietnam": 16,
     "region-global": 30
   }
 }
