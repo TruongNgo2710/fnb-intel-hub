@@ -1,68 +1,68 @@
 {
-  "updated": "2026-09-02T16:11:18.933770+00:00",
+  "updated": "2026-09-02T22:28:05.004208+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 33,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 11,
+      "count": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
+      "count": 11,
       "count_24h": 9,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 3,
       "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 9,
       "trend": "hot"
     },
     {
@@ -80,26 +80,14 @@
       "name": "Claude/Anthropic",
       "count": 2,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 20,
-    "negative": 3,
-    "neutral": 57,
-    "score": 21,
-    "label": "Tích cực"
+    "negative": 4,
+    "neutral": 56,
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
@@ -107,27 +95,19 @@
       "count": 42
     },
     {
-      "word": "specialty",
-      "count": 3
-    },
-    {
       "word": "acquisition",
-      "count": 2
+      "count": 3
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "supply chain",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 10,
     "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_up_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -139,51 +119,33 @@
         "title": "Build-Outs Of Coffee: Aurora Coffee Hub In Amman, Jordan",
         "url": "https://sprudge.com/build-outs-of-coffee-aurora-coffee-hub-in-amman-jordan-1265150.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Pizza Hut, Taco Bell x Salt &amp; Straw, 7 Brew",
         "url": "https://www.nrn.com/quick-service/pizza-hut-taco-bell-x-salt-straw-7-brew",
         "source": "Nation's Restaurant News",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Report Traces Global Coffee Exports and Imports by Company",
         "url": "https://dailycoffeenews.com/2026/09/02/report-traces-global-coffee-exports-and-imports-by-company/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Hershey’s Goes Affogato For Their New Creme Bar",
         "url": "https://sprudge.com/hersheys-goes-affogato-for-their-new-creme-bar-1304480.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/google-to-speed-up-chip-rollout-to-stay-ahead-in-ai-technology-chief-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China threatens boycott of South Korean art exhibition over Taiwan",
-        "url": "https://asia.nikkei.com/politics/international-relations/china-threatens-boycott-of-south-korean-art-exhibition-over-taiwan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Mitsubishi Motors revives Pajero SUV; first sales set for Thailand",
-        "url": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-revives-pajero-suv-first-sales-set-for-thailand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "More memory chips not the solution to AI bottlenecks: Microsoft exec",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/more-memory-chips-not-the-solution-to-ai-bottlenecks-microsoft-exec",
@@ -195,9 +157,27 @@
         "url": "https://asia.nikkei.com/business/technology/japan-s-nec-open-to-manufacturer-acquisitions-in-physical-ai-aerospace",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "'Cyborg' rescue roaches take another leap forward with AI",
+        "url": "https://asia.nikkei.com/business/technology/cyborg-rescue-roaches-take-another-leap-forward-with-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "source": "TechCrunch AI",
+        "time": "3 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -223,9 +203,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-vietnam": 11,
-    "region-americas": 16,
-    "region-global": 35,
+    "region-americas": 15,
+    "region-vietnam": 13,
+    "region-global": 34,
     "region-europe": 1
   }
 }
