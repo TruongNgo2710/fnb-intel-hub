@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-01T22:28:50.417743+00:00",
+  "updated": "2026-09-02T03:28:02.671064+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 32,
+      "count": 38,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 12,
+      "count": 13,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
+    "positive": 24,
     "negative": 3,
-    "neutral": 54,
-    "score": 25,
+    "neutral": 53,
+    "score": 26,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -126,7 +126,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 13,
     "price_direction": "stable",
     "price_up_signals": 2,
     "price_down_signals": 2,
@@ -141,45 +141,33 @@
         "title": "On The Menu: Iced Lemon Creme Latte At Swadesi Cafe",
         "url": "https://sprudge.com/on-the-menu-iced-lemon-creme-latte-at-swadesi-cafe-1265284.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "MiiR Expands Beyond Drinkware With Its First Collection Of Handcrafted Ceramics",
         "url": "https://sprudge.com/miir-expands-beyond-drinkware-with-its-first-collection-of-handcrafted-ceramics-1307146.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Cartel Roasting Co. Partners With Little Bear Coffee For “Blends With Friends” Initiative",
         "url": "https://sprudge.com/cartel-roasting-co-partners-with-little-bear-coffee-for-blends-with-friends-initiative-1306732.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "7 Brew is paying $143M for 73 closed Salad and Go sites",
         "url": "https://www.nrn.com/mergers-acquisitions/7-brew-is-paying-143m-for-73-closed-salad-and-go-sites",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Taiwan foreign minister decries Chinese 'bullying' at Pacific forum",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-foreign-minister-decries-chinese-bullying-at-pacific-forum",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's Xi pitches AI hub as SCO casts itself as pillar of stability",
-        "url": "https://asia.nikkei.com/politics/international-relations/china-s-xi-pitches-ai-hub-as-sco-casts-itself-as-pillar-of-stability",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "As US-China summit nears, Japan's Takaichi wants face time with Trump",
         "url": "https://asia.nikkei.com/politics/international-relations/as-us-china-summit-nears-japan-s-takaichi-wants-face-time-with-trump",
@@ -197,9 +185,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-airports-to-deploy-ai-drones-to-stop-breakdowns-as-inbound-travel-soars",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hyundai sẽ có SUV địa hình đấu Ford Bronco",
+        "url": "https://vnexpress.net/hyundai-se-co-suv-dia-hinh-dau-ford-bronco-5115343.html",
+        "source": "VnExpress Thị trường",
+        "time": "4 giờ trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,9 +225,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 19,
-    "region-vietnam": 12,
-    "region-global": 29,
-    "region-europe": 1
+    "region-americas": 18,
+    "region-vietnam": 13,
+    "region-global": 30
   }
 }
