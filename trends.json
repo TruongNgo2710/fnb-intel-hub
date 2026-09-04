@@ -1,35 +1,35 @@
 {
-  "updated": "2026-09-03T22:24:36.941142+00:00",
+  "updated": "2026-09-04T03:27:26.108032+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 51,
-      "count_24h": 32,
+      "count": 47,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 19,
-      "count_24h": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -40,13 +40,6 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 3,
@@ -54,22 +47,29 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 1,
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -90,16 +90,16 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
+    "positive": 17,
     "negative": 7,
-    "neutral": 59,
-    "score": 9,
+    "neutral": 56,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 51
+      "count": 47
     },
     {
       "word": "delivery",
@@ -108,14 +108,10 @@
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "acquisition",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -130,51 +126,33 @@
         "title": "Ecuador’s Deforestation-Free Coffee Model Moves Beyond the Pilot Stage",
         "url": "https://dailycoffeenews.com/2026/09/03/ecuadors-deforestation-free-coffee-model-moves-beyond-the-pilot-stage/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Train Station? Transit Hub? There’s A Specialty Coffee Kiosk For That",
         "url": "https://sprudge.com/train-station-transit-hub-theres-a-specialty-coffee-kiosk-for-that-1232248.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Customers can soon get Dunkin’ delivered, from Walmart",
         "url": "https://www.nrn.com/marketing-branding/customers-can-soon-get-dunkin-delivered-from-walmart",
         "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Detroit Tigers Ace Pitcher Was Traded To The Dodgers, And Took The Team Espresso Machine With Him",
         "url": "https://sprudge.com/detroit-tigers-ace-pitcher-was-traded-to-the-dodgers-and-took-the-team-espresso-machine-with-him-1307045.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 53,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "World Bank urges Thailand to lure Korean, Japanese EV suppliers",
-        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/world-bank-urges-thailand-to-lure-korean-japanese-ev-suppliers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan Airlines CEO says aviation alliances taking on broader role",
-        "url": "https://asia.nikkei.com/business/transportation/japan-airlines-ceo-says-aviation-alliances-taking-on-broader-role",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Itochu chairman 'welcomes' more capital from Berkshire",
-        "url": "https://asia.nikkei.com/business/companies/japan-s-itochu-chairman-welcomes-more-capital-from-berkshire",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/asml-to-expand-japan-workforce-to-aid-next-gen-chipmakers-rapidus-tsmc",
@@ -186,9 +164,27 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-outlines-plan-to-capture-ai-demand-with-its-new-high-speed-memory-chip",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Daiichi Life to buy New Zealand insurer in international push",
+        "url": "https://asia.nikkei.com/business/business-deals/japan-s-daiichi-life-to-buy-new-zealand-insurer-in-international-push",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Subaru, other Japan suppliers to team on delivery as Boeing raises output",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/subaru-other-japan-suppliers-to-team-on-delivery-as-boeing-raises-output",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Stalled Myanmar gas projects set to resume with Thai support",
+        "url": "https://asia.nikkei.com/business/energy/stalled-myanmar-gas-projects-set-to-resume-with-thai-support",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 11,
-    "region-americas": 14,
-    "region-global": 36,
-    "region-europe": 1
+    "region-sea": 15,
+    "region-vietnam": 13,
+    "region-americas": 15,
+    "region-europe": 1,
+    "region-global": 36
   }
 }
