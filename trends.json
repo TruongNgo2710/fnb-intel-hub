@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T15:58:52.585685+00:00",
+  "updated": "2026-09-04T18:55:34.649569+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 61,
@@ -7,44 +7,44 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 31,
+      "count": 44,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
+      "count": 16,
       "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 7,
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 6,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 5,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 5,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-delivery",
@@ -52,6 +52,13 @@
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -72,27 +79,27 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 5,
-    "neutral": 57,
-    "score": 16,
+    "negative": 8,
+    "neutral": 54,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -104,7 +111,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -119,39 +126,33 @@
         "title": "Build-Outs Of Coffee: Variety Coffee Roasters In Brooklyn, NY",
         "url": "https://sprudge.com/build-outs-of-coffee-variety-coffee-roasters-in-brooklyn-ny-1265757.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Pittsburgh’s La Prima Espresso Gets Second Wind in Expanded Roastery",
         "url": "https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Coffee People Zine Back in Print, Plans Minneapolis Party",
         "url": "https://dailycoffeenews.com/2026/09/04/coffee-people-zine-back-in-print-plans-minneapolis-party/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
-        "title": "Coffee News Recap, 4 Sep: KDP to sell stake back to Chobani for US$800m, new study challenges robusta’s climate resilience & other studies",
-        "url": "https://perfectdailygrind.com/2026/09/coffee-news-recap-4-september-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "3 giờ trước"
+        "title": "Coffee’s Impact On Parkinson’s Disease May Depend On Your Genetics",
+        "url": "https://sprudge.com/coffees-impact-on-parkinsons-disease-may-depend-on-your-genetics-1308716.html",
+        "source": "Sprudge Coffee",
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Pakistan's 5G rollout faces user criticism, power constraints",
-        "url": "https://asia.nikkei.com/business/telecommunication/pakistan-s-5g-rollout-faces-user-criticism-power-constraints",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "South Korea curbs union leverage over AI, chip windfalls",
         "url": "https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2",
@@ -175,15 +176,21 @@
         "url": "https://asia.nikkei.com/announcements/jx-advanced-metals-kokusai-electric-and-capcom-to-join-nikkei-225",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Malaysia Airlines turns to East Asia as Gulf unrest windfall fades",
+        "url": "https://asia.nikkei.com/business/transportation/malaysia-airlines-turns-to-east-asia-as-gulf-unrest-windfall-fades",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -202,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 13,
-    "region-europe": 4,
-    "region-americas": 16,
-    "region-sea": 13,
-    "region-global": 34
+    "region-sea": 16,
+    "region-europe": 2,
+    "region-americas": 19,
+    "region-vietnam": 11,
+    "region-global": 32
   }
 }
