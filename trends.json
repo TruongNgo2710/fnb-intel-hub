@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T03:27:26.108032+00:00",
+  "updated": "2026-09-04T08:36:19.627988+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 58,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 28,
+      "count": 48,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
@@ -90,16 +90,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 18,
     "negative": 7,
-    "neutral": 56,
-    "score": 12,
+    "neutral": 55,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 48
     },
     {
       "word": "delivery",
@@ -126,51 +126,33 @@
         "title": "Ecuador’s Deforestation-Free Coffee Model Moves Beyond the Pilot Stage",
         "url": "https://dailycoffeenews.com/2026/09/03/ecuadors-deforestation-free-coffee-model-moves-beyond-the-pilot-stage/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Train Station? Transit Hub? There’s A Specialty Coffee Kiosk For That",
         "url": "https://sprudge.com/train-station-transit-hub-theres-a-specialty-coffee-kiosk-for-that-1232248.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Customers can soon get Dunkin’ delivered, from Walmart",
         "url": "https://www.nrn.com/marketing-branding/customers-can-soon-get-dunkin-delivered-from-walmart",
         "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Detroit Tigers Ace Pitcher Was Traded To The Dodgers, And Took The Team Espresso Machine With Him",
         "url": "https://sprudge.com/detroit-tigers-ace-pitcher-was-traded-to-the-dodgers-and-took-the-team-espresso-machine-with-him-1307045.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "ASML to expand Japan workforce to aid next-gen chipmakers Rapidus, TSMC",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/asml-to-expand-japan-workforce-to-aid-next-gen-chipmakers-rapidus-tsmc",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Kioxia outlines plan to capture AI demand with its new high-speed memory chip",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-outlines-plan-to-capture-ai-demand-with-its-new-high-speed-memory-chip",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Daiichi Life to buy New Zealand insurer in international push",
-        "url": "https://asia.nikkei.com/business/business-deals/japan-s-daiichi-life-to-buy-new-zealand-insurer-in-international-push",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Subaru, other Japan suppliers to team on delivery as Boeing raises output",
         "url": "https://asia.nikkei.com/spotlight/supply-chain/subaru-other-japan-suppliers-to-team-on-delivery-as-boeing-raises-output",
@@ -182,9 +164,27 @@
         "url": "https://asia.nikkei.com/business/energy/stalled-myanmar-gas-projects-set-to-resume-with-thai-support",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Power retailer backed by UK's Octopus Energy joins Japan's mini-solar spree",
+        "url": "https://asia.nikkei.com/business/energy/power-retailer-backed-by-uk-s-octopus-energy-joins-japan-s-mini-solar-spree",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Pakistan's 5G rollout faces user criticism, power constraints",
+        "url": "https://asia.nikkei.com/business/telecommunication/pakistan-s-5g-rollout-faces-user-criticism-power-constraints",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "South Korea curbs union leverage over AI, chip windfalls",
+        "url": "https://asia.nikkei.com/business/technology/south-korea-curbs-union-leverage-over-ai-chip-windfalls2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-vietnam": 13,
-    "region-americas": 15,
-    "region-europe": 1,
+    "region-sea": 16,
+    "region-vietnam": 12,
+    "region-europe": 2,
+    "region-americas": 14,
     "region-global": 36
   }
 }
