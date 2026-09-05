@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-05T03:29:33.702359+00:00",
+  "updated": "2026-09-05T08:11:25.491143+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 31,
+      "count": 50,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
@@ -21,8 +21,8 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
+      "count": 11,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -105,7 +105,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 50
     },
     {
       "word": "gọi vốn",
@@ -117,7 +117,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -129,35 +129,35 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Ứng dụng hỗ trợ nông dân số hóa dữ liệu trồng cà phê",
+        "url": "https://vnexpress.net/ung-dung-ho-tro-nong-dan-so-hoa-du-lieu-trong-ca-phe-5114938.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Variety Coffee Roasters In Brooklyn, NY",
         "url": "https://sprudge.com/build-outs-of-coffee-variety-coffee-roasters-in-brooklyn-ny-1265757.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Pittsburgh’s La Prima Espresso Gets Second Wind in Expanded Roastery",
         "url": "https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Coffee People Zine Back in Print, Plans Minneapolis Party",
         "url": "https://dailycoffeenews.com/2026/09/04/coffee-people-zine-back-in-print-plans-minneapolis-party/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
-      },
-      {
-        "title": "Coffee’s Impact On Parkinson’s Disease May Depend On Your Genetics",
-        "url": "https://sprudge.com/coffees-impact-on-parkinsons-disease-may-depend-on-your-genetics-1308716.html",
-        "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 53,
     "top_articles": [
       {
         "title": "America owes the Philippines more than empty praise",
@@ -190,13 +190,13 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 2,
+      "signal": "➡️ Ổn định"
     },
     "wheat": {
       "direction": "unknown",
@@ -216,9 +216,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 18,
+    "region-americas": 19,
     "region-europe": 1,
-    "region-vietnam": 9,
-    "region-global": 35
+    "region-vietnam": 10,
+    "region-global": 33
   }
 }
