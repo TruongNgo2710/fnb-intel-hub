@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:07:52.512712+00:00",
+  "updated": "2026-09-06T18:07:57.857455+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 33,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 13,
+      "count": 48,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -21,7 +21,7 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 2,
       "trend": "up"
     },
@@ -96,16 +96,16 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
+    "positive": 14,
     "negative": 6,
-    "neutral": 61,
-    "score": 9,
+    "neutral": 60,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 48
     },
     {
       "word": "gọi vốn",
@@ -113,7 +113,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -128,7 +128,7 @@
         "title": "Le Gusta La Cafeína, Dame Más Cafeína",
         "url": "https://sprudge.com/le-gusta-la-cafeina-dame-mas-cafeina-1310725.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Ứng dụng hỗ trợ nông dân số hóa dữ liệu trồng cà phê",
@@ -153,7 +153,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 51,
     "top_articles": [
       {
         "title": "Takaichi seeks US-savvy ministers for upcoming cabinet reshuffle",
@@ -186,12 +186,12 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     },
     "wheat": {
@@ -212,8 +212,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 13,
+    "region-americas": 12,
     "region-vietnam": 16,
-    "region-global": 34
+    "region-global": 35
   }
 }
