@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:07:57.857455+00:00",
+  "updated": "2026-09-06T22:01:38.197637+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 33,
@@ -14,8 +14,8 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 7,
+      "count": 14,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -49,9 +49,9 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -85,7 +85,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
@@ -96,10 +96,10 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 6,
-    "neutral": 60,
-    "score": 10,
+    "positive": 17,
+    "negative": 5,
+    "neutral": 58,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -128,7 +128,7 @@
         "title": "Le Gusta La Cafeína, Dame Más Cafeína",
         "url": "https://sprudge.com/le-gusta-la-cafeina-dame-mas-cafeina-1310725.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Ứng dụng hỗ trợ nông dân số hóa dữ liệu trồng cà phê",
@@ -140,7 +140,7 @@
         "title": "South Korea bakery-café chain Twosome Place to make U.S. debut",
         "url": "https://www.nrn.com/emerging-chains/south-korea-bakery-caf-chain-twosome-place-to-make-u-s-debut",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Build-Outs Of Coffee: Variety Coffee Roasters In Brooklyn, NY",
@@ -156,18 +156,6 @@
     "total_articles": 51,
     "top_articles": [
       {
-        "title": "Takaichi seeks US-savvy ministers for upcoming cabinet reshuffle",
-        "url": "https://asia.nikkei.com/politics/takaichi-seeks-us-savvy-ministers-for-upcoming-cabinet-reshuffle",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan AI data centers set to quadruple by 2033 with $60bn investment",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-ai-data-centers-set-to-quadruple-by-2033-with-60bn-investment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "SoftBank Group sets 4.75% coupon for 1 trillion yen retail bond",
         "url": "https://asia.nikkei.com/business/softbank/softbank-group-sets-4.75-coupon-for-1-trillion-yen-retail-bond",
         "source": "Nikkei Asia",
@@ -182,6 +170,18 @@
       {
         "title": "Thai small businesses should add value to beat China imports: official",
         "url": "https://asia.nikkei.com/economy/trade/thai-small-businesses-should-add-value-to-beat-china-imports-official",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chiang Mai district seeks harmony between 'digital nomads' and locals",
+        "url": "https://asia.nikkei.com/business/travel-leisure/chiang-mai-district-seeks-harmony-between-digital-nomads-and-locals",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Kumamoto Airport plans flights to Thailand",
+        "url": "https://asia.nikkei.com/business/transportation/japan-s-kumamoto-airport-plans-flights-to-thailand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
