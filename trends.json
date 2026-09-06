@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-05T21:59:48.708436+00:00",
+  "updated": "2026-09-06T03:29:53.022363+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 14,
+      "count": 47,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 10,
       "count_24h": 2,
       "trend": "up"
     },
@@ -47,18 +47,18 @@
       "trend": "up"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -79,7 +79,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 9,
       "trend": "hot"
     },
     {
@@ -96,16 +96,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 14,
     "negative": 7,
-    "neutral": 58,
-    "score": 10,
+    "neutral": 59,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -113,7 +113,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -128,7 +128,7 @@
         "title": "Ứng dụng hỗ trợ nông dân số hóa dữ liệu trồng cà phê",
         "url": "https://vnexpress.net/ung-dung-ho-tro-nong-dan-so-hoa-du-lieu-trong-ca-phe-5114938.html",
         "source": "VnExpress Kinh doanh",
-        "time": "17 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "South Korea bakery-café chain Twosome Place to make U.S. debut",
@@ -153,14 +153,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "South Korea considers 'military contributions' in Strait of Hormuz",
-        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/south-korea-considers-military-contributions-in-strait-of-hormuz",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan plans AI-powered satellites to speed counterstrike decisions",
         "url": "https://asia.nikkei.com/politics/defense/japan-plans-ai-powered-satellites-to-speed-counterstrike-decisions",
@@ -184,14 +178,20 @@
         "url": "https://asia.nikkei.com/business/softbank/softbank-group-sets-4.75-coupon-for-1-trillion-yen-retail-bond",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thais slurp up Japan-style Sanuki udon noodles",
+        "url": "https://asia.nikkei.com/business/food-beverage/thais-slurp-up-japan-style-sanuki-udon-noodles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     },
     "wheat": {
@@ -211,10 +211,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 16,
-    "region-sea": 17,
-    "region-europe": 1,
-    "region-vietnam": 12,
+    "region-sea": 18,
+    "region-americas": 15,
+    "region-vietnam": 13,
     "region-global": 34
   }
 }
