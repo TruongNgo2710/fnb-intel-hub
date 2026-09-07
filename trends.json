@@ -1,63 +1,63 @@
 {
-  "updated": "2026-09-07T03:29:56.066228+00:00",
+  "updated": "2026-09-07T09:05:05.867029+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 15,
+      "count": 46,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 8,
+      "count": 13,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 10,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 6,
+      "count": 10,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -66,20 +66,13 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 8,
       "trend": "hot"
     },
     {
@@ -96,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 20,
     "negative": 6,
-    "neutral": 55,
-    "score": 16,
+    "neutral": 54,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -113,7 +106,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 0,
     "price_down_signals": 0,
@@ -125,10 +118,16 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Old meets new: How heritage is shaping modern coffee equipment",
+        "url": "https://perfectdailygrind.com/2026/09/heritage-shaping-modern-coffee-equipment/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Le Gusta La Cafeína, Dame Más Cafeína",
         "url": "https://sprudge.com/le-gusta-la-cafeina-dame-mas-cafeina-1310725.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "South Korea bakery-café chain Twosome Place to make U.S. debut",
@@ -141,32 +140,14 @@
         "url": "https://sprudge.com/build-outs-of-coffee-variety-coffee-roasters-in-brooklyn-ny-1265757.html",
         "source": "Sprudge Coffee",
         "time": "2 ngày trước"
-      },
-      {
-        "title": "Pittsburgh’s La Prima Espresso Gets Second Wind in Expanded Roastery",
-        "url": "https://dailycoffeenews.com/2026/09/04/pittsburghs-la-prima-espresso-gets-second-wind-in-expanded-roastery/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Thai small businesses should add value to beat China imports: official",
-        "url": "https://asia.nikkei.com/economy/trade/thai-small-businesses-should-add-value-to-beat-china-imports-official",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Chiang Mai district seeks harmony between 'digital nomads' and locals",
-        "url": "https://asia.nikkei.com/business/travel-leisure/chiang-mai-district-seeks-harmony-between-digital-nomads-and-locals",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Kumamoto Airport plans flights to Thailand",
         "url": "https://asia.nikkei.com/business/transportation/japan-s-kumamoto-airport-plans-flights-to-thailand",
@@ -184,9 +165,21 @@
         "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/brics-summit-okinawa-election-philippines-ai-plan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Delistings from Tokyo bourse to hit record for 3rd straight year",
+        "url": "https://asia.nikkei.com/business/markets/equities/delistings-from-tokyo-bourse-to-hit-record-for-3rd-straight-year",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
+        "url": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +204,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 16,
-    "region-global": 35,
-    "region-americas": 11
+    "region-sea": 17,
+    "region-vietnam": 20,
+    "region-europe": 2,
+    "region-global": 31,
+    "region-americas": 10
   }
 }
