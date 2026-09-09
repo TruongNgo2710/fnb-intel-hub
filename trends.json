@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T03:39:42.687240+00:00",
+  "updated": "2026-09-09T08:48:07.068738+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 59,
@@ -8,28 +8,28 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 45,
-      "count_24h": 30,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 14,
+      "count": 15,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 8,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -43,8 +43,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -99,7 +99,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
+    "total_articles": 15,
     "price_direction": "down",
     "price_up_signals": 2,
     "price_down_signals": 3,
@@ -111,28 +111,28 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Người Việt chi tiền nhiều hơn để uống cà phê, trà sữa",
+        "url": "https://vnexpress.net/nguoi-viet-chi-tien-nhieu-hon-de-uong-ca-phe-tra-sua-5118325.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: La Prima Espresso Co. In Pittsburgh, PA",
         "url": "https://sprudge.com/build-outs-of-coffee-la-prima-espresso-co-in-pittsburgh-pa-1267784.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Marmalade Café in Los Angeles files Chapter 11 bankruptcy",
         "url": "https://www.nrn.com/casual-dining/marmalade-caf-in-los-angeles-files-chapter-11-bankruptcy",
         "source": "Nation's Restaurant News",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Radical Bean Wants to Rework the Coffee Model in Cincinnati",
         "url": "https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Design Details: Beachside Calm at Eventide Coffee in Chennai, India",
-        "url": "https://dailycoffeenews.com/2026/09/08/design-details-beachside-calm-at-eventide-coffee-in-chennai-india/",
-        "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -141,18 +141,6 @@
   "ai_trends": {
     "total_articles": 45,
     "top_articles": [
-      {
-        "title": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-intel-and-samsung-all-bet-on-asml-s-latest-chip-tool-in-ai-race",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Samsung opens Japan AI chip R&D hub for advanced packaging collaboration",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-opens-japan-ai-chip-r-d-hub-for-advanced-packaging-collaboration",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Tokyo's Shinjuku partially bans Airbnb-style rentals in growing crackdown",
         "url": "https://asia.nikkei.com/business/travel-leisure/tokyo-s-shinjuku-partially-bans-airbnb-style-rentals-in-growing-crackdown",
@@ -170,15 +158,27 @@
         "url": "https://asia.nikkei.com/business/finance/citi-to-offer-instant-cross-border-payments-for-japan-firms-via-blockchain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan Railways targets Thai freight market with on-time train transport",
+        "url": "https://asia.nikkei.com/business/transportation/japan-railways-targets-thai-freight-market-with-on-time-train-transport",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Iran retaliates against US allies after its oil tankers destroyed",
+        "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iran-retaliates-against-us-allies-after-its-oil-tankers-destroyed",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
     "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "wheat": {
       "direction": "unknown",
@@ -192,13 +192,13 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 13,
+    "region-sea": 15,
+    "region-americas": 14,
     "region-vietnam": 17,
     "region-europe": 3,
     "region-global": 31
