@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:28:03.698159+00:00",
+  "updated": "2026-09-09T03:39:42.687240+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 59,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 31,
+      "count": 45,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
@@ -28,7 +28,7 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 8,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -42,8 +42,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -82,16 +82,16 @@
     }
   ],
   "sentiment": {
-    "positive": 12,
+    "positive": 13,
     "negative": 7,
-    "neutral": 61,
-    "score": 6,
+    "neutral": 60,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -114,45 +114,33 @@
         "title": "Build-Outs Of Coffee: La Prima Espresso Co. In Pittsburgh, PA",
         "url": "https://sprudge.com/build-outs-of-coffee-la-prima-espresso-co-in-pittsburgh-pa-1267784.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Marmalade Café in Los Angeles files Chapter 11 bankruptcy",
         "url": "https://www.nrn.com/casual-dining/marmalade-caf-in-los-angeles-files-chapter-11-bankruptcy",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Radical Bean Wants to Rework the Coffee Model in Cincinnati",
         "url": "https://dailycoffeenews.com/2026/09/08/radical-bean-wants-to-rework-the-coffee-model-in-cincinnati/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Design Details: Beachside Calm at Eventide Coffee in Chennai, India",
         "url": "https://dailycoffeenews.com/2026/09/08/design-details-beachside-calm-at-eventide-coffee-in-chennai-india/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 3 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Yen appreciates sharply against the dollar, touching the 152 level",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-appreciates-sharply-against-the-dollar-touching-the-152-level",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Philippines unveils AI infrastructure plan to forge niche as regional hub",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/philippines-unveils-ai-infrastructure-plan-to-forge-niche-as-regional-hub",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "TSMC, Intel and Samsung all bet on ASML's latest chip tool in AI race",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-intel-and-samsung-all-bet-on-asml-s-latest-chip-tool-in-ai-race",
@@ -170,9 +158,21 @@
         "url": "https://asia.nikkei.com/business/travel-leisure/tokyo-s-shinjuku-partially-bans-airbnb-style-rentals-in-growing-crackdown",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "NTT's optical AI tech fund picks Spanish startup as first target",
+        "url": "https://asia.nikkei.com/business/telecommunication/ntt-s-optical-ai-tech-fund-picks-spanish-startup-as-first-target",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Citi to offer instant cross-border payments for Japan firms via blockchain",
+        "url": "https://asia.nikkei.com/business/finance/citi-to-offer-instant-cross-border-payments-for-japan-firms-via-blockchain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -197,10 +197,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 12,
-    "region-vietnam": 16,
-    "region-global": 32,
-    "region-europe": 2
+    "region-sea": 16,
+    "region-americas": 13,
+    "region-vietnam": 17,
+    "region-europe": 3,
+    "region-global": 31
   }
 }
