@@ -1,34 +1,34 @@
 {
-  "updated": "2026-09-10T08:45:49.193028+00:00",
+  "updated": "2026-09-10T16:01:46.235258+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 76,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 40,
+      "count": 38,
+      "count_24h": 25,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 16,
       "count_24h": 15,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 7,
+      "count": 9,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -40,31 +40,31 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -72,24 +72,18 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 5,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     },
     {
       "tag": "brand-stumptown",
       "name": "brand-stumptown",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
     },
@@ -101,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 6,
-    "neutral": 52,
-    "score": 20,
+    "positive": 19,
+    "negative": 5,
+    "neutral": 56,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 38
     },
     {
       "word": "inflation",
@@ -119,12 +113,16 @@
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "delivery",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
-    "price_direction": "stable",
-    "price_up_signals": 1,
+    "total_articles": 10,
+    "price_direction": "down",
+    "price_up_signals": 0,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -134,54 +132,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Stumptown Coffee Roasters To Open Flagship LA Location In Historic Lincoln Heights Theatre",
-        "url": "https://sprudge.com/stumptown-coffee-roasters-to-open-flagship-la-location-in-historic-lincoln-heights-theatre-1327035.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Rocket Espresso Presents Rocket X Audi",
-        "url": "https://sprudge.com/rocket-espresso-presents-rocket-x-audi-1326918.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Design Details: Restrained Industrial Reuse at Contraband Coffee in Melbourne",
-        "url": "https://dailycoffeenews.com/2026/09/09/design-details-restrained-industrial-reuse-at-contraband-coffee-in-melbourne/",
+        "title": "Mubadala Plans Minority Stake in Luckin in $1 Billion Deal",
+        "url": "https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "3 giờ trước"
       },
       {
-        "title": "Anaerobic Natural Processing Lifts Quality Scores in China",
-        "url": "https://dailycoffeenews.com/2026/09/09/anaerobic-natural-processing-lifts-quality-scores-in-china/",
+        "title": "Kahwa Coffee Marks 20 Years with Major Production Expansion in Florida",
+        "url": "https://dailycoffeenews.com/2026/09/10/kahwa-coffee-marks-20-years-with-major-production-expansion-in-florida/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Coffee People Zine Returns For Issue 26",
+        "url": "https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Why the world’s best baristas are going on tour",
+        "url": "https://perfectdailygrind.com/2026/09/baristas-going-on-tour/",
+        "source": "Perfect Daily Grind",
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Sanrio aims to make Hello Kitty fans a majority of shareholders",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/sanrio-aims-to-make-hello-kitty-fans-a-majority-of-shareholders",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Marubeni aims for trading-house leading 15% ROE by mobilizing its cash",
-        "url": "https://asia.nikkei.com/business/companies/marubeni-aims-for-trading-house-leading-15-roe-by-mobilizing-its-cash",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Analysis: Shanghai may be cradling Xi Jinping's successor",
-        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-shanghai-may-be-cradling-xi-jinping-s-successor",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "South Korea's AI diplomacy needs Japan in the room",
         "url": "https://asia.nikkei.com/opinion/south-korea-s-ai-diplomacy-needs-japan-in-the-room",
@@ -193,15 +173,33 @@
         "url": "https://asia.nikkei.com/business/transportation/vietnam-s-new-hub-airport-nears-takeoff-but-airlines-slow-to-get-on-board",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Fanuc, Google team up on AI-automated welding robots",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fanuc-google-team-up-on-ai-automated-welding-robots",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Universal Music is launching an AI music platform with ElevenLabs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "source": "The Verge AI",
+        "time": "23 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -215,14 +213,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 10,
-    "region-vietnam": 19,
-    "region-global": 33
+    "region-sea": 17,
+    "region-americas": 12,
+    "region-vietnam": 16,
+    "region-global": 35
   }
 }
