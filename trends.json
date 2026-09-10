@@ -1,35 +1,42 @@
 {
-  "updated": "2026-09-10T03:37:16.802252+00:00",
+  "updated": "2026-09-10T08:45:49.193028+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 75,
+  "articles_24h": 76,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 42,
+      "count": 42,
+      "count_24h": 40,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
+      "count": 15,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -37,13 +44,6 @@
       "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -78,8 +78,8 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-ucc",
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 22,
     "negative": 6,
-    "neutral": 53,
-    "score": 19,
+    "neutral": 52,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 42
     },
     {
       "word": "inflation",
@@ -122,7 +122,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -137,45 +137,33 @@
         "title": "Stumptown Coffee Roasters To Open Flagship LA Location In Historic Lincoln Heights Theatre",
         "url": "https://sprudge.com/stumptown-coffee-roasters-to-open-flagship-la-location-in-historic-lincoln-heights-theatre-1327035.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Rocket Espresso Presents Rocket X Audi",
         "url": "https://sprudge.com/rocket-espresso-presents-rocket-x-audi-1326918.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Design Details: Restrained Industrial Reuse at Contraband Coffee in Melbourne",
         "url": "https://dailycoffeenews.com/2026/09/09/design-details-restrained-industrial-reuse-at-contraband-coffee-in-melbourne/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Anaerobic Natural Processing Lifts Quality Scores in China",
         "url": "https://dailycoffeenews.com/2026/09/09/anaerobic-natural-processing-lifts-quality-scores-in-china/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Alibaba takes on Anthropic with 50% cheaper e-commerce AI agent",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-takes-on-anthropic-with-50-cheaper-e-commerce-ai-agent",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Daikin to use AI in A/C inspection training as cooling demand rises",
-        "url": "https://asia.nikkei.com/business/companies/japan-s-daikin-to-use-ai-in-a-c-inspection-training-as-cooling-demand-rises",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Sanrio aims to make Hello Kitty fans a majority of shareholders",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/sanrio-aims-to-make-hello-kitty-fans-a-majority-of-shareholders",
@@ -193,9 +181,21 @@
         "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-shanghai-may-be-cradling-xi-jinping-s-successor",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "South Korea's AI diplomacy needs Japan in the room",
+        "url": "https://asia.nikkei.com/opinion/south-korea-s-ai-diplomacy-needs-japan-in-the-room",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam's new hub airport nears takeoff but airlines slow to get on board",
+        "url": "https://asia.nikkei.com/business/transportation/vietnam-s-new-hub-airport-nears-takeoff-but-airlines-slow-to-get-on-board",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 47 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,8 +221,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 11,
-    "region-vietnam": 17,
-    "region-global": 34
+    "region-americas": 10,
+    "region-vietnam": 19,
+    "region-global": 33
   }
 }
