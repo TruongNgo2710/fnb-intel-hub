@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-10T16:01:46.235258+00:00",
+  "updated": "2026-09-10T19:07:15.133402+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 25,
+      "count": 36,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
@@ -21,14 +21,14 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 10,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -36,7 +36,7 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -45,13 +45,6 @@
       "count": 2,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -64,8 +57,15 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -76,14 +76,14 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-stumptown",
-      "name": "brand-stumptown",
-      "count": 1,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-stumptown",
+      "name": "brand-stumptown",
       "count": 1,
       "trend": "up"
     },
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 18,
     "negative": 5,
-    "neutral": 56,
-    "score": 18,
+    "neutral": 57,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 36
     },
     {
       "word": "inflation",
@@ -115,12 +115,16 @@
       "count": 2
     },
     {
+      "word": "funding",
+      "count": 2
+    },
+    {
       "word": "delivery",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -132,27 +136,27 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Build-Outs Of Coffee: Fresh Pots In Copehagen, Denmark",
+        "url": "https://sprudge.com/build-outs-of-coffee-fresh-pots-in-copehagen-denmark-1266561.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Mubadala Plans Minority Stake in Luckin in $1 Billion Deal",
         "url": "https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Kahwa Coffee Marks 20 Years with Major Production Expansion in Florida",
         "url": "https://dailycoffeenews.com/2026/09/10/kahwa-coffee-marks-20-years-with-major-production-expansion-in-florida/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Coffee People Zine Returns For Issue 26",
         "url": "https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Why the world’s best baristas are going on tour",
-        "url": "https://perfectdailygrind.com/2026/09/baristas-going-on-tour/",
-        "source": "Perfect Daily Grind",
         "time": "7 giờ trước"
       }
     ],
@@ -160,14 +164,8 @@
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "South Korea's AI diplomacy needs Japan in the room",
-        "url": "https://asia.nikkei.com/opinion/south-korea-s-ai-diplomacy-needs-japan-in-the-room",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Vietnam's new hub airport nears takeoff but airlines slow to get on board",
         "url": "https://asia.nikkei.com/business/transportation/vietnam-s-new-hub-airport-nears-takeoff-but-airlines-slow-to-get-on-board",
@@ -181,19 +179,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Nissan looks to maintain Japan capacity at 1m vehicles",
+        "url": "https://asia.nikkei.com/business/automobiles/nissan-looks-to-maintain-japan-capacity-at-1m-vehicles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
       },
       {
-        "title": "Universal Music is launching an AI music platform with ElevenLabs",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-        "source": "The Verge AI",
-        "time": "23 phút trước"
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+        "source": "TechCrunch AI",
+        "time": "1 giờ trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +222,9 @@
     }
   },
   "regional_breakdown": {
+    "region-vietnam": 15,
     "region-sea": 17,
-    "region-americas": 12,
-    "region-vietnam": 16,
-    "region-global": 35
+    "region-global": 35,
+    "region-americas": 13
   }
 }
