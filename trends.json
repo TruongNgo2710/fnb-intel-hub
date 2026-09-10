@@ -1,57 +1,43 @@
 {
-  "updated": "2026-09-10T19:07:15.133402+00:00",
+  "updated": "2026-09-10T22:21:27.989079+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 61,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 36,
-      "count_24h": 22,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 15,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 9,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 4,
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -61,11 +47,32 @@
       "trend": "up"
     },
     {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -86,19 +93,13 @@
       "name": "brand-stumptown",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 5,
+    "positive": 19,
+    "negative": 4,
     "neutral": 57,
-    "score": 16,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -107,24 +108,16 @@
       "count": 36
     },
     {
-      "word": "inflation",
-      "count": 2
-    },
-    {
       "word": "gọi vốn",
       "count": 2
     },
     {
       "word": "funding",
       "count": 2
-    },
-    {
-      "word": "delivery",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 0,
     "price_down_signals": 1,
@@ -139,39 +132,33 @@
         "title": "Build-Outs Of Coffee: Fresh Pots In Copehagen, Denmark",
         "url": "https://sprudge.com/build-outs-of-coffee-fresh-pots-in-copehagen-denmark-1266561.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Mubadala Plans Minority Stake in Luckin in $1 Billion Deal",
         "url": "https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Kahwa Coffee Marks 20 Years with Major Production Expansion in Florida",
         "url": "https://dailycoffeenews.com/2026/09/10/kahwa-coffee-marks-20-years-with-major-production-expansion-in-florida/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Coffee People Zine Returns For Issue 26",
         "url": "https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 40,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Vietnam's new hub airport nears takeoff but airlines slow to get on board",
-        "url": "https://asia.nikkei.com/business/transportation/vietnam-s-new-hub-airport-nears-takeoff-but-airlines-slow-to-get-on-board",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Fanuc, Google team up on AI-automated welding robots",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fanuc-google-team-up-on-ai-automated-welding-robots",
@@ -185,19 +172,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Kansai Airport CEO envisions travelers taking flying taxis to Osaka casino",
+        "url": "https://asia.nikkei.com/business/travel-leisure/kansai-airport-ceo-envisions-travelers-taking-flying-taxis-to-osaka-casino",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
       },
       {
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
         "source": "TechCrunch AI",
-        "time": "1 giờ trước"
+        "time": "29 phút trước"
       }
     ],
-    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -222,9 +215,10 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 15,
-    "region-sea": 17,
-    "region-global": 35,
-    "region-americas": 13
+    "region-sea": 18,
+    "region-vietnam": 14,
+    "region-global": 34,
+    "region-americas": 13,
+    "region-europe": 1
   }
 }
