@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-10T22:21:27.989079+00:00",
+  "updated": "2026-09-11T03:35:33.006501+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
-      "count_24h": 21,
+      "count": 39,
+      "count_24h": 23,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 13,
+      "count": 14,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -31,20 +31,6 @@
       "count": 5,
       "count_24h": 5,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -73,6 +59,20 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -96,16 +96,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 4,
-    "neutral": 57,
+    "positive": 18,
+    "negative": 3,
+    "neutral": 59,
     "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -118,9 +118,9 @@
   ],
   "coffee_trends": {
     "total_articles": 9,
-    "price_direction": "down",
+    "price_direction": "stable",
     "price_up_signals": 0,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -132,32 +132,32 @@
         "title": "Build-Outs Of Coffee: Fresh Pots In Copehagen, Denmark",
         "url": "https://sprudge.com/build-outs-of-coffee-fresh-pots-in-copehagen-denmark-1266561.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Mubadala Plans Minority Stake in Luckin in $1 Billion Deal",
         "url": "https://dailycoffeenews.com/2026/09/10/mubadala-plans-minority-stake-in-luckin-in-1-billion-deal/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Kahwa Coffee Marks 20 Years with Major Production Expansion in Florida",
         "url": "https://dailycoffeenews.com/2026/09/10/kahwa-coffee-marks-20-years-with-major-production-expansion-in-florida/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Coffee People Zine Returns For Issue 26",
         "url": "https://sprudge.com/coffee-people-zine-returns-for-issue-26-1325316.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "Japan's Fanuc, Google team up on AI-automated welding robots",
@@ -178,19 +178,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Ukraine set for 5G bids but legal gap invites China risks, critics say",
+        "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-set-for-5g-bids-but-legal-gap-invites-china-risks-critics-say",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-        "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-        "source": "TechCrunch AI",
-        "time": "29 phút trước"
+        "title": "Chinese Nvidia challenger Enflame jumps 188% in Shanghai market debut",
+        "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-188-in-shanghai-market-debut",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,10 +215,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 14,
-    "region-global": 34,
-    "region-americas": 13,
+    "region-sea": 19,
+    "region-vietnam": 12,
+    "region-global": 36,
+    "region-americas": 12,
     "region-europe": 1
   }
 }
