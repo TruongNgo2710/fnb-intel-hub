@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-11T22:21:12.141530+00:00",
+  "updated": "2026-09-12T03:40:13.577018+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 51,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 18,
+      "count": 38,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 14,
       "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 5,
+      "count": 11,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -95,31 +95,27 @@
     }
   ],
   "sentiment": {
-    "positive": 11,
+    "positive": 10,
     "negative": 4,
-    "neutral": 65,
-    "score": 9,
+    "neutral": 66,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 37
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "funding",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "stable",
+    "total_articles": 11,
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -131,32 +127,32 @@
         "title": "Very Hot Coffee Increases Your Risk Of Esophageal Cancer",
         "url": "https://sprudge.com/very-hot-coffee-increases-your-risk-of-esophageal-cancer-1329665.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Major U.S. Coffee Supplier Rebrands + $1.85 Million Barista Lawsuit",
         "url": "https://dailycoffeenews.com/2026/09/11/weekly-coffee-news-major-u-s-coffee-supplier-rebrands-1-85-million-barista-lawsuit/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Coffee Design: Ninety Three Million From Blanchard’s Coffee",
         "url": "https://sprudge.com/coffee-design-ninety-three-million-from-blanchards-coffee-1283165.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Corner Bakery Café, Chicken Salad Chick, and Mountain Mike's Pizza",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-corner-bakery-caf-chicken-salad-chick-and-mountain-mike-s-pizza",
         "source": "Nation's Restaurant News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 43,
     "top_articles": [
       {
         "title": "Bank of Japan set to raise policy rate to 1.25% next week",
@@ -183,13 +179,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Bandai finds right recipe to turn toothbrushes into Gundam models",
+        "url": "https://asia.nikkei.com/business/media-entertainment/bandai-finds-right-recipe-to-turn-toothbrushes-into-gundam-models",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,9 +211,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-vietnam": 11,
-    "region-americas": 19,
-    "region-global": 31,
+    "region-vietnam": 10,
+    "region-americas": 21,
+    "region-global": 30,
     "region-europe": 1
   }
 }
