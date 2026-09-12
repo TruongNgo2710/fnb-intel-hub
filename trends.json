@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-12T15:13:14.191164+00:00",
+  "updated": "2026-09-12T18:13:32.030532+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 48,
+  "articles_24h": 44,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
+      "count": 41,
       "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 11,
+      "count": 13,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-price",
@@ -43,6 +43,13 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -59,25 +66,18 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 6,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 4,
       "trend": "hot"
     },
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -127,13 +127,13 @@
         "title": "Gearly Beloved, We Are Gathered Here Today For More Coffee Gadgets",
         "url": "https://sprudge.com/gearly-beloved-we-are-gathered-here-today-for-more-coffee-gadgets-1332253.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Very Hot Coffee Increases Your Risk Of Esophageal Cancer",
         "url": "https://sprudge.com/very-hot-coffee-increases-your-risk-of-esophageal-cancer-1329665.html",
         "source": "Sprudge Coffee",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Weekly Coffee News: Major U.S. Coffee Supplier Rebrands + $1.85 Million Barista Lawsuit",
@@ -152,7 +152,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 45,
     "top_articles": [
       {
         "title": "Seoul's Incheon airport, now busiest global hub, looks to sell know-how",
@@ -179,13 +179,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "BRICS joint declaration calls for 'maximum restraint' in Iran war",
+        "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,8 +210,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
     "region-americas": 23,
+    "region-sea": 17,
     "region-vietnam": 12,
     "region-global": 27,
     "region-europe": 1
