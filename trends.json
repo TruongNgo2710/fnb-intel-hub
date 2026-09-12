@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:40:13.577018+00:00",
+  "updated": "2026-09-12T08:29:52.505023+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 51,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 21,
+      "count": 37,
+      "count_24h": 20,
       "trend": "hot"
     },
     {
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 36
     },
     {
       "word": "gọi vốn",
@@ -127,51 +127,33 @@
         "title": "Very Hot Coffee Increases Your Risk Of Esophageal Cancer",
         "url": "https://sprudge.com/very-hot-coffee-increases-your-risk-of-esophageal-cancer-1329665.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Major U.S. Coffee Supplier Rebrands + $1.85 Million Barista Lawsuit",
         "url": "https://dailycoffeenews.com/2026/09/11/weekly-coffee-news-major-u-s-coffee-supplier-rebrands-1-85-million-barista-lawsuit/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Coffee Design: Ninety Three Million From Blanchard’s Coffee",
         "url": "https://sprudge.com/coffee-design-ninety-three-million-from-blanchards-coffee-1283165.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Corner Bakery Café, Chicken Salad Chick, and Mountain Mike's Pizza",
         "url": "https://www.nrn.com/menu-trends/menu-tracker-new-items-from-corner-bakery-caf-chicken-salad-chick-and-mountain-mike-s-pizza",
         "source": "Nation's Restaurant News",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Bank of Japan set to raise policy rate to 1.25% next week",
-        "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-set-to-raise-policy-rate-to-1.25-next-week",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Vietnam sets December 2027 for north-south bullet train construction start",
-        "url": "https://asia.nikkei.com/business/transportation/vietnam-sets-december-2027-for-north-south-bullet-train-construction-start",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Chinese Nvidia challenger Enflame jumps 179% in Shanghai market debut",
-        "url": "https://asia.nikkei.com/business/markets/ipo/chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Seoul's Incheon airport, now busiest global hub, looks to sell know-how",
         "url": "https://asia.nikkei.com/business/transportation/seoul-s-incheon-airport-now-busiest-global-hub-looks-to-sell-know-how",
@@ -183,9 +165,27 @@
         "url": "https://asia.nikkei.com/business/media-entertainment/bandai-finds-right-recipe-to-turn-toothbrushes-into-gundam-models",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Huawei rolls out AI-based tourism promotion service for Xi'an region",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-rolls-out-ai-based-tourism-promotion-service-for-xi-an-region",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Dogs sniff out explosives to help protect Narita Airport",
+        "url": "https://asia.nikkei.com/business/transportation/dogs-sniff-out-explosives-to-help-protect-narita-airport",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,8 +211,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-vietnam": 10,
-    "region-americas": 21,
+    "region-americas": 22,
+    "region-vietnam": 9,
     "region-global": 30,
     "region-europe": 1
   }
