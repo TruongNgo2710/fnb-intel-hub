@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-13T15:48:52.758077+00:00",
+  "updated": "2026-09-13T18:38:12.380676+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
+      "count": 44,
       "count_24h": 16,
       "trend": "hot"
     },
@@ -43,7 +43,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -88,16 +88,16 @@
     }
   ],
   "sentiment": {
-    "positive": 10,
+    "positive": 9,
     "negative": 3,
-    "neutral": 67,
-    "score": 9,
+    "neutral": 68,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -120,13 +120,13 @@
         "title": "A Fresh Roster Of Fresh Coffees From The Sprudge Roaster’s Village",
         "url": "https://sprudge.com/a-fresh-roster-of-fresh-coffees-from-the-sprudge-roasters-village-1332178.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
         "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
         "source": "The Verge AI",
-        "time": "18 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Gearly Beloved, We Are Gathered Here Today For More Coffee Gadgets",
@@ -138,14 +138,14 @@
         "title": "Very Hot Coffee Increases Your Risk Of Esophageal Cancer",
         "url": "https://sprudge.com/very-hot-coffee-increases-your-risk-of-esophageal-cancer-1329665.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Seoul's Incheon airport, now busiest global hub, looks to sell know-how",
@@ -178,7 +178,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,8 +205,8 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-americas": 17,
-    "region-vietnam": 16,
+    "region-vietnam": 15,
     "region-europe": 2,
-    "region-global": 28
+    "region-global": 29
   }
 }
