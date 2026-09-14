@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-13T22:14:19.283728+00:00",
+  "updated": "2026-09-14T03:55:13.230838+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 14,
+      "count": 46,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 8,
+      "count": 13,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 10,
       "count_24h": 2,
       "trend": "up"
     },
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 9,
+    "positive": 10,
     "negative": 3,
-    "neutral": 68,
-    "score": 8,
+    "neutral": 67,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -112,7 +112,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -127,7 +127,7 @@
         "title": "A Fresh Roster Of Fresh Coffees From The Sprudge Roaster’s Village",
         "url": "https://sprudge.com/a-fresh-roster-of-fresh-coffees-from-the-sprudge-roasters-village-1332178.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
@@ -152,26 +152,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Bandai finds right recipe to turn toothbrushes into Gundam models",
-        "url": "https://asia.nikkei.com/business/media-entertainment/bandai-finds-right-recipe-to-turn-toothbrushes-into-gundam-models",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Huawei rolls out AI-based tourism promotion service for Xi'an region",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/huawei-rolls-out-ai-based-tourism-promotion-service-for-xi-an-region",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Dogs sniff out explosives to help protect Narita Airport",
-        "url": "https://asia.nikkei.com/business/transportation/dogs-sniff-out-explosives-to-help-protect-narita-airport",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "BRICS joint declaration calls for 'maximum restraint' in Iran war",
         "url": "https://asia.nikkei.com/politics/international-relations/brics-joint-declaration-calls-for-maximum-restraint-in-iran-war",
@@ -183,9 +165,27 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/fujitsu-to-export-ai-chips-built-on-supercomputer-tech-to-us-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Nidec to exit Cambodia production over Thailand border conflict",
+        "url": "https://asia.nikkei.com/politics/international-relations/thailand-cambodia-conflict/japan-s-nidec-to-exit-cambodia-production-over-thailand-border-conflict",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asian air-con makers prepare for hotter Germany after bumper summer",
+        "url": "https://asia.nikkei.com/spotlight/environment/climate-change/asian-air-con-makers-prepare-for-hotter-germany-after-bumper-summer",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Applied Materials using AI to speed chip materials discovery, Japan chief says",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 16,
-    "region-vietnam": 15,
+    "region-sea": 19,
     "region-europe": 2,
-    "region-global": 30
+    "region-vietnam": 13,
+    "region-global": 30,
+    "region-americas": 16
   }
 }
