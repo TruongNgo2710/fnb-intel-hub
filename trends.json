@@ -1,50 +1,43 @@
 {
-  "updated": "2026-09-14T17:54:44.855111+00:00",
+  "updated": "2026-09-14T23:02:23.501535+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 23,
+      "count": 45,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 11,
+      "count": 15,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 10,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 5,
-      "count_24h": 4,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 4,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -65,20 +58,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 11,
+      "count": 12,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
@@ -87,23 +74,23 @@
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 13,
+    "positive": 15,
     "negative": 5,
-    "neutral": 62,
-    "score": 10,
+    "neutral": 60,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -112,8 +99,8 @@
   ],
   "coffee_trends": {
     "total_articles": 10,
-    "price_direction": "stable",
-    "price_up_signals": 2,
+    "price_direction": "down",
+    "price_up_signals": 1,
     "price_down_signals": 2,
     "top_articles": [
       {
@@ -126,45 +113,33 @@
         "title": "Build-Outs Of Coffee: Slow By Slow In Boise, ID",
         "url": "https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html",
         "source": "Sprudge Coffee",
-        "time": "43 phút trước"
+        "time": "5 giờ trước"
       },
       {
         "title": "Accademia Del Caffe Espresso Is Dropping Coffee Facts, A New Educational Series",
         "url": "https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Shanghai Coffee Boom Intensifies Competition for Quality Coffees",
         "url": "https://dailycoffeenews.com/2026/09/14/shanghai-coffee-boom-intensifies-competition-for-quality-coffees/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "In Louisville, Please & Thank You Sold to Owners of Coffee Supplier Good Folks",
         "url": "https://dailycoffeenews.com/2026/09/14/in-louisville-please-thank-you-sold-to-owners-of-coffee-supplier-good-folks/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "TDK to ramp up production of electronic components for AI servers",
-        "url": "https://asia.nikkei.com/business/technology/tdk-to-ramp-up-production-of-electronic-components-for-ai-servers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Okinawa political shift clears way for Japan defense buildup near Taiwan",
-        "url": "https://asia.nikkei.com/politics/okinawa-political-shift-clears-way-for-japan-defense-buildup-near-taiwan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "OpenAI says it is in talks to train models in Australia",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-says-it-is-in-talks-to-train-models-in-australia",
@@ -182,9 +157,21 @@
         "url": "https://asia.nikkei.com/business/markets/softbank-group-plunges-11-after-openai-says-no-ipo-this-year",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Hong Kong IPO boom and Chinese AI race fuel frenzy of follow-on deals",
+        "url": "https://asia.nikkei.com/business/markets/equities/hong-kong-ipo-boom-and-chinese-ai-race-fuel-frenzy-of-follow-on-deals",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Korean Air launches free Starlink in-flight Wi-Fi",
+        "url": "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +196,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 12,
-    "region-europe": 1,
-    "region-global": 33,
+    "region-sea": 17,
+    "region-vietnam": 10,
+    "region-europe": 2,
+    "region-global": 35,
     "region-americas": 16
   }
 }
