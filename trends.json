@@ -1,34 +1,34 @@
 {
-  "updated": "2026-09-14T23:02:23.501535+00:00",
+  "updated": "2026-09-15T03:55:15.545814+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 30,
+      "count": 42,
+      "count_24h": 27,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 12,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 7,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -40,15 +40,15 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -58,7 +58,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 12,
+      "count": 10,
       "trend": "hot"
     },
     {
@@ -81,16 +81,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 16,
     "negative": 5,
-    "neutral": 60,
-    "score": 12,
+    "neutral": 59,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -98,7 +98,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -113,51 +113,33 @@
         "title": "Build-Outs Of Coffee: Slow By Slow In Boise, ID",
         "url": "https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Accademia Del Caffe Espresso Is Dropping Coffee Facts, A New Educational Series",
         "url": "https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Shanghai Coffee Boom Intensifies Competition for Quality Coffees",
         "url": "https://dailycoffeenews.com/2026/09/14/shanghai-coffee-boom-intensifies-competition-for-quality-coffees/",
         "source": "Daily Coffee News",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "In Louisville, Please & Thank You Sold to Owners of Coffee Supplier Good Folks",
         "url": "https://dailycoffeenews.com/2026/09/14/in-louisville-please-thank-you-sold-to-owners-of-coffee-supplier-good-folks/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "OpenAI says it is in talks to train models in Australia",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-says-it-is-in-talks-to-train-models-in-australia",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan to open new Philippines mission in diplomatic push, sources say",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-to-open-new-philippines-mission-in-diplomatic-push-sources-say",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SoftBank Group plunges 11% after OpenAI says no IPO this year",
-        "url": "https://asia.nikkei.com/business/markets/softbank-group-plunges-11-after-openai-says-no-ipo-this-year",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Hong Kong IPO boom and Chinese AI race fuel frenzy of follow-on deals",
         "url": "https://asia.nikkei.com/business/markets/equities/hong-kong-ipo-boom-and-chinese-ai-race-fuel-frenzy-of-follow-on-deals",
@@ -169,9 +151,27 @@
         "url": "https://asia.nikkei.com/business/transportation/korean-air-launches-free-starlink-in-flight-wi-fi",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan sees slower inflow of foreign professionals as AI crimps hiring",
+        "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-sees-slower-inflow-of-foreign-professionals-as-ai-crimps-hiring",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Sakana AI, Turing among Japan startup winners as investors turn choosy",
+        "url": "https://asia.nikkei.com/business/startups/sakana-ai-turing-among-japan-startup-winners-as-investors-turn-choosy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "FamilyMart hopes to quickly tap into trends with AI-developed sweets",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/familymart-hopes-to-quickly-tap-into-trends-with-ai-developed-sweets",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -197,9 +197,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-vietnam": 10,
+    "region-vietnam": 11,
     "region-europe": 2,
-    "region-global": 35,
-    "region-americas": 16
+    "region-americas": 16,
+    "region-global": 34
   }
 }
