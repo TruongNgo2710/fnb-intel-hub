@@ -1,42 +1,35 @@
 {
-  "updated": "2026-09-15T16:31:28.173353+00:00",
+  "updated": "2026-09-15T22:47:19.479113+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 29,
+      "count": 40,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 14,
+      "count": 17,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 12,
+      "count": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 7,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 7,
-      "count_24h": 3,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -47,15 +40,29 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -70,21 +77,21 @@
   ],
   "trending_brands": [
     {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 5,
+      "trend": "hot"
+    },
+    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
@@ -92,33 +99,23 @@
       "name": "brand-passio",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 21,
     "negative": 6,
-    "neutral": 55,
-    "score": 16,
+    "neutral": 53,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
-    },
-    {
-      "word": "supply chain",
-      "count": 2
+      "count": 40
     },
     {
       "word": "inflation",
-      "count": 2
+      "count": 3
     },
     {
       "word": "gọi vốn",
@@ -126,7 +123,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -138,68 +135,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Pumpkin Spice Is Dead",
+        "url": "https://sprudge.com/pumpkin-spice-is-dead-1339584.html",
+        "source": "Sprudge Coffee",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "NCA: More Americans Are Drinking Specialty Coffee and Ordering by App",
         "url": "https://dailycoffeenews.com/2026/09/15/nca-more-americans-are-drinking-specialty-coffee-and-ordering-by-app/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "In Vietnam, The World Coffee Museum Tells A Global Story",
         "url": "https://sprudge.com/in-vietnam-the-world-coffee-museum-tells-a-global-story-1250720.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Rad Coffee Co-Founder Unleashes DeskPanther Operations Software",
         "url": "https://dailycoffeenews.com/2026/09/15/rad-coffee-co-founder-unleashes-deskpanther-operations-software/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Opening a coffee shop in 2026: What’s actually changed?",
-        "url": "https://perfectdailygrind.com/2026/09/opening-coffee-shop-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "10 giờ trước"
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "China growth outlook dims as real estate, retail pressure worsens",
-        "url": "https://asia.nikkei.com/economy/china-growth-outlook-dims-as-real-estate-retail-pressure-worsens",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Australian tungsten miner joins US efforts to rebuild supply chain",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Thailand and Cambodia begin UN-backed conciliation over maritime claims",
-        "url": "https://asia.nikkei.com/politics/international-relations/thailand-and-cambodia-begin-un-backed-conciliation-over-maritime-claims",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "MediaTek says new AI phone chip reduces memory use amid supply crunch",
-        "url": "https://asia.nikkei.com/business/technology/mediatek-says-new-ai-phone-chip-reduces-memory-use-amid-supply-crunch",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Global Hawk presumed crashed after communications fail",
         "url": "https://asia.nikkei.com/politics/defense/japan-s-global-hawk-presumed-crashed-after-communications-fail",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Korean Air will maintain Asiana mileage program for 10 years after merger",
+        "url": "https://asia.nikkei.com/business/transportation/korean-air-will-maintain-asiana-mileage-program-for-10-years-after-merger",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Sharp takes orders for AI servers, backed by Foxconn's supply chain",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/sharp-takes-orders-for-ai-servers-backed-by-foxconn-s-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's ruling DPP rethinks nuclear power opposition in AI era",
+        "url": "https://asia.nikkei.com/politics/taiwan-s-ruling-dpp-rethinks-nuclear-power-opposition-in-ai-era",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Talent shortage emerges as tech's biggest bottleneck in AI expansion boom",
+        "url": "https://asia.nikkei.com/business/technology/tech-asia/talent-shortage-emerges-as-tech-s-biggest-bottleneck-in-ai-expansion-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,9 +221,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 13,
-    "region-americas": 21,
-    "region-global": 29
+    "region-sea": 18,
+    "region-americas": 23,
+    "region-vietnam": 11,
+    "region-global": 27,
+    "region-europe": 1
   }
 }
