@@ -1,57 +1,64 @@
 {
-  "updated": "2026-09-15T09:18:25.623105+00:00",
+  "updated": "2026-09-15T16:31:28.173353+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 28,
+      "count": 39,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 16,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -59,52 +66,59 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 10,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 5,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-passio",
+      "name": "brand-passio",
+      "count": 1,
+      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 11,
-    "negative": 5,
-    "neutral": 64,
-    "score": 8,
+    "positive": 19,
+    "negative": 6,
+    "neutral": 55,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 39
+    },
+    {
+      "word": "supply chain",
+      "count": 2
+    },
+    {
+      "word": "inflation",
+      "count": 2
     },
     {
       "word": "gọi vốn",
@@ -112,7 +126,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 10,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -124,54 +138,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Slow By Slow In Boise, ID",
-        "url": "https://sprudge.com/build-outs-of-coffee-slow-by-slow-in-boise-id-1274400.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Accademia Del Caffe Espresso Is Dropping Coffee Facts, A New Educational Series",
-        "url": "https://sprudge.com/accademia-del-caffe-espresso-is-dropping-coffee-facts-a-new-educational-series-1338813.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Shanghai Coffee Boom Intensifies Competition for Quality Coffees",
-        "url": "https://dailycoffeenews.com/2026/09/14/shanghai-coffee-boom-intensifies-competition-for-quality-coffees/",
+        "title": "NCA: More Americans Are Drinking Specialty Coffee and Ordering by App",
+        "url": "https://dailycoffeenews.com/2026/09/15/nca-more-americans-are-drinking-specialty-coffee-and-ordering-by-app/",
         "source": "Daily Coffee News",
-        "time": "16 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "In Louisville, Please & Thank You Sold to Owners of Coffee Supplier Good Folks",
-        "url": "https://dailycoffeenews.com/2026/09/14/in-louisville-please-thank-you-sold-to-owners-of-coffee-supplier-good-folks/",
+        "title": "In Vietnam, The World Coffee Museum Tells A Global Story",
+        "url": "https://sprudge.com/in-vietnam-the-world-coffee-museum-tells-a-global-story-1250720.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Rad Coffee Co-Founder Unleashes DeskPanther Operations Software",
+        "url": "https://dailycoffeenews.com/2026/09/15/rad-coffee-co-founder-unleashes-deskpanther-operations-software/",
         "source": "Daily Coffee News",
-        "time": "18 giờ trước"
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Opening a coffee shop in 2026: What’s actually changed?",
+        "url": "https://perfectdailygrind.com/2026/09/opening-coffee-shop-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Sakana AI, Turing among Japan startup winners as investors turn choosy",
-        "url": "https://asia.nikkei.com/business/startups/sakana-ai-turing-among-japan-startup-winners-as-investors-turn-choosy",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "FamilyMart hopes to quickly tap into trends with AI-developed sweets",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/familymart-hopes-to-quickly-tap-into-trends-with-ai-developed-sweets",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SWIFT's blockchain ledger enters tests with Citi, MUFG for 24-hour cross-border payments",
-        "url": "https://asia.nikkei.com/business/finance/swift-s-blockchain-ledger-enters-tests-with-citi-mufg-for-24-hour-cross-border-payments",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China growth outlook dims as real estate, retail pressure worsens",
         "url": "https://asia.nikkei.com/economy/china-growth-outlook-dims-as-real-estate-retail-pressure-worsens",
@@ -183,9 +179,27 @@
         "url": "https://asia.nikkei.com/spotlight/supply-chain/australian-tungsten-miner-joins-us-efforts-to-rebuild-supply-chain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand and Cambodia begin UN-backed conciliation over maritime claims",
+        "url": "https://asia.nikkei.com/politics/international-relations/thailand-and-cambodia-begin-un-backed-conciliation-over-maritime-claims",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "MediaTek says new AI phone chip reduces memory use amid supply crunch",
+        "url": "https://asia.nikkei.com/business/technology/mediatek-says-new-ai-phone-chip-reduces-memory-use-amid-supply-crunch",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Global Hawk presumed crashed after communications fail",
+        "url": "https://asia.nikkei.com/politics/defense/japan-s-global-hawk-presumed-crashed-after-communications-fail",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +225,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-europe": 1,
-    "region-vietnam": 9,
-    "region-americas": 19,
-    "region-global": 34
+    "region-vietnam": 13,
+    "region-americas": 21,
+    "region-global": 29
   }
 }
