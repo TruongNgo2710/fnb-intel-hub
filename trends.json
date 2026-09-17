@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-16T22:44:07.752766+00:00",
+  "updated": "2026-09-17T03:57:47.761013+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 34,
+      "count": 46,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
@@ -22,7 +22,7 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 7,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -72,13 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 8,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 45
     },
     {
       "word": "claude",
@@ -135,39 +135,33 @@
         "title": "Build-Outs Of Coffee: Sightglass Coffee In Berkeley, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-sightglass-coffee-in-berkeley-ca-1275259.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Grounds for Health Marks 30 Years with Annual Coffee Auction",
         "url": "https://dailycoffeenews.com/2026/09/16/grounds-for-health-marks-30-years-with-annual-coffee-auction/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Labor Department Sues Oklahoma Nonprofit Not Your Average Joe",
         "url": "https://dailycoffeenews.com/2026/09/16/labor-department-sues-oklahoma-nonprofit-not-your-average-joe/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
-        "title": "Beekeeper Coffee Builds Buzz With NBA, NFL and PGA Investors",
-        "url": "https://dailycoffeenews.com/2026/09/16/beekeeper-coffee-builds-buzz-with-nba-nfl-and-pga-investors/",
-        "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "title": "Global Coffee Awards announce the best roasters in Latin America",
+        "url": "https://perfectdailygrind.com/2026/09/global-coffee-awards-latin-america-winners-2026/",
+        "source": "Perfect Daily Grind",
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "ASEAN faces uneven growth in AI era, DBS report warns",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asean-faces-uneven-growth-in-ai-era-dbs-report-warns",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-to-boost-preferred-networks-ai-tie-up-with-investment",
@@ -191,9 +185,15 @@
         "url": "https://asia.nikkei.com/business/electronics/panasonic-to-hike-production-of-in-flight-entertainment-systems",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan prefecture offers free bullet train rides to overseas tourists",
+        "url": "https://asia.nikkei.com/business/travel-leisure/japan-prefecture-offers-free-bullet-train-rides-to-overseas-tourists",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 17,
+    "region-americas": 16,
+    "region-vietnam": 15,
     "region-sea": 15,
-    "region-vietnam": 14,
     "region-europe": 3,
     "region-global": 31
   }
