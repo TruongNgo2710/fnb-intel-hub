@@ -1,57 +1,57 @@
 {
-  "updated": "2026-09-17T16:30:17.205963+00:00",
+  "updated": "2026-09-17T22:45:08.749856+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 38,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
+      "count": 14,
       "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
-      "count_24h": 3,
+      "count": 7,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 7,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -82,15 +82,15 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 2,
       "trend": "up"
     }
   ],
@@ -104,27 +104,23 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
-    },
-    {
-      "word": "claude",
-      "count": 4
+      "count": 47
     },
     {
       "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "specialty",
+      "word": "ucc",
       "count": 2
     },
     {
-      "word": "chatgpt",
+      "word": "claude",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -136,68 +132,68 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The Double-Edged Sword Of App Ordering And Drive-Thrus In Coffee",
+        "url": "https://sprudge.com/the-double-edged-sword-of-app-ordering-and-drive-thrus-in-coffee-1342468.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Hijau Coffee In San Jose, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-hijau-coffee-in-san-jose-ca-1283098.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Furthers & Betters Goes Beyond the Cup for Specialty Coffee Consumer Intelligence",
         "url": "https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Smart Care Unifies Five Coffee Equipment Service Brands as Turbo Tech",
         "url": "https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "A guide to planning consistent production roasting",
-        "url": "https://perfectdailygrind.com/2026/09/planning-consistent-production-roasting/",
-        "source": "Perfect Daily Grind",
-        "time": "8 giờ trước"
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 48,
     "top_articles": [
       {
-        "title": "Japan prefecture offers free bullet train rides to overseas tourists",
-        "url": "https://asia.nikkei.com/business/travel-leisure/japan-prefecture-offers-free-bullet-train-rides-to-overseas-tourists",
+        "title": "Vietnam bus maker Kim Long enters Thailand, eyes ASEAN exports",
+        "url": "https://asia.nikkei.com/business/automobiles/vietnam-bus-maker-kim-long-enters-thailand-eyes-asean-exports",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "The US needs a data strategy for the AI era, but should not copy China",
-        "url": "https://asia.nikkei.com/opinion/the-us-needs-a-data-strategy-for-the-ai-era-but-should-not-copy-china",
+        "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/huawei-debuts-11-ai-related-chips-in-challenge-to-nvidia-intel-amd",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Bain-backed group raises offer for Japan's Kakaku.com, challenging EQT",
-        "url": "https://asia.nikkei.com/business/business-deals/bain-backed-group-raises-offer-for-japan-s-kakaku.com-challenging-eqt",
+        "title": "Japan's Takaichi emphasizes continuity in first cabinet reshuffle",
+        "url": "https://asia.nikkei.com/politics/japan-s-takaichi-emphasizes-continuity-in-first-cabinet-reshuffle",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "1 in 4 listed Chinese companies post losses as AI, rest of economy diverge",
-        "url": "https://asia.nikkei.com/business/companies/1-in-4-listed-chinese-companies-post-losses-as-ai-rest-of-economy-diverge",
+        "title": "Malaysia's AirAsia shares tumble 21% as funding fears mount",
+        "url": "https://asia.nikkei.com/business/transportation/malaysia-s-airasia-shares-tumble-21-as-funding-fears-mount",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Taiwan confirms new Philippines office in works, China says move 'doomed'",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-confirms-new-philippines-office-in-works-china-says-move-doomed",
+        "title": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
+        "url": "https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -223,8 +219,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 15,
-    "region-vietnam": 12,
-    "region-global": 35
+    "region-vietnam": 11,
+    "region-americas": 17,
+    "region-global": 34
   }
 }
