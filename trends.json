@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-18T16:02:24.221038+00:00",
+  "updated": "2026-09-18T19:02:14.798473+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 31,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 7,
+      "count": 20,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 10,
       "count_24h": 9,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 6,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -54,24 +54,17 @@
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -79,13 +72,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -105,19 +98,13 @@
       "name": "Starbucks",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 4,
-    "neutral": 62,
-    "score": 12,
+    "positive": 11,
+    "negative": 5,
+    "neutral": 64,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -143,7 +130,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -155,54 +142,36 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Design Details: A Fluid Space for Cinnamon Rolls and Specialty Coffee at Cinnamood in Barcelona",
+        "url": "https://dailycoffeenews.com/2026/09/18/design-details-a-fluid-space-for-cinnamon-rolls-and-specialty-coffee-at-cinnamood-in-barcelona/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Stumptown Coffee Roasters In Los Angeles, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-stumptown-coffee-roasters-in-los-angeles-ca-1310585.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Colombian Relief Collab + Superautomatic Espresso Launch",
         "url": "https://dailycoffeenews.com/2026/09/18/weekly-coffee-news-colombian-relief-collab-superautomatic-espresso-launch/",
         "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Motors Coffee (Of Paris) Is Popping Up At Sey Coffee (Of Brooklyn)",
         "url": "https://sprudge.com/motors-coffee-of-paris-is-popping-up-at-sey-coffee-of-brooklyn-1345718.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Coffee News Recap, 18 Sep: Global Coffee Awards announces best roasters in Latin America, specialty coffee consumption hits new high in the US & other stories",
-        "url": "https://perfectdailygrind.com/2026/09/coffee-news-recap-18-september-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Thailand must invest in front-end chip production, industry body says",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Panasonic Energy gets in on AI demand boom",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Baidu-backed DeepWay aims to license its e-truck tech in Europe",
-        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/baidu-backed-deepway-aims-to-license-its-e-truck-tech-in-europe",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
         "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
@@ -214,15 +183,33 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AirAsia expects $1bn financing by January amid fuel cost pressure",
+        "url": "https://asia.nikkei.com/business/transportation/airasia-expects-1bn-financing-by-january-amid-fuel-cost-pressure",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "BOJ conducts rate check, lifting yen to upper-156 range against dollar",
+        "url": "https://asia.nikkei.com/business/markets/currencies/boj-conducts-rate-check-lifting-yen-to-upper-156-range-against-dollar",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
+        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "wheat": {
       "direction": "unknown",
@@ -241,10 +228,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-europe": 1,
+    "region-sea": 18,
+    "region-americas": 17,
     "region-vietnam": 15,
-    "region-global": 30,
-    "region-americas": 15
+    "region-global": 30
   }
 }
