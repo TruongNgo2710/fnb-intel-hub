@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-18T03:44:41.722899+00:00",
+  "updated": "2026-09-18T08:54:23.658364+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -14,34 +14,41 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
+      "count": 13,
       "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 2,
       "count_24h": 1,
       "trend": "up"
@@ -56,13 +63,6 @@
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -90,16 +90,16 @@
     {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 4,
-    "neutral": 58,
-    "score": 18,
-    "label": "Trung tính"
+    "positive": 20,
+    "negative": 3,
+    "neutral": 57,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -135,25 +135,25 @@
         "title": "The Double-Edged Sword Of App Ordering And Drive-Thrus In Coffee",
         "url": "https://sprudge.com/the-double-edged-sword-of-app-ordering-and-drive-thrus-in-coffee-1342468.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Hijau Coffee In San Jose, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-hijau-coffee-in-san-jose-ca-1283098.html",
         "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Furthers & Betters Goes Beyond the Cup for Specialty Coffee Consumer Intelligence",
         "url": "https://dailycoffeenews.com/2026/09/17/furthers-betters-goes-beyond-the-cup-for-specialty-coffee-consumer-intelligence/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Smart Care Unifies Five Coffee Equipment Service Brands as Turbo Tech",
         "url": "https://dailycoffeenews.com/2026/09/17/smart-care-unifies-five-coffee-equipment-service-brands-as-turbo-tech/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -163,24 +163,6 @@
     "total_articles": 49,
     "top_articles": [
       {
-        "title": "Huawei debuts 11 AI-related chips in challenge to Nvidia, Intel, AMD",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/huawei-debuts-11-ai-related-chips-in-challenge-to-nvidia-intel-amd",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Takaichi emphasizes continuity in first cabinet reshuffle",
-        "url": "https://asia.nikkei.com/politics/japan-s-takaichi-emphasizes-continuity-in-first-cabinet-reshuffle",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Malaysia's AirAsia shares tumble 21% as funding fears mount",
-        "url": "https://asia.nikkei.com/business/transportation/malaysia-s-airasia-shares-tumble-21-as-funding-fears-mount",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
         "url": "https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms",
         "source": "Nikkei Asia",
@@ -189,6 +171,24 @@
       {
         "title": "With a new cabinet, Takaichi's base is secure. What comes next?",
         "url": "https://asia.nikkei.com/spotlight/comment/with-a-new-cabinet-takaichi-s-base-is-secure.-what-comes-next",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand must invest in front-end chip production, industry body says",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Panasonic Energy gets in on AI demand boom",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Baidu-backed DeepWay aims to license its e-truck tech in Europe",
+        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/baidu-backed-deepway-aims-to-license-its-e-truck-tech-in-europe",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -218,9 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 16,
     "region-sea": 19,
-    "region-vietnam": 10,
-    "region-global": 35
+    "region-europe": 1,
+    "region-vietnam": 14,
+    "region-global": 35,
+    "region-americas": 11
   }
 }
