@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-20T15:40:39.788645+00:00",
+  "updated": "2026-09-20T18:34:31.383934+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
+      "count": 45,
       "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 6,
+      "count": 12,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 4,
+      "count": 9,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -77,14 +77,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 5,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 3,
       "trend": "hot"
     },
@@ -117,7 +117,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -140,7 +140,7 @@
         "title": "If I Had To Pick One Coffee From The Sprudge Roaster’s Village, I’d Pick Them All",
         "url": "https://sprudge.com/if-i-had-to-pick-one-coffee-from-the-sprudge-roasters-village-id-pick-them-all-1349410.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Checking In On The Other Side Of The Supply Chain With The Green Room",
@@ -158,14 +158,14 @@
         "title": "Design Details: A Fluid Space for Cinnamon Rolls and Specialty Coffee at Cinnamood in Barcelona",
         "url": "https://dailycoffeenews.com/2026/09/18/design-details-a-fluid-space-for-cinnamon-rolls-and-specialty-coffee-at-cinnamood-in-barcelona/",
         "source": "Daily Coffee News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 52,
     "top_articles": [
       {
         "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
@@ -198,7 +198,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
