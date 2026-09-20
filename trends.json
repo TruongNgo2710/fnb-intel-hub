@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T18:34:31.383934+00:00",
+  "updated": "2026-09-20T22:17:14.596509+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 38,
@@ -7,14 +7,14 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 17,
+      "count": 44,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
+      "count": 11,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -47,6 +47,13 @@
       "trend": "stable"
     },
     {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
@@ -59,13 +66,6 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -108,16 +108,16 @@
     }
   ],
   "sentiment": {
-    "positive": 8,
-    "negative": 10,
-    "neutral": 62,
+    "positive": 9,
+    "negative": 11,
+    "neutral": 60,
     "score": -2,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -140,7 +140,7 @@
         "title": "If I Had To Pick One Coffee From The Sprudge Roaster’s Village, I’d Pick Them All",
         "url": "https://sprudge.com/if-i-had-to-pick-one-coffee-from-the-sprudge-roasters-village-id-pick-them-all-1349410.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Checking In On The Other Side Of The Supply Chain With The Green Room",
@@ -165,20 +165,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
-        "url": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "North Korean hackers disguise cyberattacks as job interviews with AI",
-        "url": "https://asia.nikkei.com/spotlight/society/crime/north-korean-hackers-disguise-cyberattacks-as-job-interviews-with-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Port Fairy Folk Festival tunes up for its 50th anniversary",
         "url": "https://asia.nikkei.com/life-arts/arts/port-fairy-folk-festival-tunes-up-for-its-50th-anniversary",
@@ -196,9 +184,21 @@
         "url": "https://asia.nikkei.com/life-arts/life/eat-drink/saigon-joe-a-highly-caffeinated-tour-of-ho-chi-minh-city",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Hyundai Department Store looks to bring South Korean fashion abroad",
+        "url": "https://asia.nikkei.com/business/retail/hyundai-department-store-looks-to-bring-south-korean-fashion-abroad",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asia's AI adoption outpaces perception, says Google executive",
+        "url": "https://asia.nikkei.com/business/technology/asia-s-ai-adoption-outpaces-perception-says-google-executive",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -223,10 +223,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
+    "region-sea": 15,
     "region-vietnam": 15,
     "region-americas": 14,
-    "region-global": 34,
-    "region-europe": 1
+    "region-europe": 2,
+    "region-global": 34
   }
 }
