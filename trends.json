@@ -1,21 +1,28 @@
 {
-  "updated": "2026-09-20T03:57:18.494250+00:00",
+  "updated": "2026-09-20T09:10:49.265499+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 42,
+  "articles_24h": 41,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 21,
+      "count": 48,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 6,
+      "count": 12,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -26,32 +33,18 @@
       "trend": "up"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 5,
       "count_24h": 0,
       "trend": "stable"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 3,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
@@ -63,6 +56,13 @@
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -109,29 +109,25 @@
   ],
   "sentiment": {
     "positive": 8,
-    "negative": 7,
-    "neutral": 65,
-    "score": 1,
+    "negative": 8,
+    "neutral": 64,
+    "score": 0,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 48
     },
     {
       "word": "gọi vốn",
-      "count": 2
-    },
-    {
-      "word": "specialty",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 8,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -144,7 +140,7 @@
         "title": "Checking In On The Other Side Of The Supply Chain With The Green Room",
         "url": "https://sprudge.com/checking-in-on-the-other-side-of-the-supply-chain-with-the-green-room-1349454.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Hàng Việt tìm cách tiếp cận Thái Lan bằng đặc sản 'lạ'",
@@ -166,17 +162,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
-        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
         "url": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
@@ -200,9 +190,15 @@
         "url": "https://asia.nikkei.com/business/companies/japan-supermarket-begins-training-for-100-store-vietnam-push",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Saigon joe: A highly caffeinated tour of Ho Chi Minh City",
+        "url": "https://asia.nikkei.com/life-arts/life/eat-drink/saigon-joe-a-highly-caffeinated-tour-of-ho-chi-minh-city",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -227,9 +223,9 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 16,
+    "region-vietnam": 15,
     "region-americas": 16,
-    "region-sea": 15,
-    "region-vietnam": 17,
-    "region-global": 32
+    "region-global": 33
   }
 }
