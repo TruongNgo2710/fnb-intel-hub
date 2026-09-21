@@ -1,138 +1,7 @@
 {
-  "updated": "2026-09-21T18:00:48.977358+00:00",
+  "updated": "2026-09-21T23:05:45.430649+00:00",
   "count": 80,
   "articles": [
-    {
-      "id": "5cfeb51c",
-      "title": "Foreign envoys in Taiwan warn rules of game at sea are being challenged",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/foreign-envoys-in-taiwan-warn-rules-of-game-at-sea-are-being-challenged",
-      "source_name": "Nikkei Asia",
-      "source_key": "nikkei",
-      "badge": "nikkei",
-      "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "macro",
-      "published": "2026-09-21T18:00:47.408764+00:00",
-      "time_ago": "0 phút trước",
-      "summary": "",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "c60487bc",
-      "title": "Japan PM Takaichi's approval rating stays at 62% after cabinet reshuffle",
-      "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-stays-at-62-after-cabinet-reshuffle",
-      "source_name": "Nikkei Asia",
-      "source_key": "nikkei",
-      "badge": "nikkei",
-      "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "macro",
-      "published": "2026-09-21T18:00:47.408702+00:00",
-      "time_ago": "0 phút trước",
-      "summary": "",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "a5711dbb",
-      "title": "Japan to tap industrial machinery for collecting physical AI data",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-industrial-machinery-for-collecting-physical-ai-data",
-      "source_name": "Nikkei Asia",
-      "source_key": "nikkei",
-      "badge": "nikkei",
-      "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "macro",
-      "published": "2026-09-21T18:00:47.408642+00:00",
-      "time_ago": "0 phút trước",
-      "summary": "",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "834a669f",
-      "title": "China slow-walks yuan appreciation as US, Europe demand trade rebalancing",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/china-slow-walks-yuan-appreciation-as-us-europe-demand-trade-rebalancing",
-      "source_name": "Nikkei Asia",
-      "source_key": "nikkei",
-      "badge": "nikkei",
-      "region": "region-europe",
-      "tags": "topic-general region-europe source-nikkei category-macro",
-      "topics": [
-        "topic-general"
-      ],
-      "brands": [],
-      "category": "macro",
-      "published": "2026-09-21T18:00:47.408581+00:00",
-      "time_ago": "0 phút trước",
-      "summary": "",
-      "sentiment": "neutral",
-      "keywords": [],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": false,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "de28e3f6",
-      "title": "China's Unitree Robotics stock falls by half in month after listing",
-      "url": "https://asia.nikkei.com/business/markets/equities/china-s-unitree-robotics-stock-falls-by-half-in-month-after-listing",
-      "source_name": "Nikkei Asia",
-      "source_key": "nikkei",
-      "badge": "nikkei",
-      "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
-      "topics": [
-        "topic-general"
-      ],
-      "brands": [],
-      "category": "macro",
-      "published": "2026-09-21T18:00:47.408520+00:00",
-      "time_ago": "0 phút trước",
-      "summary": "",
-      "sentiment": "neutral",
-      "keywords": [],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": false,
-      "is_coffee": false,
-      "lang": "en"
-    },
     {
       "id": "c964859a",
       "title": "Vietnam enters FTSE emerging-market ranks, eyes billions in inflows",
@@ -141,13 +10,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-vietnam",
-      "tags": "region-vietnam topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-vietnam topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408463+00:00",
+      "published": "2026-09-21T23:05:44.095240+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -166,13 +35,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408403+00:00",
+      "published": "2026-09-21T23:05:44.095180+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -191,13 +60,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408340+00:00",
+      "published": "2026-09-21T23:05:44.095117+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -216,13 +85,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-newmenu source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-newmenu",
       "topics": [
         "topic-newmenu"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408275+00:00",
+      "published": "2026-09-21T23:05:44.095052+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "positive",
@@ -241,13 +110,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408192+00:00",
+      "published": "2026-09-21T23:05:44.094994+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -266,13 +135,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408130+00:00",
+      "published": "2026-09-21T23:05:44.094931+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -291,13 +160,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-general source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408068+00:00",
+      "published": "2026-09-21T23:05:44.094868+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -316,13 +185,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.408007+00:00",
+      "published": "2026-09-21T23:05:44.094800+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -343,13 +212,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-expand source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-expand",
       "topics": [
         "topic-expand"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407944+00:00",
+      "published": "2026-09-21T23:05:44.094739+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -368,14 +237,14 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-americas",
-      "tags": "source-nikkei topic-ai topic-funding region-americas category-macro",
+      "tags": "source-nikkei category-macro region-americas topic-ai topic-funding",
       "topics": [
         "topic-funding",
         "topic-ai"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407883+00:00",
+      "published": "2026-09-21T23:05:44.094680+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -396,7 +265,7 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "brand-openai region-sea source-nikkei topic-ai topic-funding category-macro topic-newmenu",
+      "tags": "topic-newmenu brand-openai source-nikkei category-macro region-sea topic-ai topic-funding",
       "topics": [
         "topic-newmenu",
         "topic-funding",
@@ -406,7 +275,7 @@
         "brand-openai"
       ],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407819+00:00",
+      "published": "2026-09-21T23:05:44.094615+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "positive",
@@ -427,13 +296,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-funding source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-funding",
       "topics": [
         "topic-funding"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407755+00:00",
+      "published": "2026-09-21T23:05:44.094544+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "negative",
@@ -452,13 +321,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407691+00:00",
+      "published": "2026-09-21T23:05:44.094486+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "neutral",
@@ -479,13 +348,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea source-nikkei category-macro topic-ai",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407620+00:00",
+      "published": "2026-09-21T23:05:44.094426+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "negative",
@@ -506,13 +375,13 @@
       "source_key": "nikkei",
       "badge": "nikkei",
       "region": "region-sea",
-      "tags": "region-sea topic-funding source-nikkei category-macro",
+      "tags": "category-macro source-nikkei region-sea topic-funding",
       "topics": [
         "topic-funding"
       ],
       "brands": [],
       "category": "macro",
-      "published": "2026-09-21T18:00:47.407528+00:00",
+      "published": "2026-09-21T23:05:44.094371+00:00",
       "time_ago": "0 phút trước",
       "summary": "",
       "sentiment": "negative",
@@ -524,6 +393,137 @@
       "lang": "en"
     },
     {
+      "id": "961dadbd",
+      "title": "Japan's Mitsubishi to boost stake in Philippine group Ayala to 20%",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-mitsubishi-to-boost-stake-in-philippine-group-ayala-to-202",
+      "source_name": "Nikkei Asia",
+      "source_key": "nikkei",
+      "badge": "nikkei",
+      "region": "region-sea",
+      "tags": "category-macro source-nikkei region-sea topic-general",
+      "topics": [
+        "topic-general"
+      ],
+      "brands": [],
+      "category": "macro",
+      "published": "2026-09-21T23:05:44.094310+00:00",
+      "time_ago": "0 phút trước",
+      "summary": "",
+      "sentiment": "neutral",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "83928f3e",
+      "title": "US-China AI race speeds up as self-improving models advance",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-china-ai-race-speeds-up-as-self-improving-models-advance",
+      "source_name": "Nikkei Asia",
+      "source_key": "nikkei",
+      "badge": "nikkei",
+      "region": "region-sea",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
+      "topics": [
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "macro",
+      "published": "2026-09-21T23:05:44.094250+00:00",
+      "time_ago": "0 phút trước",
+      "summary": "",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "3fba64e3",
+      "title": "Japan plans AI robot contest on International Space Station",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-plans-ai-robot-contest-on-international-space-station",
+      "source_name": "Nikkei Asia",
+      "source_key": "nikkei",
+      "badge": "nikkei",
+      "region": "region-sea",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
+      "topics": [
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "macro",
+      "published": "2026-09-21T23:05:44.094186+00:00",
+      "time_ago": "0 phút trước",
+      "summary": "",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "6ad7c0a6",
+      "title": "Indonesia's Superbank rides Grab ties, high deposit rates to take on rivals",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-superbank-rides-grab-ties-high-deposit-rates-to-take-on-rivals",
+      "source_name": "Nikkei Asia",
+      "source_key": "nikkei",
+      "badge": "nikkei",
+      "region": "region-sea",
+      "tags": "category-macro source-nikkei region-sea topic-general",
+      "topics": [
+        "topic-general"
+      ],
+      "brands": [],
+      "category": "macro",
+      "published": "2026-09-21T23:05:44.094116+00:00",
+      "time_ago": "0 phút trước",
+      "summary": "",
+      "sentiment": "neutral",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "72996d67",
+      "title": "China's power infrastructure stocks languish despite AI boom",
+      "url": "https://asia.nikkei.com/business/markets/equities/china-s-power-infrastructure-stocks-languish-despite-ai-boom",
+      "source_name": "Nikkei Asia",
+      "source_key": "nikkei",
+      "badge": "nikkei",
+      "region": "region-sea",
+      "tags": "category-macro source-nikkei region-sea topic-ai",
+      "topics": [
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "macro",
+      "published": "2026-09-21T23:05:44.093979+00:00",
+      "time_ago": "0 phút trước",
+      "summary": "",
+      "sentiment": "positive",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
       "id": "edd66e2e",
       "title": "CEO Quỹ Thiên Việt chia sẻ kinh nhiệm cho các nhà đầu tư cá nhân khi rót vốn cho startup",
       "url": "https://cafebiz.vn/ceo-quy-thien-viet-duc-ket-neu-dau-tu-vao-nhung-founder-chua-co-kinh-nghiem-thi-xac-suat-thanh-cong-thuong-duoi-10-176251218144451337.chn",
@@ -531,7 +531,7 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "source-cafebiz category-fnb topic-funding topic-price topic-brunch region-vietnam",
+      "tags": "source-cafebiz category-fnb topic-brunch topic-price region-vietnam topic-funding",
       "topics": [
         "topic-funding",
         "topic-price",
@@ -539,7 +539,7 @@
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.860143+00:00",
+      "published": "2026-09-21T23:03:17.395089+00:00",
       "time_ago": "0 phút trước",
       "summary": "Ông Trần Vinh Quang, Tổng Giám đốc Công ty Quản lý Quỹ Thiên Việt (TVAM) khẳng định rằng các nhà đầu tư tại công ty luôn có nguyên tắc nhất định để chọn các nhà sáng lập và công ty rót vốn.",
       "sentiment": "neutral",
@@ -558,14 +558,14 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "source-cafebiz category-fnb topic-funding topic-price region-vietnam",
+      "tags": "source-cafebiz category-fnb topic-price region-vietnam topic-funding",
       "topics": [
         "topic-funding",
         "topic-price"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.859747+00:00",
+      "published": "2026-09-21T23:03:17.394648+00:00",
       "time_ago": "0 phút trước",
       "summary": "Năm 2025, số lượng giao dịch đầu tư mạo hiểm tại Việt Nam giảm mạnh xuống còn 41 giao dịch và quy mô giao dịch giảm xuống còn 215 triệu USD, theo báo cáo mới nhất của VinVentures.",
       "sentiment": "negative",
@@ -584,13 +584,13 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "topic-funding source-cafebiz region-vietnam category-fnb",
+      "tags": "source-cafebiz region-vietnam topic-funding category-fnb",
       "topics": [
         "topic-funding"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.859373+00:00",
+      "published": "2026-09-21T23:03:17.394158+00:00",
       "time_ago": "0 phút trước",
       "summary": "Mới đây, Quỹ đầu tư VinVentures công bố 10 startup gọi vốn nhiều nhất năm 2025, trong đó xuất hiện nhiều cái tên quen thuộc.",
       "sentiment": "positive",
@@ -611,13 +611,13 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "topic-funding source-cafebiz region-vietnam category-fnb",
+      "tags": "source-cafebiz region-vietnam topic-funding category-fnb",
       "topics": [
         "topic-funding"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.859132+00:00",
+      "published": "2026-09-21T23:03:17.393860+00:00",
       "time_ago": "0 phút trước",
       "summary": "Năm 2025, thị trường khởi nghiệp chứng kiến nhiều thương vụ gọi vốn đáng chú ý. Trong đó, cái tên Phạm Chí Nhu nổi lên như một trong những founder gây nhiều chú ý nhất khi startup thời trang nam Coolmate hoàn thành vòng gọi vốn Series B+ với 22,34 triệu USD. Đây cũng là startup gọi vốn nhiều nhất trong năm 2025, theo thống kê từ quỹ VinVentures.",
       "sentiment": "positive",
@@ -638,13 +638,13 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "source-cafebiz region-vietnam topic-general category-fnb",
+      "tags": "source-cafebiz topic-general region-vietnam category-fnb",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.858921+00:00",
+      "published": "2026-09-21T23:03:17.393569+00:00",
       "time_ago": "0 phút trước",
       "summary": "Berry - một nhân viên cấp cao ngân hàng - đã từ bỏ công việc với mức lương hàng triệu USD, để gia nhập thị trường bán trà sữa trân châu. Hiện tại, mỗi năm công ty của anh thu về hơn 500 triệu USD doanh thu toàn hệ thống.",
       "sentiment": "positive",
@@ -663,14 +663,14 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "source-cafebiz topic-ai category-fnb topic-coffee region-vietnam",
+      "tags": "source-cafebiz region-vietnam category-fnb topic-coffee topic-ai",
       "topics": [
         "topic-coffee",
         "topic-ai"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.858721+00:00",
+      "published": "2026-09-21T23:03:17.393310+00:00",
       "time_ago": "0 phút trước",
       "summary": "Cùng là sự đứt gãy giữa những cá nhân từng kề vai sát cánh xây dựng nên một cái tên, nhưng tại sao thái độ đối diện với \"đứa con tinh thần\" lại phân kỳ một cách cực đoan đến vậy?",
       "sentiment": "neutral",
@@ -691,14 +691,14 @@
       "source_key": "cafebiz",
       "badge": "cafebiz",
       "region": "region-vietnam",
-      "tags": "source-cafebiz category-fnb topic-funding topic-price region-vietnam",
+      "tags": "source-cafebiz category-fnb topic-price region-vietnam topic-funding",
       "topics": [
         "topic-funding",
         "topic-price"
       ],
       "brands": [],
       "category": "fnb",
-      "published": "2026-09-21T17:58:18.858372+00:00",
+      "published": "2026-09-21T23:03:17.392876+00:00",
       "time_ago": "0 phút trước",
       "summary": "Matt Hougan, Giám đốc Đầu tư của Bitwise Asset Management, cho rằng việc Bitcoin không còn phản ứng mạnh trước hàng loạt thông tin tiêu cực có thể là dấu hiệu cho thấy “mùa đông tiền mã hóa” đang đi đến hồi kết.",
       "sentiment": "neutral",
@@ -710,6 +710,254 @@
       "lang": "vi"
     },
     {
+      "id": "3394083b",
+      "title": "Nation's Restaurant News September 2026",
+      "url": "https://www.nrn.com/publications/nations-restaurant-news/nation-s-restaurant-news-september-2026",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "region-americas source-nrn topic-general category-fnb",
+      "topics": [
+        "topic-general"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T20:40:23+00:00",
+      "time_ago": "2 giờ trước",
+      "summary": "Our Top Restaurant Groups report highlights the 200 largest multi-concept portfolios across the country. Plus, meet the new CEO of Culver’s.",
+      "sentiment": "neutral",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "83547d40",
+      "title": "California tightens rules on AI data center energy and water use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source_name": "The Verge AI",
+      "source_key": "theverge",
+      "badge": "bloomberg",
+      "region": "region-global",
+      "tags": "category-ai source-theverge topic-price topic-ai region-global",
+      "topics": [
+        "topic-price",
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "ai",
+      "published": "2026-09-21T20:29:45+00:00",
+      "time_ago": "2 giờ trước",
+      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "c06d2cf0",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source_name": "TechCrunch AI",
+      "source_key": "techcrunch",
+      "badge": "bloomberg",
+      "region": "region-global",
+      "tags": "category-ai brand-openai source-techcrunch topic-ai region-global",
+      "topics": [
+        "topic-ai"
+      ],
+      "brands": [
+        "brand-openai"
+      ],
+      "category": "ai",
+      "published": "2026-09-21T20:15:58+00:00",
+      "time_ago": "2 giờ trước",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "491414dc",
+      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source_name": "TechCrunch AI",
+      "source_key": "techcrunch",
+      "badge": "bloomberg",
+      "region": "region-global",
+      "tags": "category-ai source-techcrunch topic-price region-global",
+      "topics": [
+        "topic-price"
+      ],
+      "brands": [],
+      "category": "ai",
+      "published": "2026-09-21T19:25:00+00:00",
+      "time_ago": "3 giờ trước",
+      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+      "sentiment": "neutral",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "285c3f88",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source_name": "TechCrunch AI",
+      "source_key": "techcrunch",
+      "badge": "bloomberg",
+      "region": "region-americas",
+      "tags": "category-ai topic-newmenu brand-openai source-techcrunch region-americas topic-ai",
+      "topics": [
+        "topic-newmenu",
+        "topic-ai"
+      ],
+      "brands": [
+        "brand-openai"
+      ],
+      "category": "ai",
+      "published": "2026-09-21T19:19:21+00:00",
+      "time_ago": "3 giờ trước",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "sentiment": "positive",
+      "keywords": [
+        "chatgpt",
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "316a9f4e",
+      "title": "Knicks superstar Jalen Brunson validates Just Salad is ‘cool enough’ with ad campaign",
+      "url": "https://www.nrn.com/fast-casual/knicks-superstar-jalen-brunson-validates-just-salad-is-cool-enough-with-ad-campaign",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "category-fnb source-nrn topic-marketing topic-macro region-americas topic-ai topic-funding",
+      "topics": [
+        "topic-marketing",
+        "topic-funding",
+        "topic-ai",
+        "topic-macro"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T18:58:47+00:00",
+      "time_ago": "4 giờ trước",
+      "summary": "The MVP earlier this year announced an investment in the New York-based salad chain, which is positioning for growth.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "6e333a13",
+      "title": "London-based Zuma just opened its first California restaurant in downtown San Diego",
+      "url": "https://www.nrn.com/independent-restaurants/london-based-zuma-just-opened-its-first-california-restaurant-in-downtown-san-diego",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "region-americas source-nrn topic-general category-fnb",
+      "topics": [
+        "topic-general"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T18:33:01+00:00",
+      "time_ago": "4 giờ trước",
+      "summary": "This marks the contemporary Japanese restaurant’s sixth U.S. location.",
+      "sentiment": "neutral",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": false,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "e7b78b4b",
+      "title": "Cafe Imports Now 100% Employee-Owned Through a Stock Plan",
+      "url": "https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/",
+      "source_name": "Daily Coffee News",
+      "source_key": "dcn",
+      "badge": "pdg",
+      "region": "region-global",
+      "tags": "topic-supply source-dcn topic-coffee region-global category-coffee",
+      "topics": [
+        "topic-coffee",
+        "topic-supply"
+      ],
+      "brands": [],
+      "category": "coffee",
+      "published": "2026-09-21T18:17:26+00:00",
+      "time_ago": "4 giờ trước",
+      "summary": "Minneapolis-based green coffee importer Cafe Imports has become 100% employee-owned through an Employee Stock Ownership Plan (ESOP), the company announced today.&#160; The 33-year-old company did not disclose a valuation or...",
+      "sentiment": "negative",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": false,
+      "is_coffee": true,
+      "lang": "en"
+    },
+    {
+      "id": "e1bc46d1",
+      "title": "Carl’s Jr. goes after Burger King in new ‘Stealing the Crown’ diss marketing campaign",
+      "url": "https://www.nrn.com/quick-service/carl-s-jr-goes-after-burger-king-in-new-stealing-the-crown-diss-marketing-campaign",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "category-fnb source-nrn topic-qsr topic-marketing region-americas topic-ai",
+      "topics": [
+        "topic-marketing",
+        "topic-qsr",
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T17:57:10+00:00",
+      "time_ago": "5 giờ trước",
+      "summary": "Carl’s Jr. is inviting customers to upload an image of a Burger King receipt or crown in exchange for a free “better burger.”",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
       "id": "cfff59da",
       "title": "Meta’s AI agent has been blocked from using Amazon.com",
       "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
@@ -717,21 +965,49 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T17:55:18+00:00",
-      "time_ago": "5 phút trước",
-      "summary": "Muse isn't welcome as a shopper anymore.",
+      "time_ago": "5 giờ trước",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
       "sentiment": "neutral",
       "keywords": [
         "ai"
       ],
       "is_new": true,
-      "is_hot": false,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
+      "id": "ddd88b0e",
+      "title": "Will Arnett gets in people's heads in new Subway marketing campaign",
+      "url": "https://www.nrn.com/quick-service/will-arnett-gets-in-people-s-heads-in-new-subway-marketing-campaign",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "category-fnb source-nrn topic-marketing region-americas topic-ai",
+      "topics": [
+        "topic-marketing",
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T17:47:52+00:00",
+      "time_ago": "5 giờ trước",
+      "summary": "The actor and comedian serves as the voice of our subconscious, driving diners to make better food choices by eating at Subway.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
       "is_ai": true,
       "is_coffee": false,
       "lang": "en"
@@ -744,7 +1020,7 @@
       "source_key": "nrn",
       "badge": "foodnavigator",
       "region": "region-americas",
-      "tags": "source-nrn topic-ai category-fnb topic-price region-americas topic-expand",
+      "tags": "category-fnb source-nrn topic-price region-americas topic-expand topic-ai",
       "topics": [
         "topic-expand",
         "topic-price",
@@ -753,7 +1029,7 @@
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T16:48:14+00:00",
-      "time_ago": "1 giờ trước",
+      "time_ago": "6 giờ trước",
       "summary": "The Miami-based fried chicken chain blamed expansion costs and COVID for a mounting pile of debt. It’s in line to be sold to a lender.",
       "sentiment": "negative",
       "keywords": [
@@ -773,14 +1049,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T16:38:51+00:00",
-      "time_ago": "1 giờ trước",
+      "time_ago": "6 giờ trước",
       "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
       "sentiment": "neutral",
       "keywords": [
@@ -800,7 +1076,7 @@
       "source_key": "nrn",
       "badge": "foodnavigator",
       "region": "region-americas",
-      "tags": "source-nrn category-fnb topic-funding region-americas topic-qsr",
+      "tags": "category-fnb source-nrn topic-qsr region-americas topic-funding",
       "topics": [
         "topic-funding",
         "topic-qsr"
@@ -808,7 +1084,7 @@
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T16:18:16+00:00",
-      "time_ago": "1 giờ trước",
+      "time_ago": "6 giờ trước",
       "summary": "Plus, LeBron James’s investment in Mike’s Red Tacos.",
       "sentiment": "neutral",
       "keywords": [],
@@ -826,14 +1102,14 @@
       "source_key": "nrn",
       "badge": "foodnavigator",
       "region": "region-americas",
-      "tags": "topic-general region-americas source-nrn category-fnb",
+      "tags": "region-americas source-nrn topic-general category-fnb",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T16:06:01+00:00",
-      "time_ago": "1 giờ trước",
+      "time_ago": "6 giờ trước",
       "summary": "The rumors that the Cannae Holdings brand could be sold began shortly after sister brand O’Charley’s shuttered all corporate locations.",
       "sentiment": "neutral",
       "keywords": [],
@@ -851,7 +1127,7 @@
       "source_key": "sprudge",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "category-coffee region-global topic-coffee topic-price source-sprudge topic-newmenu",
+      "tags": "topic-newmenu source-sprudge topic-coffee topic-price region-global category-coffee",
       "topics": [
         "topic-coffee",
         "topic-newmenu",
@@ -860,7 +1136,7 @@
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T16:00:38+00:00",
-      "time_ago": "1 giờ trước",
+      "time_ago": "7 giờ trước",
       "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. Farspeak Labs releases a single system for small and mid-sized roasteries, from the roast log to the invoice, priced on roasted volume with no add-ons.",
       "sentiment": "positive",
       "keywords": [],
@@ -878,7 +1154,7 @@
       "source_key": "sprudge",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "category-coffee region-global topic-coffee topic-price source-sprudge topic-newmenu",
+      "tags": "topic-newmenu source-sprudge topic-coffee topic-price region-global category-coffee",
       "topics": [
         "topic-coffee",
         "topic-newmenu",
@@ -887,7 +1163,7 @@
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T15:12:05+00:00",
-      "time_ago": "2 giờ trước",
+      "time_ago": "7 giờ trước",
       "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. Introducing the Turbo Tech One from Smart Care Solutions.",
       "sentiment": "positive",
       "keywords": [],
@@ -905,7 +1181,7 @@
       "source_key": "nrn",
       "badge": "foodnavigator",
       "region": "region-americas",
-      "tags": "source-nrn topic-ai category-fnb topic-coffee region-americas brand-starbucks topic-qsr",
+      "tags": "brand-starbucks category-fnb source-nrn topic-qsr topic-coffee region-americas topic-ai",
       "topics": [
         "topic-coffee",
         "topic-qsr",
@@ -916,7 +1192,7 @@
       ],
       "category": "fnb",
       "published": "2026-09-21T15:11:21+00:00",
-      "time_ago": "2 giờ trước",
+      "time_ago": "7 giờ trước",
       "summary": "Rachel Ruggeri, who had been the coffee shop giant’s CFO, was named a director at the fast-food burger chain.",
       "sentiment": "neutral",
       "keywords": [
@@ -929,6 +1205,34 @@
       "lang": "en"
     },
     {
+      "id": "8e72182a",
+      "title": "Wendy’s, Pura Vida, and the couch economy",
+      "url": "https://www.nrn.com/quick-service/wendy-s-pura-vida-and-the-couch-economy",
+      "source_name": "Nation's Restaurant News",
+      "source_key": "nrn",
+      "badge": "foodnavigator",
+      "region": "region-americas",
+      "tags": "category-fnb source-nrn topic-macro region-americas topic-ai",
+      "topics": [
+        "topic-ai",
+        "topic-macro"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T15:00:00+00:00",
+      "time_ago": "8 giờ trước",
+      "summary": "Get all the headlines in today's Restaurant Daily podcast.",
+      "sentiment": "neutral",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "en"
+    },
+    {
       "id": "719dd1e4",
       "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
@@ -936,7 +1240,7 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "topic-ai category-ai topic-funding region-global source-techcrunch",
+      "tags": "category-ai source-techcrunch topic-ai region-global topic-funding",
       "topics": [
         "topic-funding",
         "topic-ai"
@@ -944,7 +1248,7 @@
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T15:00:00+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "8 giờ trước",
       "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
       "sentiment": "neutral",
       "keywords": [
@@ -964,15 +1268,15 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T14:39:22+00:00",
-      "time_ago": "3 giờ trước",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "time_ago": "8 giờ trước",
+      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
       "sentiment": "neutral",
       "keywords": [
         "ai"
@@ -991,14 +1295,14 @@
       "source_key": "nrn",
       "badge": "foodnavigator",
       "region": "region-americas",
-      "tags": "topic-general region-americas source-nrn category-fnb",
+      "tags": "region-americas source-nrn topic-general category-fnb",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T14:37:07+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "8 giờ trước",
       "summary": "Less than a year into the role, CEO Kelli Valade is focused on &quot;tried-and-true learning platforms&quot; to strengthen the organization’s value equation.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1016,14 +1320,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-general",
+      "tags": "category-ai source-techcrunch region-global topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T14:30:00+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "8 giờ trước",
       "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1041,14 +1345,14 @@
       "source_key": "dcn",
       "badge": "pdg",
       "region": "region-americas",
-      "tags": "category-coffee topic-coffee region-americas source-dcn",
+      "tags": "region-americas topic-coffee source-dcn category-coffee",
       "topics": [
         "topic-coffee"
       ],
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T14:20:27+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "8 giờ trước",
       "summary": "A state-funded solar-powered coffee roasting experiment in New Mexico is pointing toward a novel possibility in commercial roasting: retrofitting existing drum roasters to use stored solar energy for heat inside...",
       "sentiment": "neutral",
       "keywords": [],
@@ -1066,7 +1370,7 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "topic-ai category-ai topic-funding region-global source-techcrunch",
+      "tags": "category-ai source-techcrunch topic-ai region-global topic-funding",
       "topics": [
         "topic-funding",
         "topic-ai"
@@ -1074,7 +1378,7 @@
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T14:15:00+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "8 giờ trước",
       "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
       "sentiment": "neutral",
       "keywords": [
@@ -1094,14 +1398,14 @@
       "source_key": "sprudge",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "source-sprudge region-global topic-coffee category-coffee",
+      "tags": "topic-coffee region-global source-sprudge category-coffee",
       "topics": [
         "topic-coffee"
       ],
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T14:00:41+00:00",
-      "time_ago": "3 giờ trước",
+      "time_ago": "9 giờ trước",
       "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. Kafe in Los Angeles, California.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1119,14 +1423,14 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "category-ai source-theverge region-global topic-ai",
+      "tags": "category-ai source-theverge topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T14:00:00+00:00",
-      "time_ago": "4 giờ trước",
+      "time_ago": "9 giờ trước",
       "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
       "sentiment": "neutral",
       "keywords": [
@@ -1153,7 +1457,7 @@
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T13:36:52+00:00",
-      "time_ago": "4 giờ trước",
+      "time_ago": "9 giờ trước",
       "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
       "sentiment": "negative",
       "keywords": [
@@ -1180,7 +1484,7 @@
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T13:10:07+00:00",
-      "time_ago": "4 giờ trước",
+      "time_ago": "9 giờ trước",
       "summary": "Tiền số lớn nhất thế giới vượt 85.000 USD, mức cao nhất kể từ cuối tháng 1, do nhà đầu tư cược Bitcoin giảm phải mua lại để cắt lỗ.",
       "sentiment": "negative",
       "keywords": [],
@@ -1198,7 +1502,7 @@
       "source_key": "dcn",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "category-coffee region-global topic-coffee topic-specialty source-dcn",
+      "tags": "topic-specialty source-dcn topic-coffee region-global category-coffee",
       "topics": [
         "topic-coffee",
         "topic-specialty"
@@ -1206,7 +1510,7 @@
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T13:06:05+00:00",
-      "time_ago": "4 giờ trước",
+      "time_ago": "9 giờ trước",
       "summary": "In downtown Richmond, Virginia, Pi&#8217;s Coffee is hoping to become a new constant for coffee drinkers with its new roastery cafe featuring Indian specialty coffee.&#160; Founded by Piyush “Pi” Jessani,...",
       "sentiment": "neutral",
       "keywords": [
@@ -1219,6 +1523,32 @@
       "lang": "en"
     },
     {
+      "id": "0314a221",
+      "title": "VinFast ra mắt xe máy điện đi 262 km một lần sạc",
+      "url": "https://vnexpress.net/vinfast-ra-mat-xe-may-dien-di-262-km-mot-lan-sac-5123023.html",
+      "source_name": "VnExpress Thị trường",
+      "source_key": "vnexpress",
+      "badge": "vnexpress",
+      "region": "region-vietnam",
+      "tags": "topic-newmenu category-fnb source-vnexpress topic-price region-vietnam",
+      "topics": [
+        "topic-newmenu",
+        "topic-price"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T12:30:00+00:00",
+      "time_ago": "10 giờ trước",
+      "summary": "Xe máy điện Evo Grand thế hệ mới thay đổi thiết kế, tích hợp tính năng thông minh và hệ thống 2 pin, giá bán từ 22,9 triệu đồng, ra mắt ngày 21/9.",
+      "sentiment": "positive",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "vi"
+    },
+    {
       "id": "f65c2d53",
       "title": "The Plot Thickens On Dodgers Pitcher Tarik Skubal’s Espresso Machine",
       "url": "https://sprudge.com/the-plot-thickens-on-dodgers-pitcher-tarik-skubals-espresso-machine-1348212.html",
@@ -1226,7 +1556,7 @@
       "source_key": "sprudge",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "category-coffee region-global topic-coffee topic-price source-sprudge",
+      "tags": "source-sprudge topic-coffee topic-price region-global category-coffee",
       "topics": [
         "topic-coffee",
         "topic-price"
@@ -1234,7 +1564,7 @@
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T12:00:58+00:00",
-      "time_ago": "5 giờ trước",
+      "time_ago": "11 giờ trước",
       "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. We've got a price tag.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1252,7 +1582,7 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "brand-openai topic-ai category-ai source-theverge region-global",
+      "tags": "category-ai brand-openai source-theverge topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
@@ -1261,7 +1591,7 @@
       ],
       "category": "ai",
       "published": "2026-09-21T10:18:06+00:00",
-      "time_ago": "7 giờ trước",
+      "time_ago": "12 giờ trước",
       "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
       "sentiment": "neutral",
       "keywords": [
@@ -1281,14 +1611,14 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "category-ai source-theverge region-global topic-ai",
+      "tags": "category-ai source-theverge topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-21T09:21:47+00:00",
-      "time_ago": "8 giờ trước",
+      "time_ago": "13 giờ trước",
       "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
       "sentiment": "neutral",
       "keywords": [
@@ -1301,6 +1631,34 @@
       "lang": "en"
     },
     {
+      "id": "75c37595",
+      "title": "Hyundai Tucson 2027 hé lộ động cơ điện khí hóa",
+      "url": "https://vnexpress.net/hyundai-tucson-2027-he-lo-dong-co-dien-khi-hoa-5122881.html",
+      "source_name": "VnExpress Thị trường",
+      "source_key": "vnexpress",
+      "badge": "vnexpress",
+      "region": "region-vietnam",
+      "tags": "region-vietnam topic-newmenu category-fnb source-vnexpress topic-ai",
+      "topics": [
+        "topic-newmenu",
+        "topic-ai"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T09:03:23+00:00",
+      "time_ago": "13 giờ trước",
+      "summary": "Xe gầm cao cỡ C thế hệ mới tùy chọn máy xăng hoặc hybrid, trang bị nhiều tính năng và công nghệ, ra mắt trong tháng 10.",
+      "sentiment": "positive",
+      "keywords": [
+        "ai"
+      ],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": true,
+      "is_coffee": false,
+      "lang": "vi"
+    },
+    {
       "id": "7b538b6e",
       "title": "Chứng khoán Việt Nam giảm mạnh trong ngày đầu nâng hạng",
       "url": "https://vnexpress.net/chung-khoan-viet-nam-giam-manh-trong-ngay-dau-nang-hang-5122932.html",
@@ -1308,7 +1666,7 @@
       "source_key": "vnexpress",
       "badge": "vnexpress",
       "region": "region-vietnam",
-      "tags": "source-vnexpress topic-supply category-fnb topic-funding region-vietnam",
+      "tags": "topic-supply category-fnb source-vnexpress region-vietnam topic-funding",
       "topics": [
         "topic-funding",
         "topic-supply"
@@ -1316,7 +1674,7 @@
       "brands": [],
       "category": "fnb",
       "published": "2026-09-21T08:47:24+00:00",
-      "time_ago": "9 giờ trước",
+      "time_ago": "14 giờ trước",
       "summary": "VN-Index giảm gần 16 điểm và thủng mốc 1.800 điểm, bởi áp lực bán mạnh của nhà đầu tư trong lẫn ngoài nước tập trung vào nhóm chứng khoán và bất động sản.",
       "sentiment": "negative",
       "keywords": [],
@@ -1334,7 +1692,7 @@
       "source_key": "pdg",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "source-pdg topic-ai category-coffee region-global topic-coffee topic-specialty",
+      "tags": "topic-specialty topic-coffee source-pdg topic-ai region-global category-coffee",
       "topics": [
         "topic-coffee",
         "topic-ai",
@@ -1343,7 +1701,7 @@
       "brands": [],
       "category": "coffee",
       "published": "2026-09-21T05:53:00+00:00",
-      "time_ago": "12 giờ trước",
+      "time_ago": "17 giờ trước",
       "summary": "Multi-roaster cafés tap into what makes specialty coffee so exciting: access to some of the world’s best roasters and producers. But thin margins, heavier admin, and ever-changing offerings create a unique set of challenges. The post Running a multi-roaster coffee shop is harder than you think appeared first on Perfect Daily Grind.",
       "sentiment": "neutral",
       "keywords": [
@@ -1357,6 +1715,83 @@
       "lang": "en"
     },
     {
+      "id": "a717ca35",
+      "title": "Porsche Cayenne Electric phiên bản mới ra mắt",
+      "url": "https://vnexpress.net/porsche-cayenne-electric-phien-ban-moi-ra-mat-5122491.html",
+      "source_name": "VnExpress Thị trường",
+      "source_key": "vnexpress",
+      "badge": "vnexpress",
+      "region": "region-vietnam",
+      "tags": "source-vnexpress region-vietnam topic-newmenu category-fnb",
+      "topics": [
+        "topic-newmenu"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T03:03:09+00:00",
+      "time_ago": "20 giờ trước",
+      "summary": "Mẫu SUV điện thể thao nâng cấp với cửa tự động, ghế massage rung theo nhạc.",
+      "sentiment": "positive",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "vi"
+    },
+    {
+      "id": "d6109ae9",
+      "title": "'Cào cào' Yamaha WR155R 2026 ra mắt, giá 79 triệu đồng",
+      "url": "https://vnexpress.net/cao-cao-yamaha-wr155r-2026-ra-mat-gia-79-trieu-dong-5122590.html",
+      "source_name": "VnExpress Thị trường",
+      "source_key": "vnexpress",
+      "badge": "vnexpress",
+      "region": "region-vietnam",
+      "tags": "topic-newmenu category-fnb source-vnexpress topic-price region-vietnam",
+      "topics": [
+        "topic-newmenu",
+        "topic-price"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-21T01:19:27+00:00",
+      "time_ago": "21 giờ trước",
+      "summary": "Mẫu xe địa hình WR155R ra mắt bản nâng cấp với dàn áo và màu tem mới, động cơ, giá bán giữ nguyên so với trước đây.",
+      "sentiment": "positive",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "vi"
+    },
+    {
+      "id": "40941cbf",
+      "title": "BYD Sealion 5 - xe hybrid sạc ngoài ra mắt khách Việt tháng 10",
+      "url": "https://vnexpress.net/byd-sealion-5-xe-hybrid-sac-ngoai-ra-mat-khach-viet-thang-10-5122440.html",
+      "source_name": "VnExpress Thị trường",
+      "source_key": "vnexpress",
+      "badge": "vnexpress",
+      "region": "region-vietnam",
+      "tags": "topic-supply topic-newmenu category-fnb source-vnexpress region-vietnam",
+      "topics": [
+        "topic-newmenu",
+        "topic-supply"
+      ],
+      "brands": [],
+      "category": "fnb",
+      "published": "2026-09-20T22:00:00+00:00",
+      "time_ago": "1 ngày trước",
+      "summary": "Mẫu CUV cỡ C sắp bán ở Việt Nam kết hợp động cơ xăng và môtơ, tổng công suất đạt 208 mã lực, hoạt động thuần điện khoảng 110 km.",
+      "sentiment": "positive",
+      "keywords": [],
+      "is_new": true,
+      "is_hot": true,
+      "is_ai": false,
+      "is_coffee": false,
+      "lang": "vi"
+    },
+    {
       "id": "a5761cc7",
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -1364,15 +1799,15 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-general",
+      "tags": "category-ai source-techcrunch region-global topic-general",
       "topics": [
         "topic-general"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-20T21:41:08+00:00",
-      "time_ago": "20 giờ trước",
-      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "time_ago": "1 ngày trước",
+      "summary": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
       "sentiment": "neutral",
       "keywords": [],
       "is_new": true,
@@ -1389,14 +1824,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-b2b",
+      "tags": "category-ai source-techcrunch topic-b2b region-global",
       "topics": [
         "topic-b2b"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-20T20:29:07+00:00",
-      "time_ago": "21 giờ trước",
+      "time_ago": "1 ngày trước",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1414,14 +1849,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-20T18:56:04+00:00",
-      "time_ago": "23 giờ trước",
+      "time_ago": "1 ngày trước",
       "summary": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "sentiment": "negative",
       "keywords": [
@@ -1441,7 +1876,7 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "topic-ai category-ai source-theverge region-global topic-brunch",
+      "tags": "category-ai source-theverge topic-brunch topic-ai region-global",
       "topics": [
         "topic-brunch",
         "topic-ai"
@@ -1449,7 +1884,7 @@
       "brands": [],
       "category": "ai",
       "published": "2026-09-20T18:50:18+00:00",
-      "time_ago": "23 giờ trước",
+      "time_ago": "1 ngày trước",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
       "sentiment": "positive",
       "keywords": [
@@ -1469,14 +1904,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-price",
+      "tags": "category-ai source-techcrunch topic-price region-global",
       "topics": [
         "topic-price"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-20T18:32:52+00:00",
-      "time_ago": "23 giờ trước",
+      "time_ago": "1 ngày trước",
       "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "sentiment": "neutral",
       "keywords": [],
@@ -1494,7 +1929,7 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-funding",
+      "tags": "category-ai source-techcrunch region-global topic-funding",
       "topics": [
         "topic-funding"
       ],
@@ -1519,7 +1954,7 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "category-ai source-theverge region-global topic-ai",
+      "tags": "category-ai source-theverge topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
@@ -1546,7 +1981,7 @@
       "source_key": "vnexpress",
       "badge": "vnexpress",
       "region": "region-europe",
-      "tags": "region-europe source-vnexpress topic-ai category-fnb",
+      "tags": "source-vnexpress region-europe topic-ai category-fnb",
       "topics": [
         "topic-ai"
       ],
@@ -1573,7 +2008,7 @@
       "source_key": "sprudge",
       "badge": "pdg",
       "region": "region-global",
-      "tags": "source-sprudge region-global topic-coffee category-coffee",
+      "tags": "topic-coffee region-global source-sprudge category-coffee",
       "topics": [
         "topic-coffee"
       ],
@@ -1598,7 +2033,7 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "topic-ai category-ai source-theverge region-global topic-funding",
+      "tags": "category-ai source-theverge topic-ai region-global topic-funding",
       "topics": [
         "topic-funding",
         "topic-ai"
@@ -1619,35 +2054,6 @@
       "lang": "en"
     },
     {
-      "id": "e3ba1136",
-      "title": "CEO Golden Gate: Nhà máy mới giúp chúng tôi mở rộng sang lĩnh vực khác ngoài nhà hàng",
-      "url": "https://vnexpress.net/ceo-golden-gate-nha-may-moi-giup-chung-toi-mo-rong-sang-linh-vuc-khac-ngoai-nha-hang-5122368.html",
-      "source_name": "VnExpress Kinh doanh",
-      "source_key": "vnexpress",
-      "badge": "vnexpress",
-      "region": "region-vietnam",
-      "tags": "source-vnexpress topic-ai category-fnb topic-price region-vietnam topic-expand",
-      "topics": [
-        "topic-expand",
-        "topic-price",
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "fnb",
-      "published": "2026-09-20T07:53:14+00:00",
-      "time_ago": "1 ngày trước",
-      "summary": "Với việc đưa vào hoạt động nhà máy sản xuất thứ hai, Tổng giám đốc Golden Gate Đào Thế Vinh cho biết công ty có thể bước sang lĩnh vực khác ngoài kinh doanh nhà hàng.",
-      "sentiment": "positive",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "vi"
-    },
-    {
       "id": "45d620b2",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -1655,14 +2061,14 @@
       "source_key": "theverge",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "category-ai source-theverge region-global topic-ai",
+      "tags": "category-ai source-theverge topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-19T20:44:40+00:00",
-      "time_ago": "1 ngày trước",
+      "time_ago": "2 ngày trước",
       "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
       "sentiment": "neutral",
       "keywords": [
@@ -1682,14 +2088,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-19T20:39:13+00:00",
-      "time_ago": "1 ngày trước",
+      "time_ago": "2 ngày trước",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
       "sentiment": "neutral",
       "keywords": [
@@ -1709,14 +2115,14 @@
       "source_key": "techcrunch",
       "badge": "bloomberg",
       "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
+      "tags": "category-ai source-techcrunch topic-ai region-global",
       "topics": [
         "topic-ai"
       ],
       "brands": [],
       "category": "ai",
       "published": "2026-09-19T19:57:47+00:00",
-      "time_ago": "1 ngày trước",
+      "time_ago": "2 ngày trước",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "sentiment": "neutral",
       "keywords": [
@@ -1726,427 +2132,6 @@
       "is_hot": false,
       "is_ai": true,
       "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "c67b3655",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T17:30:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "28713f5b",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source_name": "The Verge AI",
-      "source_key": "theverge",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "brand-openai topic-ai category-ai source-theverge region-global",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [
-        "brand-openai"
-      ],
-      "category": "ai",
-      "published": "2026-09-19T15:25:03+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "sentiment": "negative",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "031e78fe",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "topic-ai category-ai region-global topic-price source-techcrunch topic-specialty",
-      "topics": [
-        "topic-price",
-        "topic-ai",
-        "topic-specialty"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T15:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "f48af824",
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "topic-ai category-ai region-global topic-marketing source-techcrunch",
-      "topics": [
-        "topic-marketing",
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T15:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "a4b8614a",
-      "title": "Prices go up in 7 days — get your Disrupt ticket now",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-price",
-      "topics": [
-        "topic-price"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T14:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "sentiment": "neutral",
-      "keywords": [],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "0dd3f3fb",
-      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "source_name": "The Verge AI",
-      "source_key": "theverge",
-      "badge": "bloomberg",
-      "region": "region-americas",
-      "tags": "category-ai source-theverge region-americas topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T14:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&#8230;]",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "0ac6fc97",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-ai",
-      "topics": [
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T13:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "sentiment": "neutral",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "8f2d17f9",
-      "title": "Checking In On The Other Side Of The Supply Chain With The Green Room",
-      "url": "https://sprudge.com/checking-in-on-the-other-side-of-the-supply-chain-with-the-green-room-1349454.html",
-      "source_name": "Sprudge Coffee",
-      "source_key": "sprudge",
-      "badge": "pdg",
-      "region": "region-global",
-      "tags": "topic-supply topic-ai category-coffee region-global topic-coffee topic-price source-sprudge",
-      "topics": [
-        "topic-coffee",
-        "topic-price",
-        "topic-ai",
-        "topic-supply"
-      ],
-      "brands": [],
-      "category": "coffee",
-      "published": "2026-09-19T12:00:57+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. An all-access pass to the inner workings of the coffee supply chain.",
-      "sentiment": "neutral",
-      "keywords": [
-        "supply chain",
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": true,
-      "lang": "en"
-    },
-    {
-      "id": "eb480811",
-      "title": "Lynk &amp; Co 02 tạo điểm nhấn với bộ tem thiết kế độc đáo",
-      "url": "https://vnexpress.net/lynk-co-02-tao-diem-nhan-voi-bo-tem-thiet-ke-doc-dao-5122216.html",
-      "source_name": "VnExpress Thị trường",
-      "source_key": "vnexpress",
-      "badge": "vnexpress",
-      "region": "region-vietnam",
-      "tags": "source-vnexpress topic-ai category-fnb topic-newmenu region-vietnam",
-      "topics": [
-        "topic-newmenu",
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "fnb",
-      "published": "2026-09-19T07:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Lynk &amp; Co ra mắt thiết kế bộ tem độc đáo trên hai phối màu ngoại thất của mẫu xe điện 02, hướng đến phong cách thể thao và cá tính.",
-      "sentiment": "positive",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "vi"
-    },
-    {
-      "id": "2f121b44",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "source-techcrunch category-ai region-global topic-general",
-      "topics": [
-        "topic-general"
-      ],
-      "brands": [],
-      "category": "ai",
-      "published": "2026-09-19T01:00:00+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "sentiment": "neutral",
-      "keywords": [],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "d8747de7",
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source_name": "TechCrunch AI",
-      "source_key": "techcrunch",
-      "badge": "bloomberg",
-      "region": "region-global",
-      "tags": "topic-b2b topic-ai brand-illy category-ai region-global source-techcrunch",
-      "topics": [
-        "topic-ai",
-        "topic-b2b"
-      ],
-      "brands": [
-        "brand-illy"
-      ],
-      "category": "ai",
-      "published": "2026-09-19T00:12:07+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "sentiment": "neutral",
-      "keywords": [
-        "illy",
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "b4f0732d",
-      "title": "Where restaurants fit into the growing ‘couch economy’",
-      "url": "https://www.nrn.com/restaurant-delivery/where-restaurants-fit-into-the-growing-couch-economy-",
-      "source_name": "Nation's Restaurant News",
-      "source_key": "nrn",
-      "badge": "foodnavigator",
-      "region": "region-americas",
-      "tags": "source-nrn topic-ai category-fnb topic-delivery topic-macro region-americas",
-      "topics": [
-        "topic-delivery",
-        "topic-ai",
-        "topic-macro"
-      ],
-      "brands": [],
-      "category": "fnb",
-      "published": "2026-09-18T18:52:57+00:00",
-      "time_ago": "2 ngày trước",
-      "summary": "Thanks to conveniences like food delivery, daily life is becoming more centered on the home, according to new Visa data.",
-      "sentiment": "neutral",
-      "keywords": [
-        "delivery",
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "3766f4ec",
-      "title": "MOD Pizza launches pizza inspired by the comedy series 'Abbott Elementary'",
-      "url": "https://www.nrn.com/fast-casual/mod-pizza-launches-pizza-inspired-by-the-comedy-series-abbott-elementary-",
-      "source_name": "Nation's Restaurant News",
-      "source_key": "nrn",
-      "badge": "foodnavigator",
-      "region": "region-americas",
-      "tags": "source-nrn topic-ai category-fnb region-americas topic-qsr topic-newmenu",
-      "topics": [
-        "topic-newmenu",
-        "topic-qsr",
-        "topic-ai"
-      ],
-      "brands": [],
-      "category": "fnb",
-      "published": "2026-09-18T17:47:20+00:00",
-      "time_ago": "3 ngày trước",
-      "summary": "The fast-casual chain's limited-time offer taps the flavors of Philadelphia, where the ABC series is based. Abbott Elementary's latest season is scheduled to debut on Oct. 7.",
-      "sentiment": "positive",
-      "keywords": [
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "f3f1ece9",
-      "title": "What to watch for at FS/TEC 2026",
-      "url": "https://www.nrn.com/restaurant-technology/what-to-watch-for-at-fs-tec-2026",
-      "source_name": "Nation's Restaurant News",
-      "source_key": "nrn",
-      "badge": "foodnavigator",
-      "region": "region-americas",
-      "tags": "topic-general region-americas source-nrn category-fnb",
-      "topics": [
-        "topic-general"
-      ],
-      "brands": [],
-      "category": "fnb",
-      "published": "2026-09-18T16:57:33+00:00",
-      "time_ago": "3 ngày trước",
-      "summary": "The big restaurant tech conference starts Wednesday in Texas. Here’s the programming attendees should be sure not to miss.",
-      "sentiment": "neutral",
-      "keywords": [],
-      "is_new": true,
-      "is_hot": false,
-      "is_ai": false,
-      "is_coffee": false,
-      "lang": "en"
-    },
-    {
-      "id": "746ef138",
-      "title": "Design Details: A Fluid Space for Cinnamon Rolls and Specialty Coffee at Cinnamood in Barcelona",
-      "url": "https://dailycoffeenews.com/2026/09/18/design-details-a-fluid-space-for-cinnamon-rolls-and-specialty-coffee-at-cinnamood-in-barcelona/",
-      "source_name": "Daily Coffee News",
-      "source_key": "dcn",
-      "badge": "pdg",
-      "region": "region-global",
-      "tags": "topic-ai category-coffee region-global topic-coffee topic-specialty source-dcn",
-      "topics": [
-        "topic-coffee",
-        "topic-ai",
-        "topic-specialty"
-      ],
-      "brands": [],
-      "category": "coffee",
-      "published": "2026-09-18T16:29:04+00:00",
-      "time_ago": "3 ngày trước",
-      "summary": "Welcome to Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a...",
-      "sentiment": "neutral",
-      "keywords": [
-        "specialty",
-        "ai"
-      ],
-      "is_new": true,
-      "is_hot": true,
-      "is_ai": true,
-      "is_coffee": true,
       "lang": "en"
     }
   ]
