@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21T03:54:32.929782+00:00",
+  "updated": "2026-09-21T09:46:33.148354+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 42,
   "trending_topics": [
     {
       "tag": "topic-ai",
@@ -15,15 +15,8 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 7,
+      "count_24h": 8,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-price",
@@ -31,6 +24,13 @@
       "count": 9,
       "count_24h": 5,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 6,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -42,16 +42,9 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -63,6 +56,13 @@
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -108,10 +108,10 @@
     }
   ],
   "sentiment": {
-    "positive": 10,
-    "negative": 10,
-    "neutral": 60,
-    "score": 0,
+    "positive": 13,
+    "negative": 11,
+    "neutral": 56,
+    "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -122,16 +122,12 @@
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "specialty",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "up",
-    "price_up_signals": 1,
+    "total_articles": 6,
+    "price_direction": "stable",
+    "price_up_signals": 0,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -144,7 +140,7 @@
         "title": "If I Had To Pick One Coffee From The Sprudge Roaster’s Village, I’d Pick Them All",
         "url": "https://sprudge.com/if-i-had-to-pick-one-coffee-from-the-sprudge-roasters-village-id-pick-them-all-1349410.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Checking In On The Other Side Of The Supply Chain With The Green Room",
@@ -166,7 +162,7 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 51,
@@ -227,10 +223,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-americas": 15,
-    "region-vietnam": 14,
+    "region-vietnam": 18,
+    "region-sea": 16,
+    "region-americas": 12,
     "region-europe": 2,
-    "region-global": 34
+    "region-global": 32
   }
 }
