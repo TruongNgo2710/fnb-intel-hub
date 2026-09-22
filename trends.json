@@ -1,54 +1,54 @@
 {
-  "updated": "2026-09-22T09:10:19.781099+00:00",
+  "updated": "2026-09-22T16:31:58.378494+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
-      "count_24h": 32,
+      "count": 40,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 16,
+      "count": 15,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 14,
-      "count_24h": 12,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 10,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 5,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 4,
       "trend": "hot"
@@ -57,16 +57,22 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
@@ -77,15 +83,15 @@
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 10,
-    "neutral": 52,
-    "score": 10,
+    "negative": 7,
+    "neutral": 55,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -93,10 +99,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
-    "price_up_signals": 0,
-    "price_down_signals": 0,
+    "price_up_signals": 1,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -105,48 +111,36 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Cafe Imports Now 100% Employee-Owned Through a Stock Plan",
-        "url": "https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/",
+        "title": "Paris Brothers Becomes Paris Group",
+        "url": "https://sprudge.com/paris-brothers-becomes-paris-group-1358026.html",
+        "source": "Sprudge Coffee",
+        "time": "40 phút trước"
+      },
+      {
+        "title": "SCA Gives UC Davis Coffee Center $1 Million for Research Fellowship",
+        "url": "https://dailycoffeenews.com/2026/09/22/sca-gives-uc-davis-coffee-center-1-million-for-research-fellowship/",
         "source": "Daily Coffee News",
-        "time": "14 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "RoastConsole Launches Coffee Roasting Software That Runs The Whole Roastery On One Plan",
-        "url": "https://sprudge.com/roastconsole-launches-coffee-roasting-software-that-runs-the-whole-roastery-on-one-plan-1356622.html",
+        "title": "Variety Coffee Roasters Consistently Delivers with 10th New York Location",
+        "url": "https://dailycoffeenews.com/2026/09/22/variety-coffee-roasters-consistently-delivers-with-10th-new-york-location/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "The Grounds For Health Auction Is This Week",
+        "url": "https://sprudge.com/the-grounds-for-health-auction-is-this-week-1356678.html",
         "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Smart Care Launches Turbo Tech For Speed Ovens & Coffee Equipment, Debuts Innovative Flat Rate Price For Speed Ovens Service",
-        "url": "https://sprudge.com/smart-care-launches-turbo-tech-for-speed-ovens-coffee-equipment-debuts-innovative-flat-rate-price-for-speed-ovens-service-1356618.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Jack in the Box adds a former Starbucks exec to its board",
-        "url": "https://www.nrn.com/restaurant-executives/jack-in-the-box-adds-a-former-starbucks-exec-to-its-board",
-        "source": "Nation's Restaurant News",
-        "time": "17 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 0 · giảm 0 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Takaichi to stress Japanese investment in US in talks with Trump",
-        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-to-stress-japanese-investment-in-us-in-talks-with-trump",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SoftBank Group to launch $11bn bond sale to fund OpenAI investment",
-        "url": "https://asia.nikkei.com/business/softbank/softbank-group-to-launch-11bn-bond-sale-to-fund-openai-investment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan sends labor minister to attend APEC meeting in China",
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-sends-labor-minister-to-attend-apec-meeting-in-china",
@@ -164,9 +158,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-china-ai-race-speeds-up-as-self-improving-models-advance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan plans AI robot contest on International Space Station",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-plans-ai-robot-contest-on-international-space-station",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "China's power infrastructure stocks languish despite AI boom",
+        "url": "https://asia.nikkei.com/business/markets/equities/china-s-power-infrastructure-stocks-languish-despite-ai-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -191,9 +197,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 15,
-    "region-sea": 18,
-    "region-vietnam": 20,
-    "region-global": 27
+    "region-sea": 19,
+    "region-vietnam": 16,
+    "region-global": 28,
+    "region-americas": 17
   }
 }
