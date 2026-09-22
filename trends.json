@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-21T23:05:45.432691+00:00",
+  "updated": "2026-09-22T03:51:49.862864+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 67,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 37,
-      "count_24h": 29,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
+      "count": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
+      "count": 13,
       "count_24h": 11,
       "trend": "hot"
     },
@@ -76,10 +76,10 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 12,
+    "positive": 17,
+    "negative": 11,
     "neutral": 52,
-    "score": 5,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -112,25 +112,25 @@
         "title": "Cafe Imports Now 100% Employee-Owned Through a Stock Plan",
         "url": "https://dailycoffeenews.com/2026/09/21/cafe-imports-now-100-employee-owned-through-a-stock-plan/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "RoastConsole Launches Coffee Roasting Software That Runs The Whole Roastery On One Plan",
         "url": "https://sprudge.com/roastconsole-launches-coffee-roasting-software-that-runs-the-whole-roastery-on-one-plan-1356622.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Smart Care Launches Turbo Tech For Speed Ovens & Coffee Equipment, Debuts Innovative Flat Rate Price For Speed Ovens Service",
         "url": "https://sprudge.com/smart-care-launches-turbo-tech-for-speed-ovens-coffee-equipment-debuts-innovative-flat-rate-price-for-speed-ovens-service-1356618.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Jack in the Box adds a former Starbucks exec to its board",
         "url": "https://www.nrn.com/restaurant-executives/jack-in-the-box-adds-a-former-starbucks-exec-to-its-board",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -195,10 +195,9 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 15,
-    "region-sea": 18,
+    "region-sea": 19,
     "region-americas": 15,
-    "region-global": 31,
-    "region-europe": 1
+    "region-vietnam": 16,
+    "region-global": 30
   }
 }
