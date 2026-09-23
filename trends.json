@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-23T16:22:06.124622+00:00",
+  "updated": "2026-09-23T22:49:36.594645+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 33,
+      "count_24h": 36,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 12,
+      "count": 14,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 12,
-      "count_24h": 8,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -33,36 +33,29 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-qsr",
+      "label": "#QSR",
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 1,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -76,21 +69,15 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
+      "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-highlands",
-      "name": "Highlands Coffee",
-      "count": 1,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
       "trend": "up"
     },
     {
@@ -101,27 +88,35 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 6,
-    "neutral": 54,
-    "score": 18,
+    "positive": 16,
+    "negative": 7,
+    "neutral": 57,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 40
     },
     {
       "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "highlands",
+      "count": 2
+    },
+    {
+      "word": "claude",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 12,
-    "price_direction": "stable",
-    "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_direction": "up",
+    "price_up_signals": 2,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -136,68 +131,68 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Study Finds Coffee Associations with Fat, Muscle and Testosterone",
-        "url": "https://dailycoffeenews.com/2026/09/23/study-finds-coffee-associations-with-fat-muscle-and-testosterone/",
-        "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "title": "Ông chủ Highlands Coffee chi 2.300 tỷ đồng mua lại vốn từ Jollibee",
+        "url": "https://vnexpress.net/ong-chu-highlands-coffee-chi-2-300-ty-dong-mua-lai-von-tu-jollibee-5124003.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "46 phút trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Bellwood Coffee In Atlanta, GA",
-        "url": "https://sprudge.com/build-outs-of-coffee-bellwood-coffee-in-atlanta-ga-2-1327933.html",
+        "title": "Go Get Em Tiger Launches “Roasted At Origin,” Shifting More Of Its Coffee Program To Producing Countries",
+        "url": "https://sprudge.com/go-get-em-tiger-launches-roasted-at-origin-shifting-more-of-its-coffee-program-to-producing-countries-1361782.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "3 giờ trước"
       },
       {
-        "title": "Atomic Coffee and Overpotential Combine for Electrified Cold Brew",
-        "url": "https://dailycoffeenews.com/2026/09/23/atomic-coffee-and-overpotential-combine-for-electrified-cold-brew/",
-        "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "title": "Dallas’ Local Favorite Restaurants has gained momentum by putting people first",
+        "url": "https://www.nrn.com/independent-restaurants/dallas-local-favorite-restaurants-has-gained-momentum-by-putting-people-first",
+        "source": "Nation's Restaurant News",
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 44,
     "top_articles": [
       {
-        "title": "Japan's esports athletes train like Olympians at Tokyo center",
-        "url": "https://asia.nikkei.com/spotlight/sports/japan-s-esports-athletes-train-like-olympians-at-tokyo-center",
+        "title": "Vietnam's Vingroup inks $1bn bullet train deal with Siemens",
+        "url": "https://asia.nikkei.com/business/transportation/vietnam-s-vingroup-inks-1bn-bullet-train-deal-with-siemens",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Roche-owned Chugai Pharma to ramp up in-house output with 50% capex boost",
-        "url": "https://asia.nikkei.com/business/pharmaceuticals/roche-owned-chugai-pharma-to-ramp-up-in-house-output-with-50-capex-boost",
+        "title": "Foxconn leads Taiwan tech firms in plan for AI, EV hub in Poland",
+        "url": "https://asia.nikkei.com/business/technology/foxconn-leads-taiwan-tech-firms-in-plan-for-ai-ev-hub-in-poland",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Sharp takes aim at Starlink dominance with universal satellite antenna",
-        "url": "https://asia.nikkei.com/business/technology/sharp-takes-aim-at-starlink-dominance-with-universal-satellite-antenna",
+        "title": "Japan's Hitachi Rail to upgrade Austria's signal system in $1.5bn deal",
+        "url": "https://asia.nikkei.com/business/transportation/japan-s-hitachi-rail-to-upgrade-austria-s-signal-system-in-1.5bn-deal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
-        "url": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
+        "title": "LNG power proposed for Hawaii with $2bn project led by Japan's JERA",
+        "url": "https://asia.nikkei.com/business/energy/lng-power-proposed-for-hawaii-with-2bn-project-led-by-japan-s-jera",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "El Nino, AI to widen economic growth gap in developing Asia: ADB",
-        "url": "https://asia.nikkei.com/economy/el-nino-ai-to-widen-economic-growth-gap-in-developing-asia-adb",
+        "title": "Takaichi raises China concerns but Trump may still cut deal with Xi",
+        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-raises-china-concerns-but-trump-may-still-cut-deal-with-xi",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "count": 2,
+      "signal": "⬆️ Tăng (2 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -217,9 +212,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-europe": 1,
-    "region-vietnam": 15,
-    "region-americas": 11,
-    "region-global": 36
+    "region-vietnam": 12,
+    "region-americas": 20,
+    "region-global": 31
   }
 }
