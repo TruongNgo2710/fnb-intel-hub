@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-23T03:50:17.800652+00:00",
+  "updated": "2026-09-23T09:11:43.759303+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 65,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 34,
+      "count": 42,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
+      "count": 15,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
@@ -33,30 +33,30 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 5,
-      "trend": "hot"
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 4,
-      "trend": "hot"
+      "count": 4,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 4,
       "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 3,
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -89,16 +89,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 6,
+    "positive": 18,
+    "negative": 7,
     "neutral": 55,
-    "score": 16,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -106,9 +106,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "stable",
-    "price_up_signals": 1,
+    "total_articles": 8,
+    "price_direction": "down",
+    "price_up_signals": 0,
     "price_down_signals": 1,
     "top_articles": [
       {
@@ -121,51 +121,33 @@
         "title": "Ready To Drink: The Cascara Fizz & Boom From Cascara Cabinet",
         "url": "https://sprudge.com/ready-to-drink-the-cascara-fizz-boom-from-cascara-cabinet-1278625.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Ritual Coffee Roasters In San Francisco, CA",
         "url": "https://sprudge.com/build-outs-of-coffee-ritual-coffee-roasters-in-san-francisco-ca-1301579.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Paris Brothers Becomes Paris Group",
         "url": "https://sprudge.com/paris-brothers-becomes-paris-group-1358026.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "SCA Gives UC Davis Coffee Center $1 Million for Research Fellowship",
         "url": "https://dailycoffeenews.com/2026/09/22/sca-gives-uc-davis-coffee-center-1-million-for-research-fellowship/",
         "source": "Daily Coffee News",
-        "time": "13 giờ trước"
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (1 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Chinese tourists flock to Hong Kong trails as spending slows",
-        "url": "https://asia.nikkei.com/business/travel-leisure/chinese-tourists-flock-to-hong-kong-trails-as-spending-slows",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Amazon taps TBC to make AI models faster, cheaper with human neurons",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/amazon-taps-tbc-to-make-ai-models-faster-cheaper-with-human-neurons",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Trump and Xi set to talk trade and AI as truce hangs in balance",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-and-xi-set-to-talk-trade-and-ai-as-truce-hangs-in-balance",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Big Japan banks' domestic loan share marks 1st sustained post-bubble rise",
         "url": "https://asia.nikkei.com/business/finance/big-japan-banks-domestic-loan-share-marks-1st-sustained-post-bubble-rise",
@@ -177,9 +159,27 @@
         "url": "https://asia.nikkei.com/spotlight/sports/japan-s-esports-athletes-train-like-olympians-at-tokyo-center",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Roche-owned Chugai Pharma to ramp up in-house output with 50% capex boost",
+        "url": "https://asia.nikkei.com/business/pharmaceuticals/roche-owned-chugai-pharma-to-ramp-up-in-house-output-with-50-capex-boost",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Sharp takes aim at Starlink dominance with universal satellite antenna",
+        "url": "https://asia.nikkei.com/business/technology/sharp-takes-aim-at-starlink-dominance-with-universal-satellite-antenna",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
+        "url": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -204,10 +204,10 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 18,
     "region-sea": 16,
-    "region-vietnam": 17,
-    "region-americas": 15,
     "region-europe": 1,
-    "region-global": 31
+    "region-vietnam": 13,
+    "region-global": 32
   }
 }
