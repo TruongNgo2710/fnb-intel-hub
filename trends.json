@@ -1,35 +1,35 @@
 {
-  "updated": "2026-09-24T03:42:14.792517+00:00",
+  "updated": "2026-09-24T09:07:13.235123+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 79,
+  "articles_24h": 77,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 41,
+      "count": 39,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 13,
+      "count": 12,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -81,16 +81,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 6,
+    "positive": 19,
+    "negative": 5,
     "neutral": 56,
-    "score": 15,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -127,45 +127,27 @@
         "title": "Ông chủ Highlands Coffee chi 2.300 tỷ đồng mua lại vốn từ Jollibee",
         "url": "https://vnexpress.net/ong-chu-highlands-coffee-chi-2-300-ty-dong-mua-lai-von-tu-jollibee-5124003.html",
         "source": "VnExpress Kinh doanh",
-        "time": "5 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Go Get Em Tiger Launches “Roasted At Origin,” Shifting More Of Its Coffee Program To Producing Countries",
         "url": "https://sprudge.com/go-get-em-tiger-launches-roasted-at-origin-shifting-more-of-its-coffee-program-to-producing-countries-1361782.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Dallas’ Local Favorite Restaurants has gained momentum by putting people first",
         "url": "https://www.nrn.com/independent-restaurants/dallas-local-favorite-restaurants-has-gained-momentum-by-putting-people-first",
         "source": "Nation's Restaurant News",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "LNG power proposed for Hawaii with $2bn project led by Japan's JERA",
-        "url": "https://asia.nikkei.com/business/energy/lng-power-proposed-for-hawaii-with-2bn-project-led-by-japan-s-jera",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Takaichi raises China concerns but Trump may still cut deal with Xi",
-        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-raises-china-concerns-but-trump-may-still-cut-deal-with-xi",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan railway JR Kyushu joins with SBI to offer riders financial app",
-        "url": "https://asia.nikkei.com/business/finance/japan-railway-jr-kyushu-joins-with-sbi-to-offer-riders-financial-app",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Takaichi grows cautious of setting GDP defense spending target",
         "url": "https://asia.nikkei.com/politics/defense/japan-s-takaichi-grows-cautious-of-setting-gdp-defense-spending-target",
@@ -177,9 +159,27 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-broadcasters-roll-out-ai-for-explosion-effects-other-uses-to-cut-costs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan regains 'land of gold' shine as prices surge",
+        "url": "https://asia.nikkei.com/business/markets/commodities/japan-regains-land-of-gold-shine-as-prices-surge",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam lowers barrier to retail investment, clearing way for more Japanese stores",
+        "url": "https://asia.nikkei.com/business/retail/vietnam-lowers-barrier-to-retail-investment-clearing-way-for-more-japanese-stores",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Israeli foundry Tower Semiconductor to make Japan main hub for optical chips",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -193,9 +193,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -204,10 +204,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-americas": 21,
-    "region-vietnam": 12,
+    "region-sea": 14,
+    "region-americas": 20,
+    "region-vietnam": 15,
     "region-europe": 1,
-    "region-global": 31
+    "region-global": 30
   }
 }
