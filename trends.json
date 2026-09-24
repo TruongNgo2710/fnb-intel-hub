@@ -1,56 +1,70 @@
 {
-  "updated": "2026-09-24T09:07:13.235123+00:00",
+  "updated": "2026-09-24T16:43:45.621464+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 77,
+  "articles_24h": 80,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 37,
+      "count": 43,
+      "count_24h": 43,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 12,
+      "count": 11,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 10,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     }
   ],
@@ -58,8 +72,8 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "count": 5,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
@@ -68,29 +82,41 @@
       "trend": "up"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 2,
+      "tag": "brand-stumptown",
+      "name": "brand-stumptown",
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 19,
-    "negative": 5,
-    "neutral": 56,
-    "score": 18,
+    "negative": 6,
+    "neutral": 55,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -99,14 +125,10 @@
     {
       "word": "highlands",
       "count": 2
-    },
-    {
-      "word": "claude",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -124,42 +146,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ông chủ Highlands Coffee chi 2.300 tỷ đồng mua lại vốn từ Jollibee",
-        "url": "https://vnexpress.net/ong-chu-highlands-coffee-chi-2-300-ty-dong-mua-lai-von-tu-jollibee-5124003.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "11 giờ trước"
+        "title": "Design Details: Urban-Inspired Joy at DOT. Coffee & Matcha in Warsaw",
+        "url": "https://dailycoffeenews.com/2026/09/24/design-details-urban-inspired-joy-at-dot-coffee-matcha-in-warsaw/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
       },
       {
-        "title": "Go Get Em Tiger Launches “Roasted At Origin,” Shifting More Of Its Coffee Program To Producing Countries",
-        "url": "https://sprudge.com/go-get-em-tiger-launches-roasted-at-origin-shifting-more-of-its-coffee-program-to-producing-countries-1361782.html",
-        "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "title": "Stumptown’s New LA Flagship Gives The Starland Theatre an Encore",
+        "url": "https://dailycoffeenews.com/2026/09/24/stumptowns-new-la-flagship-gives-the-starland-theatre-an-encore/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       },
       {
-        "title": "Dallas’ Local Favorite Restaurants has gained momentum by putting people first",
-        "url": "https://www.nrn.com/independent-restaurants/dallas-local-favorite-restaurants-has-gained-momentum-by-putting-people-first",
+        "title": "Starbucks is closing another 250 coffee shops",
+        "url": "https://www.nrn.com/quick-service/starbucks-is-closing-another-250-coffee-shops",
         "source": "Nation's Restaurant News",
-        "time": "16 giờ trước"
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Japan's Takaichi grows cautious of setting GDP defense spending target",
-        "url": "https://asia.nikkei.com/politics/defense/japan-s-takaichi-grows-cautious-of-setting-gdp-defense-spending-target",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan broadcasters roll out AI for explosion effects, other uses to cut costs",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-broadcasters-roll-out-ai-for-explosion-effects-other-uses-to-cut-costs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan regains 'land of gold' shine as prices surge",
         "url": "https://asia.nikkei.com/business/markets/commodities/japan-regains-land-of-gold-shine-as-prices-surge",
@@ -177,9 +187,21 @@
         "url": "https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Chinese streaming platform touts first 'hybrid AI' drama series",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-streaming-platform-touts-first-hybrid-ai-drama-series",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Australia reveals OpenAI agent hacked government health website",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-reveals-openai-agent-hacked-government-health-website",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -204,10 +226,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 14,
-    "region-americas": 20,
+    "region-sea": 15,
     "region-vietnam": 15,
     "region-europe": 1,
-    "region-global": 30
+    "region-americas": 21,
+    "region-global": 28
   }
 }
