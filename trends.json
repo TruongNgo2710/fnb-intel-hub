@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:58:24.241269+00:00",
+  "updated": "2026-09-25T09:31:19.938113+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 68,
@@ -8,13 +8,13 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 37,
+      "count_24h": 38,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
+      "count": 12,
       "count_24h": 10,
       "trend": "hot"
     },
@@ -22,14 +22,14 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 11,
-      "count_24h": 9,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -38,6 +38,13 @@
       "count": 4,
       "count_24h": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -59,26 +66,13 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
-      "count": 2,
+      "count": 1,
       "trend": "up"
     },
     {
@@ -100,6 +94,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-starbucks",
       "name": "Starbucks",
       "count": 1,
@@ -114,9 +114,9 @@
   ],
   "sentiment": {
     "positive": 14,
-    "negative": 8,
-    "neutral": 58,
-    "score": 8,
+    "negative": 6,
+    "neutral": 60,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -131,16 +131,12 @@
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "highlands",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "up",
-    "price_up_signals": 3,
+    "price_up_signals": 2,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -159,54 +155,54 @@
         "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
         "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-2-1365718.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Boon Boona Coffee In Seattle, WA",
         "url": "https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "La Madeleine launches new specialty coffee program",
         "url": "https://www.nrn.com/fast-casual/la-madeleine-launches-new-specialty-coffee-program",
         "source": "Nation's Restaurant News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 48,
     "top_articles": [
       {
-        "title": "Existing condo prices in central Tokyo down for 4th straight month",
-        "url": "https://asia.nikkei.com/business/markets/property/existing-condo-prices-in-central-tokyo-down-for-4th-straight-month",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "SoftBank Group plans record sales of high-yield bonds to invest in OpenAI",
-        "url": "https://asia.nikkei.com/business/finance/softbank-group-plans-record-sales-of-high-yield-bonds-to-invest-in-openai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan struggles to find way to fund Takaichi budget with no new deficit bonds",
-        "url": "https://asia.nikkei.com/business/markets/bonds/japan-struggles-to-find-way-to-fund-takaichi-budget-with-no-new-deficit-bonds",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Osaka's entertainment ambitions for former Expo site draw few takers",
-        "url": "https://asia.nikkei.com/business/markets/property/osaka-s-entertainment-ambitions-for-former-expo-site-draw-few-takers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Chinese CEOs travel to Washington despite summit invite uncertainty",
         "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/chinese-ceos-travel-to-washington-despite-summit-invite-uncertainty",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Xi urges limits on US-China rivalry, calls for human control of AI",
+        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-urges-limits-on-us-china-rivalry-calls-for-human-control-of-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nepal struggles to raise $5bn for flood recovery as global aid retreats",
+        "url": "https://asia.nikkei.com/economy/natural-disasters/nepal-struggles-to-raise-5bn-for-flood-recovery-as-global-aid-retreats",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Suzuki aims to halve vehicle development time to stay on China's tail",
+        "url": "https://asia.nikkei.com/business/automobiles/suzuki-aims-to-halve-vehicle-development-time-to-stay-on-china-s-tail",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "The US needs a new Taiwan policy beyond strategic ambiguity",
+        "url": "https://asia.nikkei.com/opinion/the-us-needs-a-new-taiwan-policy-beyond-strategic-ambiguity",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -216,8 +212,8 @@
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 2,
-      "signal": "⬆️ Tăng (2 tín hiệu)"
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -237,8 +233,8 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 15,
-    "region-vietnam": 12,
+    "region-americas": 14,
+    "region-vietnam": 13,
     "region-global": 35
   }
 }
