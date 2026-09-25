@@ -1,42 +1,42 @@
 {
-  "updated": "2026-09-25T09:31:19.938113+00:00",
+  "updated": "2026-09-25T16:49:04.799097+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 63,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 38,
+      "count": 41,
+      "count_24h": 27,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 13,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 12,
-      "count_24h": 10,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -50,25 +50,49 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 2,
+      "trend": "up"
+    },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
@@ -92,41 +116,19 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 6,
-    "neutral": 60,
-    "score": 10,
+    "positive": 10,
+    "negative": 4,
+    "neutral": 66,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
-    },
-    {
-      "word": "specialty",
-      "count": 3
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -135,9 +137,9 @@
   ],
   "coffee_trends": {
     "total_articles": 12,
-    "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 0,
+    "price_direction": "stable",
+    "price_up_signals": 1,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -152,48 +154,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
-        "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-2-1365718.html",
+        "title": "Scientists Have Created A Coffee Filter That Removes Half The Caffeine",
+        "url": "https://sprudge.com/scientists-have-created-a-coffee-filter-that-removes-half-the-caffeine-1358171.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "4 giờ trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Boon Boona Coffee In Seattle, WA",
-        "url": "https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html",
-        "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "title": "Weekly Coffee News: ‘Roasted at Origin’ Program + 53 Coffee Workers Rescued",
+        "url": "https://dailycoffeenews.com/2026/09/25/weekly-coffee-news-roasted-at-origin-program-53-coffee-workers-rescued/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
       },
       {
-        "title": "La Madeleine launches new specialty coffee program",
-        "url": "https://www.nrn.com/fast-casual/la-madeleine-launches-new-specialty-coffee-program",
-        "source": "Nation's Restaurant News",
-        "time": "13 giờ trước"
+        "title": "Build-Outs Of Coffee: Stellow In Atlanta, GA",
+        "url": "https://sprudge.com/build-outs-of-coffee-stellow-in-atlanta-ga-1285422.html",
+        "source": "Sprudge Coffee",
+        "time": "19 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Chinese CEOs travel to Washington despite summit invite uncertainty",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/chinese-ceos-travel-to-washington-despite-summit-invite-uncertainty",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Xi urges limits on US-China rivalry, calls for human control of AI",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-urges-limits-on-us-china-rivalry-calls-for-human-control-of-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Nepal struggles to raise $5bn for flood recovery as global aid retreats",
-        "url": "https://asia.nikkei.com/economy/natural-disasters/nepal-struggles-to-raise-5bn-for-flood-recovery-as-global-aid-retreats",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Suzuki aims to halve vehicle development time to stay on China's tail",
         "url": "https://asia.nikkei.com/business/automobiles/suzuki-aims-to-halve-vehicle-development-time-to-stay-on-china-s-tail",
@@ -205,9 +189,27 @@
         "url": "https://asia.nikkei.com/opinion/the-us-needs-a-new-taiwan-policy-beyond-strategic-ambiguity",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
+        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
+        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI data centers increasingly built on GPU collateral, other novel financing",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-data-centers-increasingly-built-on-gpu-collateral-other-novel-financing",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,20 +223,20 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
+    },
+    "dairy": {
       "direction": "stable",
       "count": 1,
       "signal": "➡️ Ổn định"
-    },
-    "dairy": {
-      "direction": "up",
-      "count": 2,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
     }
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 14,
-    "region-vietnam": 13,
-    "region-global": 35
+    "region-americas": 15,
+    "region-vietnam": 11,
+    "region-global": 36
   }
 }
