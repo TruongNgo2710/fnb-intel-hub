@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T16:49:04.799097+00:00",
+  "updated": "2026-09-25T23:11:43.049499+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 63,
@@ -7,85 +7,65 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 27,
+      "count": 45,
+      "count_24h": 35,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 13,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 8,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 6,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "count": 5,
+      "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 5,
+      "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
@@ -100,47 +80,57 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-stumptown",
-      "name": "brand-stumptown",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-kfc",
       "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 10,
-    "negative": 4,
-    "neutral": 66,
-    "score": 8,
+    "negative": 2,
+    "neutral": 68,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 45
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
-    "price_direction": "stable",
+    "total_articles": 13,
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 3,
     "top_articles": [
+      {
+        "title": "Indonesia coffee trade wilts under brunt of climate change",
+        "url": "https://asia.nikkei.com/spotlight/big-in-asia/indonesia-coffee-trade-wilts-under-brunt-of-climate-change",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
@@ -154,42 +144,24 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Scientists Have Created A Coffee Filter That Removes Half The Caffeine",
-        "url": "https://sprudge.com/scientists-have-created-a-coffee-filter-that-removes-half-the-caffeine-1358171.html",
+        "title": "The Caffè By Mr. Espresso Announces 2026 Fall Drink Lineup & Culinary Pop-Ups",
+        "url": "https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "3 giờ trước"
       },
       {
-        "title": "Weekly Coffee News: ‘Roasted at Origin’ Program + 53 Coffee Workers Rescued",
-        "url": "https://dailycoffeenews.com/2026/09/25/weekly-coffee-news-roasted-at-origin-program-53-coffee-workers-rescued/",
-        "source": "Daily Coffee News",
-        "time": "5 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Stellow In Atlanta, GA",
-        "url": "https://sprudge.com/build-outs-of-coffee-stellow-in-atlanta-ga-1285422.html",
+        "title": "Build-Outs Of Coffee: Function Coffee Co In Northlake, TX",
+        "url": "https://sprudge.com/build-outs-of-coffee-function-coffee-co-in-northlake-tx-1285360.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Suzuki aims to halve vehicle development time to stay on China's tail",
-        "url": "https://asia.nikkei.com/business/automobiles/suzuki-aims-to-halve-vehicle-development-time-to-stay-on-china-s-tail",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "The US needs a new Taiwan policy beyond strategic ambiguity",
-        "url": "https://asia.nikkei.com/opinion/the-us-needs-a-new-taiwan-policy-beyond-strategic-ambiguity",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
         "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
@@ -207,9 +179,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-data-centers-increasingly-built-on-gpu-collateral-other-novel-financing",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US, Japan finance chiefs discuss yen after Trump raises concerns in summit",
+        "url": "https://asia.nikkei.com/business/markets/currencies/us-japan-finance-chiefs-discuss-yen-after-trump-raises-concerns-in-summit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -234,9 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 15,
-    "region-vietnam": 11,
-    "region-global": 36
+    "region-sea": 20,
+    "region-global": 36,
+    "region-vietnam": 10,
+    "region-americas": 13,
+    "region-europe": 1
   }
 }
