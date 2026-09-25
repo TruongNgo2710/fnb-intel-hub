@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-24T23:06:32.022044+00:00",
+  "updated": "2026-09-25T03:58:24.241269+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 40,
+      "count": 44,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
@@ -113,16 +113,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 14,
     "negative": 8,
-    "neutral": 57,
-    "score": 9,
+    "neutral": 58,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 43
     },
     {
       "word": "specialty",
@@ -159,33 +159,27 @@
         "title": "Klatch Coffee Celebrates National Coffee Day September 29, 2026",
         "url": "https://sprudge.com/klatch-coffee-celebrates-national-coffee-day-september-29-2026-2-1365718.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Boon Boona Coffee In Seattle, WA",
         "url": "https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "La Madeleine launches new specialty coffee program",
         "url": "https://www.nrn.com/fast-casual/la-madeleine-launches-new-specialty-coffee-program",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Vietjet signs deal with Starlink for free in-flight WiFi on Vietnam airline",
-        "url": "https://asia.nikkei.com/business/transportation/vietjet-signs-deal-with-starlink-for-free-in-flight-wifi-on-vietnam-airline",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Existing condo prices in central Tokyo down for 4th straight month",
         "url": "https://asia.nikkei.com/business/markets/property/existing-condo-prices-in-central-tokyo-down-for-4th-straight-month",
@@ -209,9 +203,15 @@
         "url": "https://asia.nikkei.com/business/markets/property/osaka-s-entertainment-ambitions-for-former-expo-site-draw-few-takers",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Chinese CEOs travel to Washington despite summit invite uncertainty",
+        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/chinese-ceos-travel-to-washington-despite-summit-invite-uncertainty",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -236,9 +236,9 @@
     }
   },
   "regional_breakdown": {
-    "region-vietnam": 15,
-    "region-sea": 17,
-    "region-americas": 13,
+    "region-sea": 18,
+    "region-americas": 15,
+    "region-vietnam": 12,
     "region-global": 35
   }
 }
