@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:11:43.049499+00:00",
+  "updated": "2026-09-26T04:03:14.109498+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 63,
@@ -7,29 +7,29 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 35,
+      "count": 43,
+      "count_24h": 32,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 8,
+      "count": 12,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 12,
+      "count": 12,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -99,16 +99,16 @@
     }
   ],
   "sentiment": {
-    "positive": 10,
+    "positive": 11,
     "negative": 2,
-    "neutral": 68,
-    "score": 10,
+    "neutral": 67,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -120,10 +120,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 3,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Indonesia coffee trade wilts under brunt of climate change",
@@ -147,33 +147,21 @@
         "title": "The Caffè By Mr. Espresso Announces 2026 Fall Drink Lineup & Culinary Pop-Ups",
         "url": "https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Function Coffee Co In Northlake, TX",
         "url": "https://sprudge.com/build-outs-of-coffee-function-coffee-co-in-northlake-tx-1285360.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "11 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI data centers increasingly built on GPU collateral, other novel financing",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-data-centers-increasingly-built-on-gpu-collateral-other-novel-financing",
@@ -191,9 +179,21 @@
         "url": "https://asia.nikkei.com/business/markets/currencies/us-japan-finance-chiefs-discuss-yen-after-trump-raises-concerns-in-summit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Gree, Haier see profits fall as Chinese appliance brands face overseas test",
+        "url": "https://asia.nikkei.com/business/companies/gree-haier-see-profits-fall-as-chinese-appliance-brands-face-overseas-test",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Summits in a New York minute: Riding along with Takaichi's UN visit",
+        "url": "https://asia.nikkei.com/politics/international-relations/summits-in-a-new-york-minute-riding-along-with-takaichi-s-un-visit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,9 +219,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-global": 36,
-    "region-vietnam": 10,
-    "region-americas": 13,
-    "region-europe": 1
+    "region-vietnam": 11,
+    "region-global": 37,
+    "region-americas": 12
   }
 }
