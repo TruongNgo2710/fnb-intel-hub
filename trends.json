@@ -1,50 +1,50 @@
 {
-  "updated": "2026-09-26T04:03:14.109498+00:00",
+  "updated": "2026-09-26T12:46:35.327915+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 32,
+      "count": 41,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 13,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 11,
+      "count": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 8,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
+      "count": 5,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -68,12 +68,6 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
@@ -92,6 +86,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 1,
@@ -99,16 +99,16 @@
     }
   ],
   "sentiment": {
-    "positive": 11,
+    "positive": 12,
     "negative": 2,
-    "neutral": 67,
-    "score": 11,
+    "neutral": 66,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -120,10 +120,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 13,
     "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 3,
     "top_articles": [
       {
         "title": "Indonesia coffee trade wilts under brunt of climate change",
@@ -144,36 +144,24 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Update Your Coffee Counter With Some Fresh New Gear",
+        "url": "https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html",
+        "source": "Sprudge Coffee",
+        "time": "43 phút trước"
+      },
+      {
         "title": "The Caffè By Mr. Espresso Announces 2026 Fall Drink Lineup & Culinary Pop-Ups",
         "url": "https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Function Coffee Co In Northlake, TX",
-        "url": "https://sprudge.com/build-outs-of-coffee-function-coffee-co-in-northlake-tx-1285360.html",
-        "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "AI data centers increasingly built on GPU collateral, other novel financing",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-data-centers-increasingly-built-on-gpu-collateral-other-novel-financing",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI pioneer Schmidhuber to join Japan's Sakana AI as science adviser",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-pioneer-schmidhuber-to-join-japan-s-sakana-ai-as-science-adviser",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "US, Japan finance chiefs discuss yen after Trump raises concerns in summit",
         "url": "https://asia.nikkei.com/business/markets/currencies/us-japan-finance-chiefs-discuss-yen-after-trump-raises-concerns-in-summit",
@@ -191,9 +179,21 @@
         "url": "https://asia.nikkei.com/politics/international-relations/summits-in-a-new-york-minute-riding-along-with-takaichi-s-un-visit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Sony chip unit orders 8,000 workers back to office for physical AI push",
+        "url": "https://asia.nikkei.com/spotlight/work/sony-chip-unit-orders-8-000-workers-back-to-office-for-physical-ai-push",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
+        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +218,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
+    "region-sea": 19,
+    "region-europe": 2,
     "region-vietnam": 11,
     "region-global": 37,
-    "region-americas": 12
+    "region-americas": 11
   }
 }
