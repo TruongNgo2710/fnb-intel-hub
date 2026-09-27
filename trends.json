@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-27T13:38:34.406001+00:00",
+  "updated": "2026-09-27T19:38:36.979823+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 17,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
+      "count": 12,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -22,13 +22,13 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 12,
-      "count_24h": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -58,13 +58,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 7,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -100,9 +100,9 @@
   ],
   "sentiment": {
     "positive": 12,
-    "negative": 3,
-    "neutral": 65,
-    "score": 11,
+    "negative": 2,
+    "neutral": 66,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -120,10 +120,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 3,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -141,7 +141,7 @@
         "title": "The Best Part Of Waking Up Is When September Ends",
         "url": "https://sprudge.com/the-best-part-of-waking-up-is-when-september-ends-1367324.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Update Your Coffee Counter With Some Fresh New Gear",
@@ -157,17 +157,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan herbal remedy makers seek to reduce China from supply chain",
         "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-herbal-remedy-makers-seek-to-reduce-china-from-supply-chain",
@@ -191,9 +185,15 @@
         "url": "https://asia.nikkei.com/spotlight/immigration/indian-expats-in-germany-unnerved-by-far-right-afd-s-electoral-gains",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Sumitomo Life to deploy AI for tailor-made contracts",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sumitomo-life-to-deploy-ai-for-tailor-made-contracts",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -218,9 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 16,
     "region-europe": 2,
-    "region-americas": 12,
+    "region-americas": 13,
     "region-vietnam": 14,
     "region-global": 35
   }
