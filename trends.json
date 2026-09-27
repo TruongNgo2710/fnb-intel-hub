@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-27T04:15:47.723541+00:00",
+  "updated": "2026-09-27T13:38:34.406001+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 16,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 8,
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 7,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 4,
       "count_24h": 1,
       "trend": "up"
     },
@@ -43,7 +43,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -99,10 +99,10 @@
     }
   ],
   "sentiment": {
-    "positive": 10,
+    "positive": 12,
     "negative": 3,
-    "neutral": 67,
-    "score": 9,
+    "neutral": 65,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -126,12 +126,6 @@
     "price_down_signals": 3,
     "top_articles": [
       {
-        "title": "Indonesia coffee trade wilts under brunt of climate change",
-        "url": "https://asia.nikkei.com/spotlight/big-in-asia/indonesia-coffee-trade-wilts-under-brunt-of-climate-change",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
@@ -144,10 +138,16 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The Best Part Of Waking Up Is When September Ends",
+        "url": "https://sprudge.com/the-best-part-of-waking-up-is-when-september-ends-1367324.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Update Your Coffee Counter With Some Fresh New Gear",
         "url": "https://sprudge.com/update-your-coffee-counter-with-some-fresh-new-gear-1367327.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "The Caffè By Mr. Espresso Announces 2026 Fall Drink Lineup & Culinary Pop-Ups",
@@ -162,12 +162,6 @@
   "ai_trends": {
     "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Sony chip unit orders 8,000 workers back to office for physical AI push",
-        "url": "https://asia.nikkei.com/spotlight/work/sony-chip-unit-orders-8-000-workers-back-to-office-for-physical-ai-push",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Xi's human control or Trump's 'super intelligence': What's next for AI?",
         "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-s-human-control-or-trump-s-super-intelligence-what-s-next-for-ai",
@@ -191,6 +185,12 @@
         "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Indian expats in Germany unnerved by far-right AfD's electoral gains",
+        "url": "https://asia.nikkei.com/spotlight/immigration/indian-expats-in-germany-unnerved-by-far-right-afd-s-electoral-gains",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
     "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
@@ -207,9 +207,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -220,8 +220,8 @@
   "regional_breakdown": {
     "region-sea": 17,
     "region-europe": 2,
-    "region-americas": 13,
-    "region-vietnam": 13,
+    "region-americas": 12,
+    "region-vietnam": 14,
     "region-global": 35
   }
 }
