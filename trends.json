@@ -1,21 +1,14 @@
 {
-  "updated": "2026-09-27T19:38:36.979823+00:00",
+  "updated": "2026-09-27T22:54:05.428477+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 15,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 3,
+      "count": 39,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
@@ -26,10 +19,17 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 11,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -40,15 +40,15 @@
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -56,15 +56,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 8,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 6,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 8,
       "trend": "hot"
     },
     {
@@ -108,7 +108,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 39
     },
     {
       "word": "gọi vốn",
@@ -120,7 +120,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "down",
     "price_up_signals": 1,
     "price_down_signals": 2,
@@ -141,7 +141,7 @@
         "title": "The Best Part Of Waking Up Is When September Ends",
         "url": "https://sprudge.com/the-best-part-of-waking-up-is-when-september-ends-1367324.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Update Your Coffee Counter With Some Fresh New Gear",
@@ -153,27 +153,15 @@
         "title": "The Caffè By Mr. Espresso Announces 2026 Fall Drink Lineup & Culinary Pop-Ups",
         "url": "https://sprudge.com/the-caffe-by-mr-espresso-announces-2026-fall-drink-lineup-culinary-pop-ups-1368017.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Japan herbal remedy makers seek to reduce China from supply chain",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-herbal-remedy-makers-seek-to-reduce-china-from-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Trump remarks on weak yen to Takaichi raise speculation on policy impact",
-        "url": "https://asia.nikkei.com/business/markets/currencies/trump-remarks-on-weak-yen-to-takaichi-raise-speculation-on-policy-impact",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
         "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
@@ -191,9 +179,21 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sumitomo-life-to-deploy-ai-for-tailor-made-contracts",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Itochu, Aioi to develop robotaxi insurance aimed at US operators",
+        "url": "https://asia.nikkei.com/business/finance/itochu-aioi-to-develop-robotaxi-insurance-aimed-at-us-operators",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Turkey aims to turn WWI shipwrecks into diving hub",
+        "url": "https://asia.nikkei.com/life-arts/life/turkey-aims-to-turn-wwi-shipwrecks-into-diving-hub",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,8 +220,8 @@
   "regional_breakdown": {
     "region-sea": 16,
     "region-europe": 2,
-    "region-americas": 13,
+    "region-americas": 12,
     "region-vietnam": 14,
-    "region-global": 35
+    "region-global": 36
   }
 }
