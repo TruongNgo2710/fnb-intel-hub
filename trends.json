@@ -1,34 +1,34 @@
 {
-  "updated": "2026-09-27T22:54:05.428477+00:00",
+  "updated": "2026-09-28T04:17:12.841788+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 14,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 8,
+      "count": 41,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 11,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
+      "count": 6,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -47,11 +47,18 @@
       "trend": "stable"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -99,16 +106,16 @@
     }
   ],
   "sentiment": {
-    "positive": 12,
+    "positive": 13,
     "negative": 2,
-    "neutral": 66,
-    "score": 12,
+    "neutral": 65,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -120,10 +127,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 3,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -141,7 +148,7 @@
         "title": "The Best Part Of Waking Up Is When September Ends",
         "url": "https://sprudge.com/the-best-part-of-waking-up-is-when-september-ends-1367324.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Update Your Coffee Counter With Some Fresh New Gear",
@@ -157,17 +164,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (3 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Pomp, tariffs and AI: 5 things to know about the Trump-Xi summit",
-        "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/pomp-tariffs-and-ai-5-things-to-know-about-the-trump-xi-summit",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Indian expats in Germany unnerved by far-right AfD's electoral gains",
         "url": "https://asia.nikkei.com/spotlight/immigration/indian-expats-in-germany-unnerved-by-far-right-afd-s-electoral-gains",
@@ -191,9 +192,15 @@
         "url": "https://asia.nikkei.com/life-arts/life/turkey-aims-to-turn-wwi-shipwrecks-into-diving-hub",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's exoskeleton robots muscle into the consumer mainstream",
+        "url": "https://asia.nikkei.com/business/china-tech/china-s-exoskeleton-robots-muscle-into-the-consumer-mainstream",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,9 +226,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-europe": 2,
+    "region-europe": 3,
     "region-americas": 12,
-    "region-vietnam": 14,
+    "region-vietnam": 13,
     "region-global": 36
   }
 }
