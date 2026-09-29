@@ -1,47 +1,47 @@
 {
-  "updated": "2026-09-29T17:51:05.496575+00:00",
+  "updated": "2026-09-29T23:33:24.750526+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 80,
+  "articles_24h": 78,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 48,
-      "count_24h": 48,
+      "count_24h": 46,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
+      "count": 18,
       "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 10,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 4,
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
@@ -50,8 +50,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 12,
+      "count": 16,
       "trend": "hot"
     },
     {
@@ -77,6 +77,12 @@
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-passio",
+      "name": "brand-passio",
       "count": 1,
       "trend": "up"
     },
@@ -97,19 +103,13 @@
       "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 25,
-    "negative": 7,
-    "neutral": 48,
-    "score": 22,
+    "negative": 8,
+    "neutral": 47,
+    "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
@@ -118,16 +118,16 @@
       "count": 48
     },
     {
-      "word": "gọi vốn",
-      "count": 2
+      "word": "chatgpt",
+      "count": 3
     },
     {
-      "word": "chatgpt",
+      "word": "gọi vốn",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -148,19 +148,19 @@
         "title": "Blue Bottle Coffee Debuts Notes In Repose, A Limited-Edition Vinyl Celebrating Coffee, Jazz & The Art Of Composition",
         "url": "https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "The Coffee Sprudgecast Presents: Killer Builds From Our Summer Cafe Feature Series",
         "url": "https://sprudge.com/the-coffee-sprudgecast-presents-killer-builds-from-our-summer-cafe-feature-series-1371911.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Twin Valley Coffee In Elverson, PA",
         "url": "https://sprudge.com/build-outs-of-coffee-twin-valley-coffee-in-elverson-pa-1294913.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -170,32 +170,32 @@
     "total_articles": 50,
     "top_articles": [
       {
-        "title": "Samsung joins AI infrastructure race with $1bn Helix deal",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/samsung-joins-ai-infrastructure-race-with-1bn-helix-deal",
+        "title": "China's Toyota joint ventures to be put under one roof to help ailing GAC",
+        "url": "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China's luxury malls rise above retail gloom with expansion drives",
-        "url": "https://asia.nikkei.com/business/retail/china-s-luxury-malls-rise-above-retail-gloom-with-expansion-drives",
+        "title": "AirAsia CEO says plane deliveries on track despite financial strain",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/airasia-ceo-says-plane-deliveries-on-track-despite-financial-strain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "EVs and hybrids drive Thailand auto sales recovery",
-        "url": "https://asia.nikkei.com/business/automobiles/evs-and-hybrids-drive-thailand-auto-sales-recovery",
+        "title": "China courts Japan ex-foreign minister in pressure play against Takaichi",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-courts-japan-ex-foreign-minister-in-pressure-play-against-takaichi",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "The Trump-Xi summit leaves Taiwan in limbo",
-        "url": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
+        "title": "Despite inflation, emerging economies struggle to raise interest rates",
+        "url": "https://asia.nikkei.com/economy/despite-inflation-emerging-economies-struggle-to-raise-interest-rates",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
-        "url": "https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans",
+        "title": "China strengthens position for Taiwan conflict with mobilization law",
+        "url": "https://asia.nikkei.com/politics/defense/china-strengthens-position-for-taiwan-conflict-with-mobilization-law",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -225,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 18,
-    "region-vietnam": 13,
-    "region-global": 32
+    "region-sea": 16,
+    "region-americas": 19,
+    "region-vietnam": 16,
+    "region-global": 29
   }
 }
