@@ -1,56 +1,56 @@
 {
-  "updated": "2026-09-29T10:31:33.729763+00:00",
+  "updated": "2026-09-29T17:51:05.496575+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 74,
+  "articles_24h": 80,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 38,
+      "count": 48,
+      "count_24h": 48,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 21,
-      "count_24h": 19,
+      "count": 17,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 11,
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 7,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 5,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -65,26 +65,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 12,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -93,37 +81,53 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-bluebottle",
+      "name": "brand-bluebottle",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-stumptown",
+      "name": "brand-stumptown",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 6,
-    "neutral": 59,
-    "score": 11,
-    "label": "Trung tính"
+    "positive": 25,
+    "negative": 7,
+    "neutral": 48,
+    "score": 22,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 48
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 10,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -141,29 +145,29 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The Aerocano arrives at Starbucks, an iced espresso crafted with a cascading effect",
-        "url": "https://www.nrn.com/fast-casual/the-aerocano-arrives-at-starbucks-an-iced-espresso-crafted-with-a-cascading-effect",
-        "source": "Nation's Restaurant News",
-        "time": "14 giờ trước"
+        "title": "Blue Bottle Coffee Debuts Notes In Repose, A Limited-Edition Vinyl Celebrating Coffee, Jazz & The Art Of Composition",
+        "url": "https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
       },
       {
-        "title": "22 ways restaurants are celebrating National Coffee Day",
-        "url": "https://www.nrn.com/menu-trends/22-ways-restaurants-are-celebrating-national-coffee-day",
-        "source": "Nation's Restaurant News",
-        "time": "17 giờ trước"
+        "title": "The Coffee Sprudgecast Presents: Killer Builds From Our Summer Cafe Feature Series",
+        "url": "https://sprudge.com/the-coffee-sprudgecast-presents-killer-builds-from-our-summer-cafe-feature-series-1371911.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
       },
       {
-        "title": "Why next-gen restaurant tech should automate the task, not the moment",
-        "url": "https://www.nrn.com/restaurant-technology/why-next-gen-restaurant-tech-should-automate-the-task-not-the-moment",
-        "source": "Nation's Restaurant News",
-        "time": "17 giờ trước"
+        "title": "Build-Outs Of Coffee: Twin Valley Coffee In Elverson, PA",
+        "url": "https://sprudge.com/build-outs-of-coffee-twin-valley-coffee-in-elverson-pa-1294913.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 50,
     "top_articles": [
       {
         "title": "Samsung joins AI infrastructure race with $1bn Helix deal",
@@ -196,7 +200,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-vietnam": 14,
+    "region-sea": 17,
     "region-americas": 18,
-    "region-global": 33
+    "region-vietnam": 13,
+    "region-global": 32
   }
 }
