@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-29T00:17:06.297873+00:00",
+  "updated": "2026-09-29T10:31:33.729763+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 74,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 35,
+      "count_24h": 38,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 15,
+      "count": 21,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 15,
-      "count_24h": 12,
+      "count": 13,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -33,25 +33,25 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -106,10 +106,10 @@
     }
   ],
   "sentiment": {
-    "positive": 13,
-    "negative": 7,
-    "neutral": 60,
-    "score": 8,
+    "positive": 15,
+    "negative": 6,
+    "neutral": 59,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -123,10 +123,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 15,
-    "price_direction": "down",
+    "total_articles": 13,
+    "price_direction": "up",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -144,59 +144,59 @@
         "title": "The Aerocano arrives at Starbucks, an iced espresso crafted with a cascading effect",
         "url": "https://www.nrn.com/fast-casual/the-aerocano-arrives-at-starbucks-an-iced-espresso-crafted-with-a-cascading-effect",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "22 ways restaurants are celebrating National Coffee Day",
         "url": "https://www.nrn.com/menu-trends/22-ways-restaurants-are-celebrating-national-coffee-day",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Why next-gen restaurant tech should automate the task, not the moment",
         "url": "https://www.nrn.com/restaurant-technology/why-next-gen-restaurant-tech-should-automate-the-task-not-the-moment",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
       {
-        "title": "Japan motor maker Nidec to recognize over $3.8bn impairment loss",
-        "url": "https://asia.nikkei.com/business/companies/japan-motor-maker-nidec-to-recognize-over-3.8bn-impairment-loss",
+        "title": "Samsung joins AI infrastructure race with $1bn Helix deal",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/samsung-joins-ai-infrastructure-race-with-1bn-helix-deal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "NTT, SoftBank eye AI cybersecurity systems that keep data in Japan",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-softbank-eye-ai-cybersecurity-systems-that-keep-data-in-japan",
+        "title": "China's luxury malls rise above retail gloom with expansion drives",
+        "url": "https://asia.nikkei.com/business/retail/china-s-luxury-malls-rise-above-retail-gloom-with-expansion-drives",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "North Korean POWs arrive in South Korea from Ukraine: local media",
-        "url": "https://asia.nikkei.com/politics/international-relations/north-korean-pows-arrive-in-south-korea-from-ukraine-local-media",
+        "title": "EVs and hybrids drive Thailand auto sales recovery",
+        "url": "https://asia.nikkei.com/business/automobiles/evs-and-hybrids-drive-thailand-auto-sales-recovery",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan aims to develop 'next-gen' iPS cells for strokes and kidney failure",
-        "url": "https://asia.nikkei.com/business/science/japan-aims-to-develop-next-gen-ips-cells-for-strokes-and-kidney-failure",
+        "title": "The Trump-Xi summit leaves Taiwan in limbo",
+        "url": "https://asia.nikkei.com/opinion/the-trump-xi-summit-leaves-taiwan-in-limbo",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Half of new US-approved drugs remain unavailable to Japanese patients",
-        "url": "https://asia.nikkei.com/business/pharmaceuticals/half-of-new-us-approved-drugs-remain-unavailable-to-japanese-patients",
+        "title": "South Korea's Lee orders officials to accelerate $589bn AI hub plans",
+        "url": "https://asia.nikkei.com/politics/south-korea-s-lee-orders-officials-to-accelerate-589bn-ai-hub-plans",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,9 +221,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 12,
-    "region-americas": 16,
-    "region-global": 35
+    "region-sea": 15,
+    "region-vietnam": 14,
+    "region-americas": 18,
+    "region-global": 33
   }
 }
