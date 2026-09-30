@@ -1,50 +1,43 @@
 {
-  "updated": "2026-09-30T04:34:06.054133+00:00",
+  "updated": "2026-09-30T14:44:34.700910+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 79,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 48,
+      "count": 40,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 16,
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
@@ -54,8 +47,15 @@
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -65,13 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 16,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 15,
       "trend": "hot"
     },
     {
@@ -81,8 +75,20 @@
       "trend": "up"
     },
     {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-passio",
       "name": "brand-passio",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
     },
@@ -100,16 +106,16 @@
     }
   ],
   "sentiment": {
-    "positive": 24,
-    "negative": 7,
-    "neutral": 49,
-    "score": 21,
+    "positive": 28,
+    "negative": 6,
+    "neutral": 46,
+    "score": 28,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 40
     },
     {
       "word": "chatgpt",
@@ -139,62 +145,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Blue Bottle Coffee Debuts Notes In Repose, A Limited-Edition Vinyl Celebrating Coffee, Jazz & The Art Of Composition",
-        "url": "https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html",
+        "title": "Build-Outs Of Coffee: Lemma Coffee Co In Dallas, TX",
+        "url": "https://sprudge.com/build-outs-of-coffee-lemma-coffee-co-in-dallas-tx-1288099.html",
         "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
+        "time": "41 phút trước"
       },
       {
-        "title": "The Coffee Sprudgecast Presents: Killer Builds From Our Summer Cafe Feature Series",
-        "url": "https://sprudge.com/the-coffee-sprudgecast-presents-killer-builds-from-our-summer-cafe-feature-series-1371911.html",
-        "source": "Sprudge Coffee",
-        "time": "13 giờ trước"
+        "title": "ICO Puts Global Coffee Market Data in One Interactive Place",
+        "url": "https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
       },
       {
-        "title": "Build-Outs Of Coffee: Twin Valley Coffee In Elverson, PA",
-        "url": "https://sprudge.com/build-outs-of-coffee-twin-valley-coffee-in-elverson-pa-1294913.html",
+        "title": "Morgan Eckroth Is Going On A “Coffee For Here” Book Tour",
+        "url": "https://sprudge.com/morgan-eckroth-is-going-on-a-coffee-for-here-book-tour-1382338.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "2 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 42,
     "top_articles": [
       {
-        "title": "China courts Japan ex-foreign minister in pressure play against Takaichi",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-courts-japan-ex-foreign-minister-in-pressure-play-against-takaichi",
+        "title": "Tech supply chain shrugs off AI slowdown calls as demand booms",
+        "url": "https://asia.nikkei.com/business/technology/tech-asia/tech-supply-chain-shrugs-off-ai-slowdown-calls-as-demand-booms",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Despite inflation, emerging economies struggle to raise interest rates",
-        "url": "https://asia.nikkei.com/economy/despite-inflation-emerging-economies-struggle-to-raise-interest-rates",
+        "title": "Japan's TDK, Taiyo Yuden ally on next-generation AI components",
+        "url": "https://asia.nikkei.com/business/electronics/japan-s-tdk-taiyo-yuden-ally-on-next-generation-ai-components",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China strengthens position for Taiwan conflict with mobilization law",
-        "url": "https://asia.nikkei.com/politics/defense/china-strengthens-position-for-taiwan-conflict-with-mobilization-law",
+        "title": "Taiwan taps US tech for sea drones to fend off China's vast maritime fleet",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-taps-us-tech-for-sea-drones-to-fend-off-china-s-vast-maritime-fleet",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US",
-        "url": "https://asia.nikkei.com/business/business-trends/ai-boom-drives-robot-makers-fanuc-yaskawa-to-step-up-shift-from-china-to-us2",
+        "title": "Bangladesh's US buying spree fails to bring export benefit",
+        "url": "https://asia.nikkei.com/economy/trade/bangladesh-s-us-buying-spree-fails-to-bring-export-benefit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's Asahi Life aims to hire 1,000 Vietnam staff with acquisition",
-        "url": "https://asia.nikkei.com/business/insurance/japan-s-asahi-life-aims-to-hire-1-000-vietnam-staff-with-acquisition",
+        "title": "Oil retreat fails to halt bond yield rise in Japan, US",
+        "url": "https://asia.nikkei.com/business/markets/oil-retreat-fails-to-halt-bond-yield-rise-in-japan-us",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
-    "region-americas": 20,
-    "region-vietnam": 17,
-    "region-global": 28
+    "region-sea": 14,
+    "region-americas": 23,
+    "region-vietnam": 14,
+    "region-global": 29
   }
 }
