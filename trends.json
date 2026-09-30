@@ -1,21 +1,21 @@
 {
-  "updated": "2026-09-29T23:33:24.750526+00:00",
+  "updated": "2026-09-30T04:34:06.054133+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 78,
+  "articles_24h": 79,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 46,
+      "count": 49,
+      "count_24h": 48,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 17,
+      "count": 17,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
@@ -28,16 +28,9 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 9,
       "count_24h": 8,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-macro",
@@ -47,9 +40,16 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -97,25 +97,19 @@
       "name": "brand-stumptown",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 25,
-    "negative": 8,
-    "neutral": 47,
+    "positive": 24,
+    "negative": 7,
+    "neutral": 49,
     "score": 21,
     "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 49
     },
     {
       "word": "chatgpt",
@@ -148,19 +142,19 @@
         "title": "Blue Bottle Coffee Debuts Notes In Repose, A Limited-Edition Vinyl Celebrating Coffee, Jazz & The Art Of Composition",
         "url": "https://sprudge.com/blue-bottle-coffee-debuts-notes-in-repose-a-limited-edition-vinyl-celebrating-coffee-jazz-the-art-of-composition-1383088.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "The Coffee Sprudgecast Presents: Killer Builds From Our Summer Cafe Feature Series",
         "url": "https://sprudge.com/the-coffee-sprudgecast-presents-killer-builds-from-our-summer-cafe-feature-series-1371911.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Build-Outs Of Coffee: Twin Valley Coffee In Elverson, PA",
         "url": "https://sprudge.com/build-outs-of-coffee-twin-valley-coffee-in-elverson-pa-1294913.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -169,18 +163,6 @@
   "ai_trends": {
     "total_articles": 50,
     "top_articles": [
-      {
-        "title": "China's Toyota joint ventures to be put under one roof to help ailing GAC",
-        "url": "https://asia.nikkei.com/business/automobiles/china-s-toyota-joint-ventures-to-be-put-under-one-roof-to-help-ailing-gac",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AirAsia CEO says plane deliveries on track despite financial strain",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/airasia-ceo-says-plane-deliveries-on-track-despite-financial-strain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China courts Japan ex-foreign minister in pressure play against Takaichi",
         "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-courts-japan-ex-foreign-minister-in-pressure-play-against-takaichi",
@@ -196,6 +178,18 @@
       {
         "title": "China strengthens position for Taiwan conflict with mobilization law",
         "url": "https://asia.nikkei.com/politics/defense/china-strengthens-position-for-taiwan-conflict-with-mobilization-law",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI boom drives robot makers Fanuc, Yaskawa to step up shift from China to US",
+        "url": "https://asia.nikkei.com/business/business-trends/ai-boom-drives-robot-makers-fanuc-yaskawa-to-step-up-shift-from-china-to-us2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Asahi Life aims to hire 1,000 Vietnam staff with acquisition",
+        "url": "https://asia.nikkei.com/business/insurance/japan-s-asahi-life-aims-to-hire-1-000-vietnam-staff-with-acquisition",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -225,9 +219,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 19,
-    "region-vietnam": 16,
-    "region-global": 29
+    "region-sea": 15,
+    "region-americas": 20,
+    "region-vietnam": 17,
+    "region-global": 28
   }
 }
