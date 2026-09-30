@@ -1,43 +1,50 @@
 {
-  "updated": "2026-09-30T14:44:34.700910+00:00",
+  "updated": "2026-09-30T20:39:18.395060+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 72,
+  "articles_24h": 69,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 40,
-      "count_24h": 34,
+      "count": 44,
+      "count_24h": 36,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 13,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 7,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -52,21 +59,20 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 15,
+      "count": 10,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -75,8 +81,8 @@
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     },
@@ -91,43 +97,31 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-bluebottle",
-      "name": "brand-bluebottle",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-stumptown",
-      "name": "brand-stumptown",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 28,
-    "negative": 6,
+    "positive": 25,
+    "negative": 9,
     "neutral": 46,
-    "score": 28,
-    "label": "Tích cực"
+    "score": 20,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
-    },
-    {
-      "word": "chatgpt",
-      "count": 3
+      "count": 44
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 7,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -145,42 +139,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "John Dillon steps down as CEO, president of La Madeleine",
+        "url": "https://www.nrn.com/fast-casual/john-dillon-steps-down-as-ceo-president-of-la-madeleine",
+        "source": "Nation's Restaurant News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Breville Enters the Automated Pourover Stream with the Spiral Luxe Brewer",
+        "url": "https://dailycoffeenews.com/2026/09/30/breville-enters-the-automated-pourover-stream-with-the-spiral-luxe-brewer/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Build-Outs Of Coffee: Lemma Coffee Co In Dallas, TX",
         "url": "https://sprudge.com/build-outs-of-coffee-lemma-coffee-co-in-dallas-tx-1288099.html",
         "source": "Sprudge Coffee",
-        "time": "41 phút trước"
-      },
-      {
-        "title": "ICO Puts Global Coffee Market Data in One Interactive Place",
-        "url": "https://dailycoffeenews.com/2026/09/30/ico-puts-global-coffee-market-data-in-one-interactive-place/",
-        "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Morgan Eckroth Is Going On A “Coffee For Here” Book Tour",
-        "url": "https://sprudge.com/morgan-eckroth-is-going-on-a-coffee-for-here-book-tour-1382338.html",
-        "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "Tech supply chain shrugs off AI slowdown calls as demand booms",
-        "url": "https://asia.nikkei.com/business/technology/tech-asia/tech-supply-chain-shrugs-off-ai-slowdown-calls-as-demand-booms",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's TDK, Taiyo Yuden ally on next-generation AI components",
-        "url": "https://asia.nikkei.com/business/electronics/japan-s-tdk-taiyo-yuden-ally-on-next-generation-ai-components",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan taps US tech for sea drones to fend off China's vast maritime fleet",
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/taiwan-taps-us-tech-for-sea-drones-to-fend-off-china-s-vast-maritime-fleet",
@@ -198,9 +180,21 @@
         "url": "https://asia.nikkei.com/business/markets/oil-retreat-fails-to-halt-bond-yield-rise-in-japan-us",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "US fintech Stripe eyes AI shopping in Japan with launch of Meta's Muse",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-fintech-stripe-eyes-ai-shopping-in-japan-with-launch-of-meta-s-muse",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "United, American Airlines up Japan routes to tap demand fueled by weak yen",
+        "url": "https://asia.nikkei.com/business/transportation/united-american-airlines-up-japan-routes-to-tap-demand-fueled-by-weak-yen",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,9 +219,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 14,
-    "region-americas": 23,
+    "region-americas": 21,
+    "region-sea": 13,
     "region-vietnam": 14,
-    "region-global": 29
+    "region-global": 32
   }
 }
