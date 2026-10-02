@@ -1,34 +1,34 @@
 {
-  "updated": "2026-10-02T14:33:54.057225+00:00",
+  "updated": "2026-10-02T20:27:54.683836+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 27,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 8,
+      "count": 45,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 8,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
@@ -40,13 +40,6 @@
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
@@ -56,7 +49,7 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     }
@@ -65,8 +58,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
@@ -91,25 +90,19 @@
       "name": "brand-ucc",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 7,
-    "neutral": 55,
-    "score": 14,
+    "negative": 11,
+    "neutral": 51,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -135,42 +128,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Cartel Roasting Co. Takes Home Two Silver Medals At The Global Coffee Awards",
+        "url": "https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Coffee Design: Look Alive Coffee In St. Petersburg, Florida",
         "url": "https://sprudge.com/coffee-design-look-alive-coffee-in-st-petersburg-florida-1278673.html",
         "source": "Sprudge Coffee",
-        "time": "31 phút trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Marketplace Launches + Dolly’s New Coffee Commercial",
         "url": "https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Build-Outs Of Coffee: Phil & Sebastian In Calgary, Alberta",
-        "url": "https://sprudge.com/build-outs-of-coffee-phil-sebastian-in-calgary-alberta-1386731.html",
-        "source": "Sprudge Coffee",
-        "time": "20 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Toshiba to double hard disk drive supply to fill AI chip memory gap",
-        "url": "https://asia.nikkei.com/business/electronics/toshiba-to-double-hard-disk-drive-supply-to-fill-ai-chip-memory-gap",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwanese banks urged to trim branches as office rents hit high",
-        "url": "https://asia.nikkei.com/business/business-trends/taiwanese-banks-urged-to-trim-branches-as-office-rents-hit-high",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Through the Lens: Thailand floods leave capital in turmoil",
         "url": "https://asia.nikkei.com/photos/through-the-lens-thailand-floods-leave-capital-in-turmoil",
@@ -188,9 +169,21 @@
         "url": "https://asia.nikkei.com/business/transportation/thai-airways-suspends-ceo-after-bangkok-airport-chaos-during-flooding",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan legal tech firm teams with AI provider Harvey to supply data",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-legal-tech-firm-teams-with-ai-provider-harvey-to-supply-data",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hyundai group tops Honda for first time in US hybrid sales",
+        "url": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,14 +203,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 19,
     "region-americas": 14,
-    "region-vietnam": 13,
-    "region-global": 34
+    "region-vietnam": 11,
+    "region-global": 36
   }
 }
