@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-01T20:53:39.423934+00:00",
+  "updated": "2026-10-02T04:37:12.692604+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 56,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 49,
-      "count_24h": 30,
+      "count_24h": 27,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 8,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -43,14 +43,14 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -67,12 +67,6 @@
       "name": "ChatGPT/OpenAI",
       "count": 5,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-mcdonalds",
@@ -97,12 +91,18 @@
       "name": "brand-kingcoffee",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 7,
-    "neutral": 53,
+    "positive": 19,
+    "negative": 6,
+    "neutral": 55,
     "score": 16,
     "label": "Trung tính"
   },
@@ -119,7 +119,7 @@
   "coffee_trends": {
     "total_articles": 13,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 3,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -138,54 +138,54 @@
         "title": "Build-Outs Of Coffee: Phil & Sebastian In Calgary, Alberta",
         "url": "https://sprudge.com/build-outs-of-coffee-phil-sebastian-in-calgary-alberta-1386731.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "NY-Based Colombian Coffee Roaster Devoción Launches Impact Fund, Directing 1% Of Every Retail Bag to Coffee Farmers, Youth, & Ecological Restoration",
         "url": "https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-launches-impact-fund-directing-1-of-every-retail-bag-to-coffee-farmers-youth-ecological-restoration-1396430.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Keurig Dr Pepper Taps New Head for Global Coffee Co., Russ Torres",
         "url": "https://dailycoffeenews.com/2026/10/01/keurig-dr-pepper-taps-new-head-for-global-coffee-co-russ-torres/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 52,
     "top_articles": [
       {
-        "title": "BOJ Tankan shows sixth straight rise in manufacturer sentiment",
-        "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-tankan-shows-sixth-straight-rise-in-manufacturer-sentiment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Infineon opens plant near Bangkok as Thailand boosts chip ambitions",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/infineon-opens-plant-near-bangkok-as-thailand-boosts-chip-ambitions",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "It's raining AI, and won't stop!",
-        "url": "https://asia.nikkei.com/techasia/it-s-raining-ai-and-won-t-stop",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Jardines' DFI Retail swaps Maxim's stake for Starbucks license and $340m",
-        "url": "https://asia.nikkei.com/business/business-deals/jardines-dfi-retail-swaps-maxim-s-stake-for-starbucks-license-and-340m",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Japan banks uncover twice the vulnerabilities following Mythos AI release",
         "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-banks-uncover-twice-the-vulnerabilities-following-mythos-ai-release",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Vietjet Thailand aims to double revenue by 2028: CEO",
+        "url": "https://asia.nikkei.com/business/transportation/vietjet-thailand-aims-to-double-revenue-by-2028-ceo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Making AI work for workers",
+        "url": "https://asia.nikkei.com/opinion/making-ai-work-for-workers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Daikin faces calls for cooler, leaner strategy as capital efficiency lags",
+        "url": "https://asia.nikkei.com/business/companies/daikin-faces-calls-for-cooler-leaner-strategy-as-capital-efficiency-lags",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Takaichi disavows reflation as US pushes for policy change",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-disavows-reflation-as-us-pushes-for-policy-change",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -215,9 +215,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 13,
+    "region-sea": 18,
+    "region-americas": 15,
     "region-vietnam": 11,
-    "region-global": 37
+    "region-global": 36
   }
 }
