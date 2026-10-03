@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T19:06:29.129506+00:00",
+  "updated": "2026-10-03T22:47:19.256807+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 45,
+  "articles_24h": 39,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 24,
+      "count": 47,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
@@ -28,15 +28,15 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -50,8 +50,8 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-supply",
@@ -103,7 +103,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -132,13 +132,13 @@
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
         "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
         "source": "The Verge AI",
-        "time": "4 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Cổ đông lớn của Thaco nhận chuyển giao công ty vận hành chuỗi Starbucks Việt Nam",
         "url": "https://vnexpress.net/co-dong-lon-cua-thaco-nhan-chuyen-giao-cong-ty-van-hanh-chuoi-starbucks-viet-nam-5127903.html",
         "source": "VnExpress Kinh doanh",
-        "time": "14 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Cartel Roasting Co. Takes Home Two Silver Medals At The Global Coffee Awards",
@@ -151,20 +151,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 53,
     "top_articles": [
-      {
-        "title": "Thai Airways suspends CEO after Bangkok airport chaos during flooding",
-        "url": "https://asia.nikkei.com/business/transportation/thai-airways-suspends-ceo-after-bangkok-airport-chaos-during-flooding",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan legal tech firm teams with AI provider Harvey to supply data",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-legal-tech-firm-teams-with-ai-provider-harvey-to-supply-data",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Hyundai group tops Honda for first time in US hybrid sales",
         "url": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
@@ -182,9 +170,21 @@
         "url": "https://asia.nikkei.com/business/insurance/nippon-life-set-to-gain-from-affiliate-corebridge-s-merger-with-equitable",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan local governments step up Taiwan outreach for chip investment",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-local-governments-step-up-taiwan-outreach-for-chip-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Scandal-hit Nidec's new CEO long praised by founder Nagamori",
+        "url": "https://asia.nikkei.com/business/companies/scandal-hit-nidec-s-new-ceo-long-praised-by-founder-nagamori",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +209,10 @@
     }
   },
   "regional_breakdown": {
+    "region-americas": 11,
     "region-sea": 17,
-    "region-americas": 10,
     "region-europe": 1,
     "region-vietnam": 16,
-    "region-global": 36
+    "region-global": 35
   }
 }
