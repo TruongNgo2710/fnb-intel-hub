@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-02T20:27:54.683836+00:00",
+  "updated": "2026-10-03T04:19:57.927847+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
+      "count": 44,
       "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 13,
+      "count": 12,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
+      "count": 10,
       "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 6,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -58,8 +58,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-claude",
@@ -78,31 +84,19 @@
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 11,
-    "neutral": 51,
-    "score": 9,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 55,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -110,9 +104,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 12,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -128,42 +122,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Cổ đông lớn của Thaco nhận chuyển giao công ty vận hành chuỗi Starbucks Việt Nam",
+        "url": "https://vnexpress.net/co-dong-lon-cua-thaco-nhan-chuyen-giao-cong-ty-van-hanh-chuoi-starbucks-viet-nam-5127903.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "8 phút trước"
+      },
+      {
         "title": "Cartel Roasting Co. Takes Home Two Silver Medals At The Global Coffee Awards",
         "url": "https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Coffee Design: Look Alive Coffee In St. Petersburg, Florida",
         "url": "https://sprudge.com/coffee-design-look-alive-coffee-in-st-petersburg-florida-1278673.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: Marketplace Launches + Dolly’s New Coffee Commercial",
-        "url": "https://dailycoffeenews.com/2026/10/02/weekly-coffee-news-marketplace-launches-dollys-new-coffee-commercial/",
-        "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
     "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Through the Lens: Thailand floods leave capital in turmoil",
-        "url": "https://asia.nikkei.com/photos/through-the-lens-thailand-floods-leave-capital-in-turmoil",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "New World shares swing from gain to loss as investors weigh 11 Skies exit",
-        "url": "https://asia.nikkei.com/business/markets/property/new-world-shares-swing-from-gain-to-loss-as-investors-weigh-11-skies-exit",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thai Airways suspends CEO after Bangkok airport chaos during flooding",
         "url": "https://asia.nikkei.com/business/transportation/thai-airways-suspends-ceo-after-bangkok-airport-chaos-during-flooding",
@@ -179,6 +161,18 @@
       {
         "title": "Hyundai group tops Honda for first time in US hybrid sales",
         "url": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to develop low-cost cruise missile that overwhelms air defenses",
+        "url": "https://asia.nikkei.com/politics/defense/japan-to-develop-low-cost-cruise-missile-that-overwhelms-air-defenses",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nippon Life set to gain from affiliate Corebridge's merger with Equitable",
+        "url": "https://asia.nikkei.com/business/insurance/nippon-life-set-to-gain-from-affiliate-corebridge-s-merger-with-equitable",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -208,9 +202,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 14,
-    "region-vietnam": 11,
+    "region-sea": 17,
+    "region-americas": 13,
+    "region-europe": 1,
+    "region-vietnam": 13,
     "region-global": 36
   }
 }
