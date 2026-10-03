@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03T04:19:57.927847+00:00",
+  "updated": "2026-10-03T13:09:53.111262+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 54,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 30,
+      "count": 45,
+      "count_24h": 26,
       "trend": "hot"
     },
     {
@@ -21,14 +21,14 @@
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -36,13 +36,13 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -50,6 +50,13 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     }
@@ -74,29 +81,29 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 2,
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-highlands",
-      "name": "Highlands Coffee",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 10,
+    "positive": 16,
+    "negative": 9,
     "neutral": 55,
-    "score": 6,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -125,26 +132,26 @@
         "title": "Cổ đông lớn của Thaco nhận chuyển giao công ty vận hành chuỗi Starbucks Việt Nam",
         "url": "https://vnexpress.net/co-dong-lon-cua-thaco-nhan-chuyen-giao-cong-ty-van-hanh-chuoi-starbucks-viet-nam-5127903.html",
         "source": "VnExpress Kinh doanh",
-        "time": "8 phút trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Cartel Roasting Co. Takes Home Two Silver Medals At The Global Coffee Awards",
         "url": "https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "18 giờ trước"
       },
       {
         "title": "Coffee Design: Look Alive Coffee In St. Petersburg, Florida",
         "url": "https://sprudge.com/coffee-design-look-alive-coffee-in-st-petersburg-florida-1278673.html",
         "source": "Sprudge Coffee",
-        "time": "14 giờ trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 51,
     "top_articles": [
       {
         "title": "Thai Airways suspends CEO after Bangkok airport chaos during flooding",
@@ -177,7 +184,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -191,9 +198,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -203,9 +210,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 13,
+    "region-americas": 12,
     "region-europe": 1,
-    "region-vietnam": 13,
-    "region-global": 36
+    "region-vietnam": 15,
+    "region-global": 35
   }
 }
