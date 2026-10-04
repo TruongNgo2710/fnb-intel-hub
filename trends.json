@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-03T22:47:19.256807+00:00",
+  "updated": "2026-10-04T04:50:50.354110+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 39,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 19,
+      "count": 45,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -56,8 +56,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -94,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 10,
-    "neutral": 54,
+    "positive": 17,
+    "negative": 11,
+    "neutral": 52,
     "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -111,10 +111,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
-    "price_direction": "up",
+    "total_articles": 11,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -129,42 +129,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
+        "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
         "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
         "source": "The Verge AI",
-        "time": "7 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Cổ đông lớn của Thaco nhận chuyển giao công ty vận hành chuỗi Starbucks Việt Nam",
         "url": "https://vnexpress.net/co-dong-lon-cua-thaco-nhan-chuyen-giao-cong-ty-van-hanh-chuoi-starbucks-viet-nam-5127903.html",
         "source": "VnExpress Kinh doanh",
-        "time": "18 giờ trước"
-      },
-      {
-        "title": "Cartel Roasting Co. Takes Home Two Silver Medals At The Global Coffee Awards",
-        "url": "https://sprudge.com/cartel-roasting-co-takes-home-two-silver-medals-at-the-global-coffee-awards-1399540.html",
-        "source": "Sprudge Coffee",
         "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 53,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Hyundai group tops Honda for first time in US hybrid sales",
-        "url": "https://asia.nikkei.com/business/automobiles/hyundai-group-tops-honda-for-first-time-in-us-hybrid-sales",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan to develop low-cost cruise missile that overwhelms air defenses",
-        "url": "https://asia.nikkei.com/politics/defense/japan-to-develop-low-cost-cruise-missile-that-overwhelms-air-defenses",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Nippon Life set to gain from affiliate Corebridge's merger with Equitable",
         "url": "https://asia.nikkei.com/business/insurance/nippon-life-set-to-gain-from-affiliate-corebridge-s-merger-with-equitable",
@@ -182,15 +170,27 @@
         "url": "https://asia.nikkei.com/business/companies/scandal-hit-nidec-s-new-ceo-long-praised-by-founder-nagamori",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
+        "url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
+        "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "stable",
+      "count": 2,
+      "signal": "➡️ Ổn định"
     },
     "wheat": {
       "direction": "unknown",
@@ -209,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 11,
-    "region-sea": 17,
-    "region-europe": 1,
-    "region-vietnam": 16,
-    "region-global": 35
+    "region-sea": 18,
+    "region-europe": 2,
+    "region-vietnam": 17,
+    "region-global": 33,
+    "region-americas": 10
   }
 }
