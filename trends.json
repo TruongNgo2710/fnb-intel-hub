@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:50:50.354110+00:00",
+  "updated": "2026-10-04T13:49:00.111540+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 38,
@@ -15,29 +15,29 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 10,
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
@@ -57,7 +57,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     }
   ],
@@ -67,12 +67,6 @@
       "name": "ChatGPT/OpenAI",
       "count": 7,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-claude",
@@ -87,6 +81,12 @@
       "trend": "up"
     },
     {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
@@ -94,10 +94,10 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 11,
+    "positive": 18,
+    "negative": 10,
     "neutral": 52,
-    "score": 8,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -129,22 +129,22 @@
         "time": "0 phút trước"
       },
       {
+        "title": "It’s Two Hands On A Mug Season. Make Sure You’ve Got Coffee",
+        "url": "https://sprudge.com/its-two-hands-on-a-mug-season-make-sure-youve-got-coffee-1399403.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
         "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
         "source": "VnExpress Kinh doanh",
-        "time": "1 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
         "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
         "source": "The Verge AI",
-        "time": "13 giờ trước"
-      },
-      {
-        "title": "Cổ đông lớn của Thaco nhận chuyển giao công ty vận hành chuỗi Starbucks Việt Nam",
-        "url": "https://vnexpress.net/co-dong-lon-cua-thaco-nhan-chuyen-giao-cong-ty-van-hanh-chuoi-starbucks-viet-nam-5127903.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "1 ngày trước"
+        "time": "22 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -153,18 +153,6 @@
   "ai_trends": {
     "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Nippon Life set to gain from affiliate Corebridge's merger with Equitable",
-        "url": "https://asia.nikkei.com/business/insurance/nippon-life-set-to-gain-from-affiliate-corebridge-s-merger-with-equitable",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan local governments step up Taiwan outreach for chip investment",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-local-governments-step-up-taiwan-outreach-for-chip-investment",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Scandal-hit Nidec's new CEO long praised by founder Nagamori",
         "url": "https://asia.nikkei.com/business/companies/scandal-hit-nidec-s-new-ceo-long-praised-by-founder-nagamori",
@@ -180,6 +168,18 @@
       {
         "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
         "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Airbnb unlikely to let AI agents like Muse make bookings, CEO says",
+        "url": "https://asia.nikkei.com/business/travel-leisure/airbnb-unlikely-to-let-ai-agents-like-muse-make-bookings-ceo-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
+        "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -198,9 +198,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
@@ -211,8 +211,8 @@
   "regional_breakdown": {
     "region-sea": 18,
     "region-europe": 2,
-    "region-vietnam": 17,
-    "region-global": 33,
+    "region-vietnam": 16,
+    "region-global": 34,
     "region-americas": 10
   }
 }
