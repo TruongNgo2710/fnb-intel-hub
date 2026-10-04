@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-04T13:49:00.111540+00:00",
+  "updated": "2026-10-04T19:20:35.441555+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 17,
+      "count": 44,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -35,20 +35,20 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
+      "count": 5,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
@@ -65,14 +65,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
@@ -103,7 +103,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -132,33 +132,27 @@
         "title": "It’s Two Hands On A Mug Season. Make Sure You’ve Got Coffee",
         "url": "https://sprudge.com/its-two-hands-on-a-mug-season-make-sure-youve-got-coffee-1399403.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
         "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
         "source": "VnExpress Kinh doanh",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
         "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
         "source": "The Verge AI",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Scandal-hit Nidec's new CEO long praised by founder Nagamori",
-        "url": "https://asia.nikkei.com/business/companies/scandal-hit-nidec-s-new-ceo-long-praised-by-founder-nagamori",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
         "url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom",
@@ -182,9 +176,15 @@
         "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "The unglamorous reality of winning the AI race",
+        "url": "https://asia.nikkei.com/opinion/the-unglamorous-reality-of-winning-the-ai-race",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
     "region-europe": 2,
+    "region-sea": 18,
     "region-vietnam": 16,
-    "region-global": 34,
-    "region-americas": 10
+    "region-global": 36,
+    "region-americas": 8
   }
 }
