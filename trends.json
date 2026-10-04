@@ -1,35 +1,35 @@
 {
-  "updated": "2026-10-04T19:20:35.441555+00:00",
+  "updated": "2026-10-04T22:53:13.159397+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
+      "count": 43,
       "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 9,
-      "count_24h": 6,
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -56,7 +56,7 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     }
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 8,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -94,16 +94,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 10,
-    "neutral": 52,
+    "positive": 16,
+    "negative": 8,
+    "neutral": 56,
     "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -111,7 +111,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -132,13 +132,13 @@
         "title": "It’s Two Hands On A Mug Season. Make Sure You’ve Got Coffee",
         "url": "https://sprudge.com/its-two-hands-on-a-mug-season-make-sure-youve-got-coffee-1399403.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
         "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
         "source": "VnExpress Kinh doanh",
-        "time": "16 giờ trước"
+        "time": "19 giờ trước"
       },
       {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -151,20 +151,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Japan's TEPCO to counter 'capacity squatters' in AI data center boom",
-        "url": "https://asia.nikkei.com/business/energy/japan-s-tepco-to-counter-capacity-squatters-in-ai-data-center-boom",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Once in decline, Japan's hard-drive suppliers ride soaring AI demand",
-        "url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Airbnb unlikely to let AI agents like Muse make bookings, CEO says",
         "url": "https://asia.nikkei.com/business/travel-leisure/airbnb-unlikely-to-let-ai-agents-like-muse-make-bookings-ceo-says",
@@ -182,9 +170,21 @@
         "url": "https://asia.nikkei.com/opinion/the-unglamorous-reality-of-winning-the-ai-race",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Turkish arms group eyes Japan ties in air defense and underwater drones",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/turkish-arms-group-eyes-japan-ties-in-air-defense-and-underwater-drones",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
+        "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,10 +209,10 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 2,
-    "region-sea": 18,
-    "region-vietnam": 16,
+    "region-sea": 19,
+    "region-vietnam": 15,
     "region-global": 36,
-    "region-americas": 8
+    "region-europe": 1,
+    "region-americas": 9
   }
 }
