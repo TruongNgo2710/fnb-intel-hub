@@ -1,43 +1,43 @@
 {
-  "updated": "2026-10-04T22:53:13.159397+00:00",
+  "updated": "2026-10-05T04:39:19.245072+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 35,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 13,
+      "count": 46,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 4,
+      "count": 11,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 7,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 4,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -57,8 +57,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -103,7 +103,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -111,7 +111,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -132,13 +132,13 @@
         "title": "It’s Two Hands On A Mug Season. Make Sure You’ve Got Coffee",
         "url": "https://sprudge.com/its-two-hands-on-a-mug-season-make-sure-youve-got-coffee-1399403.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
         "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
         "source": "VnExpress Kinh doanh",
-        "time": "19 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -151,14 +151,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Airbnb unlikely to let AI agents like Muse make bookings, CEO says",
-        "url": "https://asia.nikkei.com/business/travel-leisure/airbnb-unlikely-to-let-ai-agents-like-muse-make-bookings-ceo-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
         "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030",
@@ -182,9 +176,15 @@
         "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi policy speech, Malaysia budget, Pacific islands climate summit",
+        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/takaichi-policy-speech-malaysia-budget-pacific-islands-climate-summit",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,9 +209,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 20,
     "region-vietnam": 15,
-    "region-global": 36,
+    "region-global": 35,
     "region-europe": 1,
     "region-americas": 9
   }
