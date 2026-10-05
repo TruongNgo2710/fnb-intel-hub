@@ -1,64 +1,78 @@
 {
-  "updated": "2026-10-05T04:39:19.245072+00:00",
+  "updated": "2026-10-05T16:55:52.514533+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 46,
-      "count_24h": 16,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 3,
+      "count": 10,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 5,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 7,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 1,
+      "count": 3,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-plantbased",
+      "label": "#PlantBased",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -81,12 +95,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
@@ -94,10 +102,10 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 8,
-    "neutral": 56,
-    "score": 10,
+    "positive": 14,
+    "negative": 7,
+    "neutral": 59,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -106,12 +114,16 @@
       "count": 46
     },
     {
+      "word": "delivery",
+      "count": 2
+    },
+    {
       "word": "gọi vốn",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -129,68 +141,68 @@
         "time": "0 phút trước"
       },
       {
-        "title": "It’s Two Hands On A Mug Season. Make Sure You’ve Got Coffee",
-        "url": "https://sprudge.com/its-two-hands-on-a-mug-season-make-sure-youve-got-coffee-1399403.html",
+        "title": "From Vietnam To Vienna, Exploring The Global World Of Coffee Museums",
+        "url": "https://sprudge.com/from-vietnam-to-vienna-exploring-the-global-world-of-coffee-museums-1255579.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Kim ngạch xuất khẩu cà phê giảm khi giá rớt 20%",
-        "url": "https://vnexpress.net/kim-ngach-xuat-khau-ca-phe-giam-khi-gia-rot-20-5128035.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "1 ngày trước"
+        "title": "Design Details: The Terracotta Flow of Project Hum in Mumbai",
+        "url": "https://dailycoffeenews.com/2026/10/05/design-details-the-terracotta-flow-of-project-hum-in-mumbai/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
       },
       {
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "source": "The Verge AI",
-        "time": "1 ngày trước"
+        "title": "Small Study Links Polyphenols to Breast Cancer Survival",
+        "url": "https://dailycoffeenews.com/2026/10/05/small-study-links-polyphenols-to-breast-cancer-survival/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 50,
     "top_articles": [
       {
-        "title": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
-        "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030",
+        "title": "Strategic ambiguity isn't perfect, but it remains Washington's best bet",
+        "url": "https://asia.nikkei.com/opinion/strategic-ambiguity-isn-t-perfect-but-it-remains-washington-s-best-bet",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "The unglamorous reality of winning the AI race",
-        "url": "https://asia.nikkei.com/opinion/the-unglamorous-reality-of-winning-the-ai-race",
+        "title": "Taiwan rice returns home as high-end Japanese sake",
+        "url": "https://asia.nikkei.com/business/food-beverage/taiwan-rice-returns-home-as-high-end-japanese-sake",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Turkish arms group eyes Japan ties in air defense and underwater drones",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/turkish-arms-group-eyes-japan-ties-in-air-defense-and-underwater-drones",
+        "title": "Japan's Takaichi aims to reassure markets over spending agenda",
+        "url": "https://asia.nikkei.com/politics/japan-s-takaichi-aims-to-reassure-markets-over-spending-agenda",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Hiroshima and Nagasaki disasters offer lesson for AI governance",
-        "url": "https://asia.nikkei.com/spotlight/comment/hiroshima-and-nagasaki-disasters-offer-lesson-for-ai-governance",
+        "title": "Japan's Nikkei average briefly regains 70,000 mark as AI optimism returns",
+        "url": "https://asia.nikkei.com/business/markets/japan-s-nikkei-average-briefly-regains-70-000-mark-as-ai-optimism-returns",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Takaichi policy speech, Malaysia budget, Pacific islands climate summit",
-        "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/takaichi-policy-speech-malaysia-budget-pacific-islands-climate-summit",
+        "title": "HK Express CEO says airline 'firmly on path to turnaround'",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/hk-express-ceo-says-airline-firmly-on-path-to-turnaround2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "stable",
-      "count": 2,
-      "signal": "➡️ Ổn định"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
       "direction": "unknown",
@@ -210,9 +222,9 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-vietnam": 15,
-    "region-global": 35,
-    "region-europe": 1,
-    "region-americas": 9
+    "region-vietnam": 13,
+    "region-global": 34,
+    "region-americas": 12,
+    "region-europe": 1
   }
 }
