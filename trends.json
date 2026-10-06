@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-06T11:06:48.829316+00:00",
+  "updated": "2026-10-06T18:05:17.152369+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 67,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 36,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 10,
+      "count": 48,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
+      "count": 13,
+      "count_24h": 10,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 12,
       "count_24h": 10,
       "trend": "hot"
     },
@@ -29,40 +29,40 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 7,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-plantbased",
-      "label": "#PlantBased",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -72,19 +72,31 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 9,
+      "count": 8,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
       "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-passio",
+      "name": "brand-passio",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -94,23 +106,29 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-illy",
+      "name": "brand-illy",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 21,
     "negative": 6,
-    "neutral": 55,
-    "score": 16,
+    "neutral": 53,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 47
     },
     {
       "word": "chatgpt",
@@ -121,15 +139,19 @@
       "count": 2
     },
     {
+      "word": "delivery",
+      "count": 2
+    },
+    {
       "word": "ucc",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 9,
-    "price_direction": "stable",
-    "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_direction": "up",
+    "price_up_signals": 2,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -144,36 +166,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "More control, more creativity: Espresso’s new balancing act",
-        "url": "https://perfectdailygrind.com/2026/10/control-creativity-balancing-espresso/",
-        "source": "Perfect Daily Grind",
+        "title": "Scenes from the 2026 Roast Summit in Portland, Oregon",
+        "url": "https://dailycoffeenews.com/2026/10/06/scenes-from-the-2026-roast-summit-in-portland-oregon/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Luciano Repetto Of Graffeo Coffee: The Sprudge Twenty Interview",
+        "url": "https://sprudge.com/luciano-repetto-of-graffeo-coffee-the-sprudge-twenty-interview-1278697.html",
+        "source": "Sprudge Coffee",
         "time": "4 giờ trước"
       },
       {
-        "title": "From Vietnam To Vienna, Exploring The Global World Of Coffee Museums",
-        "url": "https://sprudge.com/from-vietnam-to-vienna-exploring-the-global-world-of-coffee-museums-1255579.html",
-        "source": "Sprudge Coffee",
-        "time": "21 giờ trước"
-      },
-      {
-        "title": "Design Details: The Terracotta Flow of Project Hum in Mumbai",
-        "url": "https://dailycoffeenews.com/2026/10/05/design-details-the-terracotta-flow-of-project-hum-in-mumbai/",
+        "title": "Wingsure Launches AI-Powered Coffee Farm Intelligence Platform",
+        "url": "https://dailycoffeenews.com/2026/10/06/wingsure-launches-ai-powered-coffee-farm-intelligence-platform/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Kioxia sell date looms for retail investors who joined boom on margin",
-        "url": "https://asia.nikkei.com/business/markets/equities/kioxia-sell-date-looms-for-retail-investors-who-joined-boom-on-margin",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Is it possible to slow down AI development?",
         "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/is-it-possible-to-slow-down-ai-development",
@@ -197,9 +213,15 @@
         "url": "https://asia.nikkei.com/economy/china-s-q3-growth-estimated-below-target-at-4.4-despite-ai-boom",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "OpenAI steps up safety, promises earlier disclosure after Australian hack",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-steps-up-safety-promises-earlier-disclosure-after-australian-hack",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,10 +246,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-vietnam": 15,
-    "region-global": 32,
-    "region-europe": 3,
-    "region-americas": 11
+    "region-vietnam": 12,
+    "region-sea": 18,
+    "region-americas": 19,
+    "region-global": 29,
+    "region-europe": 2
   }
 }
