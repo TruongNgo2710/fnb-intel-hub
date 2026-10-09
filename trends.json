@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-08T21:07:58.779912+00:00",
+  "updated": "2026-10-09T05:07:10.111417+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 71,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 39,
+      "count": 45,
+      "count_24h": 38,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 14,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 9,
+      "count": 16,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 10,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -76,14 +76,14 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
       "count": 2,
       "trend": "up"
     },
@@ -98,33 +98,23 @@
       "name": "brand-nespresso",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-illy",
-      "name": "brand-illy",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 21,
-    "negative": 4,
-    "neutral": 55,
-    "score": 21,
-    "label": "Tích cực"
+    "negative": 7,
+    "neutral": 52,
+    "score": 18,
+    "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 45
     },
     {
       "word": "chatgpt",
       "count": 3
-    },
-    {
-      "word": "funding",
-      "count": 2
     },
     {
       "word": "gọi vốn",
@@ -136,7 +126,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -157,59 +147,59 @@
         "title": "Starbucks is reportedly eyeing a Chipotle acquisition",
         "url": "https://www.nrn.com/mergers-acquisitions/starbucks-is-reportedly-eyeing-a-chipotle-acquisition",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Citing Quality, Nespresso Discontinues Compostable Capsules",
         "url": "https://dailycoffeenews.com/2026/10/08/citing-quality-nespresso-discontinues-compostable-capsules/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Esteban Cristancho: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/esteban-cristancho-the-sprudge-twenty-interview-1278706.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 46,
     "top_articles": [
       {
-        "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+        "title": "Trump's AI free-for-all plays into China's hands",
+        "url": "https://asia.nikkei.com/opinion/trump-s-ai-free-for-all-plays-into-china-s-hands",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Uniqlo operator projects 7th straight record profit for current fiscal year",
-        "url": "https://asia.nikkei.com/business/retail/uniqlo-operator-projects-7th-straight-record-profit-for-current-fiscal-year",
+        "title": "Thai crackdown on gun violence challenged by glut of firearms",
+        "url": "https://asia.nikkei.com/spotlight/policy-asia/thai-crackdown-on-gun-violence-challenged-by-glut-of-firearms",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "SoftBank and Grab to develop AI infrastructure in Malaysia's Sarawak",
-        "url": "https://asia.nikkei.com/business/technology/softbank-and-grab-to-develop-ai-infrastructure-in-malaysia-s-sarawak",
+        "title": "Line aims to be Thailand's 'everyday AI app' in key market",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/line-aims-to-be-thailand-s-everyday-ai-app-in-key-market",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Samsung, SK Hynix record earnings fuel South Korea spending on AI, youth",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-sk-hynix-record-earnings-fuel-south-korea-spending-on-ai-youth",
+        "title": "Taliban face civil war as China's Afghanistan-Pakistan mediation fails",
+        "url": "https://asia.nikkei.com/politics/international-relations/afghanistan-turmoil/taliban-face-civil-war-as-china-s-afghanistan-pakistan-mediation-fails",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Synopsys looks to work with Chinese AI labs to speed up chip design",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design",
+        "title": "Taiwan's KMT shows signs of power struggle tracked by US and China",
+        "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-shows-signs-of-power-struggle-tracked-by-us-and-china",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -229,15 +219,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-europe": 1,
-    "region-sea": 15,
-    "region-americas": 15,
-    "region-vietnam": 16,
-    "region-global": 33
+    "region-sea": 16,
+    "region-americas": 14,
+    "region-vietnam": 17,
+    "region-global": 31,
+    "region-europe": 2
   }
 }
