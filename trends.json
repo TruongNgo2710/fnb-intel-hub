@@ -1,54 +1,61 @@
 {
-  "updated": "2026-10-09T15:04:52.632269+00:00",
+  "updated": "2026-10-09T20:39:21.931835+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 58,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 46,
-      "count_24h": 36,
+      "count_24h": 27,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 21,
-      "count_24h": 18,
+      "count": 20,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 9,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 4,
       "count_24h": 3,
       "trend": "hot"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -58,19 +65,19 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 3,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -93,9 +100,9 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 9,
-    "neutral": 52,
+    "positive": 17,
+    "negative": 7,
+    "neutral": 56,
     "score": 12,
     "label": "Trung tính"
   },
@@ -114,7 +121,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -132,22 +139,22 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Roast Magazine Launches iRoast — a Community for Coffee Roasting Professionals",
+        "url": "https://dailycoffeenews.com/2026/10/09/roast-magazine-launches-iroast-a-community-for-coffee-roasting-professionals/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Menu Tracker: New items from Bojangles, Culver’s, and Smoothie King",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-bojangles-culver-s-and-smoothie-king",
         "source": "Nation's Restaurant News",
-        "time": "31 phút trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Good Food Awards Open + California Chain Expands",
         "url": "https://dailycoffeenews.com/2026/10/09/weekly-coffee-news-good-food-awards-open-california-chain-expands/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "La Marzocco And Rains Collaborate For A New Barista Apron",
-        "url": "https://sprudge.com/la-marzocco-and-rains-collaborate-for-a-new-barista-apron-1409605.html",
-        "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "7 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -157,32 +164,32 @@
     "total_articles": 48,
     "top_articles": [
       {
-        "title": "Line aims to be Thailand's 'everyday AI app' in key market",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/line-aims-to-be-thailand-s-everyday-ai-app-in-key-market",
+        "title": "Editor's Choice: Has the AI race reached its speed limit?",
+        "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-has-the-ai-race-reached-its-speed-limit",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Taliban face civil war as China's Afghanistan-Pakistan mediation fails",
-        "url": "https://asia.nikkei.com/politics/international-relations/afghanistan-turmoil/taliban-face-civil-war-as-china-s-afghanistan-pakistan-mediation-fails",
+        "title": "Malaysia cuts income tax and raises wage floors as election approaches",
+        "url": "https://asia.nikkei.com/economy/malaysia-cuts-income-tax-and-raises-wage-floors-as-election-approaches",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Taiwan's KMT shows signs of power struggle tracked by US and China",
-        "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-shows-signs-of-power-struggle-tracked-by-us-and-china",
+        "title": "TDK weighs sale of hard-drive head unit, but regulatory OK uncertain",
+        "url": "https://asia.nikkei.com/business/business-deals/tdk-weighs-sale-of-hard-drive-head-unit-but-regulatory-ok-uncertain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "AI casts shadow over India's multinational tech job machine",
-        "url": "https://asia.nikkei.com/business/technology/ai-casts-shadow-over-india-s-multinational-tech-job-machine",
+        "title": "Trump's 'super intelligence' AI rebrand triggers rush on .si domain names",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/trump-s-super-intelligence-ai-rebrand-triggers-rush-on-.si-domain-names",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Honda board had too little say in major investment decisions, chair says",
-        "url": "https://asia.nikkei.com/business/automobiles/honda-board-had-too-little-say-in-major-investment-decisions-chair-says",
+        "title": "Japan machine tool order backlog hits all-time high on AI demand",
+        "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -207,15 +214,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-americas": 14,
-    "region-vietnam": 16,
+    "region-sea": 16,
     "region-europe": 3,
-    "region-global": 30
+    "region-americas": 20,
+    "region-vietnam": 13,
+    "region-global": 28
   }
 }
