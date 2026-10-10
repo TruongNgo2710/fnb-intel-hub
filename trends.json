@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-10T14:20:44.914195+00:00",
+  "updated": "2026-10-10T19:54:15.969517+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 49,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 22,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
+      "count": 17,
       "count_24h": 8,
       "trend": "hot"
     },
@@ -22,13 +22,13 @@
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 5,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
+      "count": 7,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -36,15 +36,15 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-delivery",
@@ -57,21 +57,21 @@
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 6,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 5,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -106,10 +106,10 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 8,
-    "neutral": 53,
-    "score": 14,
+    "positive": 17,
+    "negative": 11,
+    "neutral": 52,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -148,19 +148,19 @@
         "title": "Feast Your Eyes On This Cornucopia Of Coffee Gear",
         "url": "https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Roast Magazine Launches iRoast — a Community for Coffee Roasting Professionals",
         "url": "https://dailycoffeenews.com/2026/10/09/roast-magazine-launches-iroast-a-community-for-coffee-roasting-professionals/",
         "source": "Daily Coffee News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Menu Tracker: New items from Bojangles, Culver’s, and Smoothie King",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-bojangles-culver-s-and-smoothie-king",
         "source": "Nation's Restaurant News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -169,12 +169,6 @@
   "ai_trends": {
     "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Trump's 'super intelligence' AI rebrand triggers rush on .si domain names",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/trump-s-super-intelligence-ai-rebrand-triggers-rush-on-.si-domain-names",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan machine tool order backlog hits all-time high on AI demand",
         "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
@@ -196,6 +190,12 @@
       {
         "title": "Japan's Nakatsugawa aims to attract more visitors to 'Samurai Road'",
         "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-nakatsugawa-aims-to-attract-more-visitors-to-samurai-road",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's KMT shows signs of power struggle tracked by US and China",
+        "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-shows-signs-of-power-struggle-tracked-by-us-and-china",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -225,10 +225,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 18,
+    "region-sea": 17,
+    "region-americas": 17,
+    "region-europe": 2,
     "region-vietnam": 10,
-    "region-global": 33,
-    "region-europe": 1
+    "region-global": 34
   }
 }
