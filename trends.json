@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-09T20:39:21.931835+00:00",
+  "updated": "2026-10-10T04:52:54.833802+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 58,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 27,
+      "count": 48,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 15,
+      "count": 17,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -29,14 +29,14 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 8,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -71,7 +71,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -81,14 +81,20 @@
       "trend": "hot"
     },
     {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
+    },
+    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-illy",
+      "name": "brand-illy",
       "count": 1,
       "trend": "up"
     },
@@ -100,23 +106,23 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 7,
-    "neutral": 56,
+    "positive": 19,
+    "negative": 9,
+    "neutral": 52,
     "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 48
     },
     {
-      "word": "gọi vốn",
+      "word": "ucc",
       "count": 2
     },
     {
-      "word": "claude",
+      "word": "gọi vốn",
       "count": 2
     }
   ],
@@ -142,45 +148,27 @@
         "title": "Roast Magazine Launches iRoast — a Community for Coffee Roasting Professionals",
         "url": "https://dailycoffeenews.com/2026/10/09/roast-magazine-launches-iroast-a-community-for-coffee-roasting-professionals/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Bojangles, Culver’s, and Smoothie King",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-bojangles-culver-s-and-smoothie-king",
         "source": "Nation's Restaurant News",
-        "time": "6 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Good Food Awards Open + California Chain Expands",
         "url": "https://dailycoffeenews.com/2026/10/09/weekly-coffee-news-good-food-awards-open-california-chain-expands/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Editor's Choice: Has the AI race reached its speed limit?",
-        "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-has-the-ai-race-reached-its-speed-limit",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Malaysia cuts income tax and raises wage floors as election approaches",
-        "url": "https://asia.nikkei.com/economy/malaysia-cuts-income-tax-and-raises-wage-floors-as-election-approaches",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "TDK weighs sale of hard-drive head unit, but regulatory OK uncertain",
-        "url": "https://asia.nikkei.com/business/business-deals/tdk-weighs-sale-of-hard-drive-head-unit-but-regulatory-ok-uncertain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Trump's 'super intelligence' AI rebrand triggers rush on .si domain names",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/trump-s-super-intelligence-ai-rebrand-triggers-rush-on-.si-domain-names",
@@ -192,9 +180,27 @@
         "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Once China's most valuable stock, liquor maker Kweichow Moutai down 43% from peak",
+        "url": "https://asia.nikkei.com/business/food-beverage/once-china-s-most-valuable-stock-liquor-maker-kweichow-moutai-down-43-from-peak",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Honda to sell Thai-built Mitsubishi pickup under own brand in Southeast Asia",
+        "url": "https://asia.nikkei.com/business/automobiles/honda-to-sell-thai-built-mitsubishi-pickup-under-own-brand-in-southeast-asia",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Nakatsugawa aims to attract more visitors to 'Samurai Road'",
+        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-nakatsugawa-aims-to-attract-more-visitors-to-samurai-road",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,7 +215,7 @@
     },
     "sugar": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     },
     "dairy": {
@@ -220,9 +226,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-europe": 3,
-    "region-americas": 20,
-    "region-vietnam": 13,
-    "region-global": 28
+    "region-americas": 19,
+    "region-vietnam": 12,
+    "region-global": 31,
+    "region-europe": 2
   }
 }
