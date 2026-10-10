@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-10T19:54:15.969517+00:00",
+  "updated": "2026-10-10T23:21:14.375661+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 15,
+      "count": 49,
+      "count_24h": 18,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 8,
+      "count": 15,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -28,7 +28,7 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -36,13 +36,13 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -59,25 +59,32 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -106,16 +113,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 11,
-    "neutral": 52,
-    "score": 8,
+    "positive": 15,
+    "negative": 10,
+    "neutral": 55,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 49
     },
     {
       "word": "ucc",
@@ -129,7 +136,7 @@
   "coffee_trends": {
     "total_articles": 11,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -148,7 +155,7 @@
         "title": "Feast Your Eyes On This Cornucopia Of Coffee Gear",
         "url": "https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Roast Magazine Launches iRoast — a Community for Coffee Roasting Professionals",
@@ -164,17 +171,11 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 51,
     "top_articles": [
-      {
-        "title": "Japan machine tool order backlog hits all-time high on AI demand",
-        "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-order-backlog-hits-all-time-high-on-ai-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Once China's most valuable stock, liquor maker Kweichow Moutai down 43% from peak",
         "url": "https://asia.nikkei.com/business/food-beverage/once-china-s-most-valuable-stock-liquor-maker-kweichow-moutai-down-43-from-peak",
@@ -198,9 +199,15 @@
         "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-shows-signs-of-power-struggle-tracked-by-us-and-china",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan PM Takaichi works to shed reflationist label on market, US pressure",
+        "url": "https://asia.nikkei.com/economy/japan-pm-takaichi-works-to-shed-reflationist-label-on-market-us-pressure",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -226,9 +233,9 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 17,
+    "region-americas": 16,
     "region-europe": 2,
     "region-vietnam": 10,
-    "region-global": 34
+    "region-global": 35
   }
 }
