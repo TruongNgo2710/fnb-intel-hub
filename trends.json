@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:46:13.364081+00:00",
+  "updated": "2026-10-11T20:01:01.596797+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 37,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 17,
+      "count": 47,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 15,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 4,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -72,7 +72,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -113,16 +113,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 11,
-    "neutral": 52,
-    "score": 8,
+    "positive": 18,
+    "negative": 9,
+    "neutral": 53,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 47
     },
     {
       "word": "ucc",
@@ -161,7 +161,7 @@
         "title": "Look At All These Coffees. Don’t Look At Them! Drink Them!",
         "url": "https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Feast Your Eyes On This Cornucopia Of Coffee Gear",
@@ -174,14 +174,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 50,
     "top_articles": [
-      {
-        "title": "Japan's Nakatsugawa aims to attract more visitors to 'Samurai Road'",
-        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-nakatsugawa-aims-to-attract-more-visitors-to-samurai-road",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan's KMT shows signs of power struggle tracked by US and China",
         "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-shows-signs-of-power-struggle-tracked-by-us-and-china",
@@ -205,9 +199,15 @@
         "url": "https://asia.nikkei.com/business/automobiles/toyota-offers-low-cost-financing-in-thailand-to-ward-off-cheap-chinese-evs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "French defense contractor Thales to open Japan maintenance base",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/french-defense-contractor-thales-to-open-japan-maintenance-base",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -232,8 +232,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 15,
+    "region-sea": 15,
+    "region-americas": 16,
     "region-europe": 2,
     "region-vietnam": 12,
     "region-global": 35
