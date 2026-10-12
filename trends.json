@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-11T23:37:22.192652+00:00",
+  "updated": "2026-10-12T04:54:18.329651+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 47,
-      "count_24h": 14,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
@@ -19,37 +19,30 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 4,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 13,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 9,
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 11,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -111,19 +104,13 @@
       "name": "brand-illy",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-nespresso",
-      "name": "brand-nespresso",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 20,
     "negative": 9,
-    "neutral": 53,
-    "score": 11,
+    "neutral": 51,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -141,7 +128,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 0,
@@ -168,7 +155,7 @@
         "title": "Look At All These Coffees. Don’t Look At Them! Drink Them!",
         "url": "https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Feast Your Eyes On This Cornucopia Of Coffee Gear",
@@ -241,8 +228,8 @@
   "regional_breakdown": {
     "region-sea": 16,
     "region-europe": 2,
-    "region-americas": 15,
-    "region-vietnam": 12,
-    "region-global": 35
+    "region-americas": 14,
+    "region-vietnam": 14,
+    "region-global": 34
   }
 }
