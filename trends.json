@@ -1,57 +1,57 @@
 {
-  "updated": "2026-10-12T04:54:18.329651+00:00",
+  "updated": "2026-10-12T17:31:32.985667+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 49,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 15,
+      "count": 48,
+      "count_24h": 24,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 13,
-      "count_24h": 10,
+      "count": 16,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 4,
+      "count": 10,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 6,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-brunch",
@@ -70,12 +70,6 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
       "count": 4,
@@ -84,18 +78,30 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     },
@@ -107,30 +113,30 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 9,
-    "neutral": 51,
-    "score": 14,
+    "positive": 22,
+    "negative": 10,
+    "neutral": 48,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 48
     },
     {
       "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "ucc",
+      "word": "acquisition",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -152,56 +158,56 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Look At All These Coffees. Don’t Look At Them! Drink Them!",
-        "url": "https://sprudge.com/look-at-all-these-coffees-dont-look-at-them-drink-them-1417089.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "title": "So much for that idea: Starbucks says it is not buying Chipotle",
+        "url": "https://www.nrn.com/mergers-acquisitions/so-much-for-that-idea-starbucks-says-it-is-not-buying-chipotle",
+        "source": "Nation's Restaurant News",
+        "time": "2 giờ trước"
       },
       {
-        "title": "Feast Your Eyes On This Cornucopia Of Coffee Gear",
-        "url": "https://sprudge.com/feast-your-eyes-on-this-cornucopia-of-coffee-gear-1417120.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "title": "StoneX Acquiring Colombian Coffee Trader Integra",
+        "url": "https://dailycoffeenews.com/2026/10/12/stonex-acquiring-colombian-coffee-trader-integra/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Japan PM Takaichi works to shed reflationist label on market, US pressure",
-        "url": "https://asia.nikkei.com/economy/japan-pm-takaichi-works-to-shed-reflationist-label-on-market-us-pressure",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Classrooms should ban digital textbooks and AI",
-        "url": "https://asia.nikkei.com/opinion/classrooms-should-ban-digital-textbooks-and-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Toyota offers low-cost financing in Thailand to ward off cheap Chinese EVs",
-        "url": "https://asia.nikkei.com/business/automobiles/toyota-offers-low-cost-financing-in-thailand-to-ward-off-cheap-chinese-evs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "French defense contractor Thales to open Japan maintenance base",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/french-defense-contractor-thales-to-open-japan-maintenance-base",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Robot baristas and K-pop dancers lead South Korea's physical AI boom",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/robot-baristas-and-k-pop-dancers-lead-south-korea-s-physical-ai-boom",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Solid-state battery maker ProLogium looks beyond EVs to AI and the skies",
+        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/solid-state-battery-maker-prologium-looks-beyond-evs-to-ai-and-the-skies",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Former iPhone display plant in Japan to start new life in chip supply chain",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/former-iphone-display-plant-in-japan-to-start-new-life-in-chip-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Inflation, AI and climate: IMF kicks off key meeting in Bangkok",
+        "url": "https://asia.nikkei.com/economy/inflation-ai-and-climate-imf-kicks-off-key-meeting-in-bangkok",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Bandai's Tamagotchi gains ground in Asia as licensing business expands",
+        "url": "https://asia.nikkei.com/business/media-entertainment/bandai-s-tamagotchi-gains-ground-in-asia-as-licensing-business-expands",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,15 +227,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 4,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 16,
-    "region-europe": 2,
+    "region-vietnam": 15,
     "region-americas": 14,
-    "region-vietnam": 14,
-    "region-global": 34
+    "region-europe": 2,
+    "region-global": 33
   }
 }
