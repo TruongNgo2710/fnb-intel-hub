@@ -1,91 +1,79 @@
 {
-  "updated": "2026-10-13T11:31:46.635558+00:00",
+  "updated": "2026-10-13T19:02:12.714828+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 23,
+      "count": 40,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 22,
-      "count_24h": 18,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 6,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 8,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
+      "count": 6,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 5,
       "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 5,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -94,35 +82,29 @@
       "trend": "up"
     },
     {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-illy",
-      "name": "brand-illy",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 9,
-    "neutral": 54,
-    "score": 10,
+    "positive": 18,
+    "negative": 6,
+    "neutral": 56,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -134,10 +116,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "stable",
+    "total_articles": 12,
+    "price_direction": "up",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -152,42 +134,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Are matcha & customised drinks actually helping specialty coffee shops?",
-        "url": "https://perfectdailygrind.com/2026/10/matcha-customised-drinks-helping-specialty-coffee/",
-        "source": "Perfect Daily Grind",
-        "time": "5 giờ trước"
-      },
-      {
-        "title": "So much for that idea: Starbucks says it is not buying Chipotle",
-        "url": "https://www.nrn.com/mergers-acquisitions/so-much-for-that-idea-starbucks-says-it-is-not-buying-chipotle",
-        "source": "Nation's Restaurant News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "StoneX Acquiring Colombian Coffee Trader Integra",
-        "url": "https://dailycoffeenews.com/2026/10/12/stonex-acquiring-colombian-coffee-trader-integra/",
+        "title": "Presenting the 2027 Roaster of the Year Finalists",
+        "url": "https://dailycoffeenews.com/2026/10/13/presenting-the-2027-roaster-of-the-year-finalists/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "58 phút trước"
+      },
+      {
+        "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+        "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+        "source": "The Verge AI",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "NCA Convention Returns to Austin in March 2027",
+        "url": "https://dailycoffeenews.com/2026/10/13/nca-convention-returns-to-austin-in-march-2027/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Japan's foreign worker system strains as officials eye quota shifts",
-        "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-foreign-worker-system-strains-as-officials-eye-quota-shifts",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "US legal AI startup Harvey to open Japan office in 2027, CEO says",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-legal-ai-startup-harvey-to-open-japan-office-in-2027-ceo-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Is Singapore now a key link in AI supply chain?",
         "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/is-singapore-now-a-key-link-in-ai-supply-chain",
@@ -205,9 +175,21 @@
         "url": "https://asia.nikkei.com/business/companies/nike-races-to-regain-china-footing-as-rivals-raise-their-game",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China probes Huang Qifan, former ally of disgraced Bo Xilai",
+        "url": "https://asia.nikkei.com/politics/china-probes-huang-qifan-former-ally-of-disgraced-bo-xilai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
+        "url": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -227,15 +209,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 4,
+      "count": 3,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-vietnam": 12,
-    "region-global": 34,
-    "region-americas": 13,
+    "region-sea": 19,
+    "region-americas": 19,
+    "region-global": 30,
+    "region-vietnam": 11,
     "region-europe": 1
   }
 }
