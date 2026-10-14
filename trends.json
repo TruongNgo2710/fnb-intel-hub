@@ -1,61 +1,61 @@
 {
-  "updated": "2026-10-14T09:27:27.051006+00:00",
+  "updated": "2026-10-14T16:46:45.900276+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 72,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 37,
+      "count": 40,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 15,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 7,
-      "count_24h": 5,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 5,
       "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 3,
       "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -72,8 +72,8 @@
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-openai",
@@ -92,25 +92,19 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 8,
-    "neutral": 54,
-    "score": 12,
+    "positive": 19,
+    "negative": 3,
+    "neutral": 58,
+    "score": 20,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -118,10 +112,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "up",
+    "total_articles": 10,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -136,48 +130,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Presenting the 2027 Roaster of the Year Finalists",
-        "url": "https://dailycoffeenews.com/2026/10/13/presenting-the-2027-roaster-of-the-year-finalists/",
-        "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "title": "Phil & Sebastian Named National Winner – Canada At The 2026 Global Coffee Awards",
+        "url": "https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
       },
       {
-        "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-        "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-        "source": "The Verge AI",
-        "time": "15 giờ trước"
+        "title": "The Welcome Conference Is Not A Coffee Conference (But The Coffee Rules)",
+        "url": "https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
       },
       {
-        "title": "NCA Convention Returns to Austin in March 2027",
-        "url": "https://dailycoffeenews.com/2026/10/13/nca-convention-returns-to-austin-in-march-2027/",
+        "title": "Niyyah Coffee Brings a Deaf-Owned Cafe to Indianapolis",
+        "url": "https://dailycoffeenews.com/2026/10/14/niyyah-coffee-brings-a-deaf-owned-cafe-to-indianapolis/",
         "source": "Daily Coffee News",
-        "time": "17 giờ trước"
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "SB Energy does SoftBank's spadework for Son's AI drive",
-        "url": "https://asia.nikkei.com/business/technology/tech-asia/sb-energy-does-softbank-s-spadework-for-son-s-ai-drive",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Singapore Q3 GDP grows 5.4% on sustained AI-driven demand",
-        "url": "https://asia.nikkei.com/economy/singapore-q3-gdp-grows-5.4-on-sustained-ai-driven-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Central banks navigate inflation uncertainty amid supply shocks",
-        "url": "https://asia.nikkei.com/economy/inflation/central-banks-navigate-inflation-uncertainty-amid-supply-shocks2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Britain's elite schools bet on Japan's regions as Asia education hub",
         "url": "https://asia.nikkei.com/business/education/britain-s-elite-schools-bet-on-japan-s-regions-as-asia-education-hub",
@@ -189,9 +165,27 @@
         "url": "https://asia.nikkei.com/economy/imf-chief-calls-for-urgent-fiscal-repairs-in-advanced-economies",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-and-trump-confirm-plans-for-alaska-lng-cooperation",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's scandal-hit agriculture minister quits in blow to PM Takaichi",
+        "url": "https://asia.nikkei.com/politics/japan-s-scandal-hit-agriculture-minister-quits-in-blow-to-pm-takaichi",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
     "region-europe": 1,
+    "region-sea": 18,
     "region-vietnam": 12,
-    "region-global": 31,
-    "region-americas": 18
+    "region-global": 33,
+    "region-americas": 16
   }
 }
