@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-14T04:00:01.174361+00:00",
+  "updated": "2026-10-14T09:27:27.051006+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 36,
+      "count": 42,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 14,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 10,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 6,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 6,
+      "count": 7,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
+      "count": 6,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 5,
       "count_24h": 5,
       "trend": "hot"
@@ -101,16 +101,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 7,
-    "neutral": 56,
+    "positive": 18,
+    "negative": 8,
+    "neutral": 54,
     "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -118,7 +118,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -139,39 +139,27 @@
         "title": "Presenting the 2027 Roaster of the Year Finalists",
         "url": "https://dailycoffeenews.com/2026/10/13/presenting-the-2027-roaster-of-the-year-finalists/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
         "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
         "source": "The Verge AI",
-        "time": "9 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "NCA Convention Returns to Austin in March 2027",
         "url": "https://dailycoffeenews.com/2026/10/13/nca-convention-returns-to-austin-in-march-2027/",
         "source": "Daily Coffee News",
-        "time": "11 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "China probes Huang Qifan, former ally of disgraced Bo Xilai",
-        "url": "https://asia.nikkei.com/politics/china-probes-huang-qifan-former-ally-of-disgraced-bo-xilai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Hyundai to invest $15.5bn in Indian manufacturing, R&D",
-        "url": "https://asia.nikkei.com/business/automobiles/hyundai-to-invest-15.5bn-in-indian-manufacturing-r-d",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "SB Energy does SoftBank's spadework for Son's AI drive",
         "url": "https://asia.nikkei.com/business/technology/tech-asia/sb-energy-does-softbank-s-spadework-for-son-s-ai-drive",
@@ -189,9 +177,21 @@
         "url": "https://asia.nikkei.com/economy/inflation/central-banks-navigate-inflation-uncertainty-amid-supply-shocks2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Britain's elite schools bet on Japan's regions as Asia education hub",
+        "url": "https://asia.nikkei.com/business/education/britain-s-elite-schools-bet-on-japan-s-regions-as-asia-education-hub",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "IMF chief calls for urgent fiscal repairs in advanced economies",
+        "url": "https://asia.nikkei.com/economy/imf-chief-calls-for-urgent-fiscal-repairs-in-advanced-economies",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,9 +217,9 @@
   },
   "regional_breakdown": {
     "region-sea": 18,
-    "region-americas": 18,
     "region-europe": 1,
-    "region-vietnam": 11,
-    "region-global": 32
+    "region-vietnam": 12,
+    "region-global": 31,
+    "region-americas": 18
   }
 }
