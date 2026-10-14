@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:40:48.083629+00:00",
+  "updated": "2026-10-14T04:00:01.174361+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 73,
@@ -33,18 +33,18 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 4,
-      "count_24h": 4,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 5,
+      "count_24h": 5,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
@@ -102,9 +102,9 @@
   ],
   "sentiment": {
     "positive": 17,
-    "negative": 6,
-    "neutral": 57,
-    "score": 14,
+    "negative": 7,
+    "neutral": 56,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -139,19 +139,19 @@
         "title": "Presenting the 2027 Roaster of the Year Finalists",
         "url": "https://dailycoffeenews.com/2026/10/13/presenting-the-2027-roaster-of-the-year-finalists/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
         "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
         "source": "The Verge AI",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "NCA Convention Returns to Austin in March 2027",
         "url": "https://dailycoffeenews.com/2026/10/13/nca-convention-returns-to-austin-in-march-2027/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "11 giờ trước"
       }
     ],
     "consumer_demand": "high",
@@ -160,18 +160,6 @@
   "ai_trends": {
     "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Japan's Omron to buy US-based OnLogic for $675m in physical AI push",
-        "url": "https://asia.nikkei.com/business/business-deals/japan-s-omron-to-buy-us-based-onlogic-for-675m-in-physical-ai-push",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Nike races to regain China footing as rivals raise their game",
-        "url": "https://asia.nikkei.com/business/companies/nike-races-to-regain-china-footing-as-rivals-raise-their-game",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China probes Huang Qifan, former ally of disgraced Bo Xilai",
         "url": "https://asia.nikkei.com/politics/china-probes-huang-qifan-former-ally-of-disgraced-bo-xilai",
@@ -187,6 +175,18 @@
       {
         "title": "SB Energy does SoftBank's spadework for Son's AI drive",
         "url": "https://asia.nikkei.com/business/technology/tech-asia/sb-energy-does-softbank-s-spadework-for-son-s-ai-drive",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Singapore Q3 GDP grows 5.4% on sustained AI-driven demand",
+        "url": "https://asia.nikkei.com/economy/singapore-q3-gdp-grows-5.4-on-sustained-ai-driven-demand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Central banks navigate inflation uncertainty amid supply shocks",
+        "url": "https://asia.nikkei.com/economy/inflation/central-banks-navigate-inflation-uncertainty-amid-supply-shocks2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -216,8 +216,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 18,
     "region-americas": 18,
+    "region-europe": 1,
     "region-vietnam": 11,
     "region-global": 32
   }
