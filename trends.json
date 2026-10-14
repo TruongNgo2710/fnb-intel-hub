@@ -1,54 +1,40 @@
 {
-  "updated": "2026-10-14T16:46:45.900276+00:00",
+  "updated": "2026-10-14T23:03:08.376766+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 40,
-      "count_24h": 34,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 14,
+      "count": 14,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 8,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 2,
       "count_24h": 2,
       "trend": "up"
@@ -56,7 +42,14 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -66,20 +59,21 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 2,
-      "trend": "up"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "count": 4,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
@@ -92,13 +86,19 @@
       "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 17,
     "negative": 3,
-    "neutral": 58,
-    "score": 20,
+    "neutral": 60,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -112,10 +112,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "stable",
+    "total_articles": 9,
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -130,48 +130,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The World Cup Tasters Championship Heads To Bogota In 2027",
+        "url": "https://sprudge.com/the-world-cup-tasters-championship-heads-to-bogota-in-2027-1449662.html",
+        "source": "Sprudge Coffee",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Phil & Sebastian Named National Winner – Canada At The 2026 Global Coffee Awards",
         "url": "https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "The Welcome Conference Is Not A Coffee Conference (But The Coffee Rules)",
         "url": "https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Niyyah Coffee Brings a Deaf-Owned Cafe to Indianapolis",
-        "url": "https://dailycoffeenews.com/2026/10/14/niyyah-coffee-brings-a-deaf-owned-cafe-to-indianapolis/",
-        "source": "Daily Coffee News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 43,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Britain's elite schools bet on Japan's regions as Asia education hub",
-        "url": "https://asia.nikkei.com/business/education/britain-s-elite-schools-bet-on-japan-s-regions-as-asia-education-hub",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "IMF chief calls for urgent fiscal repairs in advanced economies",
-        "url": "https://asia.nikkei.com/economy/imf-chief-calls-for-urgent-fiscal-repairs-in-advanced-economies",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Chinese AI startup Manus drums up over $500m in fresh funding",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
         "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-and-trump-confirm-plans-for-alaska-lng-cooperation",
@@ -183,9 +165,27 @@
         "url": "https://asia.nikkei.com/politics/japan-s-scandal-hit-agriculture-minister-quits-in-blow-to-pm-takaichi",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Coal prices up 40% this year on LNG replacement demand, supply uncertainty",
+        "url": "https://asia.nikkei.com/business/energy/coal-prices-up-40-this-year-on-lng-replacement-demand-supply-uncertainty",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Analysis: How long will China's top military body remain hollowed out?",
+        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-how-long-will-china-s-top-military-body-remain-hollowed-out",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwanese, Korean firms eye Japan grid storage market with China locked out",
+        "url": "https://asia.nikkei.com/business/energy/taiwanese-korean-firms-eye-japan-grid-storage-market-with-china-locked-out",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +210,8 @@
     }
   },
   "regional_breakdown": {
-    "region-europe": 1,
-    "region-sea": 18,
     "region-vietnam": 12,
+    "region-sea": 19,
     "region-global": 33,
     "region-americas": 16
   }
