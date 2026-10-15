@@ -1,36 +1,43 @@
 {
-  "updated": "2026-10-14T23:03:08.376766+00:00",
+  "updated": "2026-10-15T03:42:56.262467+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 65,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 40,
-      "count_24h": 29,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 7,
+      "count": 16,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
+      "count": 8,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 7,
       "count_24h": 6,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
@@ -47,22 +54,15 @@
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -95,9 +95,9 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 3,
-    "neutral": 60,
+    "positive": 19,
+    "negative": 5,
+    "neutral": 56,
     "score": 18,
     "label": "Trung tính"
   },
@@ -107,15 +107,19 @@
       "count": 40
     },
     {
+      "word": "inflation",
+      "count": 2
+    },
+    {
       "word": "gọi vốn",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
-    "price_direction": "down",
+    "total_articles": 8,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -133,39 +137,27 @@
         "title": "The World Cup Tasters Championship Heads To Bogota In 2027",
         "url": "https://sprudge.com/the-world-cup-tasters-championship-heads-to-bogota-in-2027-1449662.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Phil & Sebastian Named National Winner – Canada At The 2026 Global Coffee Awards",
         "url": "https://sprudge.com/phil-sebastian-named-national-winner-canada-at-the-2026-global-coffee-awards-1450922.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "The Welcome Conference Is Not A Coffee Conference (But The Coffee Rules)",
         "url": "https://sprudge.com/the-welcome-conference-is-not-a-coffee-conference-but-the-coffees-still-great-1416122.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Taiwan and Trump confirm plans for Alaska LNG cooperation",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-and-trump-confirm-plans-for-alaska-lng-cooperation",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's scandal-hit agriculture minister quits in blow to PM Takaichi",
-        "url": "https://asia.nikkei.com/politics/japan-s-scandal-hit-agriculture-minister-quits-in-blow-to-pm-takaichi",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Coal prices up 40% this year on LNG replacement demand, supply uncertainty",
         "url": "https://asia.nikkei.com/business/energy/coal-prices-up-40-this-year-on-lng-replacement-demand-supply-uncertainty",
@@ -181,6 +173,18 @@
       {
         "title": "Taiwanese, Korean firms eye Japan grid storage market with China locked out",
         "url": "https://asia.nikkei.com/business/energy/taiwanese-korean-firms-eye-japan-grid-storage-market-with-china-locked-out",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japanese data analytics startup Solafune to launch AI satellite",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japanese-data-analytics-startup-solafune-to-launch-ai-satellite",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asian stocks plummet as AI debt and inflation fears bite",
+        "url": "https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -210,9 +214,10 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 20,
     "region-vietnam": 12,
-    "region-sea": 19,
-    "region-global": 33,
-    "region-americas": 16
+    "region-global": 32,
+    "region-americas": 15,
+    "region-europe": 1
   }
 }
