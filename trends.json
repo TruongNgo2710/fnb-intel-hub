@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-17T15:11:54.797865+00:00",
+  "updated": "2026-10-17T18:17:30.465809+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 44,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 20,
+      "count": 43,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -21,44 +21,44 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
       "count": 8,
-      "count_24h": 5,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 7,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 7,
-      "count_24h": 5,
-      "trend": "hot"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -71,8 +71,8 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -100,16 +100,16 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 4,
-    "neutral": 62,
+    "positive": 15,
+    "negative": 5,
+    "neutral": 60,
     "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -142,7 +142,7 @@
         "title": "Coffee Sprudgecast: The One With Pumpkin Spice Caskets",
         "url": "https://sprudge.com/coffee-sprudgecast-the-one-with-pumpkin-spice-caskets-1416443.html",
         "source": "Sprudge Coffee",
-        "time": "19 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "University of Hawaii to Lead New Federal Coffee and Cacao Research Lab",
@@ -161,14 +161,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's DeepSeek hit by 5-hour AI service outage",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage",
@@ -192,9 +186,15 @@
         "url": "https://asia.nikkei.com/business/transportation/japan-s-sumitomo-hankyu-to-test-philippine-power-saving-rail-system",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 48 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -221,8 +221,8 @@
   "regional_breakdown": {
     "region-americas": 20,
     "region-sea": 19,
-    "region-vietnam": 11,
-    "region-global": 29,
+    "region-vietnam": 12,
+    "region-global": 28,
     "region-europe": 1
   }
 }
