@@ -1,21 +1,14 @@
 {
-  "updated": "2026-10-18T18:31:51.132602+00:00",
+  "updated": "2026-10-18T22:18:41.723821+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 9,
-      "count_24h": 6,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
@@ -33,11 +26,25 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 8,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 6,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -49,13 +56,6 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
@@ -77,15 +77,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -126,10 +126,10 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 17,
     "negative": 3,
-    "neutral": 62,
-    "score": 15,
+    "neutral": 60,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -168,13 +168,13 @@
         "title": "A Coat And A Nice Cup Of Coffee, Is That Really Too Much To Ask For?",
         "url": "https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Coffee Sprudgecast: The One With Pumpkin Spice Caskets",
         "url": "https://sprudge.com/coffee-sprudgecast-the-one-with-pumpkin-spice-caskets-1416443.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "University of Hawaii to Lead New Federal Coffee and Cacao Research Lab",
@@ -190,18 +190,6 @@
     "total_articles": 48,
     "top_articles": [
       {
-        "title": "Japan's Sumitomo, Hankyu to test Philippine power-saving rail system",
-        "url": "https://asia.nikkei.com/business/transportation/japan-s-sumitomo-hankyu-to-test-philippine-power-saving-rail-system",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Taiwan bulks up on protein-packed bentos as obesity rates rise",
         "url": "https://asia.nikkei.com/business/food-beverage/taiwan-bulks-up-on-protein-packed-bentos-as-obesity-rates-rise",
         "source": "Nikkei Asia",
@@ -216,6 +204,18 @@
       {
         "title": "AI and US-China rivalry put universities to the test: Vanderbilt head",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/ai-and-us-china-rivalry-put-universities-to-the-test-vanderbilt-head",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI, climate and private capital reveal Asia's diverging fortunes",
+        "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "The US-China grand bargain remains out of reach",
+        "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
