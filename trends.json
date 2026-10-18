@@ -1,20 +1,27 @@
 {
-  "updated": "2026-10-18T15:33:53.867224+00:00",
+  "updated": "2026-10-18T18:31:51.132602+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 44,
-      "count_24h": 11,
+      "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
+      "count": 8,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -22,20 +29,13 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 8,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 7,
+      "count": 6,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -43,7 +43,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -59,6 +59,13 @@
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -84,6 +91,12 @@
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-illy",
+      "name": "brand-illy",
       "count": 1,
       "trend": "up"
     },
@@ -114,9 +127,9 @@
   ],
   "sentiment": {
     "positive": 15,
-    "negative": 4,
-    "neutral": 61,
-    "score": 14,
+    "negative": 3,
+    "neutral": 62,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -134,7 +147,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -155,7 +168,7 @@
         "title": "A Coat And A Nice Cup Of Coffee, Is That Really Too Much To Ask For?",
         "url": "https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Coffee Sprudgecast: The One With Pumpkin Spice Caskets",
@@ -174,7 +187,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 48,
     "top_articles": [
       {
         "title": "Japan's Sumitomo, Hankyu to test Philippine power-saving rail system",
@@ -207,12 +220,12 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 2,
+      "count": 1,
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
@@ -232,10 +245,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 16,
+    "region-americas": 15,
     "region-sea": 19,
     "region-vietnam": 14,
-    "region-global": 30,
+    "region-global": 31,
     "region-europe": 1
   }
 }
