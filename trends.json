@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-18T22:18:41.723821+00:00",
+  "updated": "2026-10-19T03:45:00.026299+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
+      "count": 45,
       "count_24h": 11,
       "trend": "hot"
     },
@@ -42,15 +42,15 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 1,
+      "count": 4,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -71,8 +71,8 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -126,16 +126,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 3,
-    "neutral": 60,
-    "score": 18,
-    "label": "Trung tính"
+    "positive": 19,
+    "negative": 2,
+    "neutral": 59,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -168,7 +168,7 @@
         "title": "A Coat And A Nice Cup Of Coffee, Is That Really Too Much To Ask For?",
         "url": "https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Coffee Sprudgecast: The One With Pumpkin Spice Caskets",
@@ -187,14 +187,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Taiwan bulks up on protein-packed bentos as obesity rates rise",
-        "url": "https://asia.nikkei.com/business/food-beverage/taiwan-bulks-up-on-protein-packed-bentos-as-obesity-rates-rise",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "US and China must ensure AI dialogue is more than just hot air",
         "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
@@ -218,9 +212,15 @@
         "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan to allow 'Taiwan' as place of origin in some national records",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-to-allow-taiwan-as-place-of-origin-in-some-national-records",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -246,8 +246,8 @@
   },
   "regional_breakdown": {
     "region-americas": 15,
-    "region-sea": 19,
-    "region-vietnam": 14,
+    "region-sea": 18,
+    "region-vietnam": 15,
     "region-global": 31,
     "region-europe": 1
   }
