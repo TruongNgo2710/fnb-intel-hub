@@ -1,35 +1,35 @@
 {
-  "updated": "2026-10-19T03:45:00.026299+00:00",
+  "updated": "2026-10-19T09:43:31.463540+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
+      "count": 44,
       "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "count": 10,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 8,
-      "count_24h": 4,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -50,8 +50,8 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -77,15 +77,15 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 4,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -135,7 +135,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -147,10 +147,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "stable",
-    "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_up_signals": 2,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -165,42 +165,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Micro lots, macro risk: How packaging can protect coffee quality",
+        "url": "https://perfectdailygrind.com/2026/10/sample-packaging-protect-coffee-quality/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "A Coat And A Nice Cup Of Coffee, Is That Really Too Much To Ask For?",
         "url": "https://sprudge.com/a-coat-and-a-nice-cup-of-coffee-is-that-really-too-much-to-ask-for-1465213.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Coffee Sprudgecast: The One With Pumpkin Spice Caskets",
         "url": "https://sprudge.com/coffee-sprudgecast-the-one-with-pumpkin-spice-caskets-1416443.html",
         "source": "Sprudge Coffee",
         "time": "2 ngày trước"
-      },
-      {
-        "title": "University of Hawaii to Lead New Federal Coffee and Cacao Research Lab",
-        "url": "https://dailycoffeenews.com/2026/10/16/university-of-hawaii-to-lead-new-federal-coffee-and-cacao-research-lab/",
-        "source": "Daily Coffee News",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "US and China must ensure AI dialogue is more than just hot air",
-        "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI and US-China rivalry put universities to the test: Vanderbilt head",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/ai-and-us-china-rivalry-put-universities-to-the-test-vanderbilt-head",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI, climate and private capital reveal Asia's diverging fortunes",
         "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
@@ -218,9 +206,21 @@
         "url": "https://asia.nikkei.com/politics/international-relations/japan-to-allow-taiwan-as-place-of-origin-in-some-national-records",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi's DIY governance could be her achilles heel",
+        "url": "https://asia.nikkei.com/opinion/takaichi-s-diy-governance-could-be-her-achilles-heel",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan, Philippines kindle maritime cooperation in face of Chinese pressure",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-philippines-kindle-maritime-cooperation-in-face-of-chinese-pressure",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
