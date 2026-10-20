@@ -1,33 +1,33 @@
 {
-  "updated": "2026-10-20T03:57:04.610545+00:00",
+  "updated": "2026-10-20T09:18:59.377585+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
+      "count": 42,
       "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
+      "count": 13,
       "count_24h": 12,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
       "count": 10,
       "count_24h": 8,
       "trend": "hot"
@@ -47,13 +47,6 @@
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
@@ -66,6 +59,13 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -78,7 +78,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -107,11 +107,11 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 5,
-    "neutral": 58,
-    "score": 15,
-    "label": "Trung tính"
+    "positive": 20,
+    "negative": 3,
+    "neutral": 57,
+    "score": 21,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -145,39 +145,27 @@
         "title": "Mill City Roasters Delivers First All New M-Series 20kg Roasters; The Third New Model Released This Year",
         "url": "https://sprudge.com/mill-city-roasters-delivers-first-all-new-m-series-20kg-roasters-the-third-new-model-released-this-year-1485525.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Tropical Smoothie Café signs 40-unit franchise deal with Aurify Kingstar",
         "url": "https://www.nrn.com/fast-casual/tropical-smoothie-caf-signs-40-unit-franchise-deal-with-aurify-kingstar",
         "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Chris Diskin: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/chris-diskin-the-sprudge-twenty-interview-1278658.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Shanghai tops world in empty offices as overseas investment pulls away",
-        "url": "https://asia.nikkei.com/business/markets/property/shanghai-tops-world-in-empty-offices-as-overseas-investment-pulls-away",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "BOJ spies a chance to pivot to sustaining inflation as 2% goal nears",
         "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-spies-a-chance-to-pivot-to-sustaining-inflation-as-2-goal-nears",
@@ -195,9 +183,21 @@
         "url": "https://asia.nikkei.com/business/automobiles/toyota-honda-resume-thai-production-after-floods-as-supply-chains-come-back",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "How SoftBank plans to power its AI ambitions",
+        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-softbank-plans-to-power-its-ai-ambitions",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Singapore's AI-backed growth masks strains in food services",
+        "url": "https://asia.nikkei.com/economy/inflation/singapore-s-ai-backed-growth-masks-strains-in-food-services2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -222,10 +222,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 18,
     "region-sea": 19,
     "region-europe": 1,
-    "region-vietnam": 10,
-    "region-global": 32
+    "region-vietnam": 11,
+    "region-americas": 18,
+    "region-global": 31
   }
 }
