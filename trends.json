@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T23:26:42.797632+00:00",
+  "updated": "2026-10-20T03:57:04.610545+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 60,
@@ -7,36 +7,36 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 30,
+      "count": 43,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 14,
       "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 10,
+      "count": 11,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 9,
+      "count": 10,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 7,
-      "count_24h": 6,
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -49,9 +49,9 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -104,29 +104,19 @@
       "name": "brand-illy",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-phela",
-      "name": "brand-phela",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 6,
+    "positive": 17,
+    "negative": 5,
     "neutral": 58,
-    "score": 12,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
-    },
-    {
-      "word": "supply chain",
-      "count": 2
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -134,10 +124,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_up_signals": 1,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -155,33 +145,27 @@
         "title": "Mill City Roasters Delivers First All New M-Series 20kg Roasters; The Third New Model Released This Year",
         "url": "https://sprudge.com/mill-city-roasters-delivers-first-all-new-m-series-20kg-roasters-the-third-new-model-released-this-year-1485525.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Tropical Smoothie Café signs 40-unit franchise deal with Aurify Kingstar",
         "url": "https://www.nrn.com/fast-casual/tropical-smoothie-caf-signs-40-unit-franchise-deal-with-aurify-kingstar",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "Chris Diskin: The Sprudge Twenty Interview",
         "url": "https://sprudge.com/chris-diskin-the-sprudge-twenty-interview-1278658.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Indian chemical firms turn to foreign partners to crack chip supply chains",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/indian-chemical-firms-turn-to-foreign-partners-to-crack-chip-supply-chains",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-debuts-improved-low-cost-ai-as-tech-doubts-swirl",
@@ -205,9 +189,15 @@
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-savvy-english-learners-in-japan-want-human-instructors-nikkei-poll",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Toyota, Honda resume Thai production after floods as supply chains come back",
+        "url": "https://asia.nikkei.com/business/automobiles/toyota-honda-resume-thai-production-after-floods-as-supply-chains-come-back",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -233,9 +223,9 @@
   },
   "regional_breakdown": {
     "region-americas": 18,
-    "region-sea": 20,
+    "region-sea": 19,
     "region-europe": 1,
     "region-vietnam": 10,
-    "region-global": 31
+    "region-global": 32
   }
 }
