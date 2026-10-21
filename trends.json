@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:01:01.185273+00:00",
+  "updated": "2026-10-21T03:46:07.750957+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 72,
@@ -8,21 +8,21 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 41,
-      "count_24h": 36,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 13,
+      "count": 14,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 10,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -35,7 +35,7 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -49,8 +49,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -65,13 +65,13 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -94,10 +94,10 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 7,
-    "neutral": 55,
-    "score": 14,
+    "positive": 16,
+    "negative": 8,
+    "neutral": 56,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -108,12 +108,16 @@
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "chatgpt",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 9,
     "price_direction": "up",
-    "price_up_signals": 2,
+    "price_up_signals": 1,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -132,39 +136,27 @@
         "title": "Blueprint Coffee Returns Green Coffee Tariff Refunds To Wholesale Partners & Customers",
         "url": "https://sprudge.com/blueprint-coffee-returns-green-coffee-tariff-refunds-to-wholesale-partners-customers-1492897.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Phil & Sebastian Announces Second Edition Of Project III, Featuring Ratibor Hartmann, Proud Mary, And MAME",
         "url": "https://sprudge.com/phil-sebastian-announces-second-edition-of-project-iii-featuring-ratibor-hartmann-proud-mary-and-mame-1486270.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Dr. Joseph John, Champion of Indian Coffee and Espresso, Dies at 88",
         "url": "https://dailycoffeenews.com/2026/10/20/dr-joseph-john-champion-of-indian-coffee-and-espresso-dies-at-88/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Japan's Zipair launches Kuala Lumpur flight as first Malaysia route",
-        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-zipair-launches-kuala-lumpur-flight-as-first-malaysia-route",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Asia's AI boom is benefiting business owners, not consumers, economists say",
-        "url": "https://asia.nikkei.com/business/consumer/asia-s-ai-boom-is-benefiting-business-owners-not-consumers-economists-say",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Toyota to build hydrogen-powered Hilux pickup in Thailand",
         "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-hydrogen-powered-hilux-pickup-in-thailand",
@@ -182,9 +174,21 @@
         "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-brokerage-iwaicosmo-hit-with-unauthorized-trades-in-cyberattack",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's medtech scores bright prognosis as it gains on global brands",
+        "url": "https://asia.nikkei.com/business/business-asia/china-s-medtech-scores-bright-prognosis-as-it-gains-on-global-brands",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "The Main Event -- Going Public: Stephen Schwarzman (20)",
+        "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-main-event-going-public-stephen-schwarzman-20",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -209,9 +213,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 11,
-    "region-global": 31,
-    "region-americas": 17
+    "region-sea": 19,
+    "region-europe": 1,
+    "region-vietnam": 13,
+    "region-americas": 18,
+    "region-global": 29
   }
 }
