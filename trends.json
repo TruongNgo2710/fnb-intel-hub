@@ -1,56 +1,56 @@
 {
-  "updated": "2026-10-21T09:13:29.011713+00:00",
+  "updated": "2026-10-21T16:49:34.645525+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 69,
+  "articles_24h": 61,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 43,
-      "count_24h": 39,
+      "count": 41,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 11,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 11,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 8,
-      "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 3,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -63,26 +63,38 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 6,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
       "count": 6,
       "trend": "hot"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 2,
-      "trend": "up"
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 4,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-bluebottle",
+      "name": "brand-bluebottle",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     },
@@ -94,16 +106,16 @@
     }
   ],
   "sentiment": {
-    "positive": 14,
-    "negative": 8,
-    "neutral": 58,
+    "positive": 13,
+    "negative": 7,
+    "neutral": 60,
     "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 40
     },
     {
       "word": "gọi vốn",
@@ -116,9 +128,9 @@
   ],
   "coffee_trends": {
     "total_articles": 13,
-    "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 0,
+    "price_direction": "stable",
+    "price_up_signals": 1,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -133,42 +145,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "The US$20 pour over: Paying for the experience as much as the coffee",
-        "url": "https://perfectdailygrind.com/2026/10/20-dollar-pour-over-coffee/",
-        "source": "Perfect Daily Grind",
+        "title": "Three Questions with Kris Carlson of Coffeekris",
+        "url": "https://dailycoffeenews.com/2026/10/21/three-questions-with-kris-carlson-of-coffeekris/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Design Details: ‘Elevated Maru’ at Blue Bottle Coffee Busan",
+        "url": "https://dailycoffeenews.com/2026/10/21/design-details-elevated-maru-at-blue-bottle-coffee-busan/",
+        "source": "Daily Coffee News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Little Nest Coffee Roasters Hatches Outside Detroit",
+        "url": "https://dailycoffeenews.com/2026/10/21/little-nest-coffee-roasters-hatches-outside-detroit/",
+        "source": "Daily Coffee News",
         "time": "3 giờ trước"
-      },
-      {
-        "title": "Blueprint Coffee Returns Green Coffee Tariff Refunds To Wholesale Partners & Customers",
-        "url": "https://sprudge.com/blueprint-coffee-returns-green-coffee-tariff-refunds-to-wholesale-partners-customers-1492897.html",
-        "source": "Sprudge Coffee",
-        "time": "12 giờ trước"
-      },
-      {
-        "title": "Phil & Sebastian Announces Second Edition Of Project III, Featuring Ratibor Hartmann, Proud Mary, And MAME",
-        "url": "https://sprudge.com/phil-sebastian-announces-second-edition-of-project-iii-featuring-ratibor-hartmann-proud-mary-and-mame-1486270.html",
-        "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "French unrest, AI debt risks push investors toward ultralong JGBs",
-        "url": "https://asia.nikkei.com/business/markets/bonds/french-unrest-ai-debt-risks-push-investors-toward-ultralong-jgbs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-brokerage-iwaicosmo-hit-with-unauthorized-trades-in-cyberattack",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's medtech scores bright prognosis as it gains on global brands",
         "url": "https://asia.nikkei.com/business/business-asia/china-s-medtech-scores-bright-prognosis-as-it-gains-on-global-brands",
@@ -186,9 +186,21 @@
         "url": "https://asia.nikkei.com/politics/what-s-next-for-takaichi-5-challenges-ahead-for-japan-s-pm2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Vietnam security ministry seeks Samsung's help on AI and chips",
+        "url": "https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Cybersecurity companies urge Indonesia to boost AI talent",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,10 +225,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 17,
     "region-europe": 1,
-    "region-vietnam": 9,
-    "region-global": 32,
-    "region-americas": 19
+    "region-vietnam": 11,
+    "region-americas": 23,
+    "region-global": 28
   }
 }
