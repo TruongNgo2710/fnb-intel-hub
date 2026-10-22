@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-21T23:05:24.445442+00:00",
+  "updated": "2026-10-22T03:46:10.217494+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 55,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 32,
+      "count": 50,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 10,
+      "count": 14,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -36,7 +36,7 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 5,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -50,7 +50,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     }
   ],
@@ -58,7 +58,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 8,
       "trend": "hot"
     },
     {
@@ -93,16 +93,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
+    "positive": 15,
     "negative": 7,
-    "neutral": 54,
-    "score": 15,
+    "neutral": 58,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 49
     },
     {
       "word": "gọi vốn",
@@ -110,6 +110,10 @@
     },
     {
       "word": "claude",
+      "count": 2
+    },
+    {
+      "word": "chatgpt",
       "count": 2
     }
   ],
@@ -135,33 +139,27 @@
         "title": "Landry’s to acquire most of Fireman Hospitality Group's concepts in bankruptcy auction",
         "url": "https://www.nrn.com/mergers-acquisitions/landry-s-to-acquire-most-of-fireman-hospitality-group-concepts-in-bankruptcy-auction",
         "source": "Nation's Restaurant News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Three Questions with Kris Carlson of Coffeekris",
         "url": "https://dailycoffeenews.com/2026/10/21/three-questions-with-kris-carlson-of-coffeekris/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Design Details: ‘Elevated Maru’ at Blue Bottle Coffee Busan",
         "url": "https://dailycoffeenews.com/2026/10/21/design-details-elevated-maru-at-blue-bottle-coffee-busan/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 52,
     "top_articles": [
-      {
-        "title": "Cybersecurity companies urge Indonesia to boost AI talent",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "AI monetization in ASEAN 'nascent' but usage boosts e-commerce: report",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-monetization-in-asean-nascent-but-usage-boosts-e-commerce-report2",
@@ -185,9 +183,15 @@
         "url": "https://asia.nikkei.com/business/automobiles/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's JR East steps up rail-linked retail push in Singapore, Philippines",
+        "url": "https://asia.nikkei.com/business/retail/japan-s-jr-east-steps-up-rail-linked-retail-push-in-singapore-philippines",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -213,8 +217,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 22,
-    "region-vietnam": 13,
-    "region-global": 28
+    "region-americas": 23,
+    "region-vietnam": 10,
+    "region-global": 30
   }
 }
