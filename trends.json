@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-22T09:15:49.820238+00:00",
+  "updated": "2026-10-22T16:49:58.854795+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 73,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 51,
-      "count_24h": 33,
+      "count": 46,
+      "count_24h": 43,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 10,
+      "count": 20,
+      "count_24h": 20,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
+      "count": 12,
       "count_24h": 9,
       "trend": "hot"
     },
@@ -29,28 +29,28 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 6,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 5,
-      "count_24h": 3,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 1,
-      "count_24h": 1,
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     }
   ],
@@ -58,13 +58,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -90,36 +90,34 @@
       "name": "brand-bluebottle",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 8,
-    "neutral": 53,
-    "score": 14,
+    "positive": 13,
+    "negative": 5,
+    "neutral": 62,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 50
+      "count": 45
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "down",
-    "price_up_signals": 1,
-    "price_down_signals": 2,
+    "total_articles": 12,
+    "price_direction": "up",
+    "price_up_signals": 3,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -134,62 +132,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Can slow feeding really help improve grind consistency?",
-        "url": "https://perfectdailygrind.com/2026/10/slow-feeding-coffee-grinding/",
-        "source": "Perfect Daily Grind",
+        "title": "Milk Brew & Me: A Skeptic’s Journey Through The Viral Coffee Drink",
+        "url": "https://sprudge.com/milk-brew-me-a-skeptics-journey-through-the-viral-coffee-drink-1308095.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Massive Coffee Variety Trial Reveals Yield and Leaf Rust Winners",
+        "url": "https://dailycoffeenews.com/2026/10/22/massive-coffee-variety-trial-reveals-yield-and-leaf-rust-winners/",
+        "source": "Daily Coffee News",
         "time": "3 giờ trước"
       },
       {
-        "title": "Kỷ lục doanh thu của Phúc Long sau khi về tay Masan",
-        "url": "https://vnexpress.net/ky-luc-doanh-thu-cua-phuc-long-sau-khi-ve-tay-masan-5135458.html",
-        "source": "VnExpress Kinh doanh",
-        "time": "5 giờ trước"
-      },
-      {
-        "title": "Landry’s to acquire most of Fireman Hospitality Group's concepts in bankruptcy auction",
-        "url": "https://www.nrn.com/mergers-acquisitions/landry-s-to-acquire-most-of-fireman-hospitality-group-concepts-in-bankruptcy-auction",
-        "source": "Nation's Restaurant News",
-        "time": "11 giờ trước"
+        "title": "Weber Workshops Launches Thoroughly Redesigned EG-1 Grinder",
+        "url": "https://dailycoffeenews.com/2026/10/22/weber-workshops-launches-thoroughly-redesigned-eg-1-grinder/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 53,
+    "total_articles": 47,
     "top_articles": [
       {
-        "title": "Japan's JR East steps up rail-linked retail push in Singapore, Philippines",
-        "url": "https://asia.nikkei.com/business/retail/japan-s-jr-east-steps-up-rail-linked-retail-push-in-singapore-philippines",
+        "title": "Japan startup touts AI for automakers to match Chinese car development pace",
+        "url": "https://asia.nikkei.com/business/automobiles/japan-startup-touts-ai-for-automakers-to-match-chinese-car-development-pace",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Could Taipei elect its first DPP mayor in more than 30 years?",
-        "url": "https://asia.nikkei.com/opinion/could-taipei-elect-its-first-dpp-mayor-in-more-than-30-years",
+        "title": "AI-detected PHP security flaws disrupt websites, spark warnings across Asia",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/ai-detected-php-security-flaws-disrupt-websites-spark-warnings-across-asia",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's retailers brace for revamp of tax-free tourist shopping",
-        "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping",
+        "title": "China's medtech scores bright prognosis as it gains on global brands",
+        "url": "https://asia.nikkei.com/business/business-asia/china-s-medtech-scores-bright-prognosis-as-it-gains-on-global-brands",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan growth strategy to focus on chips in short term, AI in medium term",
-        "url": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term",
+        "title": "Pakistan trails India, Bangladesh, Nepal in battle against hunger",
+        "url": "https://asia.nikkei.com/economy/pakistan-trails-india-bangladesh-nepal-in-battle-against-hunger",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Gundam maker Bandai Namco's stock surge reflects market AI doubts",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/gundam-maker-bandai-namco-s-stock-surge-reflects-market-ai-doubts",
+        "title": "Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,20 +201,20 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-americas": 19,
-    "region-vietnam": 12,
-    "region-global": 29
+    "region-americas": 15,
+    "region-vietnam": 15,
+    "region-global": 30
   }
 }
