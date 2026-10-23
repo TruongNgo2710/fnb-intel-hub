@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:03:20.160184+00:00",
+  "updated": "2026-10-23T03:50:07.344488+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 72,
@@ -7,8 +7,8 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 38,
+      "count": 43,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
@@ -21,15 +21,15 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 8,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -72,25 +72,19 @@
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-phuoclong",
-      "name": "Phúc Long",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 4,
-    "neutral": 59,
+    "positive": 16,
+    "negative": 3,
+    "neutral": 61,
     "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 43
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -98,7 +92,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 3,
     "price_down_signals": 1,
@@ -119,45 +113,27 @@
         "title": "Milk Brew & Me: A Skeptic’s Journey Through The Viral Coffee Drink",
         "url": "https://sprudge.com/milk-brew-me-a-skeptics-journey-through-the-viral-coffee-drink-1308095.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Massive Coffee Variety Trial Reveals Yield and Leaf Rust Winners",
         "url": "https://dailycoffeenews.com/2026/10/22/massive-coffee-variety-trial-reveals-yield-and-leaf-rust-winners/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "Weber Workshops Launches Thoroughly Redesigned EG-1 Grinder",
         "url": "https://dailycoffeenews.com/2026/10/22/weber-workshops-launches-thoroughly-redesigned-eg-1-grinder/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Philippines raises key rate to 5.5% as inflation saps growth",
-        "url": "https://asia.nikkei.com/business/markets/philippines-raises-key-rate-to-5.5-as-inflation-saps-growth",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Taiwan's first-ever chip workers strike hits Micron plant",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Evergrande liquidators plan first payout with under 1% of claims recovered",
-        "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/evergrande-liquidators-plan-first-payout-with-under-1-of-claims-recovered",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Itochu to buy Hitachi Construction Machinery's Taiwan sales unit",
         "url": "https://asia.nikkei.com/business/business-deals/itochu-to-buy-hitachi-construction-machinery-s-taiwan-sales-unit",
@@ -169,14 +145,32 @@
         "url": "https://asia.nikkei.com/business/markets/property/central-tokyo-existing-condo-prices-slip-for-5th-straight-month",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Yen on track to gain from US midterm elections and France unrest",
+        "url": "https://asia.nikkei.com/business/markets/currencies/yen-on-track-to-gain-from-us-midterm-elections-and-france-unrest",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI can strengthen Japan-US deterrence, says former top American general",
+        "url": "https://asia.nikkei.com/politics/defense/ai-can-strengthen-japan-us-deterrence-says-former-top-american-general",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 2,
+      "count": 1,
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
@@ -196,10 +190,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 16,
+    "region-sea": 17,
+    "region-americas": 17,
     "region-europe": 1,
-    "region-vietnam": 16,
-    "region-global": 29
+    "region-vietnam": 15,
+    "region-global": 30
   }
 }
