@@ -1,57 +1,50 @@
 {
-  "updated": "2026-10-23T16:41:10.274373+00:00",
+  "updated": "2026-10-23T22:58:50.566630+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 53,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 32,
+      "count": 42,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 10,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 6,
+      "count_24h": 4,
+      "trend": "hot"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-plantbased",
+      "label": "#PlantBased",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-supply",
@@ -89,30 +82,26 @@
   ],
   "sentiment": {
     "positive": 17,
-    "negative": 4,
-    "neutral": 59,
-    "score": 16,
+    "negative": 3,
+    "neutral": 60,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 41
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "arabica",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 10,
     "price_direction": "up",
-    "price_up_signals": 6,
-    "price_down_signals": 1,
+    "price_up_signals": 5,
+    "price_down_signals": 0,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -127,36 +116,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "The company behind PLNT Burger is launching a plant-based café",
+        "url": "https://www.nrn.com/fast-casual/the-company-behind-plnt-burger-are-launching-a-plant-based-caf-",
+        "source": "Nation's Restaurant News",
+        "time": "2 giờ trước"
+      },
+      {
+        "title": "Milk Brew Hesitation And Trepidation On The Coffee Sprudgecast",
+        "url": "https://sprudge.com/milk-brew-hesitation-and-trepidation-on-the-coffee-sprudgecast-1508563.html",
+        "source": "Sprudge Coffee",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "De’Longhi Boosts Ownership of La Marzocco and Eversys Business to 88%",
         "url": "https://dailycoffeenews.com/2026/10/23/delonghi-boosts-ownership-of-la-marzocco-and-eversys-business-to-88/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: New 20-Kilo Roasters + War Impacting Coffee Trade",
-        "url": "https://dailycoffeenews.com/2026/10/23/weekly-coffee-news-new-20-kilo-roasters-war-impacting-coffee-trade/",
-        "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Researchers Created A Way To Turn Coffee Parchment Into Highly Sought After Cellulose",
-        "url": "https://sprudge.com/researchers-created-a-way-to-turn-coffee-parchment-into-highly-sought-after-cellulose-1492471.html",
-        "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (6 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (5 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Yen on track to gain from US midterm elections and France unrest",
-        "url": "https://asia.nikkei.com/business/markets/currencies/yen-on-track-to-gain-from-us-midterm-elections-and-france-unrest",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Asia's AI data center boom faces 'reality check' from public markets",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/asia-s-ai-data-center-boom-faces-reality-check-from-public-markets",
@@ -176,18 +159,24 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "Japan banks prepared to weather AI crash, global rate spike: BOJ stress test",
+        "url": "https://asia.nikkei.com/business/finance/japan-banks-prepared-to-weather-ai-crash-global-rate-spike-boj-stress-test",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/as-muse-personal-ai-agent-debuts-in-japan-meta-exec-says-it-won-t-have-ads",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 2,
+      "count": 1,
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
@@ -202,15 +191,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 3,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 19,
-    "region-europe": 2,
-    "region-vietnam": 12,
-    "region-global": 31
+    "region-sea": 18,
+    "region-americas": 21,
+    "region-vietnam": 11,
+    "region-global": 29,
+    "region-europe": 1
   }
 }
