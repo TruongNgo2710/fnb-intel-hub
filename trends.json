@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-24T03:44:38.034516+00:00",
+  "updated": "2026-10-24T08:45:17.798464+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 52,
+  "articles_24h": 50,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 19,
+      "count": 44,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
@@ -47,8 +47,8 @@
       "trend": "up"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -90,7 +90,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 40
+      "count": 43
     },
     {
       "word": "gọi vốn",
@@ -119,26 +119,26 @@
         "title": "The company behind PLNT Burger is launching a plant-based café",
         "url": "https://www.nrn.com/fast-casual/the-company-behind-plnt-burger-are-launching-a-plant-based-caf-",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Milk Brew Hesitation And Trepidation On The Coffee Sprudgecast",
         "url": "https://sprudge.com/milk-brew-hesitation-and-trepidation-on-the-coffee-sprudgecast-1508563.html",
         "source": "Sprudge Coffee",
-        "time": "9 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "De’Longhi Boosts Ownership of La Marzocco and Eversys Business to 88%",
         "url": "https://dailycoffeenews.com/2026/10/23/delonghi-boosts-ownership-of-la-marzocco-and-eversys-business-to-88/",
         "source": "Daily Coffee News",
-        "time": "12 giờ trước"
+        "time": "17 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (5 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 47,
     "top_articles": [
       {
         "title": "Japan weighs rebranding energy, AI as defense spending under Trump pressure",
@@ -165,13 +165,13 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -196,8 +196,8 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 22,
-    "region-sea": 17,
+    "region-sea": 18,
+    "region-americas": 21,
     "region-vietnam": 10,
     "region-global": 30,
     "region-europe": 1
