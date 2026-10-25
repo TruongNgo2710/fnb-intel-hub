@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:49:03.117676+00:00",
+  "updated": "2026-10-25T22:23:37.706893+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 34,
@@ -7,14 +7,14 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 16,
+      "count": 47,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
+      "count": 13,
       "count_24h": 8,
       "trend": "hot"
     },
@@ -47,6 +47,13 @@
       "trend": "up"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
@@ -56,13 +63,6 @@
     {
       "tag": "topic-plantbased",
       "label": "#PlantBased",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -95,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 18,
     "negative": 3,
-    "neutral": 60,
-    "score": 18,
+    "neutral": 59,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 47
     },
     {
       "word": "gọi vốn",
@@ -133,7 +133,7 @@
         "title": "Is There Anything Scarier Than Running Out Of Coffee?",
         "url": "https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Learn More About The Coffee Supply Chain In The Green Room",
@@ -145,33 +145,15 @@
         "title": "The company behind PLNT Burger is launching a plant-based café",
         "url": "https://www.nrn.com/fast-casual/the-company-behind-plnt-burger-are-launching-a-plant-based-caf-",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (4 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/sf-writer-daniel-suarez-warns-of-ai-powered-authoritarianism",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "US lawmaker to press Trump to expedite Taiwan arms sales",
-        "url": "https://asia.nikkei.com/politics/defense/us-lawmaker-to-press-trump-to-expedite-taiwan-arms-sales2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "'Three red lines' needed against China, Japan defense academy chief says",
-        "url": "https://asia.nikkei.com/politics/international-relations/three-red-lines-needed-against-china-japan-defense-academy-chief-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
@@ -183,9 +165,27 @@
         "url": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Sydney's new international airport opens to passengers",
+        "url": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+        "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi cabinet maintains 62% approval rating despite minister controversy",
+        "url": "https://asia.nikkei.com/politics/takaichi-cabinet-maintains-62-approval-rating-despite-minister-controversy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -199,9 +199,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -210,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-europe": 2,
-    "region-americas": 18,
-    "region-vietnam": 12,
-    "region-global": 31
+    "region-sea": 16,
+    "region-europe": 3,
+    "region-americas": 16,
+    "region-vietnam": 13,
+    "region-global": 32
   }
 }
