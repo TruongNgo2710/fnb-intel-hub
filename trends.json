@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-25T03:42:39.029968+00:00",
+  "updated": "2026-10-25T09:02:05.511711+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 35,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
+      "count": 47,
       "count_24h": 16,
       "trend": "hot"
     },
@@ -15,13 +15,13 @@
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 10,
-      "count_24h": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 9,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -35,7 +35,7 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
+      "count": 4,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -45,6 +45,13 @@
       "count": 4,
       "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-plantbased",
@@ -57,8 +64,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -88,16 +95,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 18,
     "negative": 3,
-    "neutral": 60,
-    "score": 18,
+    "neutral": 59,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -105,9 +112,9 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 9,
     "price_direction": "up",
-    "price_up_signals": 3,
+    "price_up_signals": 4,
     "price_down_signals": 0,
     "top_articles": [
       {
@@ -126,7 +133,7 @@
         "title": "Learn More About The Coffee Supply Chain In The Green Room",
         "url": "https://sprudge.com/learn-more-about-the-coffee-supply-chain-in-the-green-room-1508648.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "The company behind PLNT Burger is launching a plant-based café",
@@ -142,10 +149,10 @@
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (4 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
       {
         "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
@@ -178,7 +185,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -203,10 +210,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
+    "region-sea": 16,
     "region-americas": 20,
     "region-europe": 2,
     "region-vietnam": 12,
-    "region-global": 29
+    "region-global": 30
   }
 }
