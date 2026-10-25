@@ -1,14 +1,21 @@
 {
-  "updated": "2026-10-25T15:45:15.441071+00:00",
+  "updated": "2026-10-25T18:49:03.117676+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 17,
+      "count": 48,
+      "count_24h": 16,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 12,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -16,13 +23,6 @@
       "label": "#ChuỗiCàPhê",
       "count": 10,
       "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -43,7 +43,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 4,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -104,7 +104,7 @@
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 48
     },
     {
       "word": "gọi vốn",
@@ -133,7 +133,7 @@
         "title": "Is There Anything Scarier Than Running Out Of Coffee?",
         "url": "https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Learn More About The Coffee Supply Chain In The Green Room",
@@ -152,7 +152,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (4 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 50,
     "top_articles": [
       {
         "title": "SF writer Daniel Suarez warns of AI-powered authoritarianism",
@@ -185,7 +185,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -210,9 +210,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 19,
-    "region-sea": 16,
+    "region-sea": 17,
     "region-europe": 2,
+    "region-americas": 18,
     "region-vietnam": 12,
     "region-global": 31
   }
