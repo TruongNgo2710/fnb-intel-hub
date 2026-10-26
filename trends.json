@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-25T22:23:37.706893+00:00",
+  "updated": "2026-10-26T03:45:51.846043+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 33,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 14,
+      "count": 46,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -76,12 +76,6 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
@@ -96,15 +90,15 @@
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 3,
-    "neutral": 59,
-    "score": 19,
+    "negative": 4,
+    "neutral": 58,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 46
     },
     {
       "word": "gọi vốn",
@@ -133,7 +127,7 @@
         "title": "Is There Anything Scarier Than Running Out Of Coffee?",
         "url": "https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Learn More About The Coffee Supply Chain In The Green Room",
@@ -152,20 +146,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (4 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan PM Takaichi to urge Germany for favorable EV treatment in EU",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Sydney's new international airport opens to passengers",
         "url": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
@@ -183,9 +165,21 @@
         "url": "https://asia.nikkei.com/politics/takaichi-cabinet-maintains-62-approval-rating-despite-minister-controversy",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
+        "url": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nuremberg at 80: Japan's role in the unfinished fight against aggression",
+        "url": "https://asia.nikkei.com/spotlight/comment/nuremberg-at-80-japan-s-role-in-the-unfinished-fight-against-aggression",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +205,9 @@
   },
   "regional_breakdown": {
     "region-sea": 16,
+    "region-americas": 15,
     "region-europe": 3,
-    "region-americas": 16,
-    "region-vietnam": 13,
+    "region-vietnam": 14,
     "region-global": 32
   }
 }
