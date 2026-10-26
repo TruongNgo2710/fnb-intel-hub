@@ -1,28 +1,28 @@
 {
-  "updated": "2026-10-26T03:45:51.846043+00:00",
+  "updated": "2026-10-26T09:53:28.774910+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 33,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 46,
-      "count_24h": 13,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 7,
+      "count": 14,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 3,
+      "count": 11,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -33,6 +33,13 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
@@ -40,18 +47,11 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-wine",
@@ -90,9 +90,9 @@
   ],
   "sentiment": {
     "positive": 18,
-    "negative": 4,
-    "neutral": 58,
-    "score": 18,
+    "negative": 6,
+    "neutral": 56,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -106,7 +106,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "up",
     "price_up_signals": 4,
     "price_down_signals": 0,
@@ -124,22 +124,22 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Acidity vs sweetness: How basket design affects espresso extraction",
+        "url": "https://perfectdailygrind.com/2026/10/espresso-basket-design-extraction/",
+        "source": "Perfect Daily Grind",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Is There Anything Scarier Than Running Out Of Coffee?",
         "url": "https://sprudge.com/is-there-anything-scarier-than-running-out-of-coffee-1508643.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "21 giờ trước"
       },
       {
         "title": "Learn More About The Coffee Supply Chain In The Green Room",
         "url": "https://sprudge.com/learn-more-about-the-coffee-supply-chain-in-the-green-room-1508648.html",
         "source": "Sprudge Coffee",
         "time": "1 ngày trước"
-      },
-      {
-        "title": "The company behind PLNT Burger is launching a plant-based café",
-        "url": "https://www.nrn.com/fast-casual/the-company-behind-plnt-burger-are-launching-a-plant-based-caf-",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -148,12 +148,6 @@
   "ai_trends": {
     "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Sydney's new international airport opens to passengers",
-        "url": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Indonesia free university plan to attract AI risks more fiscal strain",
         "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
@@ -177,6 +171,12 @@
         "url": "https://asia.nikkei.com/spotlight/comment/nuremberg-at-80-japan-s-role-in-the-unfinished-fight-against-aggression",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "AI stock falls are sore spot for China's self-reliance strategy",
+        "url": "https://asia.nikkei.com/business/markets/trading-asia/ai-stock-falls-are-sore-spot-for-china-s-self-reliance-strategy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
     "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
@@ -188,9 +188,9 @@
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "sugar": {
       "direction": "stable",
@@ -204,10 +204,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 15,
-    "region-europe": 3,
-    "region-vietnam": 14,
+    "region-sea": 15,
+    "region-americas": 14,
+    "region-europe": 4,
+    "region-vietnam": 15,
     "region-global": 32
   }
 }
