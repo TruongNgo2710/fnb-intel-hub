@@ -1,34 +1,34 @@
 {
-  "updated": "2026-10-28T15:02:32.344910+00:00",
+  "updated": "2026-10-28T20:52:38.321028+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
+      "count": 38,
       "count_24h": 29,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 15,
+      "count": 15,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 5,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -36,15 +36,15 @@
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 3,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-supply",
@@ -54,52 +54,51 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 5,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-arabica",
+      "name": "brand-arabica",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 3,
-    "neutral": 58,
-    "score": 20,
-    "label": "Trung tính"
+    "positive": 20,
+    "negative": 1,
+    "neutral": 59,
+    "score": 24,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
@@ -115,7 +114,7 @@
     "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 2,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -130,48 +129,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Kilo Coffee Weighs Every Detail at New Dallas Cafe",
-        "url": "https://dailycoffeenews.com/2026/10/28/kilo-coffee-weighs-every-detail-at-new-dallas-cafe/",
+        "title": "Tio Fallen Of Three Keys Coffee: The Sprudge Twenty Interview",
+        "url": "https://sprudge.com/tio-fallen-of-three-keys-coffee-the-sprudge-twenty-interview-1278668.html",
+        "source": "Sprudge Coffee",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Design Details: The Calming Mesh Tunnel at % Arabica Shanghai",
+        "url": "https://dailycoffeenews.com/2026/10/28/design-details-the-calming-mesh-tunnel-at-arabica-shanghai/",
         "source": "Daily Coffee News",
-        "time": "1 giờ trước"
+        "time": "4 giờ trước"
       },
       {
-        "title": "New Balance And Todd Snyder Team Up For A New Coffee Sneaker",
-        "url": "https://sprudge.com/new-balance-and-todd-snyder-team-up-for-a-new-coffee-sneaker-1524009.html",
+        "title": "Third Wave Water Celebrates A Decade Of Better Coffee With Limited-Edition Anniversary Box Featuring Onyx Coffee Lab",
+        "url": "https://sprudge.com/third-wave-water-celebrates-a-decade-of-better-coffee-with-limited-edition-anniversary-box-featuring-onyx-coffee-lab-1530132.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Sign Up For Sprudge Maps! Get Your Cafe Featured On Sprudge!",
-        "url": "https://sprudge.com/sign-up-for-sprudge-maps-get-your-cafe-featured-on-sprudge-1524072.html",
-        "source": "Sprudge Coffee",
-        "time": "21 giờ trước"
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "US to halt visa waivers for Chinese traveling to Pacific territory",
-        "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-to-halt-visa-waivers-for-chinese-traveling-to-pacific-territory",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "With China having fewer kids, dairies rethink milk for adults",
-        "url": "https://asia.nikkei.com/business/food-beverage/with-china-having-fewer-kids-dairies-rethink-milk-for-adults",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "US voters turning against data centers raises risks for Asian suppliers",
-        "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-voters-turning-against-data-centers-raises-risks-for-asian-suppliers",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Nidec misses deadline to obtain unqualified audit opinion",
         "url": "https://asia.nikkei.com/business/electronics/japan-s-nidec-misses-deadline-to-obtain-unqualified-audit-opinion",
@@ -183,9 +164,27 @@
         "url": "https://asia.nikkei.com/business/companies/adani-group/adani-returns-to-profit-on-copper-renewables-and-airports-units",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Itochu adds engine maintenance to aviation portfolio with IAG unit stake",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-itochu-adds-engine-maintenance-to-aviation-portfolio-with-iag-unit-stake",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI server supplier Dongshan Precision falls short in Hong Kong listing",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-server-supplier-dongshan-precision-falls-short-in-hong-kong-listing2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Takaichi presses Merz not to leave Japan out of 'Made in Europe' EV subsidies",
+        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/takaichi-presses-merz-not-to-leave-japan-out-of-made-in-europe-ev-subsidies",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -205,14 +204,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-vietnam": 16,
-    "region-global": 32,
-    "region-americas": 13
+    "region-sea": 18,
+    "region-vietnam": 12,
+    "region-europe": 1,
+    "region-global": 33,
+    "region-americas": 16
   }
 }
