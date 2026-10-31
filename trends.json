@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-31T14:26:14.839494+00:00",
+  "updated": "2026-10-31T19:47:56.827092+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 50,
+  "articles_24h": 43,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 42,
-      "count_24h": 26,
+      "count_24h": 20,
       "trend": "hot"
     },
     {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 5,
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 14,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -26,17 +26,17 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 6,
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 3,
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -50,8 +50,8 @@
       "tag": "topic-plantbased",
       "label": "#PlantBased",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 6,
       "trend": "hot"
     },
     {
@@ -106,9 +106,9 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 8,
-    "neutral": 55,
+    "positive": 18,
+    "negative": 9,
+    "neutral": 53,
     "score": 11,
     "label": "Trung tính"
   },
@@ -118,12 +118,16 @@
       "count": 42
     },
     {
+      "word": "funding",
+      "count": 3
+    },
+    {
       "word": "gọi vốn",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 10,
     "price_direction": "up",
     "price_up_signals": 2,
     "price_down_signals": 1,
@@ -150,13 +154,13 @@
         "title": "Coffee Gear That’s Scary Good",
         "url": "https://sprudge.com/coffee-gear-thats-scary-good-1535418.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Coffee News Recap, 30 Oct: China’s Pan Wei is the 2026 World Barista Champion, coffee now accounts for up to 20% of sales at China’s leading tea chains & other stories",
         "url": "https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/",
         "source": "Perfect Daily Grind",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -165,12 +169,6 @@
   "ai_trends": {
     "total_articles": 45,
     "top_articles": [
-      {
-        "title": "Chinese shipping, coal stocks outperform AI as earnings outlooks diverge",
-        "url": "https://asia.nikkei.com/business/companies/chinese-shipping-coal-stocks-outperform-ai-as-earnings-outlooks-diverge",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan asks Anthropic, OpenAI for more access to advanced models",
         "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models",
@@ -192,6 +190,12 @@
       {
         "title": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
         "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thailand looks west after 30 years of struggles over Dawei",
+        "url": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -222,8 +226,8 @@
   },
   "regional_breakdown": {
     "region-sea": 21,
-    "region-vietnam": 12,
-    "region-global": 35,
+    "region-vietnam": 13,
+    "region-global": 34,
     "region-americas": 12
   }
 }
