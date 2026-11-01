@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-31T23:10:54.432966+00:00",
+  "updated": "2026-11-01T04:56:29.006551+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 13,
+      "count": 38,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 9,
+      "count": 17,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
+      "count": 13,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -36,7 +36,7 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 3,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -65,14 +65,14 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
@@ -106,16 +106,16 @@
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 9,
-    "neutral": 55,
+    "positive": 17,
+    "negative": 10,
+    "neutral": 53,
     "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 38
     },
     {
       "word": "funding",
@@ -154,7 +154,7 @@
         "title": "Coffee Gear That’s Scary Good",
         "url": "https://sprudge.com/coffee-gear-thats-scary-good-1535418.html",
         "source": "Sprudge Coffee",
-        "time": "11 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Coffee News Recap, 30 Oct: China’s Pan Wei is the 2026 World Barista Champion, coffee now accounts for up to 20% of sales at China’s leading tea chains & other stories",
@@ -167,26 +167,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan asks Anthropic, OpenAI for more access to advanced models",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Daiwa fund buy of Blackstone Tokyo office complex include retail digital securities",
-        "url": "https://asia.nikkei.com/business/business-deals/daiwa-fund-buy-of-blackstone-tokyo-office-complex-include-retail-digital-securities",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Memory chip makers outearn Alphabet, other tech giants on AI demand",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/memory-chip-makers-outearn-alphabet-other-tech-giants-on-ai-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
         "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years",
@@ -198,9 +180,27 @@
         "url": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Thai highland tribe coffee brews following at home and in Tokyo",
+        "url": "https://asia.nikkei.com/business/food-beverage/thai-highland-tribe-coffee-brews-following-at-home-and-in-tokyo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+        "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Thai reformists became too technocratic, party ex-leader Pita says",
+        "url": "https://asia.nikkei.com/politics/thai-reformists-became-too-technocratic-party-ex-leader-pita-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 45 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 13,
-    "region-global": 34,
-    "region-americas": 12
+    "region-sea": 20,
+    "region-americas": 11,
+    "region-vietnam": 16,
+    "region-global": 33
   }
 }
