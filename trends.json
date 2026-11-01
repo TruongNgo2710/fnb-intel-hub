@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:56:29.006551+00:00",
+  "updated": "2026-11-01T14:50:33.803368+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 37,
@@ -8,7 +8,7 @@
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 38,
-      "count_24h": 11,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
@@ -28,23 +28,30 @@
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 11,
       "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 4,
-      "trend": "hot"
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-plantbased",
@@ -52,13 +59,6 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -106,10 +106,10 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 19,
     "negative": 10,
-    "neutral": 53,
-    "score": 9,
+    "neutral": 51,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -127,10 +127,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
-    "price_direction": "up",
+    "total_articles": 11,
+    "price_direction": "stable",
     "price_up_signals": 2,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Thai highland tribe coffee brews following at home and in Tokyo",
@@ -151,30 +151,24 @@
         "time": "0 phút trước"
       },
       {
+        "title": "What Coffee Pairs Well With Leftover Halloween Candy?",
+        "url": "https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
         "title": "Coffee Gear That’s Scary Good",
         "url": "https://sprudge.com/coffee-gear-thats-scary-good-1535418.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
-      },
-      {
-        "title": "Coffee News Recap, 30 Oct: China’s Pan Wei is the 2026 World Barista Champion, coffee now accounts for up to 20% of sales at China’s leading tea chains & other stories",
-        "url": "https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/",
-        "source": "Perfect Daily Grind",
         "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
     "total_articles": 42,
     "top_articles": [
-      {
-        "title": "Japan's Murata to invest $6.3bn in capacitor production for AI over 5 years",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Thailand looks west after 30 years of struggles over Dawei",
         "url": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
@@ -196,6 +190,12 @@
       {
         "title": "Thai reformists became too technocratic, party ex-leader Pita says",
         "url": "https://asia.nikkei.com/politics/thai-reformists-became-too-technocratic-party-ex-leader-pita-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI dubbing to help Japanese companies expand global outreach",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-dubbing-to-help-japanese-companies-expand-global-outreach",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -226,8 +226,8 @@
   },
   "regional_breakdown": {
     "region-sea": 20,
-    "region-americas": 11,
+    "region-americas": 10,
     "region-vietnam": 16,
-    "region-global": 33
+    "region-global": 34
   }
 }
