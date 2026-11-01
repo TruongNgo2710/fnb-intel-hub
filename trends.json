@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-01T14:50:33.803368+00:00",
+  "updated": "2026-11-01T20:20:38.919621+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 12,
+      "count": 40,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 13,
+      "count": 12,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -33,18 +33,18 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
     },
     {
       "tag": "topic-macro",
@@ -106,16 +106,16 @@
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 10,
-    "neutral": 51,
+    "positive": 18,
+    "negative": 9,
+    "neutral": 53,
     "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 40
     },
     {
       "word": "funding",
@@ -154,7 +154,7 @@
         "title": "What Coffee Pairs Well With Leftover Halloween Candy?",
         "url": "https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Coffee Gear That’s Scary Good",
@@ -167,7 +167,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 44,
     "top_articles": [
       {
         "title": "Thailand looks west after 30 years of struggles over Dawei",
@@ -200,7 +200,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-americas": 10,
-    "region-vietnam": 16,
+    "region-sea": 19,
+    "region-americas": 12,
+    "region-vietnam": 15,
     "region-global": 34
   }
 }
