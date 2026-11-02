@@ -1,34 +1,41 @@
 {
-  "updated": "2026-11-02T04:57:28.821230+00:00",
+  "updated": "2026-11-02T17:58:39.578547+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 32,
+  "articles_24h": 48,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 11,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 8,
+      "count": 45,
+      "count_24h": 22,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 12,
-      "count_24h": 3,
+      "count": 15,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 14,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
+      "count": 11,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -36,15 +43,22 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-plantbased",
@@ -52,13 +66,6 @@
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -71,12 +78,12 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
@@ -87,8 +94,8 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
       "count": 1,
       "trend": "up"
     },
@@ -106,31 +113,39 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 8,
+    "positive": 17,
+    "negative": 9,
     "neutral": 54,
-    "score": 12,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 45
     },
     {
-      "word": "funding",
-      "count": 3
+      "word": "ucc",
+      "count": 2
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "specialty",
+      "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
-    "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_up_signals": 2,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -145,62 +160,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "What Coffee Pairs Well With Leftover Halloween Candy?",
-        "url": "https://sprudge.com/what-coffee-pairs-well-with-leftover-halloween-candy-1535407.html",
+        "title": "Here Is Everyone Moving On From The First 2027 US Barista Championship Qualifier",
+        "url": "https://sprudge.com/here-is-everyone-moving-on-from-the-first-2027-us-barista-championship-qualifier-1541721.html",
         "source": "Sprudge Coffee",
-        "time": "15 giờ trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "Coffee Gear That’s Scary Good",
-        "url": "https://sprudge.com/coffee-gear-thats-scary-good-1535418.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "title": "Maria Rivera named CEO of doughnut concept The Salty",
+        "url": "https://www.nrn.com/emerging-chains/maria-rivera-named-ceo-of-doughnut-concept-the-salty",
+        "source": "Nation's Restaurant News",
+        "time": "3 giờ trước"
       },
       {
-        "title": "Coffee News Recap, 30 Oct: China’s Pan Wei is the 2026 World Barista Champion, coffee now accounts for up to 20% of sales at China’s leading tea chains & other stories",
-        "url": "https://perfectdailygrind.com/2026/10/coffee-news-recap-30-october-2026/",
-        "source": "Perfect Daily Grind",
-        "time": "2 ngày trước"
+        "title": "Keurig Must Face Antitrust Claims Over Coffee Pods, Judge Rules",
+        "url": "https://dailycoffeenews.com/2026/11/02/keurig-must-face-antitrust-claims-over-coffee-pods-judge-rules/",
+        "source": "Daily Coffee News",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
-        "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Thai reformists became too technocratic, party ex-leader Pita says",
-        "url": "https://asia.nikkei.com/politics/thai-reformists-became-too-technocratic-party-ex-leader-pita-says",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI dubbing to help Japanese companies expand global outreach",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-dubbing-to-help-japanese-companies-expand-global-outreach",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
-        "url": "https://asia.nikkei.com/business/energy/nuclear-reactors-under-construction-rise-to-79-globally-on-ai-demand",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
         "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Bangladesh turns to China for worker training amid graduate job struggles",
+        "url": "https://asia.nikkei.com/business/education/bangladesh-turns-to-china-for-worker-training-amid-graduate-job-struggles",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
+        "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan can build defense edge on AI, Palantir CEO says",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-can-build-defense-edge-on-ai-palantir-ceo-says",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Anthropic seeks to raise up to $3.5bn from Japanese investors in IPO",
+        "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-seeks-to-raise-up-to-3.5bn-from-japanese-investors-in-ipo",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,9 +240,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 9,
-    "region-vietnam": 17,
-    "region-global": 35
+    "region-sea": 17,
+    "region-americas": 13,
+    "region-vietnam": 16,
+    "region-global": 33,
+    "region-europe": 1
   }
 }
