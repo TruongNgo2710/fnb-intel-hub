@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-03T19:15:28.810084+00:00",
+  "updated": "2026-11-04T00:34:39.586326+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 72,
+  "articles_24h": 73,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 33,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 8,
+      "count": 41,
+      "count_24h": 36,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
+      "count": 12,
       "count_24h": 11,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
@@ -33,10 +33,17 @@
       "trend": "hot"
     },
     {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -52,37 +59,24 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 2,
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
+      "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-highlands",
-      "name": "Highlands Coffee",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 1,
       "trend": "up"
     },
@@ -97,19 +91,25 @@
       "name": "brand-passio",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 7,
-    "neutral": 53,
-    "score": 16,
+    "positive": 22,
+    "negative": 8,
+    "neutral": 50,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -117,7 +117,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 8,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -135,36 +135,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Keurig and Luckin Report Growth Amid Coffee Market Shifts",
+        "url": "https://dailycoffeenews.com/2026/11/03/keurig-and-luckin-report-growth-amid-coffee-market-shifts/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
+      },
+      {
         "title": "Podium Coffee Club Launches The Podium Index, The First Leaderboard To Rank America’s Coffee Roasters By Competition Results Alone",
         "url": "https://sprudge.com/podium-coffee-club-launches-the-podium-index-the-first-leaderboard-to-rank-americas-coffee-roasters-by-competition-results-alone-1527933.html",
         "source": "Sprudge Coffee",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "7 Brew adds food to the menu",
         "url": "https://www.nrn.com/quick-service/7-brew-adds-food-to-the-menu",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Design Details: The Performance of Pastry and Coffee at Moden Café in Athens",
-        "url": "https://dailycoffeenews.com/2026/11/03/design-details-the-performance-of-pastry-and-coffee-at-moden-cafe-in-athens/",
-        "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Grab eyes more AI investment after Taiwan deal blocked",
         "url": "https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked",
@@ -188,9 +182,15 @@
         "url": "https://asia.nikkei.com/opinion/china-s-cable-cutting-threat-reaches-taiwan-and-the-philippines",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "NTT to help Japanese companies update at-risk aging IT with AI",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/ntt-to-help-japanese-companies-update-at-risk-aging-it-with-ai",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -216,8 +216,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 18,
+    "region-americas": 16,
     "region-vietnam": 13,
-    "region-global": 30
+    "region-global": 32
   }
 }
