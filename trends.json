@@ -1,50 +1,43 @@
 {
-  "updated": "2026-11-04T00:34:39.586326+00:00",
+  "updated": "2026-11-04T11:57:00.800199+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 41,
-      "count_24h": 36,
+      "count": 40,
+      "count_24h": 33,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 11,
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
-      "count_24h": 8,
+      "count": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 3,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-supply",
@@ -59,6 +52,13 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
@@ -67,6 +67,12 @@
       "name": "Claude/Anthropic",
       "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -81,43 +87,35 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-passio",
       "name": "brand-passio",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 22,
-    "negative": 8,
-    "neutral": 50,
-    "score": 18,
-    "label": "Trung tính"
+    "positive": 24,
+    "negative": 5,
+    "neutral": 51,
+    "score": 24,
+    "label": "Tích cực"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 41
+      "count": 40
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "ucc",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
+    "total_articles": 10,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -135,62 +133,62 @@
         "time": "0 phút trước"
       },
       {
+        "title": "From rejected to refined: How natural coffee processing is evolving",
+        "url": "https://perfectdailygrind.com/2026/11/how-natural-coffee-processing-is-evolving/",
+        "source": "Perfect Daily Grind",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Keurig and Luckin Report Growth Amid Coffee Market Shifts",
         "url": "https://dailycoffeenews.com/2026/11/03/keurig-and-luckin-report-growth-amid-coffee-market-shifts/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Podium Coffee Club Launches The Podium Index, The First Leaderboard To Rank America’s Coffee Roasters By Competition Results Alone",
         "url": "https://sprudge.com/podium-coffee-club-launches-the-podium-index-the-first-leaderboard-to-rank-americas-coffee-roasters-by-competition-results-alone-1527933.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
-      },
-      {
-        "title": "7 Brew adds food to the menu",
-        "url": "https://www.nrn.com/quick-service/7-brew-adds-food-to-the-menu",
-        "source": "Nation's Restaurant News",
-        "time": "9 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 45,
     "top_articles": [
       {
-        "title": "Grab eyes more AI investment after Taiwan deal blocked",
-        "url": "https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked",
+        "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Thailand to raise tax on imported EVs to 35% as Chinese brands gain ground",
-        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/thailand-to-raise-tax-on-imported-evs-to-35-as-chinese-brands-gain-ground",
+        "title": "The best is yet to come: Asia's chance to reimagine AI",
+        "url": "https://asia.nikkei.com/opinion/the-best-is-yet-to-come-asia-s-chance-to-reimagine-ai",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Vienna entrepreneur takes leaders on lux train to China to foster ties",
-        "url": "https://asia.nikkei.com/politics/vienna-entrepreneur-takes-leaders-on-lux-train-to-china-to-foster-ties",
+        "title": "Taiwan airlines continue flights over Russia, rattling Europeans",
+        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-airlines-continue-flights-over-russia-rattling-europeans",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
-        "url": "https://asia.nikkei.com/opinion/china-s-cable-cutting-threat-reaches-taiwan-and-the-philippines",
+        "title": "China's slumping state airlines pin hopes on overseas demand like exporters",
+        "url": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "NTT to help Japanese companies update at-risk aging IT with AI",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/ntt-to-help-japanese-companies-update-at-risk-aging-it-with-ai",
+        "title": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,9 +213,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 16,
-    "region-vietnam": 13,
-    "region-global": 32
+    "region-sea": 16,
+    "region-europe": 1,
+    "region-vietnam": 16,
+    "region-americas": 14,
+    "region-global": 33
   }
 }
