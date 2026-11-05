@@ -1,55 +1,62 @@
 {
-  "updated": "2026-11-04T19:31:19.861461+00:00",
+  "updated": "2026-11-05T00:48:10.018999+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 74,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 35,
-      "count_24h": 28,
+      "count": 37,
+      "count_24h": 34,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 13,
-      "count_24h": 11,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 9,
+      "count": 13,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
+      "count": 9,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 6,
-      "count_24h": 4,
+      "count": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 2,
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -65,19 +72,19 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
+      "count": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 2,
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
       "trend": "up"
     },
     {
@@ -93,30 +100,32 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 20,
     "negative": 6,
-    "neutral": 53,
-    "score": 19,
+    "neutral": 54,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 35
+      "count": 37
     },
     {
       "word": "gọi vốn",
-      "count": 2
-    },
-    {
-      "word": "ucc",
       "count": 2
     }
   ],
@@ -139,36 +148,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Scooter’s Coffee finds perfect balance of flavor innovation, operational efficiency",
+        "url": "https://www.nrn.com/beverage-trends/scooter-s-coffee-finds-perfect-balance-of-flavor-innovation-operational-efficiency",
+        "source": "Nation's Restaurant News",
+        "time": "4 giờ trước"
+      },
+      {
+        "title": "Lazy Dog’s non-alcoholic beverage lineup boasts a chef-crafted pedigree",
+        "url": "https://www.nrn.com/beverage-trends/lazy-dog-s-non-alcoholic-beverage-lineup-boasts-a-chef-crafted-pedigree",
+        "source": "Nation's Restaurant News",
+        "time": "4 giờ trước"
+      },
+      {
         "title": "Starbucks’ holiday menu returns, complete with a jolly new pup cup",
         "url": "https://www.nrn.com/fast-casual/starbucks-holiday-menu-returns-complete-with-a-jolly-new-pup-cup",
         "source": "Nation's Restaurant News",
-        "time": "51 phút trước"
-      },
-      {
-        "title": "Hundreds of Cuppers to Help Build a Kenya Coffee Flavor Atlas",
-        "url": "https://dailycoffeenews.com/2026/11/04/hundreds-of-cuppers-to-help-build-a-kenya-coffee-flavor-atlas/",
-        "source": "Daily Coffee News",
-        "time": "3 giờ trước"
-      },
-      {
-        "title": "Seven Great Independent Cafes In Washington, DC For 2026",
-        "url": "https://sprudge.com/seven-great-independent-cafes-in-washington-dc-for-2026-959773.html",
-        "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Taiwan airlines continue flights over Russia, rattling Europeans",
-        "url": "https://asia.nikkei.com/politics/international-relations/taiwan-airlines-continue-flights-over-russia-rattling-europeans",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "China's slumping state airlines pin hopes on overseas demand like exporters",
         "url": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
@@ -188,13 +191,19 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Open source AI is booming. Hugging Face explains who profits.",
-        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-        "source": "TechCrunch AI",
-        "time": "1 phút trước"
+        "title": "Malaysia's main opposition calls for greater power for states",
+        "url": "https://asia.nikkei.com/politics/malaysia-s-main-opposition-calls-for-greater-power-for-states",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -220,9 +229,9 @@
   },
   "regional_breakdown": {
     "region-sea": 15,
-    "region-europe": 1,
-    "region-vietnam": 13,
     "region-americas": 22,
-    "region-global": 29
+    "region-vietnam": 14,
+    "region-europe": 1,
+    "region-global": 28
   }
 }
