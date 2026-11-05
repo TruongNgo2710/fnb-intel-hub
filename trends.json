@@ -1,35 +1,56 @@
 {
-  "updated": "2026-11-05T11:57:34.977542+00:00",
+  "updated": "2026-11-05T19:50:56.854208+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 77,
+  "articles_24h": 80,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 41,
+      "count": 50,
+      "count_24h": 50,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 15,
-      "count_24h": 15,
+      "count": 16,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 14,
-      "count_24h": 13,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 10,
+      "count": 6,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -38,52 +59,24 @@
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 1,
-      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
+      "count": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
       "count": 1,
       "trend": "up"
     },
@@ -94,34 +87,52 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-illy",
+      "name": "brand-illy",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 18,
+    "positive": 16,
     "negative": 6,
-    "neutral": 56,
-    "score": 15,
+    "neutral": 58,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 50
+    },
+    {
+      "word": "delivery",
+      "count": 3
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 14,
-    "price_direction": "up",
+    "total_articles": 7,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -136,29 +147,29 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Are we entering a new era of home espresso?",
-        "url": "https://perfectdailygrind.com/2026/11/a-new-era-home-espresso/",
-        "source": "Perfect Daily Grind",
+        "title": "Bodum Recalls Nearly Six Million French Presses",
+        "url": "https://sprudge.com/bodum-recalls-nearly-six-million-french-presses-1550177.html",
+        "source": "Sprudge Coffee",
+        "time": "1 giờ trước"
+      },
+      {
+        "title": "Researchers Challenge the Climate-Resilient Robusta Narrative",
+        "url": "https://dailycoffeenews.com/2026/11/05/researchers-challenge-the-climate-resilient-robusta-narrative/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
+      },
+      {
+        "title": "Le Mil’s Connects San Francisco to a Five-Generation Indian Coffee Farm",
+        "url": "https://dailycoffeenews.com/2026/11/05/le-mils-connects-san-francisco-to-a-five-generation-indian-coffee-farm/",
+        "source": "Daily Coffee News",
         "time": "5 giờ trước"
-      },
-      {
-        "title": "Scooter’s Coffee finds perfect balance of flavor innovation, operational efficiency",
-        "url": "https://www.nrn.com/beverage-trends/scooter-s-coffee-finds-perfect-balance-of-flavor-innovation-operational-efficiency",
-        "source": "Nation's Restaurant News",
-        "time": "15 giờ trước"
-      },
-      {
-        "title": "Lazy Dog’s non-alcoholic beverage lineup boasts a chef-crafted pedigree",
-        "url": "https://www.nrn.com/beverage-trends/lazy-dog-s-non-alcoholic-beverage-lineup-boasts-a-chef-crafted-pedigree",
-        "source": "Nation's Restaurant News",
-        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 53,
     "top_articles": [
       {
         "title": "Malaysia's main opposition calls for greater power for states",
@@ -179,24 +190,24 @@
         "time": "0 phút trước"
       },
       {
-        "title": "US midterms live: Toyota sees big change but notes uncertainty remains",
-        "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-toyota-sees-big-change-but-notes-uncertainty-remains",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
         "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan's chipmakers shine brightest in living memory",
+        "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
       "direction": "up",
-      "count": 1,
+      "count": 2,
       "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "wheat": {
@@ -216,10 +227,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 22,
-    "region-vietnam": 14,
+    "region-sea": 17,
     "region-europe": 2,
-    "region-global": 26
+    "region-americas": 21,
+    "region-vietnam": 12,
+    "region-global": 28
   }
 }
