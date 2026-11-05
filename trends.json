@@ -1,57 +1,57 @@
 {
-  "updated": "2026-11-05T00:48:10.018999+00:00",
+  "updated": "2026-11-05T11:57:34.977542+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 74,
+  "articles_24h": 77,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 34,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 13,
-      "count_24h": 12,
+      "count": 42,
+      "count_24h": 41,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 12,
+      "count": 15,
+      "count_24h": 15,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 14,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 9,
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 4,
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
@@ -76,18 +76,6 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
@@ -100,29 +88,29 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 20,
+    "positive": 18,
     "negative": 6,
-    "neutral": 54,
-    "score": 18,
+    "neutral": 56,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -130,7 +118,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 13,
+    "total_articles": 14,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -148,48 +136,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Are we entering a new era of home espresso?",
+        "url": "https://perfectdailygrind.com/2026/11/a-new-era-home-espresso/",
+        "source": "Perfect Daily Grind",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Scooter’s Coffee finds perfect balance of flavor innovation, operational efficiency",
         "url": "https://www.nrn.com/beverage-trends/scooter-s-coffee-finds-perfect-balance-of-flavor-innovation-operational-efficiency",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Lazy Dog’s non-alcoholic beverage lineup boasts a chef-crafted pedigree",
         "url": "https://www.nrn.com/beverage-trends/lazy-dog-s-non-alcoholic-beverage-lineup-boasts-a-chef-crafted-pedigree",
         "source": "Nation's Restaurant News",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Starbucks’ holiday menu returns, complete with a jolly new pup cup",
-        "url": "https://www.nrn.com/fast-casual/starbucks-holiday-menu-returns-complete-with-a-jolly-new-pup-cup",
-        "source": "Nation's Restaurant News",
-        "time": "6 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 46,
     "top_articles": [
-      {
-        "title": "China's slumping state airlines pin hopes on overseas demand like exporters",
-        "url": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
-        "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Malaysia's main opposition calls for greater power for states",
         "url": "https://asia.nikkei.com/politics/malaysia-s-main-opposition-calls-for-greater-power-for-states",
@@ -197,13 +167,31 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "France's Tikehau, Natixis look to Asia as US data center boom raises risks",
+        "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-natixis-look-to-asia-as-us-data-center-boom-raises-risks",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US midterms live: Toyota sees big change but notes uncertainty remains",
+        "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-toyota-sees-big-change-but-notes-uncertainty-remains",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
+        "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -228,10 +216,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 15,
+    "region-sea": 16,
     "region-americas": 22,
     "region-vietnam": 14,
-    "region-europe": 1,
-    "region-global": 28
+    "region-europe": 2,
+    "region-global": 26
   }
 }
