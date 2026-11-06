@@ -1,73 +1,74 @@
 {
-  "updated": "2026-11-06T11:55:52.279829+00:00",
+  "updated": "2026-11-06T19:02:36.058949+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 70,
+  "articles_24h": 64,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 38,
+      "count": 48,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 19,
-      "count_24h": 15,
+      "count": 17,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 7,
+      "count": 10,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 6,
-      "count_24h": 5,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 6,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 3,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
       "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 5,
-      "trend": "hot"
-    },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
@@ -75,26 +76,32 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-highlands",
-      "name": "Highlands Coffee",
-      "count": 1,
-      "trend": "up"
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 4,
+      "trend": "hot"
     },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
-      "count": 1,
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 2,
       "trend": "up"
     },
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-illy",
-      "name": "brand-illy",
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
     },
@@ -106,39 +113,35 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 8,
-    "neutral": 55,
-    "score": 11,
+    "positive": 13,
+    "negative": 9,
+    "neutral": 58,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 48
     },
     {
       "word": "delivery",
       "count": 3
     },
     {
-      "word": "supply chain",
-      "count": 2
-    },
-    {
       "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "claude",
+      "word": "ucc",
       "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 6,
-    "price_direction": "stable",
+    "total_articles": 9,
+    "price_direction": "down",
     "price_up_signals": 1,
-    "price_down_signals": 1,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -153,36 +156,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Bodum Recalls Nearly Six Million French Presses",
-        "url": "https://sprudge.com/bodum-recalls-nearly-six-million-french-presses-1550177.html",
+        "title": "Menu Tracker: New items from Starbucks, Dunkin’, and Dutch Bros",
+        "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
+        "source": "Nation's Restaurant News",
+        "time": "3 giờ trước"
+      },
+      {
+        "title": "Weekly Coffee News: Costa Rica Harvest Concerns + Restoring Iconic Coffee Sign",
+        "url": "https://dailycoffeenews.com/2026/11/06/weekly-coffee-news-costa-rica-harvest-concerns-restoring-iconic-coffee-sign/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
+      },
+      {
+        "title": "Harry Styles Thinks Your Cappuccino Costs Too Much",
+        "url": "https://sprudge.com/harry-styles-thinks-your-cappuccino-costs-too-much-1557656.html",
         "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Researchers Challenge the Climate-Resilient Robusta Narrative",
-        "url": "https://dailycoffeenews.com/2026/11/05/researchers-challenge-the-climate-resilient-robusta-narrative/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
-      },
-      {
-        "title": "Le Mil’s Connects San Francisco to a Five-Generation Indian Coffee Farm",
-        "url": "https://dailycoffeenews.com/2026/11/05/le-mils-connects-san-francisco-to-a-five-generation-indian-coffee-farm/",
-        "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "6 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
   },
   "ai_trends": {
-    "total_articles": 47,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "China-Japan row over Takaichi's Taiwan comment enters 2nd year",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-japan-row-over-takaichi-s-taiwan-comment-enters-2nd-year",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
@@ -206,9 +203,15 @@
         "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan, South Korea, Japan stock markets hit hard by AI sell-off",
+        "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -233,10 +236,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 16,
-    "region-americas": 19,
-    "region-europe": 2,
-    "region-vietnam": 15,
-    "region-global": 28
+    "region-sea": 15,
+    "region-americas": 20,
+    "region-europe": 1,
+    "region-vietnam": 13,
+    "region-global": 31
   }
 }
