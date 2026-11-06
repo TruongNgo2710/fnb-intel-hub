@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:56:03.421083+00:00",
+  "updated": "2026-11-06T11:55:52.279829+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 70,
@@ -7,36 +7,36 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 43,
+      "count": 44,
+      "count_24h": 38,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 13,
+      "count": 19,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 5,
+      "count": 6,
       "count_24h": 5,
       "trend": "hot"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 4,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -47,10 +47,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
@@ -65,7 +65,7 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 6,
+      "count": 5,
       "trend": "hot"
     },
     {
@@ -106,20 +106,24 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 6,
-    "neutral": 56,
-    "score": 15,
+    "positive": 17,
+    "negative": 8,
+    "neutral": 55,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 49
+      "count": 44
     },
     {
       "word": "delivery",
       "count": 3
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     },
     {
       "word": "gọi vốn",
@@ -131,7 +135,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 5,
+    "total_articles": 6,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -152,59 +156,59 @@
         "title": "Bodum Recalls Nearly Six Million French Presses",
         "url": "https://sprudge.com/bodum-recalls-nearly-six-million-french-presses-1550177.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Researchers Challenge the Climate-Resilient Robusta Narrative",
         "url": "https://dailycoffeenews.com/2026/11/05/researchers-challenge-the-climate-resilient-robusta-narrative/",
         "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "Le Mil’s Connects San Francisco to a Five-Generation Indian Coffee Farm",
         "url": "https://dailycoffeenews.com/2026/11/05/le-mils-connects-san-francisco-to-a-five-generation-indian-coffee-farm/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 52,
+    "total_articles": 47,
     "top_articles": [
       {
-        "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
-        "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
+        "title": "China-Japan row over Takaichi's Taiwan comment enters 2nd year",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-japan-row-over-takaichi-s-taiwan-comment-enters-2nd-year",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Taiwan's chipmakers shine brightest in living memory",
-        "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
+        "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Toyota ready to 'regain market share' in China on expanded local sourcing",
-        "url": "https://asia.nikkei.com/business/automobiles/toyota-ready-to-regain-market-share-in-china-on-expanded-local-sourcing",
+        "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
+        "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Sony raises annual profit forecast on Spider-Man hit, gaming gains",
-        "url": "https://asia.nikkei.com/business/companies/sony-raises-annual-profit-forecast-on-spider-man-hit-gaming-gains",
+        "title": "New Zealand election campaign dominated by cost of living, healthcare",
+        "url": "https://asia.nikkei.com/politics/new-zealand-election-campaign-dominated-by-cost-of-living-healthcare",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan contractor's AI-guided tunnel boring outperforms human operators",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-contractor-s-ai-guided-tunnel-boring-outperforms-human-operators",
+        "title": "Activist Au Kam-san jailed 12.5 years in 1st Macao national security case",
+        "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 52 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -229,10 +233,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-vietnam": 14,
-    "region-global": 28,
-    "region-americas": 18,
-    "region-europe": 1
+    "region-sea": 16,
+    "region-americas": 19,
+    "region-europe": 2,
+    "region-vietnam": 15,
+    "region-global": 28
   }
 }
