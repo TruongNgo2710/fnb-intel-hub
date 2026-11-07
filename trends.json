@@ -1,43 +1,43 @@
 {
-  "updated": "2026-11-07T14:46:43.165739+00:00",
+  "updated": "2026-11-07T20:00:15.263894+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 51,
+  "articles_24h": 40,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 28,
+      "count": 49,
+      "count_24h": 21,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 9,
+      "count": 20,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 4,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-delivery",
@@ -50,8 +50,8 @@
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-supply",
@@ -59,13 +59,6 @@
       "count": 2,
       "count_24h": 2,
       "trend": "up"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -108,15 +101,15 @@
   ],
   "sentiment": {
     "positive": 13,
-    "negative": 8,
-    "neutral": 59,
-    "score": 6,
+    "negative": 7,
+    "neutral": 60,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 49
     },
     {
       "word": "delivery",
@@ -157,13 +150,13 @@
         "title": "Give It Some Wrist! Brewing With The Comandante Hand Grinders On The Coffee Sprudgecast",
         "url": "https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html",
         "source": "Sprudge Coffee",
-        "time": "17 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Menu Tracker: New items from Starbucks, Dunkin’, and Dutch Bros",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
         "source": "Nation's Restaurant News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Weekly Coffee News: Costa Rica Harvest Concerns + Restoring Iconic Coffee Sign",
@@ -176,7 +169,7 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 50,
     "top_articles": [
       {
         "title": "Taiwan, South Korea, Japan stock markets hit hard by AI sell-off",
@@ -209,7 +202,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -234,10 +227,10 @@
     }
   },
   "regional_breakdown": {
+    "region-sea": 18,
     "region-americas": 21,
-    "region-vietnam": 13,
-    "region-sea": 16,
     "region-europe": 1,
+    "region-vietnam": 11,
     "region-global": 29
   }
 }
