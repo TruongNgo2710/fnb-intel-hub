@@ -1,50 +1,43 @@
 {
-  "updated": "2026-11-06T19:02:36.058949+00:00",
+  "updated": "2026-11-07T00:01:19.615924+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 64,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 37,
+      "count": 46,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 17,
-      "count_24h": 13,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 10,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 6,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 4,
+      "count_24h": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 4,
-      "count_24h": 1,
-      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -54,11 +47,18 @@
       "trend": "stable"
     },
     {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 3,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
@@ -70,14 +70,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 4,
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 5,
       "trend": "hot"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 4,
       "trend": "hot"
     },
@@ -104,25 +104,19 @@
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
     "positive": 13,
-    "negative": 9,
-    "neutral": 58,
-    "score": 5,
+    "negative": 10,
+    "neutral": 57,
+    "score": 4,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 46
     },
     {
       "word": "delivery",
@@ -133,15 +127,19 @@
       "count": 2
     },
     {
+      "word": "funding",
+      "count": 2
+    },
+    {
       "word": "ucc",
       "count": 2
     }
   ],
   "coffee_trends": {
     "total_articles": 9,
-    "price_direction": "down",
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -156,42 +154,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Give It Some Wrist! Brewing With The Comandante Hand Grinders On The Coffee Sprudgecast",
+        "url": "https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Menu Tracker: New items from Starbucks, Dunkin’, and Dutch Bros",
         "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
         "source": "Nation's Restaurant News",
-        "time": "3 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "Weekly Coffee News: Costa Rica Harvest Concerns + Restoring Iconic Coffee Sign",
         "url": "https://dailycoffeenews.com/2026/11/06/weekly-coffee-news-costa-rica-harvest-concerns-restoring-iconic-coffee-sign/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
-      },
-      {
-        "title": "Harry Styles Thinks Your Cappuccino Costs Too Much",
-        "url": "https://sprudge.com/harry-styles-thinks-your-cappuccino-costs-too-much-1557656.html",
-        "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 47,
     "top_articles": [
-      {
-        "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
-        "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "New Zealand election campaign dominated by cost of living, healthcare",
         "url": "https://asia.nikkei.com/politics/new-zealand-election-campaign-dominated-by-cost-of-living-healthcare",
@@ -209,9 +195,21 @@
         "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Democrats' midterm gains hang over data centers, Japanese US investment",
+        "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-midterm-gains-hang-over-data-centers-japanese-us-investment",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Takaichi pushes for tougher cybersecurity laws as attacks surge",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-takaichi-pushes-for-tougher-cybersecurity-laws-as-attacks-surge",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -237,9 +235,9 @@
   },
   "regional_breakdown": {
     "region-sea": 15,
-    "region-americas": 20,
-    "region-europe": 1,
-    "region-vietnam": 13,
-    "region-global": 31
+    "region-europe": 2,
+    "region-americas": 21,
+    "region-vietnam": 12,
+    "region-global": 30
   }
 }
