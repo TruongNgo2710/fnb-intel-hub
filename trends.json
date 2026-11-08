@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-07T23:36:45.694501+00:00",
+  "updated": "2026-11-08T05:00:29.319882+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 18,
+      "count": 46,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 18,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -49,7 +49,7 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -100,16 +100,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
+    "positive": 14,
     "negative": 9,
-    "neutral": 56,
-    "score": 8,
+    "neutral": 57,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 47
+      "count": 46
     },
     {
       "word": "delivery",
@@ -169,26 +169,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Japan's Takaichi pushes for tougher cybersecurity laws as attacks surge",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-takaichi-pushes-for-tougher-cybersecurity-laws-as-attacks-surge",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Putin exploits Takaichi's diplomatic opening with Japan Tobacco grab",
-        "url": "https://asia.nikkei.com/politics/international-relations/putin-exploits-takaichi-s-diplomatic-opening-with-japan-tobacco-grab",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan convenience store chain Lawson details first India store in Mumbai",
-        "url": "https://asia.nikkei.com/business/retail/japan-convenience-store-chain-lawson-details-first-india-store-in-mumbai",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Taiwan's KMT old guard fights for power base in tight Taipei mayoral races",
         "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-old-guard-fights-for-power-base-in-tight-taipei-mayoral-races",
@@ -200,9 +182,27 @@
         "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Astellas employee jailed in China on spy charge set for December release",
+        "url": "https://asia.nikkei.com/politics/international-relations/astellas-employee-jailed-in-china-on-spy-charge-set-for-december-release",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Credit Saison, ADB to partner on loans for Asia's small businesses",
+        "url": "https://asia.nikkei.com/business/finance/credit-saison-adb-to-partner-on-loans-for-asia-s-small-businesses",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Gen Z and AI are changing the world of video games",
+        "url": "https://asia.nikkei.com/opinion/gen-z-and-ai-are-changing-the-world-of-video-games",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -229,8 +229,8 @@
   "regional_breakdown": {
     "region-sea": 19,
     "region-europe": 1,
-    "region-vietnam": 12,
+    "region-vietnam": 13,
     "region-global": 28,
-    "region-americas": 20
+    "region-americas": 19
   }
 }
