@@ -1,72 +1,74 @@
 {
-  "updated": "2026-11-09T05:08:55.230525+00:00",
+  "updated": "2026-11-09T18:29:50.477713+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 34,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 14,
+      "count": 44,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
       "count": 12,
-      "count_24h": 5,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
+      "count": 11,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
       "count": 9,
-      "count_24h": 3,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 4,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
+      "trend": "hot"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 5,
-      "trend": "hot"
-    },
     {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
@@ -74,14 +76,14 @@
       "trend": "up"
     },
     {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
       "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 2,
       "trend": "up"
     },
@@ -90,13 +92,25 @@
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 13,
-    "negative": 9,
-    "neutral": 58,
-    "score": 5,
+    "positive": 18,
+    "negative": 7,
+    "neutral": 55,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -105,28 +119,16 @@
       "count": 44
     },
     {
-      "word": "inflation",
-      "count": 2
+      "word": "specialty",
+      "count": 3
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "claude",
-      "count": 2
-    },
-    {
-      "word": "funding",
-      "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 9,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -144,62 +146,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Coffees So Good Even Harry Styles Doesn’t Mind Paying",
-        "url": "https://sprudge.com/coffees-so-good-even-harry-styles-doesnt-mind-paying-1574465.html",
+        "title": "At Gloom Coffee In Seattle, A Cocktail Menu With Espresso And Cold Brew (Hold The Booze)",
+        "url": "https://sprudge.com/at-gloom-coffee-in-seattle-a-cocktail-menu-with-espresso-and-cold-brew-hold-the-booze-1535386.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "2 phút trước"
       },
       {
-        "title": "Give It Some Wrist! Brewing With The Comandante Hand Grinders On The Coffee Sprudgecast",
-        "url": "https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html",
+        "title": "Researchers Are Turning To Chemistry To Predict Flavor In Green Coffee",
+        "url": "https://sprudge.com/researchers-are-turning-to-chemistry-to-predict-flavor-in-green-coffee-1567039.html",
         "source": "Sprudge Coffee",
-        "time": "2 ngày trước"
+        "time": "24 phút trước"
       },
       {
-        "title": "Menu Tracker: New items from Starbucks, Dunkin’, and Dutch Bros",
-        "url": "https://www.nrn.com/food-trends/menu-tracker-new-items-from-starbucks-dunkin-and-dutch-bros",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
+        "title": "Brazil Study Field-Tests the Economics of Regenerative Coffee",
+        "url": "https://dailycoffeenews.com/2026/11/09/brazil-study-field-tests-the-economics-of-regenerative-coffee/",
+        "source": "Daily Coffee News",
+        "time": "1 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 47,
     "top_articles": [
       {
-        "title": "What the Democratic sweep means for Trump's tariffs and AI",
-        "url": "https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai",
+        "title": "Taiwan chipmaker CEO warns memory price rises are unsustainable",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/taiwan-chipmaker-ceo-warns-memory-price-rises-are-unsustainable",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Bridgestone revs up output of massive mining tires on AI-driven demand",
-        "url": "https://asia.nikkei.com/business/automobiles/bridgestone-revs-up-output-of-massive-mining-tires-on-ai-driven-demand",
+        "title": "Malaysia-Taiwan fraying ties threaten future chip investments",
+        "url": "https://asia.nikkei.com/politics/international-relations/malaysia-taiwan-fraying-ties-threaten-future-chip-investments",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Ukraine's Zaporizhzhia nuclear plant again relies on backup power",
-        "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
+        "title": "Nvidia probes CEO Jensen Huang's affair amid China security concerns",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-probes-ceo-jensen-huang-s-affair-amid-china-security-concerns",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Singapore Airlines unveils $1.6bn cabin revamp with giant double bed",
-        "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-unveils-1.6bn-cabin-revamp-with-giant-double-bed",
+        "title": "Japan's ANA and Vietnam Airlines to launch revenue-sharing pact",
+        "url": "https://asia.nikkei.com/business/business-deals/japan-s-ana-and-vietnam-airlines-to-launch-revenue-sharing-pact",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Netanyahu rival Eisenkot seeks 'wide' government, path to power uncertain",
-        "url": "https://asia.nikkei.com/politics/netanyahu-rival-eisenkot-seeks-wide-government-path-to-power-uncertain",
+        "title": "Sakana AI gears up for one of Japan's biggest startup IPOs",
+        "url": "https://asia.nikkei.com/business/markets/ipo/sakana-ai-gears-up-for-one-of-japan-s-biggest-startup-ipos",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 47 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -224,10 +226,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 15,
-    "region-europe": 1,
-    "region-americas": 16,
-    "region-global": 31
+    "region-sea": 16,
+    "region-vietnam": 16,
+    "region-americas": 14,
+    "region-global": 29,
+    "region-europe": 5
   }
 }
