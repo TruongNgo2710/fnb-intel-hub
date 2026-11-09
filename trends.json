@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-08T20:17:32.364362+00:00",
+  "updated": "2026-11-09T05:08:55.230525+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 34,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 47,
-      "count_24h": 15,
+      "count": 45,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 17,
-      "count_24h": 7,
+      "count": 16,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
+      "count": 12,
       "count_24h": 5,
       "trend": "hot"
     },
@@ -36,7 +36,7 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 5,
-      "count_24h": 1,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -49,13 +49,6 @@
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
       "count": 1,
       "count_24h": 0,
       "trend": "stable"
@@ -100,16 +93,20 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 8,
-    "neutral": 57,
-    "score": 9,
+    "positive": 13,
+    "negative": 9,
+    "neutral": 58,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 44
+    },
+    {
+      "word": "inflation",
+      "count": 2
     },
     {
       "word": "gọi vốn",
@@ -150,13 +147,13 @@
         "title": "Coffees So Good Even Harry Styles Doesn’t Mind Paying",
         "url": "https://sprudge.com/coffees-so-good-even-harry-styles-doesnt-mind-paying-1574465.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Give It Some Wrist! Brewing With The Comandante Hand Grinders On The Coffee Sprudgecast",
         "url": "https://sprudge.com/give-it-some-wrist-brewing-with-the-comandante-hand-grinders-on-the-coffee-sprudgecast-1574318.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Menu Tracker: New items from Starbucks, Dunkin’, and Dutch Bros",
@@ -169,26 +166,8 @@
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 48,
     "top_articles": [
-      {
-        "title": "Astellas employee jailed in China on spy charge set for December release",
-        "url": "https://asia.nikkei.com/politics/international-relations/astellas-employee-jailed-in-china-on-spy-charge-set-for-december-release",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Credit Saison, ADB to partner on loans for Asia's small businesses",
-        "url": "https://asia.nikkei.com/business/finance/credit-saison-adb-to-partner-on-loans-for-asia-s-small-businesses",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Gen Z and AI are changing the world of video games",
-        "url": "https://asia.nikkei.com/opinion/gen-z-and-ai-are-changing-the-world-of-video-games",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "What the Democratic sweep means for Trump's tariffs and AI",
         "url": "https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai",
@@ -200,9 +179,27 @@
         "url": "https://asia.nikkei.com/business/automobiles/bridgestone-revs-up-output-of-massive-mining-tires-on-ai-driven-demand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Ukraine's Zaporizhzhia nuclear plant again relies on backup power",
+        "url": "https://asia.nikkei.com/politics/ukraine-war/ukraine-s-zaporizhzhia-nuclear-plant-again-relies-on-backup-power",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Singapore Airlines unveils $1.6bn cabin revamp with giant double bed",
+        "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-unveils-1.6bn-cabin-revamp-with-giant-double-bed",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Netanyahu rival Eisenkot seeks 'wide' government, path to power uncertain",
+        "url": "https://asia.nikkei.com/politics/netanyahu-rival-eisenkot-seeks-wide-government-path-to-power-uncertain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -227,9 +224,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
+    "region-sea": 17,
     "region-vietnam": 15,
-    "region-global": 30,
-    "region-americas": 16
+    "region-europe": 1,
+    "region-americas": 16,
+    "region-global": 31
   }
 }
