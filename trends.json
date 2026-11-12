@@ -1,48 +1,48 @@
 {
-  "updated": "2026-11-12T06:15:08.041125+00:00",
+  "updated": "2026-11-12T16:40:36.810858+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 66,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 35,
+      "count": 53,
+      "count_24h": 45,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 7,
+      "count": 11,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
       "count": 7,
       "count_24h": 7,
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 7,
-      "count_24h": 3,
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 6,
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
       "count_24h": 4,
       "trend": "hot"
     },
@@ -52,32 +52,21 @@
       "count": 3,
       "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 2,
-      "trend": "up"
+      "count": 3,
+      "trend": "hot"
     },
     {
       "tag": "brand-highlands",
@@ -86,38 +75,44 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-starbucks",
+      "name": "Starbucks",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 21,
+    "positive": 17,
     "negative": 7,
-    "neutral": 52,
-    "score": 18,
+    "neutral": 56,
+    "score": 12,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 53
+    },
+    {
+      "word": "ucc",
+      "count": 3
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 7,
-    "price_direction": "up",
+    "total_articles": 10,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -132,48 +127,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Researchers Make Membrane That Decaffeinates Liquid Coffee",
-        "url": "https://dailycoffeenews.com/2026/11/11/researchers-make-membrane-that-decaffeinates-liquid-coffee/",
+        "title": "Design Details: The Recessed Sculptural Bar of Palace Coffee in Melbourne",
+        "url": "https://dailycoffeenews.com/2026/11/12/design-details-the-recessed-sculptural-bar-of-palace-coffee-in-melbourne/",
         "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "time": "53 phút trước"
       },
       {
-        "title": "Black Rock Coffee Bar’s sales grow, thanks to extended hours",
-        "url": "https://www.nrn.com/quick-service/black-rock-coffee-bar-s-sales-grow-thanks-to-extended-hours",
+        "title": "TGI Fridays, Black Rock Coffee, and California Pizza Kitchen",
+        "url": "https://www.nrn.com/casual-dining/tgi-fridays-black-rock-coffee-and-california-pizza-kitchen",
         "source": "Nation's Restaurant News",
-        "time": "15 giờ trước"
+        "time": "1 giờ trước"
       },
       {
-        "title": "Seven of the Weirdest Things Coffee Does to Your Body",
-        "url": "https://dailycoffeenews.com/2026/11/11/seven-of-the-weirdest-things-coffee-does-to-your-body/",
-        "source": "Daily Coffee News",
-        "time": "15 giờ trước"
+        "title": "Starbucks baristas start receiving bonus payments",
+        "url": "https://www.nrn.com/quick-service/starbucks-baristas-start-receiving-bonus-payments",
+        "source": "Nation's Restaurant News",
+        "time": "3 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 58,
     "top_articles": [
-      {
-        "title": "Microsoft says tech firms must 'prove' AI data centers benefit locals",
-        "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Singapore Airlines takes 44% profit hit in 1st half on soaring fuel costs",
-        "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-takes-44-profit-hit-in-1st-half-on-soaring-fuel-costs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Muted Singles Day campaign winds down as China's shoppers hunt for value",
-        "url": "https://asia.nikkei.com/business/consumer/muted-singles-day-campaign-winds-down-as-china-s-shoppers-hunt-for-value",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Indonesia, Thailand, Philippines to set up shared oil reserves",
         "url": "https://asia.nikkei.com/business/energy/indonesia-thailand-philippines-to-set-up-shared-oil-reserves",
@@ -185,9 +162,27 @@
         "url": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-defense-tech-unicorn-cultivates-taiwan-and-japan-supply-chain-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Astana Motors, poster child of Kazakh diversification, faces growing pains",
+        "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/astana-motors-poster-child-of-kazakh-diversification-faces-growing-pains",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan emphasizes APEC China presence as it walks diplomatic tightrope",
+        "url": "https://asia.nikkei.com/politics/international-relations/apec/taiwan-emphasizes-apec-china-presence-as-it-walks-diplomatic-tightrope",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Malaysia seeks Taiwan meeting restart as Anwar defends China stance",
+        "url": "https://asia.nikkei.com/politics/international-relations/malaysia-seeks-taiwan-meeting-restart-as-anwar-defends-china-stance",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 58 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -212,9 +207,9 @@
     }
   },
   "regional_breakdown": {
+    "region-vietnam": 13,
     "region-sea": 19,
-    "region-vietnam": 15,
-    "region-global": 28,
-    "region-americas": 18
+    "region-global": 34,
+    "region-americas": 14
   }
 }
