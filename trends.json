@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-11T22:34:49.154798+00:00",
+  "updated": "2026-11-12T06:15:08.041125+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 63,
+  "articles_24h": 66,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 48,
-      "count_24h": 37,
+      "count": 44,
+      "count_24h": 35,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 10,
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 10,
-      "count_24h": 8,
+      "count": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -42,8 +42,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 3,
+      "count": 6,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -58,14 +58,20 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 5,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-kfc",
@@ -80,12 +86,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-mcdonalds",
       "name": "McDonald's",
       "count": 1,
@@ -93,23 +93,23 @@
     }
   ],
   "sentiment": {
-    "positive": 23,
-    "negative": 8,
-    "neutral": 49,
-    "score": 19,
+    "positive": 21,
+    "negative": 7,
+    "neutral": 52,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 44
     },
     {
       "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "chatgpt",
+      "word": "ucc",
       "count": 2
     }
   ],
@@ -135,59 +135,59 @@
         "title": "Researchers Make Membrane That Decaffeinates Liquid Coffee",
         "url": "https://dailycoffeenews.com/2026/11/11/researchers-make-membrane-that-decaffeinates-liquid-coffee/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Black Rock Coffee Bar’s sales grow, thanks to extended hours",
         "url": "https://www.nrn.com/quick-service/black-rock-coffee-bar-s-sales-grow-thanks-to-extended-hours",
         "source": "Nation's Restaurant News",
-        "time": "7 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Seven of the Weirdest Things Coffee Does to Your Body",
         "url": "https://dailycoffeenews.com/2026/11/11/seven-of-the-weirdest-things-coffee-does-to-your-body/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "The AI pay gap: A chip boom breeds jealousy and labor unrest in Asia",
-        "url": "https://asia.nikkei.com/business/technology/tech-asia/the-ai-pay-gap-a-chip-boom-breeds-jealousy-and-labor-unrest-in-asia",
+        "title": "Microsoft says tech firms must 'prove' AI data centers benefit locals",
+        "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/microsoft-says-tech-firms-must-prove-ai-data-centers-benefit-locals",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Thailand weighs alternative to stalled airport rail project",
-        "url": "https://asia.nikkei.com/business/transportation/thailand-weighs-alternative-to-stalled-airport-rail-project",
+        "title": "Singapore Airlines takes 44% profit hit in 1st half on soaring fuel costs",
+        "url": "https://asia.nikkei.com/business/transportation/singapore-airlines-takes-44-profit-hit-in-1st-half-on-soaring-fuel-costs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Thailand's SCG to reopen Hormuz-affected Vietnam plant in mid-2027",
-        "url": "https://asia.nikkei.com/business/materials/thailand-s-scg-to-reopen-hormuz-affected-vietnam-plant-in-mid-2027",
+        "title": "Muted Singles Day campaign winds down as China's shoppers hunt for value",
+        "url": "https://asia.nikkei.com/business/consumer/muted-singles-day-campaign-winds-down-as-china-s-shoppers-hunt-for-value",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Hyundai Rotem plan to build EU tank hub in Poland takes shape",
-        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/hyundai-rotem-plan-to-build-eu-tank-hub-in-poland-takes-shape",
+        "title": "Indonesia, Thailand, Philippines to set up shared oil reserves",
+        "url": "https://asia.nikkei.com/business/energy/indonesia-thailand-philippines-to-set-up-shared-oil-reserves",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's Akita AI data center seen anchoring tech hub, boosting tax revenue",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-akita-ai-data-center-seen-anchoring-tech-hub-boosting-tax-revenue",
+        "title": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
+        "url": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-defense-tech-unicorn-cultivates-taiwan-and-japan-supply-chain-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -201,9 +201,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
@@ -212,10 +212,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 17,
-    "region-europe": 1,
-    "region-global": 26,
-    "region-americas": 19
+    "region-sea": 19,
+    "region-vietnam": 15,
+    "region-global": 28,
+    "region-americas": 18
   }
 }
