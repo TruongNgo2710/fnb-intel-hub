@@ -1,41 +1,48 @@
 {
-  "updated": "2026-11-13T00:59:14.136295+00:00",
+  "updated": "2026-11-13T11:58:43.754029+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 75,
+  "articles_24h": 76,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 44,
+      "count": 45,
+      "count_24h": 43,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 11,
+      "count": 13,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 10,
-      "count_24h": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 4,
-      "count_24h": 4,
+      "count": 8,
+      "count_24h": 7,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -95,20 +102,24 @@
     }
   ],
   "sentiment": {
-    "positive": 20,
-    "negative": 8,
-    "neutral": 52,
+    "positive": 19,
+    "negative": 7,
+    "neutral": 54,
     "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 45
     },
     {
       "word": "ucc",
       "count": 4
+    },
+    {
+      "word": "supply chain",
+      "count": 2
     },
     {
       "word": "gọi vốn",
@@ -145,59 +156,59 @@
         "title": "Nominations Are Now Open For The 18th Annual Sprudgie Awards",
         "url": "https://sprudge.com/nominations-are-now-open-for-the-18th-annual-sprudgie-awards-1600761.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "14 giờ trước"
       },
       {
         "title": "NY-Based Colombian Coffee Roaster Devoción Releases Limited-Edition 2026 Holiday Blend & Unveils Its Holiday Gift Guide",
         "url": "https://sprudge.com/ny-based-colombian-coffee-roaster-devocion-releases-limited-edition-2026-holiday-blend-unveils-its-holiday-gift-guide-1600759.html",
         "source": "Sprudge Coffee",
-        "time": "5 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Researchers Have Created A Plant-Based To-Go Cup Liner To Keep You From Drinking Microplastics",
         "url": "https://sprudge.com/researchers-have-created-a-plant-based-to-go-cup-liner-to-keep-you-from-drinking-microplastics-1586042.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 50,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "Taiwan's Foxconn has 'strong confidence' in 2027 due to AI demand",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/taiwan-s-foxconn-has-strong-confidence-in-2027-due-to-ai-demand",
+        "title": "Meta, chat app Line help Taiwan combat online fraud",
+        "url": "https://asia.nikkei.com/spotlight/society/crime/meta-chat-app-line-help-taiwan-combat-online-fraud",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Subway, TGI Fridays Japan partner Watami aims to go private under founder",
-        "url": "https://asia.nikkei.com/business/business-deals/subway-tgi-fridays-japan-partner-watami-aims-to-go-private-under-founder",
+        "title": "Tokyo seeks Takaichi-Putin talks after Russia seizes Japan Tobacco units",
+        "url": "https://asia.nikkei.com/politics/international-relations/tokyo-seeks-takaichi-putin-talks-after-russia-seizes-japan-tobacco-units",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Kazakh arrests of state asset heads raise doubt on railway IPO in Hong Kong",
-        "url": "https://asia.nikkei.com/business/markets/ipo/kazakh-arrests-of-state-asset-heads-raise-doubt-on-railway-ipo-in-hong-kong",
+        "title": "Nvidia's Jensen problem set to become one for AI supply chain",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-s-jensen-problem-set-to-become-one-for-ai-supply-chain",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Takaichi looks to meet with Trump to head off defense spending demands",
-        "url": "https://asia.nikkei.com/politics/international-relations/takaichi-looks-to-meet-with-trump-to-head-off-defense-spending-demands",
+        "title": "Toyota rewires China supply chain to fight back in EV race",
+        "url": "https://asia.nikkei.com/business/automobiles/toyota-rewires-china-supply-chain-to-fight-back-in-ev-race",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Jensen Huang resigns as Nvidia chief after alleged second affair",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/jensen-huang-resigns-as-nvidia-chief-after-alleged-second-affair",
+        "title": "Sam Rainsy urges Japan to be 'realistic' on Cambodia-China ties",
+        "url": "https://asia.nikkei.com/politics/international-relations/sam-rainsy-urges-japan-to-be-realistic-on-cambodia-china-ties",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 50 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +222,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "up",
+      "count": 1,
+      "signal": "⬆️ Tăng (1 tín hiệu)"
     },
     "dairy": {
       "direction": "stable",
@@ -223,8 +234,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 19,
-    "region-vietnam": 9,
-    "region-global": 33
+    "region-vietnam": 14,
+    "region-global": 33,
+    "region-americas": 14
   }
 }
