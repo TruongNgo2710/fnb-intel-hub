@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-14T11:17:32.513267+00:00",
+  "updated": "2026-11-14T17:47:10.156357+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 48,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 26,
+      "count": 37,
+      "count_24h": 19,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 10,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 11,
-      "count_24h": 8,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -36,14 +36,14 @@
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 4,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -77,20 +77,20 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 2,
-      "trend": "up"
+      "count": 4,
+      "trend": "hot"
     },
     {
       "tag": "brand-starbucks",
       "name": "Starbucks",
+      "count": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
@@ -114,20 +114,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 4,
-    "neutral": 58,
-    "score": 18,
+    "positive": 17,
+    "negative": 6,
+    "neutral": 57,
+    "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
-    },
-    {
-      "word": "ucc",
-      "count": 3
+      "count": 37
     },
     {
       "word": "gọi vốn",
@@ -138,7 +134,7 @@
       "count": 2
     },
     {
-      "word": "acquisition",
+      "word": "ucc",
       "count": 2
     }
   ],
@@ -161,36 +157,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
+        "url": "https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html",
+        "source": "Sprudge Coffee",
+        "time": "4 giờ trước"
+      },
+      {
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
         "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
         "source": "Nation's Restaurant News",
-        "time": "15 giờ trước"
+        "time": "22 giờ trước"
       },
       {
         "title": "Chick-fil-A launches a spicy version of its signature sauce",
         "url": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
         "source": "Nation's Restaurant News",
-        "time": "17 giờ trước"
-      },
-      {
-        "title": "Ohio’s Branch Street Cafe Becomes Denizen as Managers Take Ownership",
-        "url": "https://dailycoffeenews.com/2026/11/13/ohios-branch-street-cafe-becomes-denizen-as-managers-take-ownership/",
-        "source": "Daily Coffee News",
-        "time": "20 giờ trước"
+        "time": "23 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "Pakistan to link Reko Diq mine to Karachi port by rail 'in 3 years'",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/pakistan-to-link-reko-diq-mine-to-karachi-port-by-rail-in-3-years",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Growth beyond AI puts corporate Japan on track for 20% profit gain",
         "url": "https://asia.nikkei.com/business/business-trends/growth-beyond-ai-puts-corporate-japan-on-track-for-20-profit-gain",
@@ -214,9 +204,15 @@
         "url": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Philippines moves to secure emergency access to oil in Indonesia, Thailand",
+        "url": "https://asia.nikkei.com/business/energy/philippines-moves-to-secure-emergency-access-to-oil-in-indonesia-thailand",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -242,8 +238,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 22,
-    "region-vietnam": 12,
-    "region-global": 27
+    "region-americas": 21,
+    "region-vietnam": 11,
+    "region-global": 29
   }
 }
