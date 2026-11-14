@@ -1,64 +1,64 @@
 {
-  "updated": "2026-11-14T17:47:10.156357+00:00",
+  "updated": "2026-11-14T23:45:00.305932+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 48,
+  "articles_24h": 37,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 37,
-      "count_24h": 19,
+      "count": 38,
+      "count_24h": 11,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 5,
+      "count": 12,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 6,
       "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 5,
-      "count_24h": 2,
+      "count": 4,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-plantbased",
@@ -115,15 +115,15 @@
   ],
   "sentiment": {
     "positive": 17,
-    "negative": 6,
-    "neutral": 57,
-    "score": 14,
+    "negative": 5,
+    "neutral": 58,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 37
+      "count": 38
     },
     {
       "word": "gọi vốn",
@@ -139,7 +139,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 12,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -160,26 +160,26 @@
         "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
         "url": "https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
         "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
         "source": "Nation's Restaurant News",
-        "time": "22 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "Chick-fil-A launches a spicy version of its signature sauce",
         "url": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
         "source": "Nation's Restaurant News",
-        "time": "23 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 40,
+    "total_articles": 42,
     "top_articles": [
       {
         "title": "Growth beyond AI puts corporate Japan on track for 20% profit gain",
@@ -212,7 +212,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -237,9 +237,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
     "region-americas": 21,
-    "region-vietnam": 11,
-    "region-global": 29
+    "region-sea": 19,
+    "region-vietnam": 10,
+    "region-global": 30
   }
 }
