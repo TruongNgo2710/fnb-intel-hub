@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-14T00:47:10.090380+00:00",
+  "updated": "2026-11-14T11:17:32.513267+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 59,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 29,
+      "count": 39,
+      "count_24h": 26,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
+      "count": 14,
       "count_24h": 10,
       "trend": "hot"
     },
@@ -29,14 +29,14 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 7,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 5,
-      "count_24h": 5,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
@@ -114,16 +114,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
+    "positive": 18,
     "negative": 4,
-    "neutral": 59,
-    "score": 16,
+    "neutral": 58,
+    "score": 18,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 39
     },
     {
       "word": "ucc",
@@ -164,39 +164,27 @@
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
         "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
         "source": "Nation's Restaurant News",
-        "time": "5 giờ trước"
+        "time": "15 giờ trước"
       },
       {
         "title": "Chick-fil-A launches a spicy version of its signature sauce",
         "url": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
         "source": "Nation's Restaurant News",
-        "time": "6 giờ trước"
+        "time": "17 giờ trước"
       },
       {
         "title": "Ohio’s Branch Street Cafe Becomes Denizen as Managers Take Ownership",
         "url": "https://dailycoffeenews.com/2026/11/13/ohios-branch-street-cafe-becomes-denizen-as-managers-take-ownership/",
         "source": "Daily Coffee News",
-        "time": "10 giờ trước"
+        "time": "20 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 41,
     "top_articles": [
-      {
-        "title": "Sam Rainsy urges Japan to be 'realistic' on Cambodia-China ties",
-        "url": "https://asia.nikkei.com/politics/international-relations/sam-rainsy-urges-japan-to-be-realistic-on-cambodia-china-ties",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Editor's Choice: Nvidia's AI empire stumbles over Huang's human error",
-        "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-nvidia-s-ai-empire-stumbles-over-huang-s-human-error",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Pakistan to link Reko Diq mine to Karachi port by rail 'in 3 years'",
         "url": "https://asia.nikkei.com/editor-s-picks/interview/pakistan-to-link-reko-diq-mine-to-karachi-port-by-rail-in-3-years",
@@ -214,9 +202,21 @@
         "url": "https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's JD.com completes $1.5bn takeover of German appliance retailer",
+        "url": "https://asia.nikkei.com/business/business-deals/china-s-jd.com-completes-1.5bn-takeover-of-german-appliance-retailer",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
+        "url": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 41 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -242,8 +242,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-americas": 23,
-    "region-vietnam": 11,
+    "region-americas": 22,
+    "region-vietnam": 12,
     "region-global": 27
   }
 }
