@@ -1,14 +1,21 @@
 {
-  "updated": "2026-11-13T19:27:42.925394+00:00",
+  "updated": "2026-11-14T00:47:10.090380+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 60,
+  "articles_24h": 59,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 46,
-      "count_24h": 30,
+      "count": 42,
+      "count_24h": 29,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
+      "count": 13,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
@@ -16,13 +23,6 @@
       "label": "#ChuỗiCàPhê",
       "count": 11,
       "count_24h": 8,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 9,
-      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -35,8 +35,8 @@
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 6,
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -49,14 +49,14 @@
     {
       "tag": "topic-wine",
       "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count": 2,
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-brunch",
       "label": "#Brunch",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
@@ -79,14 +79,14 @@
     {
       "tag": "brand-ucc",
       "name": "brand-ucc",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 3,
-      "trend": "hot"
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-starbucks",
@@ -114,31 +114,27 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 5,
-    "neutral": 57,
+    "positive": 17,
+    "negative": 4,
+    "neutral": 59,
     "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 46
+      "count": 42
     },
     {
       "word": "ucc",
-      "count": 4
-    },
-    {
-      "word": "chatgpt",
       "count": 3
     },
     {
-      "word": "supply chain",
+      "word": "gọi vốn",
       "count": 2
     },
     {
-      "word": "gọi vốn",
+      "word": "chatgpt",
       "count": 2
     },
     {
@@ -165,42 +161,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
+        "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
+        "source": "Nation's Restaurant News",
+        "time": "5 giờ trước"
+      },
+      {
         "title": "Chick-fil-A launches a spicy version of its signature sauce",
         "url": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
         "source": "Nation's Restaurant News",
-        "time": "1 giờ trước"
+        "time": "6 giờ trước"
       },
       {
         "title": "Ohio’s Branch Street Cafe Becomes Denizen as Managers Take Ownership",
         "url": "https://dailycoffeenews.com/2026/11/13/ohios-branch-street-cafe-becomes-denizen-as-managers-take-ownership/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Weekly Coffee News: New Coffee Education Certificate + ICO Price Edges Down",
-        "url": "https://dailycoffeenews.com/2026/11/13/weekly-coffee-news-new-coffee-education-certificate-ico-price-edges-down/",
-        "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 44,
     "top_articles": [
-      {
-        "title": "Nvidia's Jensen problem set to become one for AI supply chain",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-s-jensen-problem-set-to-become-one-for-ai-supply-chain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Toyota rewires China supply chain to fight back in EV race",
-        "url": "https://asia.nikkei.com/business/automobiles/toyota-rewires-china-supply-chain-to-fight-back-in-ev-race",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Sam Rainsy urges Japan to be 'realistic' on Cambodia-China ties",
         "url": "https://asia.nikkei.com/politics/international-relations/sam-rainsy-urges-japan-to-be-realistic-on-cambodia-china-ties",
@@ -218,9 +202,21 @@
         "url": "https://asia.nikkei.com/editor-s-picks/interview/pakistan-to-link-reko-diq-mine-to-karachi-port-by-rail-in-3-years",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Growth beyond AI puts corporate Japan on track for 20% profit gain",
+        "url": "https://asia.nikkei.com/business/business-trends/growth-beyond-ai-puts-corporate-japan-on-track-for-20-profit-gain",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Uranium price hits record as AI demand prompts nuclear comeback",
+        "url": "https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -246,8 +242,8 @@
   },
   "regional_breakdown": {
     "region-sea": 19,
-    "region-vietnam": 9,
-    "region-americas": 20,
-    "region-global": 32
+    "region-americas": 23,
+    "region-vietnam": 11,
+    "region-global": 27
   }
 }
