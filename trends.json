@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-14T23:45:00.305932+00:00",
+  "updated": "2026-11-15T05:24:05.063396+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 37,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
-      "count_24h": 11,
+      "count": 36,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 14,
-      "count_24h": 9,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 11,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -57,13 +57,6 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-plantbased",
-      "label": "#PlantBased",
-      "count": 1,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -114,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 17,
-    "negative": 5,
+    "positive": 15,
+    "negative": 7,
     "neutral": 58,
-    "score": 15,
+    "score": 10,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 36
     },
     {
       "word": "gọi vốn",
@@ -139,7 +132,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 11,
     "price_direction": "up",
     "price_up_signals": 1,
     "price_down_signals": 0,
@@ -160,7 +153,7 @@
         "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
         "url": "https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html",
         "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
@@ -179,26 +172,8 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 40,
     "top_articles": [
-      {
-        "title": "Growth beyond AI puts corporate Japan on track for 20% profit gain",
-        "url": "https://asia.nikkei.com/business/business-trends/growth-beyond-ai-puts-corporate-japan-on-track-for-20-profit-gain",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Uranium price hits record as AI demand prompts nuclear comeback",
-        "url": "https://asia.nikkei.com/business/markets/commodities/uranium-price-hits-record-as-ai-demand-prompts-nuclear-comeback",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China's JD.com completes $1.5bn takeover of German appliance retailer",
-        "url": "https://asia.nikkei.com/business/business-deals/china-s-jd.com-completes-1.5bn-takeover-of-german-appliance-retailer",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
         "url": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
@@ -210,9 +185,27 @@
         "url": "https://asia.nikkei.com/business/energy/philippines-moves-to-secure-emergency-access-to-oil-in-indonesia-thailand",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "China's century-old 'porcelain capital' eyes global luxury",
+        "url": "https://asia.nikkei.com/life-arts/arts/china-s-century-old-porcelain-capital-eyes-global-luxury",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Chàng trai 26 tuổi đứng sau cơn sốt 'chùa online': Đang thất nghiệp, không hề có kinh nghiệm lập trình, chỉ mất 30 phút để ra bản thử đầu tiên nhờ AI",
+        "url": "https://cafebiz.vn/chang-trai-26-tuoi-dung-sau-con-sot-chua-online-dang-that-nghiep-khong-he-co-kinh-nghiem-lap-trinh-chi-mat-30-phut-de-ra-ban-thu-dau-tien-nho-ai-176261102194331826.chn",
+        "source": "CafeBiz Startup",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -237,9 +230,9 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 21,
-    "region-sea": 19,
-    "region-vietnam": 10,
-    "region-global": 30
+    "region-sea": 21,
+    "region-vietnam": 11,
+    "region-global": 29,
+    "region-americas": 19
   }
 }
