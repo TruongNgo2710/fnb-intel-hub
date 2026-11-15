@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T05:24:05.063396+00:00",
+  "updated": "2026-11-15T15:28:43.199019+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 36,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 36,
-      "count_24h": 8,
+      "count": 34,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 7,
+      "count": 13,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -28,8 +28,8 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 5,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -47,16 +47,16 @@
       "trend": "stable"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-brunch",
+      "label": "#Brunch",
       "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
     {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
       "count_24h": 0,
       "trend": "stable"
     },
@@ -108,15 +108,15 @@
   ],
   "sentiment": {
     "positive": 15,
-    "negative": 7,
-    "neutral": 58,
-    "score": 10,
+    "negative": 9,
+    "neutral": 56,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 36
+      "count": 34
     },
     {
       "word": "gọi vốn",
@@ -150,20 +150,20 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Your Coffee Is The Prettiest Coffee Of All The Coffee",
+        "url": "https://sprudge.com/your-coffee-is-the-prettiest-coffee-of-all-the-coffee-1605714.html",
+        "source": "Sprudge Coffee",
+        "time": "2 giờ trước"
+      },
+      {
         "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
         "url": "https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "1 ngày trước"
       },
       {
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
         "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
-        "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
-      },
-      {
-        "title": "Chick-fil-A launches a spicy version of its signature sauce",
-        "url": "https://www.nrn.com/quick-service/chick-fil-a-launches-a-spicy-version-of-its-signature-sauce",
         "source": "Nation's Restaurant News",
         "time": "1 ngày trước"
       }
@@ -172,7 +172,7 @@
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 40,
+    "total_articles": 39,
     "top_articles": [
       {
         "title": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
@@ -205,7 +205,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 40 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -225,14 +225,14 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 3,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
     "region-sea": 21,
-    "region-vietnam": 11,
-    "region-global": 29,
+    "region-vietnam": 12,
+    "region-global": 28,
     "region-americas": 19
   }
 }
