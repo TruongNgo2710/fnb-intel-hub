@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-15T15:28:43.199019+00:00",
+  "updated": "2026-11-15T20:54:31.590118+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 36,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 34,
-      "count_24h": 6,
+      "count": 31,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 13,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -28,7 +28,7 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
@@ -50,8 +50,8 @@
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     },
     {
       "tag": "topic-wine",
@@ -107,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 9,
+    "positive": 14,
+    "negative": 10,
     "neutral": 56,
-    "score": 8,
+    "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 34
+      "count": 31
     },
     {
       "word": "gọi vốn",
@@ -153,7 +153,7 @@
         "title": "Your Coffee Is The Prettiest Coffee Of All The Coffee",
         "url": "https://sprudge.com/your-coffee-is-the-prettiest-coffee-of-all-the-coffee-1605714.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "7 giờ trước"
       },
       {
         "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
@@ -165,21 +165,15 @@
         "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
         "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
         "source": "Nation's Restaurant News",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 38,
     "top_articles": [
-      {
-        "title": "Bain- and GIC-backed WHI on track for Japan's largest IPO in 2026",
-        "url": "https://asia.nikkei.com/business/markets/ipo/bain-and-gic-backed-whi-on-track-for-japan-s-largest-ipo-in-2026",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Philippines moves to secure emergency access to oil in Indonesia, Thailand",
         "url": "https://asia.nikkei.com/business/energy/philippines-moves-to-secure-emergency-access-to-oil-in-indonesia-thailand",
@@ -203,9 +197,15 @@
         "url": "https://cafebiz.vn/chang-trai-26-tuoi-dung-sau-con-sot-chua-online-dang-that-nghiep-khong-he-co-kinh-nghiem-lap-trinh-chi-mat-30-phut-de-ra-ban-thu-dau-tien-nho-ai-176261102194331826.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+        "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+        "source": "The Verge AI",
+        "time": "10 phút trước"
       }
     ],
-    "insight": "🤖 39 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 38 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -231,8 +231,8 @@
   },
   "regional_breakdown": {
     "region-sea": 21,
-    "region-vietnam": 12,
-    "region-global": 28,
-    "region-americas": 19
+    "region-vietnam": 13,
+    "region-global": 29,
+    "region-americas": 17
   }
 }
