@@ -1,42 +1,49 @@
 {
-  "updated": "2026-11-16T05:22:00.531129+00:00",
+  "updated": "2026-11-16T18:03:53.542586+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 40,
+  "articles_24h": 62,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 34,
-      "count_24h": 11,
+      "count": 39,
+      "count_24h": 30,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 14,
-      "count_24h": 9,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 3,
+      "count": 21,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 4,
+      "count": 11,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 6,
-      "count_24h": 3,
+      "count": 7,
+      "count_24h": 6,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -47,16 +54,16 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
       "tag": "topic-brunch",
       "label": "#Brunch",
       "count": 2,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
@@ -76,62 +83,40 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
-      "count": 3,
-      "trend": "hot"
-    },
-    {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-kingcoffee",
+      "name": "brand-kingcoffee",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 11,
-    "neutral": 54,
+    "positive": 12,
+    "negative": 8,
+    "neutral": 60,
     "score": 5,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 34
+      "count": 39
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "chatgpt",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "up",
+    "total_articles": 10,
+    "price_direction": "stable",
     "price_up_signals": 1,
-    "price_down_signals": 0,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -146,42 +131,30 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Your Coffee Is The Prettiest Coffee Of All The Coffee",
-        "url": "https://sprudge.com/your-coffee-is-the-prettiest-coffee-of-all-the-coffee-1605714.html",
+        "title": "Cherry Love Makes Its US Debut With Archetype, A Limited-Edition Honduras Blind Cupping Box",
+        "url": "https://sprudge.com/cherry-love-makes-its-us-debut-with-archetype-a-limited-edition-honduras-blind-cupping-box-1602430.html",
         "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "time": "2 giờ trước"
       },
       {
-        "title": "Some Coffee Gear Ideas To Pique Your Holiday Shopping Interest",
-        "url": "https://sprudge.com/some-coffee-gear-ideas-to-pique-your-holiday-shopping-interest-1605703.html",
-        "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "title": "Forced Labor Import Bans Are Reaching the Coffee Sector. Are Companies Ready?",
+        "url": "https://dailycoffeenews.com/2026/11/16/forced-labor-import-bans-are-reaching-the-coffee-sector-are-companies-ready/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
       },
       {
-        "title": "First Watch chef on how chain is elevating breakfast and brunch for millions of Americans",
-        "url": "https://www.nrn.com/menumasters-spotlight/first-watch-chef-on-how-chain-is-elevating-breakfast-and-brunch-for-millions-of-americans",
-        "source": "Nation's Restaurant News",
-        "time": "2 ngày trước"
+        "title": "Crema Coffee Roasters Rises Again in Nashville with New Roastery",
+        "url": "https://dailycoffeenews.com/2026/11/16/crema-coffee-roasters-rises-again-in-nashville-with-new-roastery/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (1 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 45,
     "top_articles": [
-      {
-        "title": "China's century-old 'porcelain capital' eyes global luxury",
-        "url": "https://asia.nikkei.com/life-arts/arts/china-s-century-old-porcelain-capital-eyes-global-luxury",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "What an Anthropic index says about Japan's AI challenges",
-        "url": "https://asia.nikkei.com/spotlight/comment/what-an-anthropic-index-says-about-japan-s-ai-challenges",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Singapore's One Championship aims to revive combat sports in Japan",
         "url": "https://asia.nikkei.com/spotlight/sports/singapore-s-one-championship-aims-to-revive-combat-sports-in-japan2",
@@ -195,13 +168,25 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Japan's Taisei to launch $150mn fund with Silicon Valley venture capital firm",
+        "url": "https://asia.nikkei.com/business/startups/japan-s-taisei-to-launch-150mn-fund-with-silicon-valley-venture-capital-firm",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba",
+        "url": "https://asia.nikkei.com/business/business-deals/us-voice-ai-developer-elevenlabs-to-buy-japanese-focused-peer-kotoba",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
         "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
         "source": "CafeBiz Startup",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 41 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -215,20 +200,20 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-vietnam": 13,
-    "region-global": 29,
-    "region-americas": 17
+    "region-sea": 20,
+    "region-vietnam": 16,
+    "region-global": 33,
+    "region-americas": 11
   }
 }
