@@ -1,35 +1,35 @@
 {
-  "updated": "2026-11-17T02:50:41.504648+00:00",
+  "updated": "2026-11-17T12:53:11.429303+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 71,
+  "articles_24h": 70,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
+      "count": 44,
       "count_24h": 39,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 18,
+      "count": 16,
+      "count_24h": 13,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 9,
-      "count_24h": 8,
+      "count": 10,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 8,
+      "count": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
@@ -49,8 +49,8 @@
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 2,
+      "count": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
@@ -82,16 +82,16 @@
     }
   ],
   "sentiment": {
-    "positive": 18,
-    "negative": 6,
-    "neutral": 56,
-    "score": 15,
+    "positive": 16,
+    "negative": 7,
+    "neutral": 57,
+    "score": 11,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 44
     },
     {
       "word": "gọi vốn",
@@ -99,7 +99,7 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 10,
+    "total_articles": 11,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -117,48 +117,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "What does regenerative agriculture actually mean for coffee quality?",
+        "url": "https://perfectdailygrind.com/2026/11/regenerative-agriculture-coffee-quality/",
+        "source": "Perfect Daily Grind",
+        "time": "3 giờ trước"
+      },
+      {
         "title": "BioPouches Expands Flexible Coffee Packaging Solutions As Brands Shift Toward Smaller Production Runs",
         "url": "https://sprudge.com/biopouches-expands-flexible-coffee-packaging-solutions-as-brands-shift-toward-smaller-production-runs-1625594.html",
         "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "time": "16 giờ trước"
       },
       {
         "title": "Send Us Your Holiday Coffees For A Festive Podcast Cupping!",
         "url": "https://sprudge.com/send-us-your-holiday-coffees-for-a-festive-podcast-cupping-1605731.html",
         "source": "Sprudge Coffee",
-        "time": "7 giờ trước"
-      },
-      {
-        "title": "Cherry Love Makes Its US Debut With Archetype, A Limited-Edition Honduras Blind Cupping Box",
-        "url": "https://sprudge.com/cherry-love-makes-its-us-debut-with-archetype-a-limited-edition-honduras-blind-cupping-box-1602430.html",
-        "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "time": "18 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 48,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba",
-        "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "A fragile AI boom raises the stakes for APEC",
-        "url": "https://asia.nikkei.com/opinion/a-fragile-ai-boom-raises-the-stakes-for-apec",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "AI-assisted song tops K-pop idols to reach No. 1 on South Korean chart",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-assisted-song-tops-k-pop-idols-to-reach-no.-1-on-south-korean-chart",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Google to give Japan early access to frontier AI for cybersecurity",
         "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity",
@@ -170,9 +152,27 @@
         "url": "https://asia.nikkei.com/business/markets/bonds/softbank-rakuten-push-japan-retail-bond-issuance-to-record-high",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Taiwan elections enter home stretch as parties fight for heartlands",
+        "url": "https://asia.nikkei.com/politics/taiwan-elections-enter-home-stretch-as-parties-fight-for-heartlands",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI forces Vietnam's FPT Software to shift from hourly billing model",
+        "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/ai-forces-vietnam-s-fpt-software-to-shift-from-hourly-billing-model2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
+        "url": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -198,8 +198,8 @@
   },
   "regional_breakdown": {
     "region-sea": 17,
-    "region-americas": 14,
-    "region-vietnam": 16,
+    "region-vietnam": 17,
+    "region-americas": 13,
     "region-global": 33
   }
 }
