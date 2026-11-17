@@ -1,35 +1,42 @@
 {
-  "updated": "2026-11-17T12:53:11.429303+00:00",
+  "updated": "2026-11-17T23:25:15.133559+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 70,
+  "articles_24h": 73,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 44,
-      "count_24h": 39,
+      "count": 45,
+      "count_24h": 40,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
       "count": 16,
-      "count_24h": 13,
+      "count_24h": 16,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 10,
-      "count_24h": 9,
+      "count": 8,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 8,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 8,
-      "count_24h": 7,
+      "count": 7,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
@@ -40,22 +47,15 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 2,
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -65,7 +65,13 @@
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 7,
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
@@ -75,31 +81,47 @@
       "trend": "up"
     },
     {
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
+      "count": 1,
+      "trend": "up"
+    },
+    {
       "tag": "brand-kingcoffee",
       "name": "brand-kingcoffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 16,
-    "negative": 7,
-    "neutral": 57,
-    "score": 11,
+    "positive": 9,
+    "negative": 6,
+    "neutral": 65,
+    "score": 4,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 44
+      "count": 45
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "funding",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
+    "total_articles": 8,
     "price_direction": "stable",
     "price_up_signals": 1,
     "price_down_signals": 1,
@@ -117,62 +139,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "What does regenerative agriculture actually mean for coffee quality?",
-        "url": "https://perfectdailygrind.com/2026/11/regenerative-agriculture-coffee-quality/",
-        "source": "Perfect Daily Grind",
-        "time": "3 giờ trước"
+        "title": "Turning Coffee Grounds Into Biodiesel And Other Eco-Alternatives",
+        "url": "https://sprudge.com/turning-coffee-grounds-into-biodiesel-and-other-eco-alternatives-1625139.html",
+        "source": "Sprudge Coffee",
+        "time": "4 giờ trước"
       },
       {
-        "title": "BioPouches Expands Flexible Coffee Packaging Solutions As Brands Shift Toward Smaller Production Runs",
-        "url": "https://sprudge.com/biopouches-expands-flexible-coffee-packaging-solutions-as-brands-shift-toward-smaller-production-runs-1625594.html",
-        "source": "Sprudge Coffee",
-        "time": "16 giờ trước"
+        "title": "Study Says Genes May Determine Coffee’s Link to Parkinson’s Risk",
+        "url": "https://dailycoffeenews.com/2026/11/17/study-says-genes-may-determine-coffees-link-to-parkinsons-risk/",
+        "source": "Daily Coffee News",
+        "time": "4 giờ trước"
       },
       {
-        "title": "Send Us Your Holiday Coffees For A Festive Podcast Cupping!",
-        "url": "https://sprudge.com/send-us-your-holiday-coffees-for-a-festive-podcast-cupping-1605731.html",
+        "title": "The Sprudge Guide To Coffee In Riga, Latvia",
+        "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-riga-latvia-1465293.html",
         "source": "Sprudge Coffee",
-        "time": "18 giờ trước"
+        "time": "8 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 51,
     "top_articles": [
       {
-        "title": "Google to give Japan early access to frontier AI for cybersecurity",
-        "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity",
+        "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "SoftBank, Rakuten push Japan retail bond issuance to record high",
-        "url": "https://asia.nikkei.com/business/markets/bonds/softbank-rakuten-push-japan-retail-bond-issuance-to-record-high",
+        "title": "Japan and South Korea sustain thaw ahead of key APEC gathering",
+        "url": "https://asia.nikkei.com/politics/international-relations/japan-and-south-korea-sustain-thaw-ahead-of-key-apec-gathering",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Taiwan elections enter home stretch as parties fight for heartlands",
-        "url": "https://asia.nikkei.com/politics/taiwan-elections-enter-home-stretch-as-parties-fight-for-heartlands",
+        "title": "Russia appears open to Putin-Takaichi talks after Japan airspace incident",
+        "url": "https://asia.nikkei.com/politics/international-relations/russia-appears-open-to-putin-takaichi-talks-after-japan-airspace-incident",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "AI forces Vietnam's FPT Software to shift from hourly billing model",
-        "url": "https://asia.nikkei.com/spotlight/global-management-dialogue/global-management-dialogue-2026/ai-forces-vietnam-s-fpt-software-to-shift-from-hourly-billing-model2",
+        "title": "KKR wins preferred bidder status for Japan curry chain Ichibanya",
+        "url": "https://asia.nikkei.com/business/business-deals/kkr-wins-preferred-bidder-status-for-japan-curry-chain-ichibanya",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
-        "url": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates",
+        "title": "Japan bond market revival fuels record profits for Nomura, Daiwa",
+        "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-market-revival-fuels-record-profits-for-nomura-daiwa",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -197,9 +219,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 17,
-    "region-vietnam": 17,
-    "region-americas": 13,
-    "region-global": 33
+    "region-sea": 21,
+    "region-europe": 1,
+    "region-vietnam": 12,
+    "region-global": 31,
+    "region-americas": 15
   }
 }
