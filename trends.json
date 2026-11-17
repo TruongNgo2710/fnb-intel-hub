@@ -1,63 +1,56 @@
 {
-  "updated": "2026-11-16T18:03:53.542586+00:00",
+  "updated": "2026-11-17T02:50:41.504648+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 71,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 30,
+      "count": 42,
+      "count_24h": 39,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 21,
-      "count_24h": 16,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 8,
+      "count": 20,
+      "count_24h": 18,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 6,
+      "count_24h": 8,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 9,
+      "count_24h": 8,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 7,
-      "count_24h": 6,
+      "count": 4,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 5,
-      "count_24h": 5,
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-brunch",
-      "label": "#Brunch",
-      "count": 2,
-      "count_24h": 1,
+      "count": 3,
+      "count_24h": 2,
       "trend": "up"
     },
     {
@@ -66,20 +59,13 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 7,
       "trend": "hot"
     },
     {
@@ -96,16 +82,16 @@
     }
   ],
   "sentiment": {
-    "positive": 12,
-    "negative": 8,
-    "neutral": 60,
-    "score": 5,
+    "positive": 18,
+    "negative": 6,
+    "neutral": 56,
+    "score": 15,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 42
     },
     {
       "word": "gọi vốn",
@@ -131,62 +117,62 @@
         "time": "0 phút trước"
       },
       {
+        "title": "BioPouches Expands Flexible Coffee Packaging Solutions As Brands Shift Toward Smaller Production Runs",
+        "url": "https://sprudge.com/biopouches-expands-flexible-coffee-packaging-solutions-as-brands-shift-toward-smaller-production-runs-1625594.html",
+        "source": "Sprudge Coffee",
+        "time": "6 giờ trước"
+      },
+      {
+        "title": "Send Us Your Holiday Coffees For A Festive Podcast Cupping!",
+        "url": "https://sprudge.com/send-us-your-holiday-coffees-for-a-festive-podcast-cupping-1605731.html",
+        "source": "Sprudge Coffee",
+        "time": "7 giờ trước"
+      },
+      {
         "title": "Cherry Love Makes Its US Debut With Archetype, A Limited-Edition Honduras Blind Cupping Box",
         "url": "https://sprudge.com/cherry-love-makes-its-us-debut-with-archetype-a-limited-edition-honduras-blind-cupping-box-1602430.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Forced Labor Import Bans Are Reaching the Coffee Sector. Are Companies Ready?",
-        "url": "https://dailycoffeenews.com/2026/11/16/forced-labor-import-bans-are-reaching-the-coffee-sector-are-companies-ready/",
-        "source": "Daily Coffee News",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Crema Coffee Roasters Rises Again in Nashville with New Roastery",
-        "url": "https://dailycoffeenews.com/2026/11/16/crema-coffee-roasters-rises-again-in-nashville-with-new-roastery/",
-        "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 45,
+    "total_articles": 48,
     "top_articles": [
       {
-        "title": "Singapore's One Championship aims to revive combat sports in Japan",
-        "url": "https://asia.nikkei.com/spotlight/sports/singapore-s-one-championship-aims-to-revive-combat-sports-in-japan2",
+        "title": "US AI voice startup ElevenLabs to buy Japanese-focused peer Kotoba",
+        "url": "https://asia.nikkei.com/business/business-deals/us-ai-voice-startup-elevenlabs-to-buy-japanese-focused-peer-kotoba",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Thailand's GDP growth picks up to 2.9% in Q3 on strong exports",
-        "url": "https://asia.nikkei.com/economy/thailand-s-gdp-growth-picks-up-to-2.9-in-q3-on-strong-exports",
+        "title": "A fragile AI boom raises the stakes for APEC",
+        "url": "https://asia.nikkei.com/opinion/a-fragile-ai-boom-raises-the-stakes-for-apec",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's Taisei to launch $150mn fund with Silicon Valley venture capital firm",
-        "url": "https://asia.nikkei.com/business/startups/japan-s-taisei-to-launch-150mn-fund-with-silicon-valley-venture-capital-firm",
+        "title": "AI-assisted song tops K-pop idols to reach No. 1 on South Korean chart",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-assisted-song-tops-k-pop-idols-to-reach-no.-1-on-south-korean-chart",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "US voice AI developer ElevenLabs to buy Japanese-focused peer Kotoba",
-        "url": "https://asia.nikkei.com/business/business-deals/us-voice-ai-developer-elevenlabs-to-buy-japanese-focused-peer-kotoba",
+        "title": "Google to give Japan early access to frontier AI for cybersecurity",
+        "url": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
-        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
-        "source": "CafeBiz Startup",
+        "title": "SoftBank, Rakuten push Japan retail bond issuance to record high",
+        "url": "https://asia.nikkei.com/business/markets/bonds/softbank-rakuten-push-japan-retail-bond-issuance-to-record-high",
+        "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 48 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -211,9 +197,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
+    "region-sea": 17,
+    "region-americas": 14,
     "region-vietnam": 16,
-    "region-global": 33,
-    "region-americas": 11
+    "region-global": 33
   }
 }
