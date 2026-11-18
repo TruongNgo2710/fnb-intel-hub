@@ -1,21 +1,21 @@
 {
-  "updated": "2026-11-17T23:25:15.133559+00:00",
+  "updated": "2026-11-18T06:25:01.522051+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 73,
+  "articles_24h": 76,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 45,
-      "count_24h": 40,
+      "count": 41,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 16,
-      "count_24h": 16,
+      "count": 20,
+      "count_24h": 20,
       "trend": "hot"
     },
     {
@@ -36,15 +36,22 @@
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
       "count": 7,
-      "count_24h": 6,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
-      "count_24h": 4,
+      "count": 3,
+      "count_24h": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
@@ -63,14 +70,14 @@
   ],
   "trending_brands": [
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "tag": "brand-claude",
+      "name": "Claude/Anthropic",
+      "count": 3,
       "trend": "hot"
     },
     {
-      "tag": "brand-claude",
-      "name": "Claude/Anthropic",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
       "count": 3,
       "trend": "hot"
     },
@@ -100,16 +107,16 @@
     }
   ],
   "sentiment": {
-    "positive": 9,
-    "negative": 6,
+    "positive": 10,
+    "negative": 5,
     "neutral": 65,
-    "score": 4,
+    "score": 6,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 45
+      "count": 41
     },
     {
       "word": "gọi vốn",
@@ -142,59 +149,59 @@
         "title": "Turning Coffee Grounds Into Biodiesel And Other Eco-Alternatives",
         "url": "https://sprudge.com/turning-coffee-grounds-into-biodiesel-and-other-eco-alternatives-1625139.html",
         "source": "Sprudge Coffee",
-        "time": "4 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "Study Says Genes May Determine Coffee’s Link to Parkinson’s Risk",
         "url": "https://dailycoffeenews.com/2026/11/17/study-says-genes-may-determine-coffees-link-to-parkinsons-risk/",
         "source": "Daily Coffee News",
-        "time": "4 giờ trước"
+        "time": "11 giờ trước"
       },
       {
         "title": "The Sprudge Guide To Coffee In Riga, Latvia",
         "url": "https://sprudge.com/the-sprudge-guide-to-coffee-in-riga-latvia-1465293.html",
         "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "time": "15 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 51,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+        "title": "Japan logs trade deficit for 6th straight month in October",
+        "url": "https://asia.nikkei.com/economy/trade/japan-logs-trade-deficit-for-6th-straight-month-in-october",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan and South Korea sustain thaw ahead of key APEC gathering",
-        "url": "https://asia.nikkei.com/politics/international-relations/japan-and-south-korea-sustain-thaw-ahead-of-key-apec-gathering",
+        "title": "South Korean high-stakes university exam haunted by specter of AI cheating",
+        "url": "https://asia.nikkei.com/business/education/south-korean-high-stakes-university-exam-haunted-by-specter-of-ai-cheating",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Russia appears open to Putin-Takaichi talks after Japan airspace incident",
-        "url": "https://asia.nikkei.com/politics/international-relations/russia-appears-open-to-putin-takaichi-talks-after-japan-airspace-incident",
+        "title": "Daiwa to bolster China investment banking as it buys out local partners",
+        "url": "https://asia.nikkei.com/business/finance/daiwa-to-bolster-china-investment-banking-as-it-buys-out-local-partners",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "KKR wins preferred bidder status for Japan curry chain Ichibanya",
-        "url": "https://asia.nikkei.com/business/business-deals/kkr-wins-preferred-bidder-status-for-japan-curry-chain-ichibanya",
+        "title": "Trump cites military aid, nuclear power in Manila meeting with Marcos",
+        "url": "https://asia.nikkei.com/politics/international-relations/trump-cites-military-aid-nuclear-power-in-manila-meeting-with-marcos",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan bond market revival fuels record profits for Nomura, Daiwa",
-        "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-market-revival-fuels-record-profits-for-nomura-daiwa",
+        "title": "Global media executives say trust central to journalism in AI age",
+        "url": "https://asia.nikkei.com/business/media-entertainment/global-media-executives-say-trust-central-to-journalism-in-ai-age2",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 51 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -219,10 +226,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 21,
-    "region-europe": 1,
-    "region-vietnam": 12,
+    "region-sea": 20,
+    "region-europe": 2,
+    "region-vietnam": 13,
     "region-global": 31,
-    "region-americas": 15
+    "region-americas": 14
   }
 }
