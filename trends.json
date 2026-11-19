@@ -1,95 +1,81 @@
 {
-  "updated": "2026-11-18T17:01:56.155454+00:00",
+  "updated": "2026-11-19T01:47:47.159473+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 77,
+  "articles_24h": 72,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 39,
+      "count": 41,
+      "count_24h": 36,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 18,
-      "count_24h": 18,
+      "count": 15,
+      "count_24h": 14,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 8,
-      "count_24h": 8,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
-      "count_24h": 6,
+      "count": 7,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 5,
-      "count_24h": 5,
-      "trend": "hot"
+      "count": 3,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 4,
-      "count_24h": 4,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
+      "count": 2,
       "count_24h": 1,
       "trend": "up"
     },
     {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
       "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 5,
       "trend": "hot"
     },
     {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
-    },
-    {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 2,
-      "trend": "up"
     },
     {
       "tag": "brand-highlands",
       "name": "Highlands Coffee",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     },
@@ -100,29 +86,33 @@
       "trend": "up"
     },
     {
-      "tag": "brand-mcdonalds",
-      "name": "McDonald's",
+      "tag": "brand-kfc",
+      "name": "KFC/Yum!",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-kingcoffee",
-      "name": "brand-kingcoffee",
+      "tag": "brand-mcdonalds",
+      "name": "McDonald's",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 6,
-    "neutral": 59,
-    "score": 11,
+    "positive": 16,
+    "negative": 3,
+    "neutral": 61,
+    "score": 16,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 41
+    },
+    {
+      "word": "claude",
+      "count": 3
     },
     {
       "word": "gọi vốn",
@@ -148,62 +138,62 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar",
+        "url": "https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html",
+        "source": "Sprudge Coffee",
+        "time": "6 giờ trước"
+      },
+      {
         "title": "Rotterdam’s A Matter of Concrete Just Released Their Own Hi-Fi Speaker",
         "url": "https://sprudge.com/rotterdams-a-matter-of-concrete-just-released-their-own-hi-fi-speaker-1626371.html",
         "source": "Sprudge Coffee",
-        "time": "59 phút trước"
+        "time": "9 giờ trước"
       },
       {
         "title": "FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending",
         "url": "https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/",
         "source": "Daily Coffee News",
-        "time": "2 giờ trước"
-      },
-      {
-        "title": "Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels",
-        "url": "https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/",
-        "source": "Daily Coffee News",
-        "time": "2 giờ trước"
+        "time": "10 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 49,
+    "total_articles": 45,
     "top_articles": [
       {
-        "title": "South Korean high-stakes university exam haunted by specter of AI cheating",
-        "url": "https://asia.nikkei.com/business/education/south-korean-high-stakes-university-exam-haunted-by-specter-of-ai-cheating",
+        "title": "Indonesia raises key interest rate as rupiah hits record low",
+        "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Daiwa to bolster China investment banking as it buys out local partners",
-        "url": "https://asia.nikkei.com/business/finance/daiwa-to-bolster-china-investment-banking-as-it-buys-out-local-partners",
+        "title": "Uniqlo's Yanai looks beyond goal of becoming world's top apparel company",
+        "url": "https://asia.nikkei.com/business/retail/uniqlo-s-yanai-looks-beyond-goal-of-becoming-world-s-top-apparel-company",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Trump cites military aid, nuclear power in Manila meeting with Marcos",
-        "url": "https://asia.nikkei.com/politics/international-relations/trump-cites-military-aid-nuclear-power-in-manila-meeting-with-marcos",
-        "source": "Nikkei Asia",
+        "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
+        "url": "https://cafebiz.vn/on-ao-thuong-hieu-vi-sao-thuy-minh-binh-than-tu-bo-have-a-sip-con-chu-leninn-coffee-thi-khong-176260615074705921.chn",
+        "source": "CafeBiz Startup",
         "time": "0 phút trước"
       },
       {
-        "title": "Global media executives say trust central to journalism in AI age",
-        "url": "https://asia.nikkei.com/business/media-entertainment/global-media-executives-say-trust-central-to-journalism-in-ai-age2",
-        "source": "Nikkei Asia",
+        "title": "Chàng trai 26 tuổi đứng sau cơn sốt 'chùa online': Đang thất nghiệp, không hề có kinh nghiệm lập trình, chỉ mất 30 phút để ra bản thử đầu tiên nhờ AI",
+        "url": "https://cafebiz.vn/chang-trai-26-tuoi-dung-sau-con-sot-chua-online-dang-that-nghiep-khong-he-co-kinh-nghiem-lap-trinh-chi-mat-30-phut-de-ra-ban-thu-dau-tien-nho-ai-176261102194331826.chn",
+        "source": "CafeBiz Startup",
         "time": "0 phút trước"
       },
       {
-        "title": "Takaichi's diplomatic chops to be tested at China's APEC",
-        "url": "https://asia.nikkei.com/politics/international-relations/apec/takaichi-s-diplomatic-chops-to-be-tested-at-china-s-apec",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "source": "TechCrunch AI",
+        "time": "1 giờ trước"
       }
     ],
-    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 45 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -217,9 +207,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -228,10 +218,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
-    "region-europe": 1,
-    "region-vietnam": 11,
-    "region-global": 33,
-    "region-americas": 15
+    "region-sea": 19,
+    "region-americas": 16,
+    "region-vietnam": 14,
+    "region-global": 31
   }
 }
