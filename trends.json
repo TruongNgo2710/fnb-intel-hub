@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-19T22:58:22.704317+00:00",
+  "updated": "2026-11-20T06:12:23.458541+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 76,
+  "articles_24h": 71,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 49,
-      "count_24h": 47,
+      "count": 45,
+      "count_24h": 37,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 20,
-      "count_24h": 19,
+      "count": 19,
+      "count_24h": 17,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 16,
+      "count": 15,
       "count_24h": 14,
       "trend": "hot"
     },
@@ -72,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 11,
+      "count": 13,
       "trend": "hot"
     },
     {
@@ -80,6 +80,12 @@
       "name": "brand-ucc",
       "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -100,12 +106,6 @@
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-bluebottle",
       "name": "brand-bluebottle",
       "count": 1,
@@ -114,15 +114,19 @@
   ],
   "sentiment": {
     "positive": 20,
-    "negative": 6,
-    "neutral": 54,
-    "score": 18,
+    "negative": 5,
+    "neutral": 55,
+    "score": 19,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 48
+      "count": 44
+    },
+    {
+      "word": "claude",
+      "count": 3
     },
     {
       "word": "ucc",
@@ -130,10 +134,6 @@
     },
     {
       "word": "gọi vốn",
-      "count": 2
-    },
-    {
-      "word": "claude",
       "count": 2
     }
   ],
@@ -159,59 +159,59 @@
         "title": "Starbucks apparently sold a lot of holiday drinks on Tuesday",
         "url": "https://www.nrn.com/quick-service/starbucks-apparently-sold-a-lot-of-holiday-drinks-on-tuesday",
         "source": "Nation's Restaurant News",
-        "time": "2 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Bad Bunny, Great Coffee: Brewing On Tour With The International Superstar",
         "url": "https://sprudge.com/bad-bunny-great-coffee-brewing-on-tour-with-the-international-superstar-1250962.html",
         "source": "Sprudge Coffee",
-        "time": "3 giờ trước"
+        "time": "10 giờ trước"
       },
       {
         "title": "Brazil’s Record Coffee Harvest Comes with Quality and Stock Concerns",
         "url": "https://dailycoffeenews.com/2026/11/19/brazils-record-coffee-harvest-comes-with-quality-and-stock-concerns/",
         "source": "Daily Coffee News",
-        "time": "7 giờ trước"
+        "time": "14 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "📊 Giá cà phê đang ổn định (tăng 3 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 53,
+    "total_articles": 49,
     "top_articles": [
       {
-        "title": "Xi tells Trump to 'do right thing' on Taiwan as trade truce remains in flux",
-        "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-tells-trump-to-do-right-thing-on-taiwan-as-trade-truce-remains-in-flux",
+        "title": "AI volatility 'expected' as winners, losers emerge: JPMorgan co-president",
+        "url": "https://asia.nikkei.com/editor-s-picks/interview/ai-volatility-expected-as-winners-losers-emerge-jpmorgan-co-president",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's Takaichi criticizes 'arbitrary' export curbs in brief China visit",
-        "url": "https://asia.nikkei.com/politics/international-relations/apec/japan-s-takaichi-criticizes-arbitrary-export-curbs-in-brief-china-visit",
+        "title": "U.S. Steel agrees with union to raise wages 19.25% over 4 years",
+        "url": "https://asia.nikkei.com/business/companies/u.s.-steel-agrees-with-union-to-raise-wages-19.25-over-4-years",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Xi, Trump, Putin promise to raise energy supplies and lower nuclear risk",
-        "url": "https://asia.nikkei.com/politics/international-relations/apec/xi-trump-putin-promise-to-raise-energy-supplies-and-lower-nuclear-risk",
+        "title": "Anthropic IPO draws rush of Japan retail investors",
+        "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-ipo-draws-rush-of-japan-retail-investors",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Alibaba trains next-gen AI model on own chips amid tighter US curbs",
-        "url": "https://asia.nikkei.com/business/technology/alibaba-trains-next-gen-ai-model-on-own-chips-amid-tighter-us-curbs",
+        "title": "Japan Tobacco shares fall 10% as Russia seizure jolts 900,000 retail holders",
+        "url": "https://asia.nikkei.com/business/markets/equities/japan-tobacco-shares-fall-10-as-russia-seizure-jolts-900-000-retail-holders",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Myanmar committed genocide against Rohingya, ICJ rules in landmark verdict",
-        "url": "https://asia.nikkei.com/politics/international-relations/myanmar-committed-genocide-against-rohingya-icj-rules-in-landmark-verdict",
+        "title": "Chip supply chain warns of broader disruption from new US export controls",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 53 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 49 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -236,8 +236,8 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 15,
+    "region-sea": 19,
+    "region-americas": 14,
     "region-vietnam": 16,
     "region-global": 30,
     "region-europe": 1
