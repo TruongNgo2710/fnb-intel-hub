@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-22T16:02:04.375803+00:00",
+  "updated": "2026-11-22T21:43:34.374969+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 38,
+  "articles_24h": 36,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 38,
+      "count": 41,
       "count_24h": 11,
       "trend": "hot"
     },
@@ -21,14 +21,14 @@
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 9,
-      "count_24h": 5,
+      "count": 8,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 8,
+      "count": 7,
       "count_24h": 3,
       "trend": "hot"
     },
@@ -42,16 +42,23 @@
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
+      "count": 2,
       "count_24h": 0,
       "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 3,
-      "count_24h": 1,
-      "trend": "up"
+      "count": 2,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
@@ -62,41 +69,29 @@
       "trend": "hot"
     },
     {
-      "tag": "brand-highlands",
-      "name": "Highlands Coffee",
-      "count": 1,
-      "trend": "up"
-    },
-    {
       "tag": "brand-openai",
       "name": "ChatGPT/OpenAI",
-      "count": 1,
+      "count": 2,
       "trend": "up"
     },
     {
-      "tag": "brand-kfc",
-      "name": "KFC/Yum!",
-      "count": 1,
-      "trend": "up"
-    },
-    {
-      "tag": "brand-starbucks",
-      "name": "Starbucks",
+      "tag": "brand-highlands",
+      "name": "Highlands Coffee",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 19,
-    "negative": 8,
-    "neutral": 53,
+    "positive": 17,
+    "negative": 6,
+    "neutral": 57,
     "score": 14,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 38
+      "count": 41
     },
     {
       "word": "claude",
@@ -108,10 +103,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 8,
-    "price_direction": "up",
-    "price_up_signals": 2,
-    "price_down_signals": 0,
+    "total_articles": 7,
+    "price_direction": "stable",
+    "price_up_signals": 1,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -129,26 +124,26 @@
         "title": "A Cornucopia Of Coffee To Be Thankful For",
         "url": "https://sprudge.com/a-cornucopia-of-coffee-to-be-thankful-for-1654212.html",
         "source": "Sprudge Coffee",
-        "time": "2 giờ trước"
+        "time": "8 giờ trước"
       },
       {
         "title": "SourceOS Brings the Fractional Model To Green Coffee Sourcing",
         "url": "https://sprudge.com/sourceos-brings-the-fractional-model-to-green-coffee-sourcing-1654778.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       },
       {
         "title": "Tea Huntress’ Bestseller Gets Its Own Brand: Sarah Scarborough Launches Stardust Teas",
         "url": "https://sprudge.com/tea-huntress-bestseller-gets-its-own-brand-sarah-scarborough-launches-stardust-teas-1654474.html",
         "source": "Sprudge Coffee",
-        "time": "1 ngày trước"
+        "time": "2 ngày trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (2 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 1 · giảm 1 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 42,
+    "total_articles": 46,
     "top_articles": [
       {
         "title": "Japan stamp maker stomps into AI realm by authenticating videos on X",
@@ -181,7 +176,7 @@
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 42 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -206,10 +201,10 @@
     }
   },
   "regional_breakdown": {
-    "region-americas": 17,
+    "region-americas": 15,
     "region-sea": 18,
     "region-vietnam": 16,
-    "region-global": 28,
+    "region-global": 30,
     "region-europe": 1
   }
 }
