@@ -1,61 +1,68 @@
 {
-  "updated": "2026-11-24T04:39:34.145343+00:00",
+  "updated": "2026-11-24T19:24:05.333081+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 71,
+  "articles_24h": 68,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 33,
-      "count_24h": 30,
+      "count": 35,
+      "count_24h": 31,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 11,
-      "count_24h": 10,
+      "count": 12,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 11,
-      "count_24h": 10,
+      "count": 12,
+      "count_24h": 12,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 7,
-      "count_24h": 6,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
-      "count": 4,
-      "count_24h": 4,
+      "count": 5,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
       "count": 3,
-      "count_24h": 3,
-      "trend": "hot"
+      "count_24h": 2,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
+      "trend": "up"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 0,
+      "trend": "stable"
+    },
+    {
+      "tag": "topic-wine",
+      "label": "#Wine&Beer",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -65,7 +72,7 @@
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 5,
+      "count": 4,
       "trend": "hot"
     },
     {
@@ -75,43 +82,43 @@
       "trend": "up"
     },
     {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
+      "tag": "brand-nespresso",
+      "name": "brand-nespresso",
       "count": 1,
       "trend": "up"
     },
     {
-      "tag": "brand-openai",
-      "name": "ChatGPT/OpenAI",
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 15,
-    "negative": 6,
-    "neutral": 59,
-    "score": 11,
+    "positive": 11,
+    "negative": 5,
+    "neutral": 64,
+    "score": 8,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 32
-    },
-    {
-      "word": "claude",
-      "count": 3
+      "count": 35
     },
     {
       "word": "gọi vốn",
       "count": 2
+    },
+    {
+      "word": "claude",
+      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 11,
-    "price_direction": "down",
-    "price_up_signals": 1,
+    "total_articles": 12,
+    "price_direction": "up",
+    "price_up_signals": 3,
     "price_down_signals": 2,
     "top_articles": [
       {
@@ -127,62 +134,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Accademia Del Caffè Espresso & Toddy Present “Hot VS Cold Conversations With Toddy”",
-        "url": "https://sprudge.com/accademia-del-caffe-espresso-toddy-present-hot-vs-cold-conversations-with-toddy-1674671.html",
-        "source": "Sprudge Coffee",
-        "time": "6 giờ trước"
+        "title": "Comparing Coffee Markets in the United States, UK, and EU",
+        "url": "https://www.baristamagazine.com/comparing-coffee-markets-in-the-united-states-uk-and-eu/?utm_source=rss&utm_medium=rss&utm_campaign=comparing-coffee-markets-in-the-united-states-uk-and-eu",
+        "source": "Barista Magazine",
+        "time": "4 giờ trước"
       },
       {
-        "title": "Lefty, A Left-Hand Spiral Of Stainless Steel That Reimagines Pour-Over Brewing, Makes Its Debut",
-        "url": "https://sprudge.com/lefty-a-left-hand-spiral-of-stainless-steel-that-reimagines-pour-over-brewing-makes-its-debut-1674126.html",
-        "source": "Sprudge Coffee",
-        "time": "8 giờ trước"
+        "title": "Very Hot Coffee and Tea Linked to Higher Esophageal Cancer Risk",
+        "url": "https://dailycoffeenews.com/2026/11/24/very-hot-coffee-and-tea-linked-to-higher-esophageal-cancer-risk/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
       },
       {
-        "title": "Holiday Gifts & Gesha Box Sets On The Coffee Sprudgecast",
-        "url": "https://sprudge.com/holiday-gifts-gesha-box-sets-on-the-coffee-sprudgecast-1654057.html",
-        "source": "Sprudge Coffee",
-        "time": "10 giờ trước"
+        "title": "Design Details: Ripples of Time at Yeonheun Roasters in Seoul",
+        "url": "https://dailycoffeenews.com/2026/11/24/design-details-ripples-of-time-at-yeonheun-roasters-in-seoul/",
+        "source": "Daily Coffee News",
+        "time": "5 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "✅ Tín hiệu giảm giá xuất hiện (2 tín hiệu). Có thể chờ thêm trước khi nhập hàng số lượng lớn."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 3 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 41,
+    "total_articles": 39,
     "top_articles": [
       {
-        "title": "Anthropic Claude use by Japanese companies up 10-fold in 1 year",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-claude-use-by-japanese-companies-up-10-fold-in-1-year",
+        "title": "Anthropic IPO raises the bar for Asia's AI labs",
+        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/anthropic-ipo-raises-the-bar-for-asia-s-ai-labs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's Sumitomo creates fund to bring AI to smaller businesses",
-        "url": "https://asia.nikkei.com/business/finance/japan-s-sumitomo-creates-fund-to-bring-ai-to-smaller-businesses",
+        "title": "Vietnam awards $400m high-speed rail study to French-led consortium",
+        "url": "https://asia.nikkei.com/business/transportation/vietnam-awards-400m-high-speed-rail-study-to-french-led-consortium",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan trading houses grow aircraft-part ties as airlines rely on aging jets",
-        "url": "https://asia.nikkei.com/business/transportation/japan-trading-houses-grow-aircraft-part-ties-as-airlines-rely-on-aging-jets",
+        "title": "Indonesia and Thailand drag down ASEAN's 2026 IPO proceeds",
+        "url": "https://asia.nikkei.com/business/markets/ipo/indonesia-and-thailand-drag-down-asean-s-2026-ipo-proceeds",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Japan's defense spending pitted against sales tax cut in budget tug-of-war",
-        "url": "https://asia.nikkei.com/politics/japan-s-defense-spending-pitted-against-sales-tax-cut-in-budget-tug-of-war",
+        "title": "China places Shanghai party chief Chen Jining under investigation",
+        "url": "https://asia.nikkei.com/politics/china-places-shanghai-party-chief-chen-jining-under-investigation",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Singapore GDP grows 6.1% in Q3 as AI demand stays strong",
-        "url": "https://asia.nikkei.com/economy/singapore-gdp-grows-6.1-in-q3-as-ai-demand-stays-strong",
+        "title": "Thailand vehicle production hits 6-year low after flooding",
+        "url": "https://asia.nikkei.com/business/automobiles/thailand-vehicle-production-hits-6-year-low-after-flooding",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 41 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 Anthropic ra mắt cập nhật mới. 39 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
   },
   "price_signals": {
     "robusta": {
@@ -196,9 +203,9 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "unknown",
-      "count": 0,
-      "signal": "Chưa đủ dữ liệu"
+      "direction": "stable",
+      "count": 1,
+      "signal": "➡️ Ổn định"
     },
     "dairy": {
       "direction": "stable",
@@ -207,10 +214,10 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 19,
-    "region-americas": 13,
-    "region-vietnam": 15,
+    "region-sea": 18,
+    "region-vietnam": 13,
+    "region-americas": 15,
     "region-global": 32,
-    "region-europe": 1
+    "region-europe": 2
   }
 }
