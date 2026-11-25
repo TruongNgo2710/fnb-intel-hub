@@ -1,48 +1,41 @@
 {
-  "updated": "2026-11-24T19:24:05.333081+00:00",
+  "updated": "2026-11-25T03:24:46.762504+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 68,
+  "articles_24h": 60,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 35,
-      "count_24h": 31,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-coffee",
-      "label": "#ChuỗiCàPhê",
-      "count": 12,
-      "count_24h": 9,
+      "count": 39,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 12,
+      "count": 13,
       "count_24h": 12,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-coffee",
+      "label": "#ChuỗiCàPhê",
+      "count": 10,
+      "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 5,
-      "count_24h": 5,
+      "count": 6,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 3,
-      "count_24h": 2,
-      "trend": "up"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 3,
+      "count": 2,
       "count_24h": 2,
       "trend": "up"
     },
@@ -50,8 +43,8 @@
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 2,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-delivery",
@@ -66,14 +59,34 @@
       "count": 1,
       "count_24h": 1,
       "trend": "up"
+    },
+    {
+      "tag": "topic-brunch",
+      "label": "#Brunch",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 1,
+      "count_24h": 1,
+      "trend": "up"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
-      "count": 4,
+      "count": 3,
       "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
+      "count": 2,
+      "trend": "up"
     },
     {
       "tag": "brand-highlands",
@@ -86,28 +99,26 @@
       "name": "brand-nespresso",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 11,
-    "negative": 5,
-    "neutral": 64,
-    "score": 8,
+    "positive": 13,
+    "negative": 6,
+    "neutral": 61,
+    "score": 9,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 35
+      "count": 39
     },
     {
       "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "ucc",
       "count": 2
     },
     {
@@ -116,10 +127,10 @@
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 10,
     "price_direction": "up",
     "price_up_signals": 3,
-    "price_down_signals": 2,
+    "price_down_signals": 1,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -137,39 +148,27 @@
         "title": "Comparing Coffee Markets in the United States, UK, and EU",
         "url": "https://www.baristamagazine.com/comparing-coffee-markets-in-the-united-states-uk-and-eu/?utm_source=rss&utm_medium=rss&utm_campaign=comparing-coffee-markets-in-the-united-states-uk-and-eu",
         "source": "Barista Magazine",
-        "time": "4 giờ trước"
+        "time": "12 giờ trước"
       },
       {
         "title": "Very Hot Coffee and Tea Linked to Higher Esophageal Cancer Risk",
         "url": "https://dailycoffeenews.com/2026/11/24/very-hot-coffee-and-tea-linked-to-higher-esophageal-cancer-risk/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "13 giờ trước"
       },
       {
         "title": "Design Details: Ripples of Time at Yeonheun Roasters in Seoul",
         "url": "https://dailycoffeenews.com/2026/11/24/design-details-ripples-of-time-at-yeonheun-roasters-in-seoul/",
         "source": "Daily Coffee News",
-        "time": "5 giờ trước"
+        "time": "13 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "📊 Giá cà phê đang ổn định (tăng 3 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
+    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 39,
+    "total_articles": 43,
     "top_articles": [
-      {
-        "title": "Anthropic IPO raises the bar for Asia's AI labs",
-        "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/anthropic-ipo-raises-the-bar-for-asia-s-ai-labs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Vietnam awards $400m high-speed rail study to French-led consortium",
-        "url": "https://asia.nikkei.com/business/transportation/vietnam-awards-400m-high-speed-rail-study-to-french-led-consortium",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Indonesia and Thailand drag down ASEAN's 2026 IPO proceeds",
         "url": "https://asia.nikkei.com/business/markets/ipo/indonesia-and-thailand-drag-down-asean-s-2026-ipo-proceeds",
@@ -187,9 +186,21 @@
         "url": "https://asia.nikkei.com/business/automobiles/thailand-vehicle-production-hits-6-year-low-after-flooding",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Push to censure Japan minister threatens to stymie Takaichi's agenda",
+        "url": "https://asia.nikkei.com/politics/push-to-censure-japan-minister-threatens-to-stymie-takaichi-s-agenda",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Jensen Huang's return to Nvidia tests America's AI strategy",
+        "url": "https://asia.nikkei.com/opinion/jensen-huang-s-return-to-nvidia-tests-america-s-ai-strategy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 Anthropic ra mắt cập nhật mới. 39 bài về AI trong tuần — xu hướng ứng dụng AI vào F&B đang tăng mạnh."
+    "insight": "🤖 43 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -214,9 +225,9 @@
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-vietnam": 13,
-    "region-americas": 15,
+    "region-sea": 17,
+    "region-americas": 17,
+    "region-vietnam": 12,
     "region-global": 32,
     "region-europe": 2
   }
