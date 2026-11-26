@@ -1,73 +1,67 @@
 {
-  "updated": "2026-11-25T13:58:35.931425+00:00",
+  "updated": "2026-11-26T00:01:42.103036+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 62,
+  "articles_24h": 57,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 39,
-      "count_24h": 30,
+      "count": 42,
+      "count_24h": 28,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 13,
-      "count_24h": 12,
+      "count": 10,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
-      "count": 12,
+      "count": 9,
       "count_24h": 7,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 6,
+      "count": 8,
       "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-qsr",
       "label": "#QSR",
-      "count": 2,
-      "count_24h": 2,
+      "count": 5,
+      "count_24h": 3,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-supply",
+      "label": "#ChuỗiCungỨng",
+      "count": 4,
+      "count_24h": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
+      "count": 1,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
-      "count": 2,
-      "count_24h": 0,
-      "trend": "stable"
-    },
-    {
-      "tag": "topic-supply",
-      "label": "#ChuỗiCungỨng",
-      "count": 2,
+      "count": 1,
       "count_24h": 1,
       "trend": "up"
-    },
-    {
-      "tag": "topic-wine",
-      "label": "#Wine&Beer",
-      "count": 1,
-      "count_24h": 0,
-      "trend": "stable"
     }
   ],
   "trending_brands": [
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 2,
-      "trend": "up"
-    },
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
@@ -81,35 +75,37 @@
       "trend": "up"
     },
     {
-      "tag": "brand-nespresso",
-      "name": "brand-nespresso",
+      "tag": "brand-openai",
+      "name": "ChatGPT/OpenAI",
+      "count": 1,
+      "trend": "up"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 1,
       "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 10,
-    "negative": 7,
-    "neutral": 63,
-    "score": 4,
+    "positive": 12,
+    "negative": 10,
+    "neutral": 58,
+    "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 39
+      "count": 42
     },
     {
       "word": "gọi vốn",
       "count": 2
-    },
-    {
-      "word": "ucc",
-      "count": 2
     }
   ],
   "coffee_trends": {
-    "total_articles": 12,
+    "total_articles": 9,
     "price_direction": "up",
     "price_up_signals": 3,
     "price_down_signals": 1,
@@ -127,62 +123,62 @@
         "time": "0 phút trước"
       },
       {
-        "title": "Black Friday Coffee Deals To Boggle The Mind",
-        "url": "https://sprudge.com/black-friday-coffee-deals-to-boggle-the-mind-1673287.html",
-        "source": "Sprudge Coffee",
-        "time": "57 phút trước"
+        "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
+        "url": "https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/",
+        "source": "Daily Coffee News",
+        "time": "8 giờ trước"
       },
       {
-        "title": "Global Coffee Awards names Europe’s best roasters for 2026",
-        "url": "https://perfectdailygrind.com/2026/11/global-coffee-awards-europe-2026-winners/",
-        "source": "Perfect Daily Grind",
-        "time": "4 giờ trước"
-      },
-      {
-        "title": "Comparing Coffee Markets in the United States, UK, and EU",
-        "url": "https://www.baristamagazine.com/comparing-coffee-markets-in-the-united-states-uk-and-eu/?utm_source=rss&utm_medium=rss&utm_campaign=comparing-coffee-markets-in-the-united-states-uk-and-eu",
+        "title": "From Green Squeeze to Green Ease: How Strategic Policy Could Benefit Smallholder Producers",
+        "url": "https://www.baristamagazine.com/from-green-squeeze-to-green-ease-how-new-policy-could-benefit-smallholder-producers/?utm_source=rss&utm_medium=rss&utm_campaign=from-green-squeeze-to-green-ease-how-new-policy-could-benefit-smallholder-producers",
         "source": "Barista Magazine",
-        "time": "22 giờ trước"
+        "time": "9 giờ trước"
+      },
+      {
+        "title": "Seattle’s Barometer Coffee Sets Sail with Pressure-Free Local Delivery",
+        "url": "https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/",
+        "source": "Daily Coffee News",
+        "time": "9 giờ trước"
       }
     ],
     "consumer_demand": "high",
     "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
   },
   "ai_trends": {
-    "total_articles": 44,
+    "total_articles": 46,
     "top_articles": [
       {
-        "title": "Push to censure Japan minister threatens to stymie Takaichi's agenda",
-        "url": "https://asia.nikkei.com/politics/push-to-censure-japan-minister-threatens-to-stymie-takaichi-s-agenda",
+        "title": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
+        "url": "https://asia.nikkei.com/business/business-deals/singapore-telco-merger-highlights-ai-infrastructure-push-amid-uncertainty",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Jensen Huang's return to Nvidia tests America's AI strategy",
-        "url": "https://asia.nikkei.com/opinion/jensen-huang-s-return-to-nvidia-tests-america-s-ai-strategy",
+        "title": "Japan seeks supply chain mandate for chips, other critical goods",
+        "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-seeks-supply-chain-mandate-for-chips-other-critical-goods",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "ICC judge says sanctions 'overcompliance' aids US intimidation against court",
-        "url": "https://asia.nikkei.com/editor-s-picks/interview/icc-judge-says-sanctions-overcompliance-aids-us-intimidation-against-court",
+        "title": "Analysis: US grants Mao Zedong's 'chairman' title to Xi Jinping",
+        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-grants-mao-zedong-s-chairman-title-to-xi-jinping",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "Corporate Japan logs record first-half profit on AI demand, soft yen",
-        "url": "https://asia.nikkei.com/business/companies/corporate-japan-logs-record-first-half-profit-on-ai-demand-soft-yen",
+        "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       },
       {
-        "title": "China ramps up campaign to electrify the world's trucking fleet",
-        "url": "https://asia.nikkei.com/business/business-asia/china-ramps-up-campaign-to-electrify-the-world-s-trucking-fleet",
+        "title": "China widens graft crackdown, putting ex-officials, crypto in crosshairs",
+        "url": "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 44 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
@@ -202,15 +198,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 18,
-    "region-americas": 14,
-    "region-vietnam": 12,
-    "region-global": 33,
-    "region-europe": 3
+    "region-sea": 20,
+    "region-americas": 16,
+    "region-vietnam": 11,
+    "region-global": 31,
+    "region-europe": 2
   }
 }
