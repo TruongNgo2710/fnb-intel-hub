@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:01:42.103036+00:00",
+  "updated": "2026-11-26T13:39:26.651275+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
   "articles_24h": 57,
@@ -7,15 +7,15 @@
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
-      "count": 42,
-      "count_24h": 28,
+      "count": 45,
+      "count_24h": 29,
       "trend": "hot"
     },
     {
-      "tag": "topic-funding",
-      "label": "#GọiVốn",
-      "count": 10,
-      "count_24h": 6,
+      "tag": "topic-price",
+      "label": "#GiáNguyênLiệu",
+      "count": 11,
+      "count_24h": 9,
       "trend": "hot"
     },
     {
@@ -26,10 +26,10 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-price",
-      "label": "#GiáNguyênLiệu",
+      "tag": "topic-funding",
+      "label": "#GọiVốn",
       "count": 8,
-      "count_24h": 6,
+      "count_24h": 5,
       "trend": "hot"
     },
     {
@@ -47,15 +47,15 @@
       "trend": "hot"
     },
     {
-      "tag": "topic-delivery",
-      "label": "#FoodDelivery",
-      "count": 1,
-      "count_24h": 1,
+      "tag": "topic-macro",
+      "label": "#KinhTếVĩMô",
+      "count": 2,
+      "count_24h": 2,
       "trend": "up"
     },
     {
-      "tag": "topic-macro",
-      "label": "#KinhTếVĩMô",
+      "tag": "topic-delivery",
+      "label": "#FoodDelivery",
       "count": 1,
       "count_24h": 1,
       "trend": "up"
@@ -89,15 +89,15 @@
   ],
   "sentiment": {
     "positive": 12,
-    "negative": 10,
-    "neutral": 58,
-    "score": 2,
+    "negative": 12,
+    "neutral": 56,
+    "score": 0,
     "label": "Trung tính"
   },
   "hot_keywords": [
     {
       "word": "ai",
-      "count": 42
+      "count": 45
     },
     {
       "word": "gọi vốn",
@@ -106,9 +106,9 @@
   ],
   "coffee_trends": {
     "total_articles": 9,
-    "price_direction": "up",
-    "price_up_signals": 3,
-    "price_down_signals": 1,
+    "price_direction": "stable",
+    "price_up_signals": 2,
+    "price_down_signals": 2,
     "top_articles": [
       {
         "title": "Ồn ào thương hiệu - Vì sao Thùy Minh bình thản từ bỏ Have A Sip, còn chủ Leninn Coffee thì không?",
@@ -123,42 +123,30 @@
         "time": "0 phút trước"
       },
       {
+        "title": "Cà phê rớt giá còn 15.000 đồng một kg",
+        "url": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
+        "source": "VnExpress Kinh doanh",
+        "time": "9 giờ trước"
+      },
+      {
+        "title": "How science is changing our understanding of coffee",
+        "url": "https://perfectdailygrind.com/2026/11/science-changing-understanding-of-coffee/",
+        "source": "Perfect Daily Grind",
+        "time": "12 giờ trước"
+      },
+      {
         "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
         "url": "https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/",
         "source": "Daily Coffee News",
-        "time": "8 giờ trước"
-      },
-      {
-        "title": "From Green Squeeze to Green Ease: How Strategic Policy Could Benefit Smallholder Producers",
-        "url": "https://www.baristamagazine.com/from-green-squeeze-to-green-ease-how-new-policy-could-benefit-smallholder-producers/?utm_source=rss&utm_medium=rss&utm_campaign=from-green-squeeze-to-green-ease-how-new-policy-could-benefit-smallholder-producers",
-        "source": "Barista Magazine",
-        "time": "9 giờ trước"
-      },
-      {
-        "title": "Seattle’s Barometer Coffee Sets Sail with Pressure-Free Local Delivery",
-        "url": "https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/",
-        "source": "Daily Coffee News",
-        "time": "9 giờ trước"
+        "time": "21 giờ trước"
       }
     ],
     "consumer_demand": "high",
-    "insight": "⚠️ Giá nguyên liệu cà phê đang có xu hướng TĂNG (3 tín hiệu). Cân nhắc lock giá sớm, điều chỉnh menu giá bán."
+    "insight": "📊 Giá cà phê đang ổn định (tăng 2 · giảm 2 tín hiệu). Duy trì chiến lược nhập hàng hiện tại."
   },
   "ai_trends": {
-    "total_articles": 46,
+    "total_articles": 49,
     "top_articles": [
-      {
-        "title": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
-        "url": "https://asia.nikkei.com/business/business-deals/singapore-telco-merger-highlights-ai-infrastructure-push-amid-uncertainty",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan seeks supply chain mandate for chips, other critical goods",
-        "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-seeks-supply-chain-mandate-for-chips-other-critical-goods",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
       {
         "title": "Analysis: US grants Mao Zedong's 'chairman' title to Xi Jinping",
         "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-grants-mao-zedong-s-chairman-title-to-xi-jinping",
@@ -176,15 +164,27 @@
         "url": "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
+      },
+      {
+        "title": "Japan's Preferred Networks sows seeds of physical AI with robots, software and chips",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia turmoil casts pall over high-flying global AI chip industry",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
       }
     ],
-    "insight": "🤖 46 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
+    "insight": "🤖 49 bài về AI & công nghệ. Các chuỗi F&B lớn đang tích cực ứng dụng AI vào quản lý tồn kho và dự báo nhu cầu."
   },
   "price_signals": {
     "robusta": {
-      "direction": "up",
-      "count": 1,
-      "signal": "⬆️ Tăng (1 tín hiệu)"
+      "direction": "stable",
+      "count": 2,
+      "signal": "➡️ Ổn định"
     },
     "wheat": {
       "direction": "unknown",
@@ -192,21 +192,21 @@
       "signal": "Chưa đủ dữ liệu"
     },
     "sugar": {
-      "direction": "stable",
-      "count": 1,
-      "signal": "➡️ Ổn định"
+      "direction": "unknown",
+      "count": 0,
+      "signal": "Chưa đủ dữ liệu"
     },
     "dairy": {
       "direction": "stable",
-      "count": 1,
+      "count": 2,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-sea": 20,
     "region-americas": 16,
-    "region-vietnam": 11,
-    "region-global": 31,
+    "region-sea": 19,
+    "region-vietnam": 13,
+    "region-global": 30,
     "region-europe": 2
   }
 }
