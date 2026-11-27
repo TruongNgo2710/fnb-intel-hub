@@ -1,70 +1,76 @@
 {
-  "updated": "2026-11-26T13:39:26.651275+00:00",
+  "updated": "2026-11-27T00:23:34.291853+00:00",
   "period": "7 ngày gần nhất",
   "total_articles": 80,
-  "articles_24h": 57,
+  "articles_24h": 38,
   "trending_topics": [
     {
       "tag": "topic-ai",
       "label": "#AI&Claude",
       "count": 45,
-      "count_24h": 29,
+      "count_24h": 15,
       "trend": "hot"
     },
     {
       "tag": "topic-price",
       "label": "#GiáNguyênLiệu",
-      "count": 11,
-      "count_24h": 9,
+      "count": 12,
+      "count_24h": 10,
       "trend": "hot"
     },
     {
       "tag": "topic-coffee",
       "label": "#ChuỗiCàPhê",
       "count": 9,
-      "count_24h": 7,
+      "count_24h": 4,
       "trend": "hot"
     },
     {
       "tag": "topic-funding",
       "label": "#GọiVốn",
-      "count": 8,
-      "count_24h": 5,
-      "trend": "hot"
-    },
-    {
-      "tag": "topic-qsr",
-      "label": "#QSR",
-      "count": 5,
-      "count_24h": 3,
+      "count": 9,
+      "count_24h": 6,
       "trend": "hot"
     },
     {
       "tag": "topic-supply",
       "label": "#ChuỗiCungỨng",
-      "count": 4,
+      "count": 6,
       "count_24h": 4,
       "trend": "hot"
+    },
+    {
+      "tag": "topic-qsr",
+      "label": "#QSR",
+      "count": 4,
+      "count_24h": 0,
+      "trend": "stable"
     },
     {
       "tag": "topic-macro",
       "label": "#KinhTếVĩMô",
       "count": 2,
-      "count_24h": 2,
+      "count_24h": 1,
       "trend": "up"
     },
     {
       "tag": "topic-delivery",
       "label": "#FoodDelivery",
       "count": 1,
-      "count_24h": 1,
-      "trend": "up"
+      "count_24h": 0,
+      "trend": "stable"
     }
   ],
   "trending_brands": [
     {
       "tag": "brand-claude",
       "name": "Claude/Anthropic",
+      "count": 4,
+      "trend": "hot"
+    },
+    {
+      "tag": "brand-ucc",
+      "name": "brand-ucc",
       "count": 2,
       "trend": "up"
     },
@@ -79,19 +85,13 @@
       "name": "ChatGPT/OpenAI",
       "count": 1,
       "trend": "up"
-    },
-    {
-      "tag": "brand-ucc",
-      "name": "brand-ucc",
-      "count": 1,
-      "trend": "up"
     }
   ],
   "sentiment": {
-    "positive": 12,
+    "positive": 14,
     "negative": 12,
-    "neutral": 56,
-    "score": 0,
+    "neutral": 54,
+    "score": 2,
     "label": "Trung tính"
   },
   "hot_keywords": [
@@ -101,6 +101,10 @@
     },
     {
       "word": "gọi vốn",
+      "count": 2
+    },
+    {
+      "word": "ucc",
       "count": 2
     }
   ],
@@ -126,19 +130,19 @@
         "title": "Cà phê rớt giá còn 15.000 đồng một kg",
         "url": "https://vnexpress.net/ca-phe-rot-gia-con-15-000-dong-mot-kg-5148632.html",
         "source": "VnExpress Kinh doanh",
-        "time": "9 giờ trước"
+        "time": "20 giờ trước"
       },
       {
         "title": "How science is changing our understanding of coffee",
         "url": "https://perfectdailygrind.com/2026/11/science-changing-understanding-of-coffee/",
         "source": "Perfect Daily Grind",
-        "time": "12 giờ trước"
+        "time": "23 giờ trước"
       },
       {
         "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
         "url": "https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/",
         "source": "Daily Coffee News",
-        "time": "21 giờ trước"
+        "time": "1 ngày trước"
       }
     ],
     "consumer_demand": "high",
@@ -148,32 +152,32 @@
     "total_articles": 49,
     "top_articles": [
       {
-        "title": "Analysis: US grants Mao Zedong's 'chairman' title to Xi Jinping",
-        "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-us-grants-mao-zedong-s-chairman-title-to-xi-jinping",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "How a Bain-led deal made SK Hynix Kioxia's top shareholder",
-        "url": "https://asia.nikkei.com/business/tech/semiconductors/how-a-bain-led-deal-made-sk-hynix-kioxia-s-top-shareholder",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "China widens graft crackdown, putting ex-officials, crypto in crosshairs",
-        "url": "https://asia.nikkei.com/politics/china-widens-graft-crackdown-putting-ex-officials-crypto-in-crosshairs",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
-        "title": "Japan's Preferred Networks sows seeds of physical AI with robots, software and chips",
-        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-preferred-networks-sows-seeds-of-physical-ai-with-robots-software-and-chips2",
-        "source": "Nikkei Asia",
-        "time": "0 phút trước"
-      },
-      {
         "title": "Nvidia turmoil casts pall over high-flying global AI chip industry",
         "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-turmoil-casts-pall-over-high-flying-global-ai-chip-industry",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Fall of Shanghai party chief clouds China's leadership reset in 2027",
+        "url": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Bank of Korea hikes rate to 3.25% against backdrop of strong economy",
+        "url": "https://asia.nikkei.com/economy/central-banks/bank-of-korea-hikes-rate-to-3.25-against-backdrop-of-strong-economy",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "AI firms with poor safeguards face inspections under Japan draft law",
+        "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-firms-with-poor-safeguards-face-inspections-under-japan-draft-law",
+        "source": "Nikkei Asia",
+        "time": "0 phút trước"
+      },
+      {
+        "title": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
+        "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-kioxia-team-on-ai-server-memory-as-alternative-to-south-korean-chips",
         "source": "Nikkei Asia",
         "time": "0 phút trước"
       }
@@ -198,15 +202,15 @@
     },
     "dairy": {
       "direction": "stable",
-      "count": 2,
+      "count": 1,
       "signal": "➡️ Ổn định"
     }
   },
   "regional_breakdown": {
-    "region-americas": 16,
-    "region-sea": 19,
+    "region-sea": 22,
+    "region-americas": 14,
     "region-vietnam": 13,
-    "region-global": 30,
+    "region-global": 29,
     "region-europe": 2
   }
 }
